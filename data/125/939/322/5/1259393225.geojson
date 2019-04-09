@@ -1,0 +1,74 @@
+{
+  "id": 1259393225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.57047,31.84346,11.57047,31.84346",
+    "geom:latitude":31.84346,
+    "geom:longitude":11.57047,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Murqus",
+    "gn:country_code":"LY",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2215211,
+    "gn:latitude":31.84346,
+    "gn:longitude":11.57047,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Murqu\u015f",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0642\u0635"
+    ],
+    "name:und_x_variant":[
+        "M\u00e9rghes",
+        "Marqu\u015f",
+        "Marqas",
+        "Murqu\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2215211
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"cac4859b2fa450516b7f0a0f2357cc39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1259393225,
+            "region_id":85673563
+        }
+    ],
+    "wof:id":1259393225,
+    "wof:lastmodified":1537663280,
+    "wof:name":"Murqus",
+    "wof:parent_id":85673563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.57047,
+    31.84346,
+    11.57047,
+    31.84346
+],
+  "geometry": {"coordinates":[11.57047,31.84346],"type":"Point"}
+}

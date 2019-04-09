@@ -1,0 +1,73 @@
+{
+  "id": 1327040473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.67651,32.62978,21.67651,32.62978",
+    "geom:latitude":32.62978,
+    "geom:longitude":21.67651,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Qaryat `Umar al Mukhtar",
+    "gn:country_code":"LY",
+    "gn:dem":781,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":84130,
+    "gn:latitude":32.62978,
+    "gn:longitude":21.67651,
+    "gn:modification_date":"2018-04-05",
+    "gn:name":"Qaryat \u2018Umar al Mukht\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0639\u0645\u0631 \u0627\u0644\u0645\u062e\u062a\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Mameli",
+        "Qaryat \u2018Umar al Mukht\u0101r",
+        "\u2018Umar al Mukht\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":84130
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"1f7ae51832629b71ab8d06e581b60450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1327040473,
+            "region_id":85673627
+        }
+    ],
+    "wof:id":1327040473,
+    "wof:lastmodified":1537663248,
+    "wof:name":"Qaryat `Umar al Mukhtar",
+    "wof:parent_id":85673627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.67651,
+    32.62978,
+    21.67651,
+    32.62978
+],
+  "geometry": {"coordinates":[21.67651,32.62978],"type":"Point"}
+}

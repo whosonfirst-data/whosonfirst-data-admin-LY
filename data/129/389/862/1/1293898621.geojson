@@ -1,0 +1,73 @@
+{
+  "id": 1293898621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.87,31.75722,11.87,31.75722",
+    "geom:latitude":31.75722,
+    "geom:longitude":11.87,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Ar Ruhaybat",
+    "gn:country_code":"LY",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219465,
+    "gn:latitude":31.75722,
+    "gn:longitude":11.87,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Ar Ru\u1e29ayb\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Er-Reihibat",
+        "Ar Ra\u1e29\u012bb\u0101t",
+        "Er Rehibat",
+        "Ar Ru\u1e29ayb\u012by\u0101t",
+        "Ar Ru\u1e29ab\u0101t",
+        "Ar Ru\u1e29ayb\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219465
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"29e14c13aa942c4dc2e3ab35718d082d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1293898621,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1293898621,
+    "wof:lastmodified":1537663293,
+    "wof:name":"Ar Ruhaybat",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.87,
+    31.75722,
+    11.87,
+    31.75722
+],
+  "geometry": {"coordinates":[11.87,31.75722],"type":"Point"}
+}

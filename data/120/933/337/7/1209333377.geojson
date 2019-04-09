@@ -1,0 +1,61 @@
+{
+  "id": 1209333377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0419,31.7705,25.0419,31.7705",
+    "geom:latitude":31.7705,
+    "geom:longitude":25.0419,
+    "gn:admin1_code":"79",
+    "gn:asciiname":"Nuqtat al Khattabiyah",
+    "gn:country_code":"LY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":84381,
+    "gn:latitude":31.7705,
+    "gn:longitude":25.0419,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Nuq\u0163at al Kha\u0163\u0163\u0101b\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":84381
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"b8eb19f0ce6210e1cc444f346a3d6bba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632627,
+            "locality_id":1209333377
+        }
+    ],
+    "wof:id":1209333377,
+    "wof:lastmodified":1536290301,
+    "wof:name":"Nuqtat al Khattabiyah",
+    "wof:parent_id":85632627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0419,
+    31.7705,
+    25.0419,
+    31.7705
+],
+  "geometry": {"coordinates":[25.0419,31.7705],"type":"Point"}
+}

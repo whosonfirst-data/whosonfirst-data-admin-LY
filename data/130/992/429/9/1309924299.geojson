@@ -1,0 +1,70 @@
+{
+  "id": 1309924299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.62914,27.54801,13.62914,27.54801",
+    "geom:latitude":27.54801,
+    "geom:longitude":13.62914,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Barqin",
+    "gn:country_code":"LY",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2218761,
+    "gn:latitude":27.54801,
+    "gn:longitude":13.62914,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Barqin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Berghin",
+        "Barqin",
+        "\u0628\u0631\u0642\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2218761
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"0e4b8d4610487e4b5e6fc73bc188e4f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1309924299,
+            "region_id":85673579
+        }
+    ],
+    "wof:id":1309924299,
+    "wof:lastmodified":1537663285,
+    "wof:name":"Barqin",
+    "wof:parent_id":85673579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.62914,
+    27.54801,
+    13.62914,
+    27.54801
+],
+  "geometry": {"coordinates":[13.62914,27.54801],"type":"Point"}
+}

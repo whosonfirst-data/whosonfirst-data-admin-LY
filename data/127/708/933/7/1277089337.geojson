@@ -1,0 +1,76 @@
+{
+  "id": 1277089337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.44945,30.19242,10.44945,30.19242",
+    "geom:latitude":30.19242,
+    "geom:longitude":10.44945,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Tuquttah",
+    "gn:country_code":"LY",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2218865,
+    "gn:latitude":30.19242,
+    "gn:longitude":10.44945,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Tuqu\u0163\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0642\u0637\u0629"
+    ],
+    "name:und_x_variant":[
+        "Tokta",
+        "Takta",
+        "Etkota",
+        "Togtah",
+        "Baldat Tuq\u0163ah",
+        "Tuqu\u0163\u0163ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2218865
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"738292a9d0aa52162fc6fb8e15ab5f02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1277089337,
+            "region_id":85673563
+        }
+    ],
+    "wof:id":1277089337,
+    "wof:lastmodified":1537663286,
+    "wof:name":"Tuquttah",
+    "wof:parent_id":85673563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.44945,
+    30.19242,
+    10.44945,
+    30.19242
+],
+  "geometry": {"coordinates":[10.44945,30.19242],"type":"Point"}
+}

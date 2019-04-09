@@ -1,0 +1,72 @@
+{
+  "id": 1209534403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.27866,32.86666,22.27866,32.86666",
+    "geom:latitude":32.86666,
+    "geom:longitude":22.27866,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Al Athrun",
+    "gn:country_code":"LY",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":89069,
+    "gn:latitude":32.86666,
+    "gn:longitude":22.27866,
+    "gn:modification_date":"2018-04-05",
+    "gn:name":"Al Athr\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u062b\u0631\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Latrun",
+        "Al-Atrun",
+        "El Atr\u00f9n",
+        "Latroun",
+        "Lathrun",
+        "Al Athr\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":89069
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"a124b9c5e816c317e548fb9644a69319",
+    "wof:hierarchy":[
+        {
+            "country_id":85632627,
+            "locality_id":1209534403
+        }
+    ],
+    "wof:id":1209534403,
+    "wof:lastmodified":1537663256,
+    "wof:name":"Al Athrun",
+    "wof:parent_id":85632627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.27866,
+    32.86666,
+    22.27866,
+    32.86666
+],
+  "geometry": {"coordinates":[22.27866,32.86666],"type":"Point"}
+}

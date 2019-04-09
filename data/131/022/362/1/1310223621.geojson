@@ -1,0 +1,71 @@
+{
+  "id": 1310223621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.47942,32.33462,13.47942,32.33462",
+    "geom:latitude":32.33462,
+    "geom:longitude":13.47942,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Sidi as Sayd",
+    "gn:country_code":"LY",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2211464,
+    "gn:latitude":32.33462,
+    "gn:longitude":13.47942,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"S\u012bd\u012b a\u015f \u015eayd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Borgo Tazzoli",
+        "S\u012bd\u012b a\u015f \u015e\u012bd",
+        "Tazzoli",
+        "S\u012bd\u012b a\u015f \u015eayd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2211464
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"4159f72f12f3e42852b71bebdce74862",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1310223621,
+            "region_id":85673575
+        }
+    ],
+    "wof:id":1310223621,
+    "wof:lastmodified":1537663264,
+    "wof:name":"Sidi as Sayd",
+    "wof:parent_id":85673575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.47942,
+    32.33462,
+    13.47942,
+    32.33462
+],
+  "geometry": {"coordinates":[13.47942,32.33462],"type":"Point"}
+}

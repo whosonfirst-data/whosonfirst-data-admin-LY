@@ -1,0 +1,76 @@
+{
+  "id": 1276892687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.00904,32.53332,23.00904,32.53332",
+    "geom:latitude":32.53332,
+    "geom:longitude":23.00904,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Umm ar Rizam",
+    "gn:country_code":"LY",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":81071,
+    "gn:latitude":32.53332,
+    "gn:longitude":23.00904,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Umm ar Rizam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0644\u0631\u0632\u0645"
+    ],
+    "name:und_x_variant":[
+        "Zauia Umm er-Rzem",
+        "Z\u00e0uiet Umm er-Rzem",
+        "Z\u0101wiyat Umm ar Rizam",
+        "Umm ar Razam",
+        "Umm ar Rizam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":81071,
+        "wk:page":"Umm_ar_Rizam"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"c6a0280699f1fb744ce49a29ce1a65fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1276892687,
+            "region_id":85673663
+        }
+    ],
+    "wof:id":1276892687,
+    "wof:lastmodified":1537663246,
+    "wof:name":"Umm ar Rizam",
+    "wof:parent_id":85673663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.00904,
+    32.53332,
+    23.00904,
+    32.53332
+],
+  "geometry": {"coordinates":[23.00904,32.53332],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276883965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.05229,30.14948,20.05229,30.14948",
+    "geom:latitude":30.14948,
+    "geom:longitude":20.05229,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Qabr Umm al Hishah",
+    "gn:country_code":"LY",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":81165,
+    "gn:latitude":30.14948,
+    "gn:longitude":20.05229,
+    "gn:modification_date":"2018-04-05",
+    "gn:name":"Qabr Umm al H\u012bshah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0628\u0631 \u0623\u0645 \u0627\u0644\u0647\u064a\u0634\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qabr Umm al H\u012bshah",
+        "Qabr Umm \u2018\u0100\u2019ishah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":81165,
+        "wk:page":"Qabr_Umm_al_Hishah"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"615ec3f19aea258d106bf046a33f0eb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1276883965,
+            "region_id":85673631
+        }
+    ],
+    "wof:id":1276883965,
+    "wof:lastmodified":1537663246,
+    "wof:name":"Qabr Umm al Hishah",
+    "wof:parent_id":85673631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.05229,
+    30.14948,
+    20.05229,
+    30.14948
+],
+  "geometry": {"coordinates":[20.05229,30.14948],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1276892565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.62807,32.75249,21.62807,32.75249",
+    "geom:latitude":32.75249,
+    "geom:longitude":21.62807,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Massah",
+    "gn:country_code":"LY",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":85026,
+    "gn:latitude":32.75249,
+    "gn:longitude":21.62807,
+    "gn:modification_date":"2018-04-05",
+    "gn:name":"Massah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0633\u0629"
+    ],
+    "name:und_x_variant":[
+        "Razza",
+        "Luigi Razza",
+        "M\u00e9ssa",
+        "Massah",
+        "M\u0101ssah",
+        "\u0645\u0627\u0633\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":85026
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"b9d0dd2c3abb56f52b1bbbbd58758be7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1276892565,
+            "region_id":85673627
+        }
+    ],
+    "wof:id":1276892565,
+    "wof:lastmodified":1537663250,
+    "wof:name":"Massah",
+    "wof:parent_id":85673627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.62807,
+    32.75249,
+    21.62807,
+    32.75249
+],
+  "geometry": {"coordinates":[21.62807,32.75249],"type":"Point"}
+}

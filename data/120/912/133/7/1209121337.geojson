@@ -1,0 +1,66 @@
+{
+  "id": 1209121337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.39083,32.88444,13.39083,32.88444",
+    "geom:latitude":32.88444,
+    "geom:longitude":13.39083,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Al Hamidiyah",
+    "gn:country_code":"LY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2220043,
+    "gn:latitude":32.88444,
+    "gn:longitude":13.39083,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Al \u1e28am\u012bd\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La\u1e29m\u012bd\u012byah",
+        "Ed-Dachla",
+        "Al \u1e28am\u012bd\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2220043
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"4d7e0d1ff01fcfac4002284a89e89d7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632627,
+            "locality_id":1209121337
+        }
+    ],
+    "wof:id":1209121337,
+    "wof:lastmodified":1537663300,
+    "wof:name":"Al Hamidiyah",
+    "wof:parent_id":85632627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.39083,
+    32.88444,
+    13.39083,
+    32.88444
+],
+  "geometry": {"coordinates":[13.39083,32.88444],"type":"Point"}
+}

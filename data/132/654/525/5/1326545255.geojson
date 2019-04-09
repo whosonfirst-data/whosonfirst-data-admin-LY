@@ -1,0 +1,71 @@
+{
+  "id": 1326545255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.76353,32.57421,22.76353,32.57421",
+    "geom:latitude":32.57421,
+    "geom:longitude":22.76353,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Martubah",
+    "gn:country_code":"LY",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":85074,
+    "gn:latitude":32.57421,
+    "gn:longitude":22.76353,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Mart\u016bbah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mart\u00faba",
+        "Mart\u016bbah",
+        "\u0645\u0631\u062a\u0648\u0628\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":85074,
+        "wk:page":"Martuba"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"a1028cd2cfefa6c1eefe2a8ea1d82b0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1326545255,
+            "region_id":85673663
+        }
+    ],
+    "wof:id":1326545255,
+    "wof:lastmodified":1537663250,
+    "wof:name":"Martubah",
+    "wof:parent_id":85673663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.76353,
+    32.57421,
+    22.76353,
+    32.57421
+],
+  "geometry": {"coordinates":[22.76353,32.57421],"type":"Point"}
+}

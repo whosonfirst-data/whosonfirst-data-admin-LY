@@ -1,0 +1,76 @@
+{
+  "id": 1293893931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.33055,31.84724,11.33055,31.84724",
+    "geom:latitude":31.84724,
+    "geom:longitude":11.33055,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Kabaw",
+    "gn:country_code":"LY",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2216155,
+    "gn:latitude":31.84724,
+    "gn:longitude":11.33055,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"K\u0101b\u0101w",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "K\u0101b\u0101w"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0627\u0628\u0627\u0648"
+    ],
+    "name:und_x_variant":[
+        "Cabao",
+        "K\u0101b\u0101w"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2216155,
+        "wk:page":"Kabaw"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"dbf32fb7ddaac1cf4c39c164b5fe8c6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1293893931,
+            "region_id":85673563
+        }
+    ],
+    "wof:id":1293893931,
+    "wof:lastmodified":1537663281,
+    "wof:name":"Kabaw",
+    "wof:parent_id":85673563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.33055,
+    31.84724000000001,
+    11.33055,
+    31.84724000000001
+],
+  "geometry": {"coordinates":[11.33055,31.84724000000001],"type":"Point"}
+}

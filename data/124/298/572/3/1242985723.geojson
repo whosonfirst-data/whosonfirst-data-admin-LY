@@ -1,0 +1,77 @@
+{
+  "id": 1242985723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.88153,31.8967,11.88153,31.8967",
+    "geom:latitude":31.8967,
+    "geom:longitude":11.88153,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Qaryat Jital",
+    "gn:country_code":"LY",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2216291,
+    "gn:latitude":31.8967,
+    "gn:longitude":11.88153,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Qaryat J\u012bt\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u062c\u064a\u0637\u0627\u0644"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0631\u064a\u0629 \u062c\u064a\u062a\u0627\u0644"
+    ],
+    "name:und_x_variant":[
+        "Geit\u00e1l",
+        "Qaryat J\u012b\u0163\u0101l",
+        "Jay\u0163\u0101l",
+        "Qaryat J\u012bt\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2216291
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"92c1efac6135ec93760352bfa80effcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1242985723,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1242985723,
+    "wof:lastmodified":1537663281,
+    "wof:name":"Qaryat Jital",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.88153,
+    31.8967,
+    11.88153,
+    31.8967
+],
+  "geometry": {"coordinates":[11.88153,31.8967],"type":"Point"}
+}

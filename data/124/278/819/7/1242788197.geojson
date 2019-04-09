@@ -1,0 +1,76 @@
+{
+  "id": 1242788197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.88903,32.47146,13.88903,32.47146",
+    "geom:latitude":32.47146,
+    "geom:longitude":13.88903,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Qabilat al Mu`ammariyin",
+    "gn:country_code":"LY",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2214259,
+    "gn:latitude":32.47146,
+    "gn:longitude":13.88903,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Qab\u012blat al Mu\u2018ammar\u012by\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0628\u064a\u0644\u0629 \u0627\u0644\u0645\u0639\u0645\u0631\u064a\u064a\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0628\u064a\u0644\u0629 \u0627\u0644\u0645\u0639\u0645\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Qab\u012blat al Mu\u2018ammiriyy\u012bn",
+        "Qab\u012blat al Mu\u2018ammar\u012by\u012bn",
+        "Qab\u012blat al Mu\u2018ammir\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2214259
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"ce0fc923599138f92b178cf2906752e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1242788197,
+            "region_id":85673575
+        }
+    ],
+    "wof:id":1242788197,
+    "wof:lastmodified":1537663278,
+    "wof:name":"Qabilat al Mu`ammariyin",
+    "wof:parent_id":85673575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.88903,
+    32.47146,
+    13.88903,
+    32.47146
+],
+  "geometry": {"coordinates":[13.88903,32.47146],"type":"Point"}
+}

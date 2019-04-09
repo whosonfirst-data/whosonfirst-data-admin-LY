@@ -1,0 +1,69 @@
+{
+  "id": 1326845359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.98517,31.91319,19.98517,31.91319",
+    "geom:latitude":31.91319,
+    "geom:longitude":19.98517,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Hawsh Warid",
+    "gn:country_code":"LY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2216780,
+    "gn:latitude":31.91319,
+    "gn:longitude":19.98517,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"\u1e28awsh W\u0101rid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hosc U\u00e1red",
+        "\u1e28awsh W\u0101rid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2216780
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"6881485f7bead9613c6c7704eb1c0f35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1326845359,
+            "region_id":85673635
+        }
+    ],
+    "wof:id":1326845359,
+    "wof:lastmodified":1537663282,
+    "wof:name":"Hawsh Warid",
+    "wof:parent_id":85673635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.98517,
+    31.91319,
+    19.98517,
+    31.91319
+],
+  "geometry": {"coordinates":[19.98517,31.91319],"type":"Point"}
+}

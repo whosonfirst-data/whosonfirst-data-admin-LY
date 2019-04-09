@@ -1,0 +1,68 @@
+{
+  "id": 1209233383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.02909,32.27363,13.02909,32.27363",
+    "geom:latitude":32.27363,
+    "geom:longitude":13.02909,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Bu Ghaylan",
+    "gn:country_code":"LY",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2218279,
+    "gn:latitude":32.27363,
+    "gn:longitude":13.02909,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"B\u016b Ghayl\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Markaz Bu Ghaylan",
+        "Bu Gheilan",
+        "B\u016bl\u012bs Ab\u016b Ghayl\u0101h",
+        "B\u016b Ghayl\u0101n",
+        "\u0628\u0648 \u063a\u064a\u0644\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2218279
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"ba5100cf308bd44dac6a2ab7a9060ca1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632627,
+            "locality_id":1209233383
+        }
+    ],
+    "wof:id":1209233383,
+    "wof:lastmodified":1537663284,
+    "wof:name":"Bu Ghaylan",
+    "wof:parent_id":85632627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.02909,
+    32.27363,
+    13.02909,
+    32.27363
+],
+  "geometry": {"coordinates":[13.02909,32.27363],"type":"Point"}
+}

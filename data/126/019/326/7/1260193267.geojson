@@ -1,0 +1,71 @@
+{
+  "id": 1260193267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.26972,32.81333,13.26972,32.81333",
+    "geom:latitude":32.81333,
+    "geom:longitude":13.26972,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"`Ayn Zarah",
+    "gn:country_code":"LY",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219021,
+    "gn:latitude":32.81333,
+    "gn:longitude":13.26972,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"\u2018Ayn Z\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Miani",
+        "Ain Zara",
+        "\u2018Ayn Z\u0101rah",
+        "\u0639\u064a\u0646 \u0632\u0627\u0631\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219021
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"f68fa84e11b5135f6dbe2a3adcd3950d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1260193267,
+            "region_id":85673621
+        }
+    ],
+    "wof:id":1260193267,
+    "wof:lastmodified":1537663288,
+    "wof:name":"`Ayn Zarah",
+    "wof:parent_id":85673621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.26972,
+    32.81333,
+    13.26972,
+    32.81333
+],
+  "geometry": {"coordinates":[13.26972,32.81333],"type":"Point"}
+}

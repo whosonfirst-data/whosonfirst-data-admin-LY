@@ -1,0 +1,72 @@
+{
+  "id": 1343973109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.50851,32.01588,12.50851,32.01588",
+    "geom:latitude":32.01588,
+    "geom:longitude":12.50851,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Az Zurqan",
+    "gn:country_code":"LY",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2218957,
+    "gn:latitude":32.01588,
+    "gn:longitude":12.50851,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Az Zurq\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qaryat az Zarg\u0101n",
+        "Ez-Zorg\u00e0n",
+        "Zurq\u0101n",
+        "Zurg\u00e1n",
+        "Az Zurq\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2218957
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"717ff083b69eaf61b15a128063317bdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1343973109,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1343973109,
+    "wof:lastmodified":1537663287,
+    "wof:name":"Az Zurqan",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.50851,
+    32.01588,
+    12.50851,
+    32.01588
+],
+  "geometry": {"coordinates":[12.50851,32.01588],"type":"Point"}
+}

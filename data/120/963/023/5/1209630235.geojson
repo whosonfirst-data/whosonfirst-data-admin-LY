@@ -1,0 +1,69 @@
+{
+  "id": 1209630235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.45019,30.1819,10.45019,30.1819",
+    "geom:latitude":30.1819,
+    "geom:longitude":10.45019,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Qasbat Diyab",
+    "gn:country_code":"LY",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2213792,
+    "gn:latitude":30.1819,
+    "gn:longitude":10.45019,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Qa\u015fbat Diy\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0635\u0628\u0629 \u062f\u064a\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "Qa\u015fbat Diy\u0101b",
+        "Qa\u015fbat Dhiy\u0101b",
+        "Qa\u015fabat Diy\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2213792
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"627fefbce6903ebe9ec3257bd7af9786",
+    "wof:hierarchy":[
+        {
+            "country_id":85632627,
+            "locality_id":1209630235
+        }
+    ],
+    "wof:id":1209630235,
+    "wof:lastmodified":1537663268,
+    "wof:name":"Qasbat Diyab",
+    "wof:parent_id":85632627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.45019,
+    30.1819,
+    10.45019,
+    30.1819
+],
+  "geometry": {"coordinates":[10.45019,30.1819],"type":"Point"}
+}

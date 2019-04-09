@@ -1,0 +1,73 @@
+{
+  "id": 1327246649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.02694,32.62794,14.02694,32.62794",
+    "geom:latitude":32.62794,
+    "geom:longitude":14.02694,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Qabilat Bani Salim",
+    "gn:country_code":"LY",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2214222,
+    "gn:latitude":32.62794,
+    "gn:longitude":14.02694,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Qab\u012blat Ban\u012b Sal\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0628\u064a\u0644\u0629 \u0628\u0646\u064a \u0633\u0644\u064a\u0645"
+    ],
+    "name:und_x_variant":[
+        "B\u00e9ni I\u00e9chlef",
+        "Ban\u012b Yakhlaf",
+        "Qab\u012blat Ban\u012b Sal\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2214222
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"d3cf618af0e92ed25ad26a3017539f15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1327246649,
+            "region_id":85673575
+        }
+    ],
+    "wof:id":1327246649,
+    "wof:lastmodified":1537663275,
+    "wof:name":"Qabilat Bani Salim",
+    "wof:parent_id":85673575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.02694,
+    32.62794,
+    14.02694,
+    32.62794
+],
+  "geometry": {"coordinates":[14.02694,32.62794],"type":"Point"}
+}

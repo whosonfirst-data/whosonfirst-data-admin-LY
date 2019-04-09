@@ -1,0 +1,73 @@
+{
+  "id": 1310315663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.94976,32.77967,21.94976,32.77967",
+    "geom:latitude":32.77967,
+    "geom:longitude":21.94976,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"As Safsaf",
+    "gn:country_code":"LY",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":88603,
+    "gn:latitude":32.77967,
+    "gn:longitude":21.94976,
+    "gn:modification_date":"2018-04-05",
+    "gn:name":"A\u015f \u015eaf\u015f\u0101f",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0641\u0635\u0627\u0641"
+    ],
+    "name:und_x_variant":[
+        "A\u015f \u015eaf\u015faf",
+        "A\u015f \u015eaf\u015f\u0101f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":88603,
+        "wk:page":"Safsaf%2C_Libya"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"622a7405baf5dd12c20c3737e0f3ca55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1310315663,
+            "region_id":85673627
+        }
+    ],
+    "wof:id":1310315663,
+    "wof:lastmodified":1537663253,
+    "wof:name":"As Safsaf",
+    "wof:parent_id":85673627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.94976,
+    32.77967,
+    21.94976,
+    32.77967
+],
+  "geometry": {"coordinates":[21.94976,32.77967],"type":"Point"}
+}

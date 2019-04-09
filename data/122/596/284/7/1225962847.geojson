@@ -1,0 +1,65 @@
+{
+  "id": 1225962847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.25891,31.11256,12.25891,31.11256",
+    "geom:latitude":31.11256,
+    "geom:longitude":12.25891,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Irmabhat az Zintan",
+    "gn:country_code":"LY",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2216523,
+    "gn:latitude":31.11256,
+    "gn:longitude":12.25891,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Irm\u0101b\u1e29at az Zint\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2216523
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"6a112a49f3781067577f9d1489ad29b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1225962847,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1225962847,
+    "wof:lastmodified":1536843565,
+    "wof:name":"Irmabhat az Zintan",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.25891,
+    31.11256,
+    12.25891,
+    31.11256
+],
+  "geometry": {"coordinates":[12.25891,31.11256],"type":"Point"}
+}

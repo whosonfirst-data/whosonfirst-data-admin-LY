@@ -1,0 +1,65 @@
+{
+  "id": 1310021005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.56667,30.51667,18.56667,30.51667",
+    "geom:latitude":30.51667,
+    "geom:longitude":18.56667,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Ra's Lanuf",
+    "gn:country_code":"LY",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2212984,
+    "gn:latitude":30.51667,
+    "gn:longitude":18.56667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ra\u2019s L\u0101n\u016bf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ra\u2019s L\u0101n\u016bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2212984,
+        "wk:page":"Ra%27s_Lanuf"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"bcfc8917d2c0c367b0af0dba84bd5364",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310021005,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310021005,
+    "wof:lastmodified":1537663265,
+    "wof:name":"Ra's Lanuf",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.56667,
+    30.51667,
+    18.56667,
+    30.51667
+],
+  "geometry": {"coordinates":[18.56667,30.51667],"type":"Point"}
+}

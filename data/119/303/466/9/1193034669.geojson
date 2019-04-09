@@ -1,0 +1,65 @@
+{
+  "id": 1193034669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.69417,32.06944,12.69417,32.06944",
+    "geom:latitude":32.06944,
+    "geom:longitude":12.69417,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Amzir",
+    "gn:country_code":"LY",
+    "gn:dem":781,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219612,
+    "gn:latitude":32.06944,
+    "gn:longitude":12.69417,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Amz\u012br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219612
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"ec9f277bd62a558adff3d4c3306b9abe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1193034669,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1193034669,
+    "wof:lastmodified":1536382319,
+    "wof:name":"Amzir",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.69417,
+    32.06944,
+    12.69417,
+    32.06944
+],
+  "geometry": {"coordinates":[12.69417,32.06944],"type":"Point"}
+}

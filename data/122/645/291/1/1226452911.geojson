@@ -1,0 +1,65 @@
+{
+  "id": 1226452911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.43802,32.52278,14.43802,32.52278",
+    "geom:latitude":32.52278,
+    "geom:longitude":14.43802,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Ki`am",
+    "gn:country_code":"LY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2215764,
+    "gn:latitude":32.52278,
+    "gn:longitude":14.43802,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Ki\u2018\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2215764
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"1401da99ff4ee8b14c993da6b5442965",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1226452911,
+            "region_id":85673575
+        }
+    ],
+    "wof:id":1226452911,
+    "wof:lastmodified":1536633696,
+    "wof:name":"Ki`am",
+    "wof:parent_id":85673575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.43802,
+    32.52278,
+    14.43802,
+    32.52278
+],
+  "geometry": {"coordinates":[14.43802,32.52278],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1276243711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.95,32.81667,12.95,32.81667",
+    "geom:latitude":32.81667,
+    "geom:longitude":12.95,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Sayyad",
+    "gn:country_code":"LY",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2212375,
+    "gn:latitude":32.81667,
+    "gn:longitude":12.95,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"\u015eayy\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2212375
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"9a030e47bd2fc5986ddc807e55a3807d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1276243711,
+            "region_id":85673605
+        }
+    ],
+    "wof:id":1276243711,
+    "wof:lastmodified":1536898662,
+    "wof:name":"Sayyad",
+    "wof:parent_id":85673605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.95,
+    32.81667,
+    12.95,
+    32.81667
+],
+  "geometry": {"coordinates":[12.95,32.81667],"type":"Point"}
+}

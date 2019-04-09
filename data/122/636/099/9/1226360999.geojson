@@ -1,0 +1,70 @@
+{
+  "id": 1226360999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.9165,26.57415,12.9165,26.57415",
+    "geom:latitude":26.57415,
+    "geom:longitude":12.9165,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Al Hatiyah",
+    "gn:country_code":"LY",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2220015,
+    "gn:latitude":26.57415,
+    "gn:longitude":12.9165,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Al \u1e28a\u0163\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Hat\u00eda",
+        "Al \u1e28a\u0163\u012byah",
+        "\u0627\u0644\u062d\u0637\u064a\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2220015
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"856352eeb172a9d50476d40b99ca6495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1226360999,
+            "region_id":85673669
+        }
+    ],
+    "wof:id":1226360999,
+    "wof:lastmodified":1537663300,
+    "wof:name":"Al Hatiyah",
+    "wof:parent_id":85673669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.9165,
+    26.57415,
+    12.9165,
+    26.57415
+],
+  "geometry": {"coordinates":[12.9165,26.57415],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327149611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.07155,32.1836,13.07155,32.1836",
+    "geom:latitude":32.1836,
+    "geom:longitude":13.07155,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Awlad Bu Ra's",
+    "gn:country_code":"LY",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219162,
+    "gn:latitude":32.1836,
+    "gn:longitude":13.07155,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Awl\u0101d B\u016b Ra\u2019s",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ul\u00e0d Bu Ras",
+        "Awl\u0101d Abu R\u0101s",
+        "Awl\u0101d B\u016b Ra\u2019s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219162
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"882998f919c8e44ac1829a3c2d083066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1327149611,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1327149611,
+    "wof:lastmodified":1537663289,
+    "wof:name":"Awlad Bu Ra's",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.07155,
+    32.1836,
+    13.07155,
+    32.1836
+],
+  "geometry": {"coordinates":[13.07155,32.1836],"type":"Point"}
+}

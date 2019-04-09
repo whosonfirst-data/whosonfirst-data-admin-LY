@@ -1,0 +1,77 @@
+{
+  "id": 1360100073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.66532,31.942,10.66532,31.942",
+    "geom:latitude":31.942,
+    "geom:longitude":10.66532,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Wazin",
+    "gn:country_code":"LY",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2208848,
+    "gn:latitude":31.942,
+    "gn:longitude":10.66532,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"W\u0101zin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "W\u0101zin"
+    ],
+    "name:ara_x_variant":[
+        "\u0648\u0627\u0632\u0646"
+    ],
+    "name:und_x_variant":[
+        "Uazzen",
+        "Wazz\u0101n",
+        "W\u0101zin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2208848,
+        "wk:page":"Wazzin"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"220ed5e2f88c6c8f7ee306cb77a0bc32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1360100073,
+            "region_id":85673563
+        }
+    ],
+    "wof:id":1360100073,
+    "wof:lastmodified":1537663258,
+    "wof:name":"Wazin",
+    "wof:parent_id":85673563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.66532,
+    31.942,
+    10.66532,
+    31.942
+],
+  "geometry": {"coordinates":[10.66532,31.942],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1242696571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.83167,32.16139,12.83167,32.16139",
+    "geom:latitude":32.16139,
+    "geom:longitude":12.83167,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Al Manasir",
+    "gn:country_code":"LY",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219844,
+    "gn:latitude":32.16139,
+    "gn:longitude":12.83167,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Al Man\u0101\u015f\u012br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219844
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"506a8e7326ff2874e6c5f03b232f9533",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1242696571,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1242696571,
+    "wof:lastmodified":1536892083,
+    "wof:name":"Al Manasir",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.83167,
+    32.16139,
+    12.83167,
+    32.16139
+],
+  "geometry": {"coordinates":[12.83167,32.16139],"type":"Point"}
+}

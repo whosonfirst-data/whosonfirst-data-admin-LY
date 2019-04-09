@@ -1,0 +1,67 @@
+{
+  "id": 1209630299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.33052,31.39602,13.33052,31.39602",
+    "geom:latitude":31.39602,
+    "geom:longitude":13.33052,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Nasamah",
+    "gn:country_code":"LY",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2214378,
+    "gn:latitude":31.39602,
+    "gn:longitude":13.33052,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Nasamah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0633\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Nasmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2214378
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"255b1c6a86fa2dee41bb3d0b799eb44d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632627,
+            "locality_id":1209630299
+        }
+    ],
+    "wof:id":1209630299,
+    "wof:lastmodified":1537663279,
+    "wof:name":"Nasamah",
+    "wof:parent_id":85632627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.33052,
+    31.39602,
+    13.33052,
+    31.39602
+],
+  "geometry": {"coordinates":[13.33052,31.39602],"type":"Point"}
+}

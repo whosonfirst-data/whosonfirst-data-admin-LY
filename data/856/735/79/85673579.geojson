@@ -1,0 +1,315 @@
+{
+  "id": 85673579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":9.322174,
+    "geom:area_square_m":101790867791.749756,
+    "geom:bbox":"9.837123875,26.217514038,15.89407444,28.969824818",
+    "geom:latitude":27.98102,
+    "geom:longitude":12.582136,
+    "gn:id":"",
+    "iso:country":"LY",
+    "label:eng_x_preferred_longname":[
+        "Ash Shati' District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":27.928393,
+    "lbl:longitude":12.030929,
+    "meso:adm1_en":"Fezzan",
+    "meso:adm1_loc":"\u0641\u0632\u0627\u0646",
+    "meso:name_alt":"Ash Shati",
+    "meso:name_loc":"\u0648\u0627\u062f\u0649 \u0627\u0644\u0634\u0627\u0637\u0626",
+    "mps:latitude":27.621561,
+    "mps:longitude":12.008321,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":7.7,
+    "name:ara_x_preferred":[
+        "Ash Shati'"
+    ],
+    "name:ara_x_variant":[
+        "\u0634\u0639\u0628\u064a\u0629 \u0648\u0627\u062f\u064a \u0627\u0644\u0634\u0627\u0637\u0626",
+        "\u0648\u0627\u062f\u064a \u0627\u0644\u0634\u0627\u0637\u0626"
+    ],
+    "name:baq_x_preferred":[
+        "Wadi Al Shatii"
+    ],
+    "name:ben_x_preferred":[
+        "\u0993\u09af\u09bc\u09be\u09a6\u09bf \u0986\u09b2 \u09b8\u09be\u09a5\u09c0 \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "districte de Wadi Al Shatii"
+    ],
+    "name:chi_x_preferred":[
+        "\u6c99\u63d0\u7701"
+    ],
+    "name:dan_x_preferred":[
+        "Wadi Al Shatii"
+    ],
+    "name:dut_x_preferred":[
+        "Wadi Al Shatii"
+    ],
+    "name:eng_x_preferred":[
+        "Ash Shati'"
+    ],
+    "name:epo_x_preferred":[
+        "Uedo A\u015d \u015cati"
+    ],
+    "name:fin_x_preferred":[
+        "Wadi al Shatiin kaupunginosa"
+    ],
+    "name:fre_x_preferred":[
+        "Wadi ach Chatii"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d5\u10d0\u10d3\u10d8-\u10d4\u10e8-\u10e8\u10d0\u10e2\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Munizip Wadi asch-Schati\u2019"
+    ],
+    "name:gre_x_preferred":[
+        "\u0393\u03bf\u03c5\u03ac\u03bd\u03c4\u03b9 \u03b1\u03bb \u03a3\u03b1\u03c4\u03af"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab5\u0abe\u0aa1\u0ac0 \u0a85\u0ab2 \u0ab6\u0aa4\u0ac0 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u093e\u0926\u0940 \u0905\u0932 \u0936\u093e\u0924\u093f\u0932 \u091c\u093f\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "V\u00e1di es-S\u00e1ti tartom\u00e1ny"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Wadi al Shatii"
+    ],
+    "name:ita_x_preferred":[
+        "Municipalit\u00e0 di Uadi esc-Sciati"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ef\u30b8\u30fb\u30a2\u30eb\u30fb\u30b7\u30e3\u30fc\u30c6\u30a3\u30fc\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb5\u0cbe\u0ca1\u0cbf \u0c85\u0cb2\u0ccd \u0cb6\u0ca4\u0cbf \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\uc640\ub514\uc54c\uc0e4\ud2f0 \uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "V\u0101d\u012b el \u0160ati \u0161eb\u012bja"
+    ],
+    "name:lit_x_preferred":[
+        "Vadi al \u0160ati savivaldyb\u0117"
+    ],
+    "name:mar_x_preferred":[
+        "\u0935\u093e\u0921\u0940 \u0905\u0932 \u0936\u093e\u0924\u0940 \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Wadi al Shatii District"
+    ],
+    "name:nob_x_preferred":[
+        "Wadi al Shatii distrikt"
+    ],
+    "name:pol_x_preferred":[
+        "Wadi asz-Szati"
+    ],
+    "name:por_x_preferred":[
+        "Ash Shatii"
+    ],
+    "name:rum_x_preferred":[
+        "Districtul Wadi Al Shatii"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0434\u0438-\u044d\u0448-\u0428\u0430\u0442\u0438"
+    ],
+    "name:sco_x_preferred":[
+        "Wadi Al Shatii Destrict"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0da9\u0dd2 \u0d85\u0dbd\u0dca \u0dc1\u0da7\u0dd2 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Wadi Al Shatii"
+    ],
+    "name:swe_x_preferred":[
+        "Wadi Al Shatii"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0bbe\u0b9f\u0bbf  \u0b85\u0bb2\u0bcd    \u0b9a\u0bbe\u0ba4\u0bbf   \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c35\u0c3e\u0c21\u0c3f \u0c0e\u0c32\u0c4d \u0c37\u0c3e\u0c1f\u0c40 \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0412\u0430\u0434\u0438 \u0430\u043b \u0428\u0430\u0442\u04e3"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e27\u0e32\u0e14\u0e34 \u0e2d\u0e31\u0e25 \u0e0a\u0e32\u0e17\u0e34"
+    ],
+    "name:tur_x_preferred":[
+        "Vadi El \u015eati ili"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0434\u0456-\u0435\u0448-\u0428\u0430\u0442\u0456"
+    ],
+    "name:und_x_variant":[
+        "\u0648\u0627\u062f\u0649 \u0627\u0644\u0634\u0627\u0637\u0626"
+    ],
+    "name:unk_x_variant":[
+        "Ash Sh\u0101\u0163i\u02bc"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u062f\u06cc \u0627\u0644\u0634\u0627\u0637\u06cc \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "T\u1ec9nh Wadi al Shatii"
+    ],
+    "name:vol_x_preferred":[
+        "Vadijjati\u00e4n"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"LBY",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"LBY-2967",
+    "ne:adm1_code":"LBY-2967",
+    "ne:admin":"Libya",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"LY.SH",
+    "ne:code_local":"",
+    "ne:datarank":"7",
+    "ne:diss_me":"2967",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"LY13",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Libya",
+    "ne:gn_a1_code":"LY.78",
+    "ne:gn_id":"2219413",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Sha`biyat Wadi ash Shati'",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"LY78",
+    "ne:gns_id":"-3162360",
+    "ne:gns_lang":"ara",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Wadi ash Shati', Sha`biyat",
+    "ne:gns_region":"7",
+    "ne:gu_a3":"LBY",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"LY-",
+    "ne:iso_a2":"LY",
+    "ne:labelrank":"4",
+    "ne:latitude":"27.87320000000",
+    "ne:longitude":"12.83520000000",
+    "ne:mapcolor13":11,
+    "ne:mapcolor9":2,
+    "ne:name":"Ash Shati'",
+    "ne:name_alt":"Wadi Al Shatii|Shati|Wadi ash-Shati'",
+    "ne:name_len":10,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"SH",
+    "ne:provnum_ne":"20011",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"4",
+    "ne:sov_a3":"LBY",
+    "ne:sub_code":"",
+    "ne:type":"Sha'biyat|Sha'biyah",
+    "ne:type_en":"Municipality|Governarate",
+    "ne:wikipedia":"",
+    "ne:woe_id":2346124,
+    "ne:woe_label":"Ash Shati', LY, Libya",
+    "ne:woe_name":"Ash Shati'",
+    "qs:a0":"Libya",
+    "qs:a0_lc":"LY",
+    "qs:a1":"Ash Shati'",
+    "qs:a1_lc":"LBY-2967",
+    "qs:adm0":"Libya",
+    "qs:adm0_a3":"LBY",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Municipality|Governarate",
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-04-15",
+    "statoids:area_km":"",
+    "statoids:area_mi":"",
+    "statoids:as_of_date":"2006-04-15",
+    "statoids:capital":"Adiri",
+    "statoids:country":"LY",
+    "statoids:gec":"LY78",
+    "statoids:hasc":"LY.WS",
+    "statoids:iso":"WS",
+    "statoids:name":"Wadi ash Shati'",
+    "statoids:population":"78532",
+    "statoids:timezone":"+2",
+    "statoids:type":"district",
+    "wof:belongsto":[
+        102191573,
+        85632627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"LY78",
+        "gn:id":2219413,
+        "gp:id":2346124,
+        "hasc:id":"LY.WS",
+        "iso:id":"LY-WS",
+        "qs:id":1195768,
+        "wd:id":"Q48232"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"c8ec97786c1e36e6cc43511a11a3b03b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "region_id":85673579
+        }
+    ],
+    "wof:id":85673579,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1553550403,
+    "wof:name":"Ash Shati'",
+    "wof:parent_id":85632627,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":78532,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:shortcode":"WS",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.83712387500003,
+    26.21751403800005,
+    15.89407444000005,
+    28.96982481800006
+],
+  "geometry": {"coordinates":[[[9.89693407200002,28.84082187300004],[10.03159389700005,28.85209620100005],[10.38232502000005,28.86375189100005],[10.88489547100005,28.88932156700002],[11.64231881600006,28.94459883100006],[11.83902788200004,28.95819820500003],[11.90862128800006,28.96300950700004],[11.92619309200006,28.96420564500005],[11.93970435300002,28.96512381500003],[11.94671835900004,28.96517345800004],[12.05463092200006,28.96546738600006],[12.11940783000006,28.96564382200006],[12.13343987800005,28.96568204200003],[13.10572227700004,28.96833030200003],[14.22039583900005,28.96968905200004],[14.33177416200004,28.96982481800006],[14.40786310700003,28.89330776400004],[14.42253303500007,28.87855529800004],[14.46926403000003,28.79893684400002],[14.52700710300007,28.71952438400007],[14.58647441900007,28.67432785200003],[14.65993404400007,28.62205505400004],[14.83976459500008,28.52045440700005],[14.95874786400003,28.40778541500003],[14.99189853600006,28.29595565800003],[14.99382114400004,28.21778678900006],[15.01766681600003,28.14488601700003],[15.12279129000007,28.12958145100004],[15.24932956700007,28.14143180800005],[15.38026523600007,28.20700454700005],[15.50691413900006,28.21862983700004],[15.58974361400004,28.21489715600006],[15.72011756900002,28.17506980900004],[15.79214000700006,28.15642166100002],[15.87891101800005,28.07925033600003],[15.89407444000005,27.99633216900003],[15.87066745700002,27.91539764400005],[15.83236229000005,27.82275589000005],[15.83105468700006,27.81959343000005],[15.79665565500005,27.74339294500004],[15.79586029100005,27.72124671900008],[15.68820464700008,27.73051464300005],[15.56415653200003,27.74119377100004],[15.41660881000007,27.69272232100008],[15.35349178300004,27.66389656000007],[15.17404937800006,27.64287567100007],[15.06849765800007,27.63207626300004],[14.92134952500004,27.57384872600005],[14.84903621700005,27.46051597600007],[14.72338962600003,27.39307403600003],[14.61879634800005,27.33523559600008],[14.52482414200006,27.27751159600007],[14.48360824600007,27.22064781200004],[14.42119693700005,27.17275619500003],[14.31603527100003,27.16152000400007],[14.11715056900005,27.14206906400005],[13.98314666700003,27.12896347100008],[13.87681355600006,27.14706102300005],[13.62528228800005,27.18987083400003],[13.34936618800003,27.26791191100006],[13.19057846100003,27.29223251300004],[13.01240730200004,27.25039863600006],[12.77379322000007,27.11315727300007],[12.57768440200005,26.97672653200004],[12.30986118300007,26.79110908500007],[12.01123619100002,26.60406684900005],[11.74412822800002,26.43622398300005],[11.50798416100002,26.29710960400007],[11.47650804700004,26.27830742300006],[11.37473583300005,26.21751403800005],[11.36151164100005,26.33532125300007],[11.35899353000002,26.35775375400004],[11.32261753100005,26.48786354100002],[11.26017284400007,26.74831771800007],[11.22071743100003,26.95318222000003],[11.19423198700002,27.09281921400003],[11.16402816700003,27.32593154900007],[11.10689258500003,27.43628120400007],[11.02027130200003,27.48937225500003],[10.89176178000002,27.53154182400004],[10.65763664200006,27.56966972300006],[10.46520423900006,27.61848259000004],[10.27264595000003,27.66709137100003],[10.07865142800006,27.74351501400002],[9.9453015873179,27.81195246416913],[9.945277,27.82030900000018],[9.945277,27.82467600000018],[9.945274,27.825937],[9.9452710000001,27.827888],[9.945251,27.83357700000016],[9.94528800000012,27.83678600000013],[9.94529650611853,27.83707005958637],[9.945978886181,27.8435147588267],[9.94611,27.843952],[9.946483,27.84466100000014],[9.94681900000012,27.845332],[9.94722900000011,27.845967],[9.94782600000013,27.846788],[9.94861,27.847721],[9.949804,27.848915],[9.95133400000014,27.85037000000017],[9.95264,27.851453],[9.954021,27.852498],[9.955365,27.85354300000017],[9.9564840000001,27.85451300000011],[9.95673523146144,27.8547299587164],[9.96248133000006,27.85839915400004],[9.96258122014814,27.85919827422742],[9.962903,27.859364],[9.964247,27.85999900000019],[9.964247,27.86402900000019],[9.96428400000013,27.867724],[9.964433,27.871531],[9.964508,27.87377],[9.964695,27.875934],[9.96491800000018,27.87809900000013],[9.965105,27.87951700000019],[9.965292,27.880413],[9.965516,27.88142000000011],[9.965702,27.882055],[9.965936,27.88286100000016],[9.95466600000015,27.917758],[9.93990800000012,27.963243],[9.923323,28.014358],[9.911911,28.04950200000019],[9.899288,28.088377],[9.88940400000013,28.11878400000012],[9.883416,28.13718100000011],[9.88209224530276,28.14125868474664],[9.83712387500003,28.28640975300004],[9.90601161200004,28.76291836300004],[9.89693407200002,28.84082187300004]]],"type":"Polygon"}
+}

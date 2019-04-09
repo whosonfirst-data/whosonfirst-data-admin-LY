@@ -1,0 +1,65 @@
+{
+  "id": 1277000375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.05,31.26667,13.05,31.26667",
+    "geom:latitude":31.26667,
+    "geom:longitude":13.05,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Mazuzah",
+    "gn:country_code":"LY",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2214972,
+    "gn:latitude":31.26667,
+    "gn:longitude":13.05,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"M\u0101z\u016bzah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2214972
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"f44716184cf8bdf42d74f4b223e69c52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1277000375,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1277000375,
+    "wof:lastmodified":1536878839,
+    "wof:name":"Mazuzah",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.05,
+    31.26667,
+    13.05,
+    31.26667
+],
+  "geometry": {"coordinates":[13.05,31.26667],"type":"Point"}
+}

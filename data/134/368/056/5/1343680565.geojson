@@ -1,0 +1,65 @@
+{
+  "id": 1343680565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.22329,31.09396,20.22329,31.09396",
+    "geom:latitude":31.09396,
+    "geom:longitude":20.22329,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Sultan",
+    "gn:country_code":"LY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":81615,
+    "gn:latitude":31.09396,
+    "gn:longitude":20.22329,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Sul\u0163\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":81615
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"75db0982312eab2f56697cd0e2610360",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1343680565,
+            "region_id":85673631
+        }
+    ],
+    "wof:id":1343680565,
+    "wof:lastmodified":1536926753,
+    "wof:name":"Sultan",
+    "wof:parent_id":85673631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.22329,
+    31.09396,
+    20.22329,
+    31.09396
+],
+  "geometry": {"coordinates":[20.22329,31.09396],"type":"Point"}
+}

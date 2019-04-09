@@ -1,0 +1,71 @@
+{
+  "id": 1260098891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.01976,31.94595,12.01976,31.94595",
+    "geom:latitude":31.94595,
+    "geom:longitude":12.01976,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Qaryat Mazzu",
+    "gn:country_code":"LY",
+    "gn:dem":693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2213854,
+    "gn:latitude":31.94595,
+    "gn:longitude":12.01976,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Qaryat Mazz\u016b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mazz\u016b",
+        "Mezzu",
+        "Mezzou",
+        "Qaryat Mazz\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2213854
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"155b02546d6671dad5fd4d540b0ec1ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1260098891,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1260098891,
+    "wof:lastmodified":1537663269,
+    "wof:name":"Qaryat Mazzu",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.01976,
+    31.94595,
+    12.01976,
+    31.94595
+],
+  "geometry": {"coordinates":[12.01976,31.94595],"type":"Point"}
+}

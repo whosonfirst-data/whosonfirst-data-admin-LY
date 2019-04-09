@@ -1,0 +1,61 @@
+{
+  "id": 1209014875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.13333,31.63333,20.13333,31.63333",
+    "geom:latitude":31.63333,
+    "geom:longitude":20.13333,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Al Qadhadhimah",
+    "gn:country_code":"LY",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":88857,
+    "gn:latitude":31.63333,
+    "gn:longitude":20.13333,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Al Qadh\u0101dhimah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":88857
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"49cc166152049173eebd031116a072d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632627,
+            "locality_id":1209014875
+        }
+    ],
+    "wof:id":1209014875,
+    "wof:lastmodified":1536300327,
+    "wof:name":"Al Qadhadhimah",
+    "wof:parent_id":85632627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.13333,
+    31.63333,
+    20.13333,
+    31.63333
+],
+  "geometry": {"coordinates":[20.13333,31.63333],"type":"Point"}
+}

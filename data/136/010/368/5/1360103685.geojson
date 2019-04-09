@@ -1,0 +1,73 @@
+{
+  "id": 1360103685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.55386,32.40335,13.55386,32.40335",
+    "geom:latitude":32.40335,
+    "geom:longitude":13.55386,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Amhayyah",
+    "gn:country_code":"LY",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2214708,
+    "gn:latitude":32.40335,
+    "gn:longitude":13.55386,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Am\u1e29ayyah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645\u062d\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Am\u1e29ayyah",
+        "Ambayyah",
+        "Mu\u1e29ayyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2214708
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"028ce2e2e63bf885353b473021f20158",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1360103685,
+            "region_id":85673575
+        }
+    ],
+    "wof:id":1360103685,
+    "wof:lastmodified":1537663279,
+    "wof:name":"Amhayyah",
+    "wof:parent_id":85673575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.55386,
+    32.40335,
+    13.55386,
+    32.40335
+],
+  "geometry": {"coordinates":[13.55386,32.40335],"type":"Point"}
+}

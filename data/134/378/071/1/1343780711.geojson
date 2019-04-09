@@ -1,0 +1,72 @@
+{
+  "id": 1343780711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.99914,32.79842,12.99914,32.79842",
+    "geom:latitude":32.79842,
+    "geom:longitude":12.99914,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Al Mashashitah",
+    "gn:country_code":"LY",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219823,
+    "gn:latitude":32.79842,
+    "gn:longitude":12.99914,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Al Mash\u0101shi\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qab\u012blat al Mash\u0101shi\u0163ah",
+        "El-Masci\u00e1sta",
+        "Qab\u012blat al Mish\u0101sh\u0163ah",
+        "Al Mash\u0101shi\u0163ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219823,
+        "wk:page":"Mashashita"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"1af6843280e34aa1d421611c9f083d8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1343780711,
+            "region_id":85673605
+        }
+    ],
+    "wof:id":1343780711,
+    "wof:lastmodified":1537663297,
+    "wof:name":"Al Mashashitah",
+    "wof:parent_id":85673605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.99914,
+    32.79842,
+    12.99914,
+    32.79842
+],
+  "geometry": {"coordinates":[12.99914,32.79842],"type":"Point"}
+}

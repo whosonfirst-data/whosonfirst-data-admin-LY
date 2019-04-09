@@ -1,0 +1,76 @@
+{
+  "id": 1309924351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25345,31.44893,15.25345,31.44893",
+    "geom:latitude":31.44893,
+    "geom:longitude":15.25345,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Qaryat Abu Qurayn",
+    "gn:country_code":"LY",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2220416,
+    "gn:latitude":31.44893,
+    "gn:longitude":15.25345,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Qaryat Ab\u016b Qurayn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0623\u0628\u0648 \u0642\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Qaryat Ab\u016b Qurayn",
+        "Bugrein",
+        "Ab\u016bqr\u012bn",
+        "Bu Gren",
+        "Ab\u016b Qurayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2220416,
+        "wk:page":"Abu_Qurayn"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"46de2909415a51b406a76d5aab2408b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1309924351,
+            "region_id":85673593
+        }
+    ],
+    "wof:id":1309924351,
+    "wof:lastmodified":1537663304,
+    "wof:name":"Qaryat Abu Qurayn",
+    "wof:parent_id":85673593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25345,
+    31.44893,
+    15.25345,
+    31.44893
+],
+  "geometry": {"coordinates":[15.25345,31.44893],"type":"Point"}
+}

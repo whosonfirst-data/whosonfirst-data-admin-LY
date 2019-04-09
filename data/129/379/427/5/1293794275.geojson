@@ -1,0 +1,69 @@
+{
+  "id": 1293794275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.03333,32.56667,21.03333,32.56667",
+    "geom:latitude":32.56667,
+    "geom:longitude":21.03333,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Al `Uwayliyah ash Sharqiyah",
+    "gn:country_code":"LY",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":88819,
+    "gn:latitude":32.56667,
+    "gn:longitude":21.03333,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Al \u2018Uwayl\u012byah ash Sharq\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Awiliah al Sharq\u012byah",
+        "Al \u2018Uwayl\u012byah ash Sharq\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":88819
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"3d910aa635d3ba203e87aff1de251a00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1293794275,
+            "region_id":85673625
+        }
+    ],
+    "wof:id":1293794275,
+    "wof:lastmodified":1537663254,
+    "wof:name":"Al `Uwayliyah ash Sharqiyah",
+    "wof:parent_id":85673625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.03333,
+    32.56667,
+    21.03333,
+    32.56667
+],
+  "geometry": {"coordinates":[21.03333,32.56667],"type":"Point"}
+}

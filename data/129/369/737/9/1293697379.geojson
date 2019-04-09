@@ -1,0 +1,69 @@
+{
+  "id": 1293697379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.13333,31.95,12.13333,31.95",
+    "geom:latitude":31.95,
+    "geom:longitude":12.13333,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Awlad `Abd al Jalil",
+    "gn:country_code":"LY",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219217,
+    "gn:latitude":31.95,
+    "gn:longitude":12.13333,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Awl\u0101d \u2018Abd al Jal\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ulad Abd el-Gel\u00edl",
+        "Awl\u0101d \u2018Abd al Jal\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219217
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"c7f15bbac1828fea4da7db94da9c1011",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1293697379,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1293697379,
+    "wof:lastmodified":1537663290,
+    "wof:name":"Awlad `Abd al Jalil",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.13333,
+    31.95,
+    12.13333,
+    31.95
+],
+  "geometry": {"coordinates":[12.13333,31.95],"type":"Point"}
+}

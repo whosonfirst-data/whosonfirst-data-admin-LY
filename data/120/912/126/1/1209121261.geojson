@@ -1,0 +1,61 @@
+{
+  "id": 1209121261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.56167,32.05751,12.56167,32.05751",
+    "geom:latitude":32.05751,
+    "geom:longitude":12.56167,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Maryan",
+    "gn:country_code":"LY",
+    "gn:dem":722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2215190,
+    "gn:latitude":32.05751,
+    "gn:longitude":12.56167,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"M\u0101ry\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2215190
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"f674b3fab7b0ce7246034e0158eea84a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632627,
+            "locality_id":1209121261
+        }
+    ],
+    "wof:id":1209121261,
+    "wof:lastmodified":1536297090,
+    "wof:name":"Maryan",
+    "wof:parent_id":85632627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.56167,
+    32.05751,
+    12.56167,
+    32.05751
+],
+  "geometry": {"coordinates":[12.56167,32.05751],"type":"Point"}
+}

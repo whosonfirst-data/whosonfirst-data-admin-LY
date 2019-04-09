@@ -1,0 +1,70 @@
+{
+  "id": 1343672347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.03148,31.76628,20.03148,31.76628",
+    "geom:latitude":31.76628,
+    "geom:longitude":20.03148,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Qaryat al Barakat",
+    "gn:country_code":"LY",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":84171,
+    "gn:latitude":31.76628,
+    "gn:longitude":20.03148,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Qaryat al Barak\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makh\u0101zin al Birk\u0101t",
+        "Qaryat al Birk\u0101t",
+        "Qaryat al Barak\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":84171
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"57e5a2ced0a950be9ca455e854f36247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1343672347,
+            "region_id":85673635
+        }
+    ],
+    "wof:id":1343672347,
+    "wof:lastmodified":1537663249,
+    "wof:name":"Qaryat al Barakat",
+    "wof:parent_id":85673635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.03148,
+    31.76628,
+    20.03148,
+    31.76628
+],
+  "geometry": {"coordinates":[20.03148,31.76628],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225855133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.98222,32.63417,13.98222,32.63417",
+    "geom:latitude":32.63417,
+    "geom:longitude":13.98222,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Qirrim",
+    "gn:country_code":"LY",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2213355,
+    "gn:latitude":32.63417,
+    "gn:longitude":13.98222,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Qirr\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gherrim",
+        "Qarr\u012bm",
+        "Qirr\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2213355
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"a345d70461fdf8296d2459258e2de953",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1225855133,
+            "region_id":85673575
+        }
+    ],
+    "wof:id":1225855133,
+    "wof:lastmodified":1537663266,
+    "wof:name":"Qirrim",
+    "wof:parent_id":85673575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.98222,
+    32.63417,
+    13.98222,
+    32.63417
+],
+  "geometry": {"coordinates":[13.98222,32.63417],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326945431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.14877,32.36165,15.14877,32.36165",
+    "geom:latitude":32.36165,
+    "geom:longitude":15.14877,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Qaryat al Habarah",
+    "gn:country_code":"LY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2213939,
+    "gn:latitude":32.36165,
+    "gn:longitude":15.14877,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Qaryat al Hab\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Hab\u0101rah",
+        "Hab\u00e1ra",
+        "El-Hab\u00e1ra",
+        "Qaryat al Hab\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2213939
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"68a7c1bd420de68ecd48b9f7ab630b47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1326945431,
+            "region_id":85673593
+        }
+    ],
+    "wof:id":1326945431,
+    "wof:lastmodified":1537663273,
+    "wof:name":"Qaryat al Habarah",
+    "wof:parent_id":85673593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.14877,
+    32.36165,
+    15.14877,
+    32.36165
+],
+  "geometry": {"coordinates":[15.14877,32.36165],"type":"Point"}
+}

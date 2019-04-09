@@ -1,0 +1,71 @@
+{
+  "id": 1344175517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.27584,26.43628,14.27584,26.43628",
+    "geom:latitude":26.43628,
+    "geom:longitude":14.27584,
+    "gn:admin1_code":"75",
+    "gn:asciiname":"Ghadduwah",
+    "gn:country_code":"LY",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2217434,
+    "gn:latitude":26.43628,
+    "gn:longitude":14.27584,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Ghadd\u016bwah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goddua",
+        "Ghadd\u016bwah",
+        "\u063a\u062f\u0648\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2217434,
+        "wk:page":"Ghadduwah"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"9eb64146a5e39a8d4e19651a943a9fd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1344175517,
+            "region_id":85673597
+        }
+    ],
+    "wof:id":1344175517,
+    "wof:lastmodified":1537663283,
+    "wof:name":"Ghadduwah",
+    "wof:parent_id":85673597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.27584,
+    26.43628,
+    14.27584,
+    26.43628
+],
+  "geometry": {"coordinates":[14.27584,26.43628],"type":"Point"}
+}

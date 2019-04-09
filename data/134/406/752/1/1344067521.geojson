@@ -1,0 +1,72 @@
+{
+  "id": 1344067521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.63243,32.91532,21.63243,32.91532",
+    "geom:latitude":32.91532,
+    "geom:longitude":21.63243,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Al Hamamah",
+    "gn:country_code":"LY",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":83468,
+    "gn:latitude":32.91532,
+    "gn:longitude":21.63243,
+    "gn:modification_date":"2018-04-05",
+    "gn:name":"Al \u1e28am\u0101mah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0645\u0627\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28am\u0101mah",
+        "Ra\u2019s al \u1e28am\u0101mah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":83468
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"75e47de14ad37bbefbc946a893b1cac3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1344067521,
+            "region_id":85673627
+        }
+    ],
+    "wof:id":1344067521,
+    "wof:lastmodified":1537663248,
+    "wof:name":"Al Hamamah",
+    "wof:parent_id":85673627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.63243,
+    32.91532,
+    21.63243,
+    32.91532
+],
+  "geometry": {"coordinates":[21.63243,32.91532],"type":"Point"}
+}

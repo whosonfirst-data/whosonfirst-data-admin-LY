@@ -1,0 +1,71 @@
+{
+  "id": 1276773653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.95186,31.41169,13.95186,31.41169",
+    "geom:latitude":31.41169,
+    "geom:longitude":13.95186,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Qaryat Shumaykh",
+    "gn:country_code":"LY",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2213833,
+    "gn:latitude":31.41169,
+    "gn:longitude":13.95186,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Qaryat Shumaykh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shumaykh",
+        "Qaryat Ishyamkh",
+        "Scemech",
+        "Qaryat Shumaykh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2213833
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"d7826da5dd4d4e6aa57ba600d02a9439",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1276773653,
+            "region_id":85673593
+        }
+    ],
+    "wof:id":1276773653,
+    "wof:lastmodified":1537663268,
+    "wof:name":"Qaryat Shumaykh",
+    "wof:parent_id":85673593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.95186,
+    31.41169,
+    13.95186,
+    31.41169
+],
+  "geometry": {"coordinates":[13.95186,31.41169],"type":"Point"}
+}

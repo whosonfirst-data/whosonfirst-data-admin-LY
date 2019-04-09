@@ -1,0 +1,70 @@
+{
+  "id": 1293902215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.03639,32.58972,14.03639,32.58972",
+    "geom:latitude":32.58972,
+    "geom:longitude":14.03639,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Qabilat Za`faran",
+    "gn:country_code":"LY",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2214207,
+    "gn:latitude":32.58972,
+    "gn:longitude":14.03639,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Qab\u012blat Za\u2018far\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zaafr\u00e1n",
+        "Za\u2018far\u0101n",
+        "Qab\u012blat Za\u2018far\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2214207
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"89eca035b15688709ee967fd9c5b5c07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1293902215,
+            "region_id":85673575
+        }
+    ],
+    "wof:id":1293902215,
+    "wof:lastmodified":1537663274,
+    "wof:name":"Qabilat Za`faran",
+    "wof:parent_id":85673575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.03639,
+    32.58972,
+    14.03639,
+    32.58972
+],
+  "geometry": {"coordinates":[14.03639,32.58972],"type":"Point"}
+}

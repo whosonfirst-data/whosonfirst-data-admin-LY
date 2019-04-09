@@ -1,0 +1,68 @@
+{
+  "id": 1209121267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.17389,32.68778,13.17389,32.68778",
+    "geom:latitude":32.68778,
+    "geom:longitude":13.17389,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Bin Ghashir",
+    "gn:country_code":"LY",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2218587,
+    "gn:latitude":32.68778,
+    "gn:longitude":13.17389,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Bin Ghash\u012br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Funduq Bin Ghash\u012br",
+        "Castel Benito",
+        "F\u00f3ndugh Ben Gasc\u00edr",
+        "Funduq Ben Ghash\u012br",
+        "Bin Ghash\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2218587
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"0675d32f8c409571b0dff76be06a4a7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632627,
+            "locality_id":1209121267
+        }
+    ],
+    "wof:id":1209121267,
+    "wof:lastmodified":1537663285,
+    "wof:name":"Bin Ghashir",
+    "wof:parent_id":85632627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.17389,
+    32.68778,
+    13.17389,
+    32.68778
+],
+  "geometry": {"coordinates":[13.17389,32.68778],"type":"Point"}
+}

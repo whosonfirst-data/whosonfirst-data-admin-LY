@@ -1,0 +1,70 @@
+{
+  "id": 1343676943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.56151,31.88933,11.56151,31.88933",
+    "geom:latitude":31.88933,
+    "geom:longitude":11.56151,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Umm Saffar",
+    "gn:country_code":"LY",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2209229,
+    "gn:latitude":31.88933,
+    "gn:longitude":11.56151,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Umm \u015eaff\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm \u015eaf\u0101r",
+        "Umm Soff\u00e1r",
+        "Umm \u015eaff\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2209229
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"08d75e5227373038f6a498aea2ceca4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1343676943,
+            "region_id":85673563
+        }
+    ],
+    "wof:id":1343676943,
+    "wof:lastmodified":1537663258,
+    "wof:name":"Umm Saffar",
+    "wof:parent_id":85673563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.56151,
+    31.88933,
+    11.56151,
+    31.88933
+],
+  "geometry": {"coordinates":[11.56151,31.88933],"type":"Point"}
+}

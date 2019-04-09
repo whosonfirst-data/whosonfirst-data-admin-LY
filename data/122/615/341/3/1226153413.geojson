@@ -1,0 +1,70 @@
+{
+  "id": 1226153413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.47602,32.75533,12.47602,32.75533",
+    "geom:latitude":32.75533,
+    "geom:longitude":12.47602,
+    "gn:admin1_code":"67",
+    "gn:asciiname":"Suq al `Alaliqah",
+    "gn:country_code":"LY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2210589,
+    "gn:latitude":32.75533,
+    "gn:longitude":12.47602,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"S\u016bq al \u2018Al\u0101liqah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u016bq al \u2018Ujayl\u0101t",
+        "S\u016bq al \u2018Al\u0101lqah",
+        "S\u016bq al \u2018Al\u0101liqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2210589
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"47b4a0aa534bc875c3202dbd1967ca02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1226153413,
+            "region_id":85673607
+        }
+    ],
+    "wof:id":1226153413,
+    "wof:lastmodified":1537663263,
+    "wof:name":"Suq al `Alaliqah",
+    "wof:parent_id":85673607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.47602,
+    32.75533,
+    12.47602,
+    32.75533
+],
+  "geometry": {"coordinates":[12.47602,32.75533],"type":"Point"}
+}

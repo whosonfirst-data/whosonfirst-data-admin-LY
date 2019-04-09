@@ -1,0 +1,69 @@
+{
+  "id": 1193034563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.66444,32.05306,12.66444,32.05306",
+    "geom:latitude":32.05306,
+    "geom:longitude":12.66444,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Anzu",
+    "gn:country_code":"LY",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219572,
+    "gn:latitude":32.05306,
+    "gn:longitude":12.66444,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Anz\u016b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Enzu",
+        "Anz\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219572
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"009147efac3621b5e90802daa112090d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1193034563,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1193034563,
+    "wof:lastmodified":1537663293,
+    "wof:name":"Anzu",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.66444,
+    32.05306,
+    12.66444,
+    32.05306
+],
+  "geometry": {"coordinates":[12.66444,32.05306],"type":"Point"}
+}

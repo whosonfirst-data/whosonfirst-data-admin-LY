@@ -1,0 +1,65 @@
+{
+  "id": 1276238849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.15469,32.38621,15.15469,32.38621",
+    "geom:latitude":32.38621,
+    "geom:longitude":15.15469,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Qaryat al Jataliwah",
+    "gn:country_code":"LY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2213930,
+    "gn:latitude":32.38621,
+    "gn:longitude":15.15469,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Qaryat al Ja\u0163\u0101liwah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2213930
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"ad11c6dd7bfab653e6c3eeceff1d28de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1276238849,
+            "region_id":85673593
+        }
+    ],
+    "wof:id":1276238849,
+    "wof:lastmodified":1536905378,
+    "wof:name":"Qaryat al Jataliwah",
+    "wof:parent_id":85673593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.15469,
+    32.38621,
+    15.15469,
+    32.38621
+],
+  "geometry": {"coordinates":[15.15469,32.38621],"type":"Point"}
+}

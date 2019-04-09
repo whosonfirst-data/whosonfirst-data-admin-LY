@@ -1,0 +1,74 @@
+{
+  "id": 1226661215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.73795,32.24665,20.73795,32.24665",
+    "geom:latitude":32.24665,
+    "geom:longitude":20.73795,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Qaryat Sidi Mahyub",
+    "gn:country_code":"LY",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":82094,
+    "gn:latitude":32.24665,
+    "gn:longitude":20.73795,
+    "gn:modification_date":"2018-04-05",
+    "gn:name":"Qaryat S\u012bd\u012b Mahy\u016bb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0633\u064a\u062f\u064a \u0645\u0647\u064a\u0648\u0628"
+    ],
+    "name:und_x_variant":[
+        "Qaryat S\u012bd\u012b Mahy\u016bb",
+        "S\u00eddi Mahi\u00fas",
+        "S\u012bd\u012b Mahy\u016bs",
+        "\u0633\u064a\u062f\u064a \u0645\u0647\u064a\u0648\u0633"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":82094
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"d1990ab6d9395445ac25f3c58672ea11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1226661215,
+            "region_id":85673635
+        }
+    ],
+    "wof:id":1226661215,
+    "wof:lastmodified":1537663247,
+    "wof:name":"Qaryat Sidi Mahyub",
+    "wof:parent_id":85673635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.73795,
+    32.24665,
+    20.73795,
+    32.24665
+],
+  "geometry": {"coordinates":[20.73795,32.24665],"type":"Point"}
+}

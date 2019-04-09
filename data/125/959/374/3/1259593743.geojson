@@ -1,0 +1,73 @@
+{
+  "id": 1259593743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.71598,32.46544,13.71598,32.46544",
+    "geom:latitude":32.46544,
+    "geom:longitude":13.71598,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Mazra`at Katarilla",
+    "gn:country_code":"LY",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2214984,
+    "gn:latitude":32.46544,
+    "gn:longitude":13.71598,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Mazra\u2018at Katar\u012bll\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0643\u062a\u0631\u064a\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "Concessione Catarella",
+        "Mazra\u2018at Katar\u012bll\u0101",
+        "Mazra\u2018at Katarayll\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2214984
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"6ae1831fc59ebe6afb8e759f239c79ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1259593743,
+            "region_id":85673575
+        }
+    ],
+    "wof:id":1259593743,
+    "wof:lastmodified":1537663280,
+    "wof:name":"Mazra`at Katarilla",
+    "wof:parent_id":85673575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.71598,
+    32.46544,
+    13.71598,
+    32.46544
+],
+  "geometry": {"coordinates":[13.71598,32.46544],"type":"Point"}
+}

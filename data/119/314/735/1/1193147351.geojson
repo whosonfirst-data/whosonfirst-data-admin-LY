@@ -1,0 +1,74 @@
+{
+  "id": 1193147351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.64002,25.99446,13.64002,25.99446",
+    "geom:latitude":25.99446,
+    "geom:longitude":13.64002,
+    "gn:admin1_code":"73",
+    "gn:asciiname":"Umm al Hamam",
+    "gn:country_code":"LY",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2209578,
+    "gn:latitude":25.99446,
+    "gn:longitude":13.64002,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Umm al \u1e28am\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0644\u062d\u0645\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Umm el-Ham\u00e0m",
+        "Umm el-Hamen",
+        "Umm el Haman",
+        "Umm al \u1e28am\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2209578
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"6a70bb57880771c54f54f69d0bc7f5bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1193147351,
+            "region_id":85673589
+        }
+    ],
+    "wof:id":1193147351,
+    "wof:lastmodified":1537663259,
+    "wof:name":"Umm al Hamam",
+    "wof:parent_id":85673589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.64002,
+    25.99446,
+    13.64002,
+    25.99446
+],
+  "geometry": {"coordinates":[13.64002,25.99446],"type":"Point"}
+}

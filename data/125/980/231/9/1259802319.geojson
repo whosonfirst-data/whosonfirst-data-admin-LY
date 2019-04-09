@@ -1,0 +1,75 @@
+{
+  "id": 1259802319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.97288,27.4928,13.97288,27.4928",
+    "geom:latitude":27.4928,
+    "geom:longitude":13.97288,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Al Qurdah",
+    "gn:country_code":"LY",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219716,
+    "gn:latitude":27.4928,
+    "gn:longitude":13.97288,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Al Qur\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u0636\u0629"
+    ],
+    "name:und_x_variant":[
+        "Gurda",
+        "El-Gorda",
+        "Gorda",
+        "El G\u00f3rdah",
+        "Al Qur\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219716
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"407215569ba497d5f4d9e2f7bc7150c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1259802319,
+            "region_id":85673579
+        }
+    ],
+    "wof:id":1259802319,
+    "wof:lastmodified":1537663295,
+    "wof:name":"Al Qurdah",
+    "wof:parent_id":85673579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.97288,
+    27.4928,
+    13.97288,
+    27.4928
+],
+  "geometry": {"coordinates":[13.97288,27.4928],"type":"Point"}
+}

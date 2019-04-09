@@ -1,0 +1,65 @@
+{
+  "id": 1260304409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3,23.75,15.3,23.75",
+    "geom:latitude":23.75,
+    "geom:longitude":15.3,
+    "gn:admin1_code":"73",
+    "gn:asciiname":"Emi Madema",
+    "gn:country_code":"LY",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2217667,
+    "gn:latitude":23.75,
+    "gn:longitude":15.3,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Emi Madema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2217667
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"a941984b8399f8e5c562c49749af6da5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1260304409,
+            "region_id":85673589
+        }
+    ],
+    "wof:id":1260304409,
+    "wof:lastmodified":1536683797,
+    "wof:name":"Emi Madema",
+    "wof:parent_id":85673589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3,
+    23.75,
+    15.3,
+    23.75
+],
+  "geometry": {"coordinates":[15.3,23.75],"type":"Point"}
+}

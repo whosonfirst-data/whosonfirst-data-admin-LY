@@ -1,0 +1,70 @@
+{
+  "id": 1276247689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.11463,31.98428,12.11463,31.98428",
+    "geom:latitude":31.98428,
+    "geom:longitude":12.11463,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Tardiyah",
+    "gn:country_code":"LY",
+    "gn:dem":690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2210233,
+    "gn:latitude":31.98428,
+    "gn:longitude":12.11463,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Tard\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u0101ridyah",
+        "Taredia",
+        "Tard\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2210233
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"b88f4fb63ae5377cf72d004930c79f83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1276247689,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1276247689,
+    "wof:lastmodified":1537663261,
+    "wof:name":"Tardiyah",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.11463,
+    31.98428,
+    12.11463,
+    31.98428
+],
+  "geometry": {"coordinates":[12.11463,31.98428],"type":"Point"}
+}

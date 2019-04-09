@@ -1,0 +1,71 @@
+{
+  "id": 1293117433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.0612,32.85286,12.0612,32.85286",
+    "geom:latitude":32.85286,
+    "geom:longitude":12.0612,
+    "gn:admin1_code":"67",
+    "gn:asciiname":"Al Jumayl",
+    "gn:country_code":"LY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219936,
+    "gn:latitude":32.85286,
+    "gn:longitude":12.0612,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Al Jumayl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Gem\u00ecl",
+        "Al Jam\u012bl",
+        "Al Jumayl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219936,
+        "wk:page":"Jumayl%2C_Libya"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"58e5b635c7a5aa9a6788ebd09158e774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1293117433,
+            "region_id":85673607
+        }
+    ],
+    "wof:id":1293117433,
+    "wof:lastmodified":1537663299,
+    "wof:name":"Al Jumayl",
+    "wof:parent_id":85673607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.0612,
+    32.85286,
+    12.0612,
+    32.85286
+],
+  "geometry": {"coordinates":[12.0612,32.85286],"type":"Point"}
+}

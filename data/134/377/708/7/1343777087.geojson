@@ -1,0 +1,65 @@
+{
+  "id": 1343777087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.13249,32.35102,15.13249,32.35102",
+    "geom:latitude":32.35102,
+    "geom:longitude":15.13249,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Qaryat `Ayn al Madham",
+    "gn:country_code":"LY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2213883,
+    "gn:latitude":32.35102,
+    "gn:longitude":15.13249,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Qaryat \u2018Ayn al Madham",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2213883
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"855106ae713e9230276a1fbe9ba43ac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1343777087,
+            "region_id":85673593
+        }
+    ],
+    "wof:id":1343777087,
+    "wof:lastmodified":1536787353,
+    "wof:name":"Qaryat `Ayn al Madham",
+    "wof:parent_id":85673593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.13249,
+    32.35102,
+    15.13249,
+    32.35102
+],
+  "geometry": {"coordinates":[15.13249,32.35102],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1309818759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.83183,32.65648,13.83183,32.65648",
+    "geom:latitude":32.65648,
+    "geom:longitude":13.83183,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Asyadi al `Amariyin",
+    "gn:country_code":"LY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219313,
+    "gn:latitude":32.65648,
+    "gn:longitude":13.83183,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Asy\u0101d\u012b al \u2018Am\u0101r\u012by\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219313
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"2985b9cd0b64b16bbe3966d42ec2dbf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1309818759,
+            "region_id":85673575
+        }
+    ],
+    "wof:id":1309818759,
+    "wof:lastmodified":1536912713,
+    "wof:name":"Asyadi al `Amariyin",
+    "wof:parent_id":85673575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.83183,
+    32.65648,
+    13.83183,
+    32.65648
+],
+  "geometry": {"coordinates":[13.83183,32.65648],"type":"Point"}
+}

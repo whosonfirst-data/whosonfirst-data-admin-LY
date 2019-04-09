@@ -1,0 +1,71 @@
+{
+  "id": 1260193479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.14524,32.68518,14.14524,32.68518",
+    "geom:latitude":32.68518,
+    "geom:longitude":14.14524,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Qabilat Awlad `Umar",
+    "gn:country_code":"LY",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2214229,
+    "gn:latitude":32.68518,
+    "gn:longitude":14.14524,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Qab\u012blat Awl\u0101d \u2018Umar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0628\u064a\u0644\u0629 \u0623\u0648\u0644\u0627\u062f \u0639\u0645\u0631"
+    ],
+    "name:und_x_variant":[
+        "Qab\u012blat Awl\u0101d \u2018Umar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2214229
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"ed8198cfe0dd575329f7a6663c2c6cb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1260193479,
+            "region_id":85673575
+        }
+    ],
+    "wof:id":1260193479,
+    "wof:lastmodified":1537663276,
+    "wof:name":"Qabilat Awlad `Umar",
+    "wof:parent_id":85673575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.14524,
+    32.68518,
+    14.14524,
+    32.68518
+],
+  "geometry": {"coordinates":[14.14524,32.68518],"type":"Point"}
+}

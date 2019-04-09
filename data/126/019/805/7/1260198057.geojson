@@ -1,0 +1,68 @@
+{
+  "id": 1260198057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.20158,32.65696,14.20158,32.65696",
+    "geom:latitude":32.65696,
+    "geom:longitude":14.20158,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Qabilat al Khums",
+    "gn:country_code":"LY",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2214263,
+    "gn:latitude":32.65696,
+    "gn:longitude":14.20158,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Qab\u012blat al Khums",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qab\u012blat al Khums"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2214263
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"3cf66a6639c857e6924e6cfe8cd90080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1260198057,
+            "region_id":85673575
+        }
+    ],
+    "wof:id":1260198057,
+    "wof:lastmodified":1537663278,
+    "wof:name":"Qabilat al Khums",
+    "wof:parent_id":85673575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.20158,
+    32.65696,
+    14.20158,
+    32.65696
+],
+  "geometry": {"coordinates":[14.20158,32.65696],"type":"Point"}
+}

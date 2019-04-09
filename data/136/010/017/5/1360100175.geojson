@@ -1,0 +1,70 @@
+{
+  "id": 1360100175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.05,31.78333,14.05,31.78333",
+    "geom:latitude":31.78333,
+    "geom:longitude":14.05,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Al Fuqaha'",
+    "gn:country_code":"LY",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2220081,
+    "gn:latitude":31.78333,
+    "gn:longitude":14.05,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Al Fuqah\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Faga",
+        "El F\u00f3gha",
+        "Al Fuqah\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2220081
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"d7d6a8915e19f44171cfca5170cdcef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1360100175,
+            "region_id":85673593
+        }
+    ],
+    "wof:id":1360100175,
+    "wof:lastmodified":1537663301,
+    "wof:name":"Al Fuqaha'",
+    "wof:parent_id":85673593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.05,
+    31.78333,
+    14.05,
+    31.78333
+],
+  "geometry": {"coordinates":[14.05,31.78333],"type":"Point"}
+}

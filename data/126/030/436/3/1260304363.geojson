@@ -1,0 +1,73 @@
+{
+  "id": 1260304363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.03333,32.25,13.03333,32.25",
+    "geom:latitude":32.25,
+    "geom:longitude":13.03333,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Qabilat ar Rahbah",
+    "gn:country_code":"LY",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2214251,
+    "gn:latitude":32.25,
+    "gn:longitude":13.03333,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Qab\u012blat ar Ra\u1e29bah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rahba",
+        "Qab\u012blat ar Ra\u1e29ban",
+        "Ar Ra\u1e29bah",
+        "R\u00e1bha",
+        "Er-R\u00e0hba",
+        "Qab\u012blat ar Ra\u1e29bah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2214251
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"f5b32ad335e23cb6a469498c7dc82e57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1260304363,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1260304363,
+    "wof:lastmodified":1537663277,
+    "wof:name":"Qabilat ar Rahbah",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.03333,
+    32.25,
+    13.03333,
+    32.25
+],
+  "geometry": {"coordinates":[13.03333,32.25],"type":"Point"}
+}

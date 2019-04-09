@@ -1,0 +1,65 @@
+{
+  "id": 1259401269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.86335,32.82674,21.86335,32.82674",
+    "geom:latitude":32.82674,
+    "geom:longitude":21.86335,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Shahat",
+    "gn:country_code":"LY",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8410832,
+    "gn:latitude":32.82674,
+    "gn:longitude":21.86335,
+    "gn:modification_date":"2012-10-26",
+    "gn:name":"Shahat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8410832
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"f042806f99649c3b4ce856d5f24243c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1259401269,
+            "region_id":85673627
+        }
+    ],
+    "wof:id":1259401269,
+    "wof:lastmodified":1536976247,
+    "wof:name":"Shahat",
+    "wof:parent_id":85673627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.86335,
+    32.82674,
+    21.86335,
+    32.82674
+],
+  "geometry": {"coordinates":[21.86335,32.82674],"type":"Point"}
+}

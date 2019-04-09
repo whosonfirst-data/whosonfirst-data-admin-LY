@@ -1,0 +1,70 @@
+{
+  "id": 1243282497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.1025,32.16167,13.1025,32.16167",
+    "geom:latitude":32.16167,
+    "geom:longitude":13.1025,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Qabilah",
+    "gn:country_code":"LY",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2214283,
+    "gn:latitude":32.16167,
+    "gn:longitude":13.1025,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Qab\u012blah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ben Mah\u00e0nna",
+        "Qab\u012blat",
+        "Qab\u012blah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2214283
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"d9906c6705d9e46c0476e5da7380dda5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1243282497,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1243282497,
+    "wof:lastmodified":1537663279,
+    "wof:name":"Qabilah",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.1025,
+    32.16167,
+    13.1025,
+    32.16167
+],
+  "geometry": {"coordinates":[13.1025,32.16167],"type":"Point"}
+}

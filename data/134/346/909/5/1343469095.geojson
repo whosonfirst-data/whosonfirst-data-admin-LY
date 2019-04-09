@@ -1,0 +1,70 @@
+{
+  "id": 1343469095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16549,32.3755,15.16549,32.3755",
+    "geom:latitude":32.3755,
+    "geom:longitude":15.16549,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Ash Shawati",
+    "gn:country_code":"LY",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219411,
+    "gn:latitude":32.3755,
+    "gn:longitude":15.16549,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Ash Shaw\u0101\u0163\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suad",
+        "Ash Shuwa\u0163\u012b",
+        "Ash Shaw\u0101\u0163\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219411
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"be9ca881a155b9cb8080d400e30ac5a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1343469095,
+            "region_id":85673593
+        }
+    ],
+    "wof:id":1343469095,
+    "wof:lastmodified":1537663292,
+    "wof:name":"Ash Shawati",
+    "wof:parent_id":85673593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.16549,
+    32.3755,
+    15.16549,
+    32.3755
+],
+  "geometry": {"coordinates":[15.16549,32.3755],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260193265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.40958,32.48573,21.40958,32.48573",
+    "geom:latitude":32.48573,
+    "geom:longitude":21.40958,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Marawah",
+    "gn:country_code":"LY",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":85110,
+    "gn:latitude":32.48573,
+    "gn:longitude":21.40958,
+    "gn:modification_date":"2018-04-05",
+    "gn:name":"Mar\u0101wah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar\u00e1ua",
+        "Mar\u0101wah",
+        "\u0645\u0631\u0627\u0648\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":85110
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"9d2f67d23de6a14b29a56b06dc343451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1260193265,
+            "region_id":85673627
+        }
+    ],
+    "wof:id":1260193265,
+    "wof:lastmodified":1537663250,
+    "wof:name":"Marawah",
+    "wof:parent_id":85673627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.40958,
+    32.48573,
+    21.40958,
+    32.48573
+],
+  "geometry": {"coordinates":[21.40958,32.48573],"type":"Point"}
+}

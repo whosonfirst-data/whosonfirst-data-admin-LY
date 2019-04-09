@@ -1,0 +1,65 @@
+{
+  "id": 1193147413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.7,28.5,12.7,28.5",
+    "geom:latitude":28.5,
+    "geom:longitude":12.7,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"`Uwaynat Wanin",
+    "gn:country_code":"LY",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2209071,
+    "gn:latitude":28.5,
+    "gn:longitude":12.7,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"\u2018Uwayn\u0101t Wan\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2209071
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"87024147e8b2541468ade9abd3dad8e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1193147413,
+            "region_id":85673579
+        }
+    ],
+    "wof:id":1193147413,
+    "wof:lastmodified":1536381891,
+    "wof:name":"`Uwaynat Wanin",
+    "wof:parent_id":85673579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.7,
+    28.5,
+    12.7,
+    28.5
+],
+  "geometry": {"coordinates":[12.7,28.5],"type":"Point"}
+}

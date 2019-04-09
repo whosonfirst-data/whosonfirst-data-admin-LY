@@ -1,0 +1,71 @@
+{
+  "id": 1343571715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.62726,27.20738,14.62726,27.20738",
+    "geom:latitude":27.20738,
+    "geom:longitude":14.62726,
+    "gn:admin1_code":"75",
+    "gn:asciiname":"Tamanhint",
+    "gn:country_code":"LY",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2210329,
+    "gn:latitude":27.20738,
+    "gn:longitude":14.62726,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Tamanhint",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Temenhint",
+        "Tamanhant",
+        "Tamanhint",
+        "\u062a\u0645\u0646\u0647\u0646\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2210329
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"996e688f3db5b0e10fb800a807d798d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1343571715,
+            "region_id":85673597
+        }
+    ],
+    "wof:id":1343571715,
+    "wof:lastmodified":1537663262,
+    "wof:name":"Tamanhint",
+    "wof:parent_id":85673597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.62726,
+    27.20738,
+    14.62726,
+    27.20738
+],
+  "geometry": {"coordinates":[14.62726,27.20738],"type":"Point"}
+}

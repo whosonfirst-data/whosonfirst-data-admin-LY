@@ -1,0 +1,73 @@
+{
+  "id": 1310024311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.54302,32.05572,11.54302,32.05572",
+    "geom:latitude":32.05572,
+    "geom:longitude":11.54302,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Qaryat al Qi`an",
+    "gn:country_code":"LY",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2218924,
+    "gn:latitude":32.05572,
+    "gn:longitude":11.54302,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Qaryat al Q\u012b\u2018\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u0642\u064a\u0639\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Badr",
+        "Qaryat al Q\u012b\u2018\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2218924,
+        "wk:page":"Badr%2C_Libya"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"b45005f49003b4f88d22dc9b7c624cf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1310024311,
+            "region_id":85673563
+        }
+    ],
+    "wof:id":1310024311,
+    "wof:lastmodified":1537663287,
+    "wof:name":"Qaryat al Qi`an",
+    "wof:parent_id":85673563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.54302,
+    32.05572,
+    11.54302,
+    32.05572
+],
+  "geometry": {"coordinates":[11.54302,32.05572],"type":"Point"}
+}

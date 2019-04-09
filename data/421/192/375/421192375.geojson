@@ -1,0 +1,85 @@
+{
+  "id": 421192375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.06248,32.08507,20.06248,32.08507",
+    "geom:latitude":32.08507,
+    "geom:longitude":20.06248,
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0631 \u0627\u0644\u0643\u064a\u0634"
+    ],
+    "name:ara_x_variant":[
+        "Al K\u012bsh",
+        "\u0627\u0644\u0643\u064a\u0634"
+    ],
+    "name:unk_x_variant":[
+        "Dar el-K\u00ecsh"
+    ],
+    "qs:gn_country":"LY",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":87218,
+    "qs:gn_pop":0,
+    "qs:name":"D\u0101r al K\u012bsh",
+    "qs:name_adm0":"Libya",
+    "qs:name_adm1":"Banghazi",
+    "qs:photos":8,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":8,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1168022,
+    "qs:woe_adm0":23424882,
+    "qs:woe_id":1352878,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":87218,
+        "gp:id":1352878,
+        "qs:id":1168022
+    },
+    "wof:country":"LY",
+    "wof:created":1459009734,
+    "wof:geomhash":"719247137faa33d5d4b4363afef0fa2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":-1,
+            "neighbourhood_id":421192375,
+            "region_id":85673635
+        }
+    ],
+    "wof:id":421192375,
+    "wof:lastmodified":1531858683,
+    "wof:name":"D\u0101r al K\u012bsh",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.06248,
+    32.08507,
+    20.06248,
+    32.08507
+],
+  "geometry": {"coordinates":[20.06248,32.08507],"type":"Point"}
+}

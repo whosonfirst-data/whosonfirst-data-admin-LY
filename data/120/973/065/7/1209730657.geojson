@@ -1,0 +1,76 @@
+{
+  "id": 1209730657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.26667,29.98333,14.26667,29.98333",
+    "geom:latitude":29.98333,
+    "geom:longitude":14.26667,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Ash Shuwayrif",
+    "gn:country_code":"LY",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219396,
+    "gn:latitude":29.98333,
+    "gn:longitude":14.26667,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Ash Shuwayrif",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sciuref",
+        "Bir esc-Sciueref",
+        "Ash-Shuwairif",
+        "Esc Sciu\u00e8re",
+        "Ash Shurayf",
+        "Bi\u2019r ash Shuwayrif",
+        "Esc Sciueref",
+        "Ash Shuwayrif",
+        "\u0627\u0644\u0634\u0648\u064a\u0631\u0641"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219396
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"4cc491021e34f164ebd05ef224376eb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1209730657,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1209730657,
+    "wof:lastmodified":1537663291,
+    "wof:name":"Ash Shuwayrif",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.26667,
+    29.98333,
+    14.26667,
+    29.98333
+],
+  "geometry": {"coordinates":[14.26667,29.98333],"type":"Point"}
+}

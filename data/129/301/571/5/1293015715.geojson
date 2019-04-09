@@ -1,0 +1,72 @@
+{
+  "id": 1293015715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.02735,27.50877,15.02735,27.50877",
+    "geom:latitude":27.50877,
+    "geom:longitude":15.02735,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Umm al Ahrar",
+    "gn:country_code":"LY",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2209681,
+    "gn:latitude":27.50877,
+    "gn:longitude":15.02735,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Umm al A\u1e29r\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0644\u0623\u062d\u0631\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Umm al A\u1e29r\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2209681,
+        "wk:page":"Umm_al_Ahrar"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"7a0cb0fcae27a1eadbcb63734052ee8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1293015715,
+            "region_id":85673597
+        }
+    ],
+    "wof:id":1293015715,
+    "wof:lastmodified":1537663259,
+    "wof:name":"Umm al Ahrar",
+    "wof:parent_id":85673597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.02735,
+    27.50877,
+    15.02735,
+    27.50877
+],
+  "geometry": {"coordinates":[15.02735,27.50877],"type":"Point"}
+}

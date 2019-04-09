@@ -1,0 +1,80 @@
+{
+  "id": 421169929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.2857,24.20487,23.2857,24.20487",
+    "geom:latitude":24.20487,
+    "geom:longitude":23.2857,
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Et Tag"
+    ],
+    "qs:gn_country":"LY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":88562,
+    "qs:gn_pop":46050,
+    "qs:name":"At Taj",
+    "qs:name_adm0":"Libya",
+    "qs:name_adm1":"\u0627\u0644\u0643\u0641\u0631\u0629",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":780306,
+    "qs:woe_adm0":23424882,
+    "qs:woe_id":1352752,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":88562,
+        "gp:id":1352752,
+        "qs:id":780306
+    },
+    "wof:country":"LY",
+    "wof:created":1459008830,
+    "wof:geomhash":"8673b7331cd2e6f39f46b866d2ae403f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":421169929,
+            "region_id":85673571
+        }
+    ],
+    "wof:id":421169929,
+    "wof:lastmodified":1505340598,
+    "wof:name":"At Taj",
+    "wof:parent_id":85673571,
+    "wof:placetype":"locality",
+    "wof:population":46050,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.2857,
+    24.20487,
+    23.2857,
+    24.20487
+],
+  "geometry": {"coordinates":[23.2857,24.20487],"type":"Point"}
+}

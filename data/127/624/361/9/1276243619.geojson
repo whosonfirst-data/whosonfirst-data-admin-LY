@@ -1,0 +1,69 @@
+{
+  "id": 1276243619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.09088,32.38249,15.09088,32.38249",
+    "geom:latitude":32.38249,
+    "geom:longitude":15.09088,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Qaryat Ra's ath Thumah",
+    "gn:country_code":"LY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2213839,
+    "gn:latitude":32.38249,
+    "gn:longitude":15.09088,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Qaryat Ra\u2019s ath Th\u016bmah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qaryat R\u0101\u2019s at T\u016bmah",
+        "Qaryat Ra\u2019s ath Th\u016bmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2213839
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"c72a87232f145715bebd1e2f217eb032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1276243619,
+            "region_id":85673593
+        }
+    ],
+    "wof:id":1276243619,
+    "wof:lastmodified":1537663268,
+    "wof:name":"Qaryat Ra's ath Thumah",
+    "wof:parent_id":85673593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.09088,
+    32.38249,
+    15.09088,
+    32.38249
+],
+  "geometry": {"coordinates":[15.09088,32.38249],"type":"Point"}
+}

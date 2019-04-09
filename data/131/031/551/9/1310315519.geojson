@@ -1,0 +1,77 @@
+{
+  "id": 1310315519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.78266,29.06941,15.78266,29.06941",
+    "geom:latitude":29.06941,
+    "geom:longitude":15.78266,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Suknah",
+    "gn:country_code":"LY",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2210627,
+    "gn:latitude":29.06941,
+    "gn:longitude":15.78266,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"S\u016bknah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0643\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Miani",
+        "Sawknah",
+        "Soknah",
+        "Sawkanah",
+        "Socna",
+        "S\u016bknah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2210627,
+        "wk:page":"Sokna%2C_Libya"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"1355f30cc7a5fa21aae423644257e90b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1310315519,
+            "region_id":85673567
+        }
+    ],
+    "wof:id":1310315519,
+    "wof:lastmodified":1537663264,
+    "wof:name":"Suknah",
+    "wof:parent_id":85673567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.78266,
+    29.06941,
+    15.78266,
+    29.06941
+],
+  "geometry": {"coordinates":[15.78266,29.06941],"type":"Point"}
+}

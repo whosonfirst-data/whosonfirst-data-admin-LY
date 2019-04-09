@@ -1,0 +1,70 @@
+{
+  "id": 1226656465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.35375,27.58595,14.35375,27.58595",
+    "geom:latitude":27.58595,
+    "geom:longitude":14.35375,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Qirah",
+    "gn:country_code":"LY",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2213371,
+    "gn:latitude":27.58595,
+    "gn:longitude":14.35375,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Q\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghira",
+        "Q\u012brah",
+        "\u0642\u064a\u0631\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2213371
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"956b57a5559e5519ae4b70525ca08680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1226656465,
+            "region_id":85673579
+        }
+    ],
+    "wof:id":1226656465,
+    "wof:lastmodified":1537663266,
+    "wof:name":"Qirah",
+    "wof:parent_id":85673579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.35375,
+    27.58595,
+    14.35375,
+    27.58595
+],
+  "geometry": {"coordinates":[14.35375,27.58595],"type":"Point"}
+}

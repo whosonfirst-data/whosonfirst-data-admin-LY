@@ -1,0 +1,69 @@
+{
+  "id": 1242892607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.36667,31.05,12.36667,31.05",
+    "geom:latitude":31.05,
+    "geom:longitude":12.36667,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Qabilat az Zintan al `Umyan",
+    "gn:country_code":"LY",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2214226,
+    "gn:latitude":31.05,
+    "gn:longitude":12.36667,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Qab\u012blat az Zint\u0101n al \u2018Umy\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qab\u012blat az Zint\u0101n al \u2018Amy\u0101n",
+        "Qab\u012blat az Zint\u0101n al \u2018Umy\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2214226
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"f6da14c594a441c6138eaab9ac9b157d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1242892607,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1242892607,
+    "wof:lastmodified":1537663275,
+    "wof:name":"Qabilat az Zintan al `Umyan",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.36667,
+    31.05,
+    12.36667,
+    31.05
+],
+  "geometry": {"coordinates":[12.36667,31.05],"type":"Point"}
+}

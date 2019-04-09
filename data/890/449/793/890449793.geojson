@@ -1,0 +1,95 @@
+{
+  "id": 890449793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.12022,30.9522,20.12022,30.9522",
+    "geom:latitude":30.9522,
+    "geom:longitude":20.12022,
+    "gn:country":"LY",
+    "gn:fcode":"PPL",
+    "gn:pop":21015,
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0648\u064a\u062a\u064a\u0646\u0629"
+    ],
+    "name:chi_x_preferred":[
+        "\u7956\u57c3\u63d0\u7d0d"
+    ],
+    "name:dut_x_preferred":[
+        "Zuwetina"
+    ],
+    "name:eng_x_preferred":[
+        "Zuwetina"
+    ],
+    "name:epo_x_preferred":[
+        "Zuvaitina"
+    ],
+    "name:fre_x_preferred":[
+        "Zuwetina"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d4\u10d6-\u10d6\u10e3\u10d5\u10d0\u10d8\u10d7\u10d8\u10dc\u10d0"
+    ],
+    "name:ita_x_preferred":[
+        "Zueitina"
+    ],
+    "name:lit_x_preferred":[
+        "Zuvaitina"
+    ],
+    "name:unk_x_variant":[
+        "Zueitina"
+    ],
+    "qs:name":"Az Zuwayt\u012bnah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":88380,
+        "gp:id":12514682,
+        "qs:id":61777,
+        "wd:id":"Q3645598"
+    },
+    "wof:country":"LY",
+    "wof:created":1469052711,
+    "wof:geomhash":"01bac49950369ddb8b0edad25ee11280",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":890449793,
+            "region_id":85673631
+        }
+    ],
+    "wof:id":890449793,
+    "wof:lastmodified":1514484205,
+    "wof:name":"Az Zuwayt\u012bnah",
+    "wof:parent_id":85673631,
+    "wof:placetype":"locality",
+    "wof:population":21015,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.12022,
+    30.9522,
+    20.12022,
+    30.9522
+],
+  "geometry": {"coordinates":[20.12022,30.9522],"type":"Point"}
+}

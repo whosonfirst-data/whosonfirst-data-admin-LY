@@ -1,0 +1,70 @@
+{
+  "id": 1293697235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.30551,32.00934,12.30551,32.00934",
+    "geom:latitude":32.00934,
+    "geom:longitude":12.30551,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Al Fawadil",
+    "gn:country_code":"LY",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2220088,
+    "gn:latitude":32.00934,
+    "gn:longitude":12.30551,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Al Faw\u0101\u1e11il",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Fu\u00e1del",
+        "Baldat at Faw\u0101\u1e11il",
+        "Al Faw\u0101\u1e11il"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2220088
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"c0c964750797d1ca36745a237f673730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1293697235,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1293697235,
+    "wof:lastmodified":1537663302,
+    "wof:name":"Al Fawadil",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.30551,
+    32.00934,
+    12.30551,
+    32.00934
+],
+  "geometry": {"coordinates":[12.30551,32.00934],"type":"Point"}
+}

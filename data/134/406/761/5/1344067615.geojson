@@ -1,0 +1,70 @@
+{
+  "id": 1344067615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.7372,26.13386,14.7372,26.13386",
+    "geom:latitude":26.13386,
+    "geom:longitude":14.7372,
+    "gn:admin1_code":"73",
+    "gn:asciiname":"Umm al Aranib",
+    "gn:country_code":"LY",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2209662,
+    "gn:latitude":26.13386,
+    "gn:longitude":14.7372,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Umm al Ar\u0101nib",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm el Araneb",
+        "Umm al Ar\u0101nib",
+        "\u0623\u0645 \u0627\u0644\u0623\u0631\u0627\u0646\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2209662
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"de67e15354dfbeab993718d3143f75ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1344067615,
+            "region_id":85673589
+        }
+    ],
+    "wof:id":1344067615,
+    "wof:lastmodified":1537663259,
+    "wof:name":"Umm al Aranib",
+    "wof:parent_id":85673589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.7372,
+    26.13386,
+    14.7372,
+    26.13386
+],
+  "geometry": {"coordinates":[14.7372,26.13386],"type":"Point"}
+}

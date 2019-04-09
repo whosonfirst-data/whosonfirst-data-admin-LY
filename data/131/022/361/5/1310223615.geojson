@@ -1,0 +1,65 @@
+{
+  "id": 1310223615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.23114,32.28238,20.23114,32.28238",
+    "geom:latitude":32.28238,
+    "geom:longitude":20.23114,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Hishan al `Aryat",
+    "gn:country_code":"LY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":86343,
+    "gn:latitude":32.28238,
+    "gn:longitude":20.23114,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"\u1e28\u012bsh\u0101n al \u2018Ary\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":86343
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"8374dbc1fe31a8cbd7669c7f86a9d014",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1310223615,
+            "region_id":85673635
+        }
+    ],
+    "wof:id":1310223615,
+    "wof:lastmodified":1536825175,
+    "wof:name":"Hishan al `Aryat",
+    "wof:parent_id":85673635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.23114,
+    32.28238,
+    20.23114,
+    32.28238
+],
+  "geometry": {"coordinates":[20.23114,32.28238],"type":"Point"}
+}

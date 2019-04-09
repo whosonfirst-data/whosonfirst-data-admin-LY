@@ -1,0 +1,71 @@
+{
+  "id": 1293604333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.29343,32.81368,22.29343,32.81368",
+    "geom:latitude":32.81368,
+    "geom:longitude":22.29343,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Zawiyat al Habib",
+    "gn:country_code":"LY",
+    "gn:dem":572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":80641,
+    "gn:latitude":32.81368,
+    "gn:longitude":22.29343,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Z\u0101wiyat al \u1e28ab\u012bb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u0101wiyat al Mar\u0101z\u012bq",
+        "Z\u00e0uiet el-Maraz\u00ecgh",
+        "Zawiat al-Maraziq",
+        "Z\u0101wiyat al \u1e28ab\u012bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":80641
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"896a5eecfd77bdf66413e02ffabf7cec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1293604333,
+            "region_id":85673663
+        }
+    ],
+    "wof:id":1293604333,
+    "wof:lastmodified":1537663245,
+    "wof:name":"Zawiyat al Habib",
+    "wof:parent_id":85673663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.29343,
+    32.81368,
+    22.29343,
+    32.81368
+],
+  "geometry": {"coordinates":[22.29343,32.81368],"type":"Point"}
+}

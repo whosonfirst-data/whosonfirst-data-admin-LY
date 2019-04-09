@@ -1,0 +1,69 @@
+{
+  "id": 1326449125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.23742,31.95131,12.23742,31.95131",
+    "geom:latitude":31.95131,
+    "geom:longitude":12.23742,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Ash Sha`biniyah",
+    "gn:country_code":"LY",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219424,
+    "gn:latitude":31.95131,
+    "gn:longitude":12.23742,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Ash Sha\u2018bin\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "As Sha\u2018b\u012bn\u012byah",
+        "Ash Sha\u2018bin\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219424
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"9a573cab7fa2dae775630c821b02c64f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1326449125,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1326449125,
+    "wof:lastmodified":1537663292,
+    "wof:name":"Ash Sha`biniyah",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.23742,
+    31.95131,
+    12.23742,
+    31.95131
+],
+  "geometry": {"coordinates":[12.23742,31.95131],"type":"Point"}
+}

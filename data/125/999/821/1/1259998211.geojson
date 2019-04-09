@@ -1,0 +1,69 @@
+{
+  "id": 1259998211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.99365,32.15102,12.99365,32.15102",
+    "geom:latitude":32.15102,
+    "geom:longitude":12.99365,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Awlad Bin Ya`qub",
+    "gn:country_code":"LY",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219168,
+    "gn:latitude":32.15102,
+    "gn:longitude":12.99365,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Awl\u0101d Bin Ya\u2018q\u016bb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ben Iaagub",
+        "Awl\u0101d Bin Ya\u2018q\u016bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219168
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"26742edf9eecfb2134403e985a4d8342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1259998211,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1259998211,
+    "wof:lastmodified":1537663289,
+    "wof:name":"Awlad Bin Ya`qub",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.99365,
+    32.15102,
+    12.99365,
+    32.15102
+],
+  "geometry": {"coordinates":[12.99365,32.15102],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343873435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.99826,26.75777,13.99826,26.75777",
+    "geom:latitude":26.75777,
+    "geom:longitude":13.99826,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Al Abyad",
+    "gn:country_code":"LY",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2220194,
+    "gn:latitude":26.75777,
+    "gn:longitude":13.99826,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Al Abya\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u0628\u064a\u0636"
+    ],
+    "name:und_x_variant":[
+        "El Abiad",
+        "Al Abya\u1e11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2220194
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"3caab8ee608ecea4db7a4eceed7b6df9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1343873435,
+            "region_id":85673669
+        }
+    ],
+    "wof:id":1343873435,
+    "wof:lastmodified":1537663303,
+    "wof:name":"Al Abyad",
+    "wof:parent_id":85673669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.99826,
+    26.75777,
+    13.99826,
+    26.75777
+],
+  "geometry": {"coordinates":[13.99826,26.75777],"type":"Point"}
+}

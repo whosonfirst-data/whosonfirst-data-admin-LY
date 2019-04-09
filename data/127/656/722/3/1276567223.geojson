@@ -1,0 +1,72 @@
+{
+  "id": 1276567223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.06045,32.18418,13.06045,32.18418",
+    "geom:latitude":32.18418,
+    "geom:longitude":13.06045,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Al Qawasim",
+    "gn:country_code":"LY",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219736,
+    "gn:latitude":32.18418,
+    "gn:longitude":13.06045,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Al Qaw\u0101sim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qaryat al Qaw\u0101sim",
+        "Gu\u00e1sem",
+        "El-Gu\u00e1sem",
+        "Guassem",
+        "Al Qaw\u0101sim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219736
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"e93375eff740466297a9e837f2b97ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1276567223,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1276567223,
+    "wof:lastmodified":1537663296,
+    "wof:name":"Al Qawasim",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.06045,
+    32.18418,
+    13.06045,
+    32.18418
+],
+  "geometry": {"coordinates":[13.06045,32.18418],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309818859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.58998,32.41971,14.58998,32.41971",
+    "geom:latitude":32.41971,
+    "geom:longitude":14.58998,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Qaryat al Wuqayyat",
+    "gn:country_code":"LY",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2213911,
+    "gn:latitude":32.41971,
+    "gn:longitude":14.58998,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Qaryat al Wuqayy\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u0648\u0642\u064a\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "Al Wuqayy\u0101t",
+        "Qaryat al Wiqayy\u0101t",
+        "Qaryat al Wuqayy\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2213911
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"a8c0e5bfdc17f84b3cb79f6d1111625c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1309818859,
+            "region_id":85673593
+        }
+    ],
+    "wof:id":1309818859,
+    "wof:lastmodified":1537663271,
+    "wof:name":"Qaryat al Wuqayyat",
+    "wof:parent_id":85673593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.58998,
+    32.41970999999999,
+    14.58998,
+    32.41970999999999
+],
+  "geometry": {"coordinates":[14.58998,32.41970999999999],"type":"Point"}
+}

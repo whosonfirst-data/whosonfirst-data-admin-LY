@@ -1,0 +1,65 @@
+{
+  "id": 1225962833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.03207,31.93102,20.03207,31.93102",
+    "geom:latitude":31.93102,
+    "geom:longitude":20.03207,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Qasr al `Urayyid",
+    "gn:country_code":"LY",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":83981,
+    "gn:latitude":31.93102,
+    "gn:longitude":20.03207,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Qa\u015fr al \u2018Urayyi\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":83981
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"fec36ba076057dbae911d197f6af33ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1225962833,
+            "region_id":85673635
+        }
+    ],
+    "wof:id":1225962833,
+    "wof:lastmodified":1536843583,
+    "wof:name":"Qasr al `Urayyid",
+    "wof:parent_id":85673635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.03207,
+    31.93102,
+    20.03207,
+    31.93102
+],
+  "geometry": {"coordinates":[20.03207,31.93102],"type":"Point"}
+}

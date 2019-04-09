@@ -1,0 +1,74 @@
+{
+  "id": 1210026867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.17365,31.58883,20.17365,31.58883",
+    "geom:latitude":31.58883,
+    "geom:longitude":20.17365,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Zawiyat at Tilimun",
+    "gn:country_code":"LY",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":80627,
+    "gn:latitude":31.58883,
+    "gn:longitude":20.17365,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Z\u0101wiyat a\u0163 \u0162\u012bl\u012bm\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0627\u0648\u064a\u0629 \u0627\u0644\u0637\u064a\u0644\u064a\u0645\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Et Tailimun",
+        "Tilimun",
+        "Z\u0101wiyat a\u0163 \u0162il\u012bm\u016bn",
+        "Z\u0101wiyat a\u0163 \u0162\u012bl\u012bm\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":80627
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"f8f61e0495fe64687d4b7d3f50d9fa47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1210026867,
+            "region_id":85673635
+        }
+    ],
+    "wof:id":1210026867,
+    "wof:lastmodified":1537663245,
+    "wof:name":"Zawiyat at Tilimun",
+    "wof:parent_id":85673635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.17365,
+    31.58883,
+    20.17365,
+    31.58883
+],
+  "geometry": {"coordinates":[20.17365,31.58883],"type":"Point"}
+}

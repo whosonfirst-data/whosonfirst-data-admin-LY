@@ -1,0 +1,78 @@
+{
+  "id": 1226762731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.27845,32.16005,22.27845,32.16005",
+    "geom:latitude":32.16005,
+    "geom:longitude":22.27845,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Mukhayla",
+    "gn:country_code":"LY",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":80635,
+    "gn:latitude":32.16005,
+    "gn:longitude":22.27845,
+    "gn:modification_date":"2018-04-05",
+    "gn:name":"Mukhayl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062e\u064a\u0644\u0649"
+    ],
+    "name:und_x_variant":[
+        "Al Mak\u012bl\u012b",
+        "Z\u0101wiyat al Makh\u012bl",
+        "Mechili",
+        "El-Mech\u00ecli",
+        "Z\u0101wiyat al Mukhayl\u00e1",
+        "Mukhayl\u00e1",
+        "Al Mukhayl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":80635,
+        "wk:page":"Mechili"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"44e88bffc374ea04072f1b0909946ac3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1226762731,
+            "region_id":85673663
+        }
+    ],
+    "wof:id":1226762731,
+    "wof:lastmodified":1537663245,
+    "wof:name":"Mukhayla",
+    "wof:parent_id":85673663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.27845,
+    32.16005,
+    22.27845,
+    32.16005
+],
+  "geometry": {"coordinates":[22.27845,32.16005],"type":"Point"}
+}

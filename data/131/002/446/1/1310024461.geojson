@@ -1,0 +1,71 @@
+{
+  "id": 1310024461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.10778,32.86972,13.10778,32.86972",
+    "geom:latitude":32.86972,
+    "geom:longitude":13.10778,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Qarqarish",
+    "gn:country_code":"LY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2213973,
+    "gn:latitude":32.86972,
+    "gn:longitude":13.10778,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Qarq\u0101rish",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garg\u00e1resc",
+        "Gargaresh",
+        "Gargarech",
+        "Qarq\u0101rish"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2213973
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"e4d331b5eb4397d74c55dcdd10f55d95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1310024461,
+            "region_id":85673621
+        }
+    ],
+    "wof:id":1310024461,
+    "wof:lastmodified":1537663273,
+    "wof:name":"Qarqarish",
+    "wof:parent_id":85673621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.10778,
+    32.86972,
+    13.10778,
+    32.86972
+],
+  "geometry": {"coordinates":[13.10778,32.86972],"type":"Point"}
+}

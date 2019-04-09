@@ -1,0 +1,65 @@
+{
+  "id": 1276668397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.11889,32.39181,15.11889,32.39181",
+    "geom:latitude":32.39181,
+    "geom:longitude":15.11889,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Qaryat at Tawalikiyah",
+    "gn:country_code":"LY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2213913,
+    "gn:latitude":32.39181,
+    "gn:longitude":15.11889,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Qaryat at Taw\u0101lik\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2213913
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"d09b4922c9469d767ef81ffd74448057",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1276668397,
+            "region_id":85673593
+        }
+    ],
+    "wof:id":1276668397,
+    "wof:lastmodified":1536825795,
+    "wof:name":"Qaryat at Tawalikiyah",
+    "wof:parent_id":85673593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.11889,
+    32.39181,
+    15.11889,
+    32.39181
+],
+  "geometry": {"coordinates":[15.11889,32.39181],"type":"Point"}
+}

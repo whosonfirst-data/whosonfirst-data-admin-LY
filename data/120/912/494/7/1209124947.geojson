@@ -1,0 +1,66 @@
+{
+  "id": 1209124947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.51667,29.05,21.51667,29.05",
+    "geom:latitude":29.05,
+    "geom:longitude":21.51667,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Al Hiri",
+    "gn:country_code":"LY",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":88999,
+    "gn:latitude":29.05,
+    "gn:longitude":21.51667,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Al H\u012br\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Hiri",
+        "Al H\u012br\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":88999,
+        "wk:page":"Al_Hiri"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"39b0213faef273ed1ef14d24bcf89b61",
+    "wof:hierarchy":[
+        {
+            "country_id":85632627,
+            "locality_id":1209124947
+        }
+    ],
+    "wof:id":1209124947,
+    "wof:lastmodified":1537663255,
+    "wof:name":"Al Hiri",
+    "wof:parent_id":85632627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.51667,
+    29.05,
+    21.51667,
+    29.05
+],
+  "geometry": {"coordinates":[21.51667,29.05],"type":"Point"}
+}

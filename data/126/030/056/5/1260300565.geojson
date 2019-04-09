@@ -1,0 +1,71 @@
+{
+  "id": 1260300565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.87361,32.63278,12.87361,32.63278",
+    "geom:latitude":32.63278,
+    "geom:longitude":12.87361,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"An Nasiriyah",
+    "gn:country_code":"LY",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219591,
+    "gn:latitude":32.63278,
+    "gn:longitude":12.87361,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"An N\u0101\u015fir\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Giordani",
+        "An Nasariya",
+        "Jurd\u0101n\u012b",
+        "An N\u0101\u015fir\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219591
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"181032a7c84fe72f85feb2b50f9bc213",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1260300565,
+            "region_id":85673605
+        }
+    ],
+    "wof:id":1260300565,
+    "wof:lastmodified":1537663294,
+    "wof:name":"An Nasiriyah",
+    "wof:parent_id":85673605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.87361,
+    32.63278,
+    12.87361,
+    32.63278
+],
+  "geometry": {"coordinates":[12.87361,32.63278],"type":"Point"}
+}

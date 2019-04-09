@@ -1,0 +1,71 @@
+{
+  "id": 1310712333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.75498,31.5175,14.75498,31.5175",
+    "geom:latitude":31.5175,
+    "geom:longitude":14.75498,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"As Sidadah",
+    "gn:country_code":"LY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219376,
+    "gn:latitude":31.5175,
+    "gn:longitude":14.75498,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"As Sid\u0101dah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sedada",
+        "As Sid\u0101dah",
+        "As Sadd\u0101dah",
+        "\u0627\u0644\u0633\u062f\u0627\u062f\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219376
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"7e75435df59655a25200bf0e4b0c4e83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1310712333,
+            "region_id":85673593
+        }
+    ],
+    "wof:id":1310712333,
+    "wof:lastmodified":1537663291,
+    "wof:name":"As Sidadah",
+    "wof:parent_id":85673593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.75498,
+    31.5175,
+    14.75498,
+    31.5175
+],
+  "geometry": {"coordinates":[14.75498,31.5175],"type":"Point"}
+}

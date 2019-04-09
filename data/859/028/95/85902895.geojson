@@ -1,0 +1,117 @@
+{
+  "id": 85902895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":22188665.853008,
+    "geom:bbox":"13.160648,32.881086,13.160648,32.881086",
+    "geom:latitude":32.881086,
+    "geom:longitude":13.160648,
+    "gn:latitude":32.88194,
+    "gn:longitude":13.155,
+    "iso:country":"LY",
+    "lbl:latitude":32.881086,
+    "lbl:longitude":13.160648,
+    "mps:latitude":32.880339,
+    "mps:longitude":13.150084,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:ara_x_colloquial":[
+        "Baab Qaraqaarish",
+        "Baab Qarqaarish",
+        "Bab Qaraqarish",
+        "Bab Qarqarish"
+    ],
+    "name:ara_x_preferred":[
+        "B\u00e5b Qarq\u00e5rish"
+    ],
+    "name:ara_x_variant":[
+        "Bab Gargaresh",
+        "B\u00e5b Qaraq\u00e5rish",
+        "Tarabulus Bab Qarqarish"
+    ],
+    "name:unk_x_variant":[
+        "Tarabulus Bab Qarqarish",
+        "B\u00e5b Qarq\u00e5rish"
+    ],
+    "qs:gn_adm0_cc":"LY",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2210247,
+    "qs:gn_namadm1":"61",
+    "qs:gn_name":"B\u0101b Qarq\u0101rish",
+    "qs:local_max":1516,
+    "qs:local_sum":2595,
+    "qs:localhoods":5,
+    "qs:name":"B\u00e5b Qarq\u00e5rish",
+    "qs:name_adm0":"Libya",
+    "qs:name_adm1":"Tsarrbuus",
+    "qs:name_local":"\u0637\u0631\u0627\u0628\u0644\u0633",
+    "qs:photo_max":183,
+    "qs:photo_sum":857,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":50,
+    "qs:woe_adm0":23424882,
+    "qs:woe_adm1":2346144,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1353281,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2218942,
+        "gp:id":1352817,
+        "qs:id":892305,
+        "qs_pg:id":892305
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"1644b991f4ec6b4e0a1ce552c8736ddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":-1,
+            "neighbourhood_id":85902895,
+            "region_id":85673621
+        }
+    ],
+    "wof:id":85902895,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1531935948,
+    "wof:name":"B\u00e5b Qarq\u00e5rish",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.160648,
+    32.881086,
+    13.160648,
+    32.881086
+],
+  "geometry": {"coordinates":[13.160648,32.881086],"type":"Point"}
+}

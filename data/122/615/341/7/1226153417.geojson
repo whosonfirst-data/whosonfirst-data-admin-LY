@@ -1,0 +1,69 @@
+{
+  "id": 1226153417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.87327,32.67889,12.87327,32.67889",
+    "geom:latitude":32.67889,
+    "geom:longitude":12.87327,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Az Zahra'",
+    "gn:country_code":"LY",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2218983,
+    "gn:latitude":32.67889,
+    "gn:longitude":12.87327,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Az Zahr\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bianchi",
+        "Az Zahr\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2218983
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"32bc78bc891d06fae6a43e643d7bc6ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1226153417,
+            "region_id":85673605
+        }
+    ],
+    "wof:id":1226153417,
+    "wof:lastmodified":1537663288,
+    "wof:name":"Az Zahra'",
+    "wof:parent_id":85673605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.87327,
+    32.67889,
+    12.87327,
+    32.67889
+],
+  "geometry": {"coordinates":[12.87327,32.67889],"type":"Point"}
+}

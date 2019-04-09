@@ -1,0 +1,74 @@
+{
+  "id": 1209830703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.03946,32.57174,14.03946,32.57174",
+    "geom:latitude":32.57174,
+    "geom:longitude":14.03946,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Qabilat Wadinah",
+    "gn:country_code":"LY",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2214209,
+    "gn:latitude":32.57174,
+    "gn:longitude":14.03946,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Qab\u012blat W\u0101dinah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0628\u064a\u0644\u0629 \u0648\u0627\u062f\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "U\u00e1dna",
+        "Qabilat W\u0101dnah",
+        "W\u0101dinah",
+        "Qab\u012blat W\u0101dinah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2214209
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"a7c137d688099fdea767b6b72a4db6de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1209830703,
+            "region_id":85673575
+        }
+    ],
+    "wof:id":1209830703,
+    "wof:lastmodified":1537663274,
+    "wof:name":"Qabilat Wadinah",
+    "wof:parent_id":85673575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.03946,
+    32.57174000000001,
+    14.03946,
+    32.57174000000001
+],
+  "geometry": {"coordinates":[14.03946,32.57174000000001],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1225863667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.12961,32.37278,15.12961,32.37278",
+    "geom:latitude":32.37278,
+    "geom:longitude":15.12961,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Qaryat al Ghawil",
+    "gn:country_code":"LY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2213941,
+    "gn:latitude":32.37278,
+    "gn:longitude":15.12961,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Qaryat al Ghaw\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2213941
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"516ab9bdae1aabeba317c7152ea8b66e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1225863667,
+            "region_id":85673593
+        }
+    ],
+    "wof:id":1225863667,
+    "wof:lastmodified":1536987039,
+    "wof:name":"Qaryat al Ghawil",
+    "wof:parent_id":85673593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.12961,
+    32.37278,
+    15.12961,
+    32.37278
+],
+  "geometry": {"coordinates":[15.12961,32.37278],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226352791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.48047,32.1375,23.48047,32.1375",
+    "geom:latitude":32.1375,
+    "geom:longitude":23.48047,
+    "gn:admin1_code":"79",
+    "gn:asciiname":"Al Qarzabah",
+    "gn:country_code":"LY",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":88849,
+    "gn:latitude":32.1375,
+    "gn:longitude":23.48047,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Al Qarz\u0327abah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u0638\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Qarz\u0327abah",
+        "Al Qar\u1e11abah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":88849
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"ed8c9578e2b40223e75ceebe5e288a2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1226352791,
+            "region_id":85673665
+        }
+    ],
+    "wof:id":1226352791,
+    "wof:lastmodified":1537663254,
+    "wof:name":"Al Qarzabah",
+    "wof:parent_id":85673665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.48047,
+    32.1375,
+    23.48047,
+    32.1375
+],
+  "geometry": {"coordinates":[23.48047,32.1375],"type":"Point"}
+}

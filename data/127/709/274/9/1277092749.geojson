@@ -1,0 +1,69 @@
+{
+  "id": 1277092749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.08309,31.99652,12.08309,31.99652",
+    "geom:latitude":31.99652,
+    "geom:longitude":12.08309,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Ash Shaqqi",
+    "gn:country_code":"LY",
+    "gn:dem":710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219417,
+    "gn:latitude":31.99652,
+    "gn:longitude":12.08309,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Ash Shaqq\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Scef\u00ed",
+        "Ash Shaqq\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219417
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"3874fed67d18e49542458a27d0740542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1277092749,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1277092749,
+    "wof:lastmodified":1537663292,
+    "wof:name":"Ash Shaqqi",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.08309,
+    31.99652,
+    12.08309,
+    31.99652
+],
+  "geometry": {"coordinates":[12.08309,31.99652],"type":"Point"}
+}

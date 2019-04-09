@@ -1,0 +1,69 @@
+{
+  "id": 1360300569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.96012,31.78456,19.96012,31.78456",
+    "geom:latitude":31.78456,
+    "geom:longitude":19.96012,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Qaryat Abu al Ahnash",
+    "gn:country_code":"LY",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2213962,
+    "gn:latitude":31.78456,
+    "gn:longitude":19.96012,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Qaryat Ab\u016b al A\u1e29n\u0101sh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qaryat Ab\u016b A\u1e29n\u0101sh",
+        "Qaryat Ab\u016b al A\u1e29n\u0101sh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2213962
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"4bf59691a95e93a6e200c39044658e79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1360300569,
+            "region_id":85673635
+        }
+    ],
+    "wof:id":1360300569,
+    "wof:lastmodified":1537663273,
+    "wof:name":"Qaryat Abu al Ahnash",
+    "wof:parent_id":85673635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.96012,
+    31.78456,
+    19.96012,
+    31.78456
+],
+  "geometry": {"coordinates":[19.96012,31.78456],"type":"Point"}
+}

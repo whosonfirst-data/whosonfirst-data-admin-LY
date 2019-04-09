@@ -1,0 +1,69 @@
+{
+  "id": 1293211087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.70256,32.05613,12.70256,32.05613",
+    "geom:latitude":32.05613,
+    "geom:longitude":12.70256,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Harqah",
+    "gn:country_code":"LY",
+    "gn:dem":777,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2216859,
+    "gn:latitude":32.05613,
+    "gn:longitude":12.70256,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"\u1e28arqah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gi\u00e0rfet",
+        "\u1e28arqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2216859
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"029f6cce5cd4ee096941767c0b74ae46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1293211087,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1293211087,
+    "wof:lastmodified":1537663282,
+    "wof:name":"Harqah",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.70256,
+    32.05613,
+    12.70256,
+    32.05613
+],
+  "geometry": {"coordinates":[12.70256,32.05613],"type":"Point"}
+}

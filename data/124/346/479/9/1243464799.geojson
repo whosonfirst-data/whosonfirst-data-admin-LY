@@ -1,0 +1,71 @@
+{
+  "id": 1243464799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.79186,31.88323,11.79186,31.88323",
+    "geom:latitude":31.88323,
+    "geom:longitude":11.79186,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Ash Shiyab",
+    "gn:country_code":"LY",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219402,
+    "gn:latitude":31.88323,
+    "gn:longitude":11.79186,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Ash Shiy\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Esc-Scei\u0101b",
+        "As Sh\u012by\u0101b",
+        "Esc-Sciiab",
+        "Ash Shiy\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219402
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"0c7d4b555efd7ec86ad61d30f283c5b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1243464799,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1243464799,
+    "wof:lastmodified":1537663291,
+    "wof:name":"Ash Shiyab",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.79186,
+    31.88323,
+    11.79186,
+    31.88323
+],
+  "geometry": {"coordinates":[11.79186,31.88323],"type":"Point"}
+}

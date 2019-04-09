@@ -1,0 +1,73 @@
+{
+  "id": 1259502287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.04706,31.82785,11.04706,31.82785",
+    "geom:latitude":31.82785,
+    "geom:longitude":11.04706,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Awlad Mahmud",
+    "gn:country_code":"LY",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219114,
+    "gn:latitude":31.82785,
+    "gn:longitude":11.04706,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Awl\u0101d Ma\u1e29m\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0644\u0627\u062f \u0645\u062d\u0645\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "Ul\u00e1d Mahm\u00fad",
+        "El Haouamed",
+        "Awl\u0101d Ma\u1e29m\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219114
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"bbf28ad9a172998f3f4fca7a9f2c1d3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1259502287,
+            "region_id":85673563
+        }
+    ],
+    "wof:id":1259502287,
+    "wof:lastmodified":1537663289,
+    "wof:name":"Awlad Mahmud",
+    "wof:parent_id":85673563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.04706,
+    31.82785,
+    11.04706,
+    31.82785
+],
+  "geometry": {"coordinates":[11.04706,31.82785],"type":"Point"}
+}

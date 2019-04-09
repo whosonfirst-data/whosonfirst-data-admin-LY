@@ -1,0 +1,72 @@
+{
+  "id": 1209530895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.01638,32.02906,20.01638,32.02906",
+    "geom:latitude":32.02906,
+    "geom:longitude":20.01638,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Qaryat Qunfudhah",
+    "gn:country_code":"LY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":84135,
+    "gn:latitude":32.02906,
+    "gn:longitude":20.01638,
+    "gn:modification_date":"2018-04-05",
+    "gn:name":"Qaryat Qunf\u016bdhah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0642\u0646\u0641\u0648\u0630\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0631\u064a\u0629 \u0642\u0646\u0641\u0648\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qaryat Qanf\u016bdah",
+        "Qaryat Qunf\u016bdhah",
+        "Qaryat Qunf\u016bdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":84135
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"7b916351d92ae597607bd30b225ed9b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632627,
+            "locality_id":1209530895
+        }
+    ],
+    "wof:id":1209530895,
+    "wof:lastmodified":1537663249,
+    "wof:name":"Qaryat Qunfudhah",
+    "wof:parent_id":85632627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.01638,
+    32.02906,
+    20.01638,
+    32.02906
+],
+  "geometry": {"coordinates":[20.01638,32.02906],"type":"Point"}
+}

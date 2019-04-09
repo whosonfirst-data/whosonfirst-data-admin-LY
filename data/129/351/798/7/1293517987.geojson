@@ -1,0 +1,77 @@
+{
+  "id": 1293517987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.64861,24.95139,14.64861,24.95139",
+    "geom:latitude":24.95139,
+    "geom:longitude":14.64861,
+    "gn:admin1_code":"73",
+    "gn:asciiname":"Al Qatrun",
+    "gn:cc2":"LY",
+    "gn:country_code":"LY",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219739,
+    "gn:latitude":24.95139,
+    "gn:longitude":14.64861,
+    "gn:modification_date":"2013-08-13",
+    "gn:name":"Al Qa\u0163r\u016bn",
+    "gn:population":4500,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Gatrun",
+        "Al Katrun",
+        "Al Qa\u0163r\u016bn",
+        "\u0627\u0644\u0642\u0637\u0631\u0648\u0646",
+        "Al Gatrun"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219739,
+        "wk:page":"Qatrun"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"fd53514ff7352ce176dffad3adbf561f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1293517987,
+            "region_id":85673589
+        }
+    ],
+    "wof:id":1293517987,
+    "wof:lastmodified":1537663296,
+    "wof:name":"Al Qatrun",
+    "wof:parent_id":85673589,
+    "wof:placetype":"locality",
+    "wof:population":4500,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.64861,
+    24.95139,
+    14.64861,
+    24.95139
+],
+  "geometry": {"coordinates":[14.64861,24.95139],"type":"Point"}
+}

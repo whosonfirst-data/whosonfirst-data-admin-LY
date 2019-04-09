@@ -1,0 +1,73 @@
+{
+  "id": 1326648805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.03933,32.58597,14.03933,32.58597",
+    "geom:latitude":32.58597,
+    "geom:longitude":14.03933,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Al Qasabat",
+    "gn:country_code":"LY",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219746,
+    "gn:latitude":32.58597,
+    "gn:longitude":14.03933,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Al Qa\u015fab\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Gusb\u00e1t",
+        "Al Qu\u015fb\u0101t",
+        "Cussab\u00e0t",
+        "Al Kussabat",
+        "Al Qa\u015fab\u0101t",
+        "\u0627\u0644\u0642\u0635\u0628\u0627\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219746
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"5aac79976ca2ec59be2a2113a1144664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1326648805,
+            "region_id":85673575
+        }
+    ],
+    "wof:id":1326648805,
+    "wof:lastmodified":1537663296,
+    "wof:name":"Al Qasabat",
+    "wof:parent_id":85673575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.03933,
+    32.58597,
+    14.03933,
+    32.58597
+],
+  "geometry": {"coordinates":[14.03933,32.58597],"type":"Point"}
+}

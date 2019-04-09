@@ -1,0 +1,73 @@
+{
+  "id": 1293599771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.66934,32.12927,23.66934,32.12927",
+    "geom:latitude":32.12927,
+    "geom:longitude":23.66934,
+    "gn:admin1_code":"79",
+    "gn:asciiname":"Zawiyat al Murassas",
+    "gn:country_code":"LY",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":80634,
+    "gn:latitude":32.12927,
+    "gn:longitude":23.66934,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Z\u0101wiyat al Mura\u015f\u015fa\u015f",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0627\u0648\u064a\u0629 \u0627\u0644\u0645\u0631\u0635\u0635"
+    ],
+    "name:und_x_variant":[
+        "Zauia el Mrassas",
+        "Zauiet el Mrassas",
+        "Z\u0101wiyat al Mura\u015f\u015fa\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":80634
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"7d998786f69a69e4f4d2799ed0d3e02a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1293599771,
+            "region_id":85673665
+        }
+    ],
+    "wof:id":1293599771,
+    "wof:lastmodified":1537663245,
+    "wof:name":"Zawiyat al Murassas",
+    "wof:parent_id":85673665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.66934,
+    32.12927,
+    23.66934,
+    32.12927
+],
+  "geometry": {"coordinates":[23.66934,32.12927],"type":"Point"}
+}

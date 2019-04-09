@@ -1,0 +1,70 @@
+{
+  "id": 1360004473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.16667,25.9,14.16667,25.9",
+    "geom:latitude":25.9,
+    "geom:longitude":14.16667,
+    "gn:admin1_code":"73",
+    "gn:asciiname":"Zizaw",
+    "gn:country_code":"LY",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2208487,
+    "gn:latitude":25.9,
+    "gn:longitude":14.16667,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Z\u012bz\u0101w",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zizau",
+        "Z\u012bz\u0101w"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2208487,
+        "wk:page":"Zizau"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"0faefb1281ef135a3f79d43373b71f9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1360004473,
+            "region_id":85673589
+        }
+    ],
+    "wof:id":1360004473,
+    "wof:lastmodified":1537663257,
+    "wof:name":"Zizaw",
+    "wof:parent_id":85673589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.16667,
+    25.9,
+    14.16667,
+    25.9
+],
+  "geometry": {"coordinates":[14.16667,25.9],"type":"Point"}
+}

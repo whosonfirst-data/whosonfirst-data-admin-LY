@@ -1,0 +1,72 @@
+{
+  "id": 1209834427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.7878,31.85287,24.7878,31.85287",
+    "geom:latitude":31.85287,
+    "geom:longitude":24.7878,
+    "gn:admin1_code":"79",
+    "gn:asciiname":"Qasr al Jady",
+    "gn:country_code":"LY",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":84051,
+    "gn:latitude":31.85287,
+    "gn:longitude":24.7878,
+    "gn:modification_date":"2018-04-05",
+    "gn:name":"Qa\u015fr al Jady",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0635\u0631 \u0627\u0644\u062c\u062f\u064a"
+    ],
+    "name:und_x_variant":[
+        "Qa\u015fr al Jad\u012b",
+        "Qa\u015fr al Jady"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":84051
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"0786c05056ad8a62894ee6abfe35905d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1209834427,
+            "region_id":85673665
+        }
+    ],
+    "wof:id":1209834427,
+    "wof:lastmodified":1537663248,
+    "wof:name":"Qasr al Jady",
+    "wof:parent_id":85673665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.7878,
+    31.85287000000001,
+    24.7878,
+    31.85287000000001
+],
+  "geometry": {"coordinates":[24.7878,31.85287000000001],"type":"Point"}
+}

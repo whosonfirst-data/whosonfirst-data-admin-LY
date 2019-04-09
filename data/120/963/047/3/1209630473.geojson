@@ -1,0 +1,66 @@
+{
+  "id": 1209630473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.25,25.96667,14.25,25.96667",
+    "geom:latitude":25.96667,
+    "geom:longitude":14.25,
+    "gn:admin1_code":"73",
+    "gn:asciiname":"Funqul",
+    "gn:country_code":"LY",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2217467,
+    "gn:latitude":25.96667,
+    "gn:longitude":14.25,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Funqul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fongul",
+        "Funqul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2217467,
+        "wk:page":"Funqul"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"9b3cf192a38cbed411e220f9b7fb2f0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632627,
+            "locality_id":1209630473
+        }
+    ],
+    "wof:id":1209630473,
+    "wof:lastmodified":1537663283,
+    "wof:name":"Funqul",
+    "wof:parent_id":85632627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.25,
+    25.96667,
+    14.25,
+    25.96667
+],
+  "geometry": {"coordinates":[14.25,25.96667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310616319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.86667,26.7,13.86667,26.7",
+    "geom:latitude":26.7,
+    "geom:longitude":13.86667,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Qasr Khulayf",
+    "gn:country_code":"LY",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2213569,
+    "gn:latitude":26.7,
+    "gn:longitude":13.86667,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Qa\u015fr Khulayf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gasr Chlef",
+        "Chlef",
+        "Qa\u015fr Khulayf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2213569
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"311cf0df5d56404f5fa8d637fdb1902b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1310616319,
+            "region_id":85673669
+        }
+    ],
+    "wof:id":1310616319,
+    "wof:lastmodified":1537663266,
+    "wof:name":"Qasr Khulayf",
+    "wof:parent_id":85673669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.86667,
+    26.7,
+    13.86667,
+    26.7
+],
+  "geometry": {"coordinates":[13.86667,26.7],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293697299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.62663,26.10154,13.62663,26.10154",
+    "geom:latitude":26.10154,
+    "geom:longitude":13.62663,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Taqrutin",
+    "gn:country_code":"LY",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2210257,
+    "gn:latitude":26.10154,
+    "gn:longitude":13.62663,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Taqr\u016bt\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0642\u0631\u0648\u062a\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Teggrut\u00ecn",
+        "Teggrutia",
+        "Taqqr\u016bt\u012bn",
+        "Taqr\u016bt\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2210257
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"e12567e54da04d7f794a5453a783e07a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1293697299,
+            "region_id":85673589
+        }
+    ],
+    "wof:id":1293697299,
+    "wof:lastmodified":1537663261,
+    "wof:name":"Taqrutin",
+    "wof:parent_id":85673589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.62663,
+    26.10154,
+    13.62663,
+    26.10154
+],
+  "geometry": {"coordinates":[13.62663,26.10154],"type":"Point"}
+}

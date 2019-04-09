@@ -1,0 +1,248 @@
+{
+  "id": 1125881497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.26191,32.64861,14.26191,32.64861",
+    "geom:latitude":32.64861,
+    "geom:longitude":14.26191,
+    "gn:gn_country":"LY",
+    "gn:gn_fcode":"PPLA",
+    "gn:gn_pop":201943,
+    "gn:population":201943,
+    "iso:country":"LY",
+    "lbl:latitude":32.64861,
+    "lbl:longitude":14.26191,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u064f\u0645\u0633"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062e\u0645\u0633"
+    ],
+    "name:baq_x_preferred":[
+        "Khums"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0410\u043b\u044c-\u0425\u0443\u043c\u0441"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cb\u09ae\u09be\u09b8"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u0443\u043c\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Al Khums"
+    ],
+    "name:chi_x_preferred":[
+        "\u80e1\u59c6\u65af"
+    ],
+    "name:dan_x_preferred":[
+        "Al Khums"
+    ],
+    "name:deu_x_preferred":[
+        "Al-Chums"
+    ],
+    "name:dut_x_preferred":[
+        "Al Khums"
+    ],
+    "name:eng_x_preferred":[
+        "Al Khums"
+    ],
+    "name:epo_x_preferred":[
+        "Al \u0124ums"
+    ],
+    "name:eus_x_preferred":[
+        "Khums"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062e\u0645\u0633\u060c \u0644\u06cc\u0628\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Al Khums"
+    ],
+    "name:fre_x_preferred":[
+        "Khoms"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d4\u10da-\u10ee\u10e3\u10db\u10e1\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Al-Chums"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03bb \u039a\u03bf\u03c5\u03bc\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a96\u0aae\u0acd\u0ab8"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc-\u05d7\u05d5\u05de\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0916\u093e\u092e\u094d\u0938"
+    ],
+    "name:ind_x_preferred":[
+        "Khoms"
+    ],
+    "name:ita_x_preferred":[
+        "Homs"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30e0\u30b9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c96\u0cca\u0cae\u0ccd\u0cb8\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10ee\u10e3\u10db\u10e1\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud6d4\uc2a4"
+    ],
+    "name:lav_x_preferred":[
+        "Homsa"
+    ],
+    "name:lit_x_preferred":[
+        "Humsas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0916\u092e\u094d\u0938"
+    ],
+    "name:may_x_preferred":[
+        "Khoms"
+    ],
+    "name:nob_x_preferred":[
+        "Khoms"
+    ],
+    "name:oci_x_preferred":[
+        "Khoms"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u062e\u0645\u0633\u060c \u0644\u06cc\u0628\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Chums"
+    ],
+    "name:por_x_preferred":[
+        "Al-Khums"
+    ],
+    "name:rum_x_preferred":[
+        "Al Khums"
+    ],
+    "name:rup_x_preferred":[
+        "Al Khums"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u043c\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "Al Khums"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0ddc\u0db8\u0dca\u0dc3\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Al-Khums"
+    ],
+    "name:srd_x_preferred":[
+        "Al Khums"
+    ],
+    "name:swe_x_preferred":[
+        "Al-Khums"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bcb\u0bae\u0bbf\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c16\u0c4b\u0c2e\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e04\u0e23\u0e2d\u0e21\u0e2a\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Khoms"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043e\u043c\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Labdah"
+    ],
+    "name:urd_x_preferred":[
+        "\u062e\u0645\u0633\u060c \u0644\u06cc\u0628\u06cc\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Al Khums"
+    ],
+    "name:vol_x_preferred":[
+        "Kums"
+    ],
+    "name:war_x_preferred":[
+        "Al Khums"
+    ],
+    "name:zho_x_preferred":[
+        "\u80e1\u59c6\u65af"
+    ],
+    "qs_pg:aaroncc":"LY",
+    "qs_pg:gn_country":"LY",
+    "qs_pg:gn_fcode":"PPLA",
+    "qs_pg:gn_id":2219905,
+    "qs_pg:gn_pop":201943,
+    "qs_pg:name":"Al Khums",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":10,
+    "qs_pg:qs_id":1034376,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219905,
+        "qs_pg:id":1034376,
+        "wd:id":"Q310381"
+    },
+    "wof:country":"LY",
+    "wof:created":1497294834,
+    "wof:geomhash":"979ec3bababc6d175a56ab7f086d4ebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1125881497,
+            "region_id":85673575
+        }
+    ],
+    "wof:id":1125881497,
+    "wof:lastmodified":1553816597,
+    "wof:name":"Al Khums",
+    "wof:parent_id":85673575,
+    "wof:placetype":"locality",
+    "wof:population":201943,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.26191,
+    32.64861,
+    14.26191,
+    32.64861
+],
+  "geometry": {"coordinates":[14.26191,32.64861],"type":"Point"}
+}

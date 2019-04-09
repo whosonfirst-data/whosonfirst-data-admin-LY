@@ -1,0 +1,71 @@
+{
+  "id": 1293019501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.5844,31.84623,11.5844,31.84623",
+    "geom:latitude":31.84623,
+    "geom:longitude":11.5844,
+    "gn:admin1_code":"56",
+    "gn:asciiname":"Baqqalah",
+    "gn:country_code":"LY",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2218811,
+    "gn:latitude":31.84623,
+    "gn:longitude":11.5844,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Baqq\u0101lah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Regg\u0101la",
+        "Baqalah",
+        "Begg\u00e1la",
+        "Baqq\u0101lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2218811
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"8ca887d626cb63ced55e1a31b82ba9e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1293019501,
+            "region_id":85673563
+        }
+    ],
+    "wof:id":1293019501,
+    "wof:lastmodified":1537663285,
+    "wof:name":"Baqqalah",
+    "wof:parent_id":85673563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.5844,
+    31.84623,
+    11.5844,
+    31.84623
+],
+  "geometry": {"coordinates":[11.5844,31.84623],"type":"Point"}
+}

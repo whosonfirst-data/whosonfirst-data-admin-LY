@@ -1,0 +1,67 @@
+{
+  "id": 1209630433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.67182,32.36527,14.67182,32.36527",
+    "geom:latitude":32.36527,
+    "geom:longitude":14.67182,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Qabilat as Saqu`",
+    "gn:country_code":"LY",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2214243,
+    "gn:latitude":32.36527,
+    "gn:longitude":14.67182,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Qab\u012blat a\u015f \u015eaq\u016b\u2018",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0628\u064a\u0644\u0629 \u0627\u0644\u0635\u0642\u0648\u0639"
+    ],
+    "name:und_x_variant":[
+        "Qab\u012blat a\u015f \u015eaq\u016b\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2214243
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"5bb0d44988a7d6f70aa53b214f142e52",
+    "wof:hierarchy":[
+        {
+            "country_id":85632627,
+            "locality_id":1209630433
+        }
+    ],
+    "wof:id":1209630433,
+    "wof:lastmodified":1537663276,
+    "wof:name":"Qabilat as Saqu`",
+    "wof:parent_id":85632627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.67182,
+    32.36527,
+    14.67182,
+    32.36527
+],
+  "geometry": {"coordinates":[14.67182,32.36527],"type":"Point"}
+}

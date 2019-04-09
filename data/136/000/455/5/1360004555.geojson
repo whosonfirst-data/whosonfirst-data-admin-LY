@@ -1,0 +1,71 @@
+{
+  "id": 1360004555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.85,32.83333,21.85,32.83333",
+    "geom:latitude":32.83333,
+    "geom:longitude":21.85,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Mansurah",
+    "gn:country_code":"LY",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":85176,
+    "gn:latitude":32.83333,
+    "gn:longitude":21.85,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Man\u015f\u016brah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mansura",
+        "Vittoriosa",
+        "Man\u015f\u016brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":85176,
+        "wk:page":"Mansura%2C_Libya"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"4bbd45e7c46d736d2002973c7b3b3012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1360004555,
+            "region_id":85673627
+        }
+    ],
+    "wof:id":1360004555,
+    "wof:lastmodified":1537663250,
+    "wof:name":"Mansurah",
+    "wof:parent_id":85673627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.85,
+    32.83333,
+    21.85,
+    32.83333
+],
+  "geometry": {"coordinates":[21.85,32.83333],"type":"Point"}
+}

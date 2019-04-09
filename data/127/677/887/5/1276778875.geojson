@@ -1,0 +1,72 @@
+{
+  "id": 1276778875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.1,32.12722,13.1,32.12722",
+    "geom:latitude":32.12722,
+    "geom:longitude":13.1,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"As Salihat",
+    "gn:country_code":"LY",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219368,
+    "gn:latitude":32.12722,
+    "gn:longitude":13.1,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"A\u015f \u015e\u0101li\u1e29\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Es-Slah\u00e1t",
+        "A\u015f \u015e\u0101li\u1e29\u0101t",
+        "Esc-Slah\u00e0t",
+        "A\u015f \u015eal\u0101\u1e29\u0101t",
+        "\u0627\u0644\u0635\u0627\u0644\u062d\u0627\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219368
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"c7511b1b58b79ffd2ac2309ebae64d7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1276778875,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1276778875,
+    "wof:lastmodified":1537663291,
+    "wof:name":"As Salihat",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.1,
+    32.12722,
+    13.1,
+    32.12722
+],
+  "geometry": {"coordinates":[13.1,32.12722],"type":"Point"}
+}

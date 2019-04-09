@@ -1,0 +1,74 @@
+{
+  "id": 1242889111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.78278,32.78,12.78278,32.78",
+    "geom:latitude":32.78,
+    "geom:longitude":12.78278,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Jadda'im",
+    "gn:country_code":"LY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2216463,
+    "gn:latitude":32.78,
+    "gn:longitude":12.78278,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Jadd\u0101\u2019im",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dara Geddaim",
+        "Oliveti",
+        "Gedd\u00e0im",
+        "J\u016bd D\u0101\u2019im",
+        "Oasi di Gedd\u00e0im",
+        "Jadd\u0101\u2019im"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2216463,
+        "wk:page":"Joudaim"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"fd9bdad700701638b718481511d23d58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1242889111,
+            "region_id":85673611
+        }
+    ],
+    "wof:id":1242889111,
+    "wof:lastmodified":1537663282,
+    "wof:name":"Jadda'im",
+    "wof:parent_id":85673611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.78278,
+    32.78,
+    12.78278,
+    32.78
+],
+  "geometry": {"coordinates":[12.78278,32.78],"type":"Point"}
+}

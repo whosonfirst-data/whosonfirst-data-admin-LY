@@ -1,0 +1,314 @@
+{
+  "id": 85673669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":2.931573,
+    "geom:area_square_m":32469386525.223213,
+    "geom:bbox":"11.290489677,25.547840118,14.146295548,27.292232513",
+    "geom:latitude":26.394895,
+    "geom:longitude":12.752466,
+    "iso:country":"LY",
+    "label:eng_x_preferred_longname":[
+        "Wadi al Hayaa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":26.378444,
+    "lbl:longitude":12.779714,
+    "meso:adm1_en":"Fezzan",
+    "meso:adm1_loc":"\u0641\u0632\u0627\u0646",
+    "meso:name_alt":"Wadi Al Ha",
+    "meso:name_loc":"\u0648\u0627\u062f\u0649 \u0627\u0644\u062d\u064a\u0627\u0629",
+    "mps:latitude":26.379312,
+    "mps:longitude":12.78087,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":7.7,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0628\u0627\u0631\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0634\u0639\u0628\u064a\u0629 \u0648\u0627\u062f\u064a \u0627\u0644\u062d\u064a\u0627\u0629",
+        "\u0648\u0627\u062f\u064a \u0627\u0644\u062d\u064a\u0627\u0629"
+    ],
+    "name:baq_x_preferred":[
+        "Wadi Al Hayaa"
+    ],
+    "name:ben_x_preferred":[
+        "\u0993\u09af\u09bc\u09be\u09a6\u09bf \u0986\u09b2 \u09b9\u09be\u09af\u09bc\u09be \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "Wadi Al Hayaa"
+    ],
+    "name:chi_x_preferred":[
+        "\u74e6\u8fea\u54c8\u8036\u7279\u7701"
+    ],
+    "name:dan_x_preferred":[
+        "Wadi Al Hayaa"
+    ],
+    "name:dut_x_preferred":[
+        "Wadi Al Hayaa"
+    ],
+    "name:eng_x_preferred":[
+        "Awbari"
+    ],
+    "name:epo_x_preferred":[
+        "Uedo Al Haja"
+    ],
+    "name:fin_x_preferred":[
+        "Wadi al Hayaan kaupunginosa"
+    ],
+    "name:fre_x_preferred":[
+        "Wadi al Hayaat"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d5\u10d0\u10d3\u10d8-\u10d4\u10da-\u10f0\u10d0\u10d8\u10d0\u10e2\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Munizip Wadi al-Haya"
+    ],
+    "name:gre_x_preferred":[
+        "\u0393\u03bf\u03c5\u03ac\u03bd\u03c4\u03b9 \u03b1\u03bb \u03a7\u03ac\u03b3\u03b9\u03b1\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab5\u0abe\u0aa1\u0ac0 \u0a85\u0ab2 \u0ab9\u0aaf\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u093e\u0926\u0940 \u0905\u0932 \u0939\u092f\u093e \u091c\u093f\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "V\u00e1di el-Haj\u00e1t tartom\u00e1ny"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Wadi al Hayaa"
+    ],
+    "name:ita_x_preferred":[
+        "Municipalit\u00e0 di Uadi el-Agial"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ef\u30b8\u30fb\u30a2\u30eb\u30fb\u30cf\u30e4\u30fc\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb5\u0cbe\u0ca1\u0cbf \u0c85\u0cb2\u0ccd \u0cb9\u0caf\u0cbe\u0caf\u0cbe \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\uc640\ub514\uc54c\ud558\uc57c \uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "V\u0101d\u012b el Haj\u0101tas \u0161eb\u012bja"
+    ],
+    "name:lit_x_preferred":[
+        "Vadi al Hajos savivaldyb\u0117"
+    ],
+    "name:mar_x_preferred":[
+        "\u0935\u093e\u0921\u0940 \u0905\u0932 \u0939\u093e\u092f\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Wadi al Hayaa District"
+    ],
+    "name:nob_x_preferred":[
+        "Wadi Al Hayaa"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0648\u0627\u062f\u06cc \u0627\u0644\u062d\u06cc\u0627\u0629"
+    ],
+    "name:pol_x_preferred":[
+        "Wadi al-Hajat"
+    ],
+    "name:por_x_preferred":[
+        "Wadi Al Hayat"
+    ],
+    "name:rum_x_preferred":[
+        "Districtul Wadi Al Hayaa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0434\u0438-\u044d\u043b\u044c-\u0425\u0430\u044f\u0442"
+    ],
+    "name:sco_x_preferred":[
+        "Wadi Al Hayaa Destrict"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0da9\u0dd2 \u0d85\u0dbd\u0dca \u0dc4\u0dba\u0dcf \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Wadi Al Hayaa"
+    ],
+    "name:swe_x_preferred":[
+        "Wadi Al Hayaa"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0bbe\u0b9f\u0bbf  \u0b85\u0bb2\u0bcd  \u0bb9\u0bbe\u0baf\u0bbe  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c35\u0c3e\u0c21\u0c3f\u0c3f \u0c05\u0c32\u0c4d \u0c39\u0c2f\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0412\u0430\u0434\u0438 \u0430\u043b \u04b2\u0430\u044f\u0430"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e27\u0e32\u0e14\u0e35 \u0e2d\u0e31\u0e25 \u0e2e\u0e32\u0e22\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Wadi Al Hayaa District"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0434\u0456-\u0435\u043b\u044c-\u0425\u0430\u044f\u0442"
+    ],
+    "name:und_x_variant":[
+        "\u0648\u0627\u062f\u0649 \u0627\u0644\u062d\u064a\u0627\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Sha\u2018b\u012byat W\u0101d\u012b al \u1e28ay\u0101t"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u062f\u06cc \u0627\u0644\u062d\u06cc\u0627\u06c1 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Wadi al Hayaa"
+    ],
+    "name:vol_x_preferred":[
+        "Vadilhayati\u00e4n"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"LBY",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"LBY-5488",
+    "ne:adm1_code":"LBY-5488",
+    "ne:admin":"Libya",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"LY.GT",
+    "ne:code_local":"",
+    "ne:datarank":"7",
+    "ne:diss_me":"5488",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Libya",
+    "ne:gn_a1_code":"LY.84",
+    "ne:gn_id":"7602693",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Sha`biyat Wadi al Hayat",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"LY84",
+    "ne:gns_id":"10880367",
+    "ne:gns_lang":"ara",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Wadi al Hayat, Sha`biyat",
+    "ne:gns_region":"7",
+    "ne:gu_a3":"LBY",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"LY-",
+    "ne:iso_a2":"LY",
+    "ne:labelrank":"4",
+    "ne:latitude":"26.35640000000",
+    "ne:longitude":"12.67900000000",
+    "ne:mapcolor13":11,
+    "ne:mapcolor9":2,
+    "ne:name":"Wadi al Hayaa",
+    "ne:name_alt":"",
+    "ne:name_len":13,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"WH",
+    "ne:provnum_ne":"20012",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"4",
+    "ne:sov_a3":"LBY",
+    "ne:sub_code":"",
+    "ne:type":"Sha'biyat|Sha'biyah",
+    "ne:type_en":"Municipality|Governarate",
+    "ne:wikipedia":"",
+    "ne:woe_id":-2346135,
+    "ne:woe_label":"",
+    "ne:woe_name":"",
+    "qs:a0":"Libya",
+    "qs:a0_lc":"LY",
+    "qs:a1":"Wadi al Hayaa",
+    "qs:a1_lc":"LBY-5488",
+    "qs:adm0":"Libya",
+    "qs:adm0_a3":"LBY",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Municipality|Governarate",
+    "qs:woeid":2346135,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-04-15",
+    "statoids:area_km":"",
+    "statoids:area_mi":"",
+    "statoids:as_of_date":"2006-04-15",
+    "statoids:capital":"Awbari",
+    "statoids:country":"LY",
+    "statoids:gec":"LY84",
+    "statoids:hasc":"LY.WH",
+    "statoids:iso":"WD",
+    "statoids:name":"Wadi al Hayat",
+    "statoids:population":"76858",
+    "statoids:timezone":"+2",
+    "statoids:type":"district",
+    "wof:belongsto":[
+        102191573,
+        85632627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"LY84",
+        "gn:id":7602693,
+        "gp:id":-2346135,
+        "hasc:id":"LY.WH",
+        "iso:id":"LY-WD",
+        "wd:id":"Q48233"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"69dfbf88abadbba906ef728c87189423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "region_id":85673669
+        }
+    ],
+    "wof:id":85673669,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1553550402,
+    "wof:name":"Wadi al Hayaa",
+    "wof:parent_id":85632627,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":76858,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:shortcode":"WH",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.29048967700004,
+    25.54784011800007,
+    14.14629554800007,
+    27.29223251300004
+],
+  "geometry": {"coordinates":[[[11.37473583300005,26.21751403800005],[11.47650804700004,26.27830742300006],[11.50798416100002,26.29710960400007],[11.74412822800002,26.43622398300005],[12.01123619100002,26.60406684900005],[12.30986118300007,26.79110908500007],[12.57768440200005,26.97672653200004],[12.77379322000007,27.11315727300007],[13.01240730200004,27.25039863600006],[13.19057846100003,27.29223251300004],[13.34936618800003,27.26791191100006],[13.62528228800005,27.18987083400003],[13.87681355600006,27.14706102300005],[13.98314666700003,27.12896347100008],[14.02245044700004,27.09042930600003],[14.03700070700006,27.02579687000008],[14.04554080900004,26.98786163300002],[14.03761959100007,26.85655212400007],[14.08112144500006,26.78244209300004],[14.13472366300005,26.72724533100006],[14.14629554800007,26.67123222400005],[14.08549690300003,26.55756950400007],[13.97200679800005,26.46156311000004],[13.93468731700005,26.35483210900003],[13.93237495400007,26.34821891800004],[13.93444061300005,26.24692153900003],[13.83147517300006,26.21306137400006],[13.66933727300005,26.15974235500005],[13.48192215000006,26.11803054800004],[13.41006088300003,26.06006431600002],[13.30828666700006,25.94503021300005],[13.20548820500005,25.87683296200004],[12.96561622600007,25.86144638000007],[12.79990291600006,25.81016540500008],[12.70678901700006,25.77949142500006],[12.62495994500006,25.72090149000007],[12.50009918200004,25.70802497900007],[12.36367988600006,25.73230552700005],[12.26175022200005,25.65416908400005],[12.15992546100006,25.57596397500004],[12.04564189900003,25.56309127800006],[11.85846900900003,25.54784011800007],[11.77417564400002,25.57333564800007],[11.59407520300005,25.65201759400003],[11.49581308000006,25.60123197700005],[11.39955329900005,25.55148124800007],[11.35864606900003,25.65181907100003],[11.30899317800004,25.77360837000003],[11.29048967700004,25.95969442000006],[11.34122640800007,26.11496470500003],[11.37473583300005,26.21751403800005]]],"type":"Polygon"}
+}

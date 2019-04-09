@@ -1,0 +1,65 @@
+{
+  "id": 1343877071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.58727,32.04996,12.58727,32.04996",
+    "geom:latitude":32.04996,
+    "geom:longitude":12.58727,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Qasabat `Akkah",
+    "gn:country_code":"LY",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2213811,
+    "gn:latitude":32.04996,
+    "gn:longitude":12.58727,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Qa\u015fabat \u2018Akkah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2213811
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"d7e552e602c3e49152070cf1debb4f7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1343877071,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1343877071,
+    "wof:lastmodified":1536641836,
+    "wof:name":"Qasabat `Akkah",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.58727,
+    32.04996,
+    12.58727,
+    32.04996
+],
+  "geometry": {"coordinates":[12.58727,32.04996],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209225005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.01,32.23278,13.01,32.23278",
+    "geom:latitude":32.23278,
+    "geom:longitude":13.01,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Bani Yakhlaf",
+    "gn:country_code":"LY",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2218836,
+    "gn:latitude":32.23278,
+    "gn:longitude":13.01,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Ban\u012b Yakhlaf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e8ni Iechlef",
+        "Ban\u012b Yakhif",
+        "Ban\u012b Yakhlif",
+        "Ban\u012b Yakhlaf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2218836
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"178c04942b86d41d0f06591386cda423",
+    "wof:hierarchy":[
+        {
+            "country_id":85632627,
+            "locality_id":1209225005
+        }
+    ],
+    "wof:id":1209225005,
+    "wof:lastmodified":1537663285,
+    "wof:name":"Bani Yakhlaf",
+    "wof:parent_id":85632627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.01,
+    32.23278,
+    13.01,
+    32.23278
+],
+  "geometry": {"coordinates":[13.01,32.23278],"type":"Point"}
+}

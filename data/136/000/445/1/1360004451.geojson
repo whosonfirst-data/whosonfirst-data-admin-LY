@@ -1,0 +1,65 @@
+{
+  "id": 1360004451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.04833,32.20639,13.04833,32.20639",
+    "geom:latitude":32.20639,
+    "geom:longitude":13.04833,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Awlad Mansur",
+    "gn:country_code":"LY",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219109,
+    "gn:latitude":32.20639,
+    "gn:longitude":13.04833,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Awl\u0101d Man\u015f\u016br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219109
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"8f47cf979c6125bc266c3b721e13af73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1360004451,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1360004451,
+    "wof:lastmodified":1537059373,
+    "wof:name":"Awlad Mansur",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.04833,
+    32.20639,
+    13.04833,
+    32.20639
+],
+  "geometry": {"coordinates":[13.04833,32.20639],"type":"Point"}
+}

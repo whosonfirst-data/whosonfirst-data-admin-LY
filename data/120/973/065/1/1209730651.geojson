@@ -1,0 +1,73 @@
+{
+  "id": 1209730651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.07449,32.57026,23.07449,32.57026",
+    "geom:latitude":32.57026,
+    "geom:longitude":23.07449,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Zawiyat Umm Hufayn",
+    "gn:country_code":"LY",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":80616,
+    "gn:latitude":32.57026,
+    "gn:longitude":23.07449,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Z\u0101wiyat Umm \u1e28ufayn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0632\u0627\u0648\u064a\u0629 \u0623\u0645 \u062d\u0641\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Zauiet Umm Hafein",
+        "Umm Haf\u00e9in",
+        "Z\u0101wiyat Umm \u1e28ufayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":80616
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"951e133e48e6612ce6c39e8caea5f11b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1209730651,
+            "region_id":85673663
+        }
+    ],
+    "wof:id":1209730651,
+    "wof:lastmodified":1537663244,
+    "wof:name":"Zawiyat Umm Hufayn",
+    "wof:parent_id":85673663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.07449,
+    32.57026,
+    23.07449,
+    32.57026
+],
+  "geometry": {"coordinates":[23.07449,32.57026],"type":"Point"}
+}

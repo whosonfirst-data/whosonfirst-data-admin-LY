@@ -1,0 +1,65 @@
+{
+  "id": 1360103655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.4632,30.21257,10.4632,30.21257",
+    "geom:latitude":30.21257,
+    "geom:longitude":10.4632,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Qaryat T",
+    "gn:country_code":"LY",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2213829,
+    "gn:latitude":30.21257,
+    "gn:longitude":10.4632,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Qaryat T",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2213829
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"f20e39dbc86238f85718767da3e08294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1360103655,
+            "region_id":85673563
+        }
+    ],
+    "wof:id":1360103655,
+    "wof:lastmodified":1536919437,
+    "wof:name":"Qaryat T",
+    "wof:parent_id":85673563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4632,
+    30.21257,
+    10.4632,
+    30.21257
+],
+  "geometry": {"coordinates":[10.4632,30.21257],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310320265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.93395,31.7973,24.93395,31.7973",
+    "geom:latitude":31.7973,
+    "geom:longitude":24.93395,
+    "gn:admin1_code":"79",
+    "gn:asciiname":"Zawiyat al Manastir",
+    "gn:country_code":"LY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":80636,
+    "gn:latitude":31.7973,
+    "gn:longitude":24.93395,
+    "gn:modification_date":"2018-04-05",
+    "gn:name":"Z\u0101wiyat al Manast\u012br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0627\u0648\u064a\u0629 \u0627\u0644\u0645\u0646\u0633\u062a\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Z\u0101wiyat al Man\u0101st\u012br",
+        "El Menastir",
+        "Z\u0101wiyat al Manast\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":80636
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"7ccdf57b6df20c0acff6a5360b372e81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1310320265,
+            "region_id":85673665
+        }
+    ],
+    "wof:id":1310320265,
+    "wof:lastmodified":1537663245,
+    "wof:name":"Zawiyat al Manastir",
+    "wof:parent_id":85673665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.93395,
+    31.7973,
+    24.93395,
+    31.7973
+],
+  "geometry": {"coordinates":[24.93395,31.7973],"type":"Point"}
+}

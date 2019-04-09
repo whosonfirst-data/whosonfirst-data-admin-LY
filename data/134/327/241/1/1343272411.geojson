@@ -1,0 +1,65 @@
+{
+  "id": 1343272411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.21679,31.92954,12.21679,31.92954",
+    "geom:latitude":31.92954,
+    "geom:longitude":12.21679,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Baldat Awlad Milad",
+    "gn:country_code":"LY",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2218870,
+    "gn:latitude":31.92954,
+    "gn:longitude":12.21679,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Baldat Awl\u0101d M\u012bl\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2218870
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"cea8c63bfd745e3cadd1f9d5691a3809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1343272411,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1343272411,
+    "wof:lastmodified":1537016846,
+    "wof:name":"Baldat Awlad Milad",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.21679,
+    31.92954000000001,
+    12.21679,
+    31.92954000000001
+],
+  "geometry": {"coordinates":[12.21679,31.92954000000001],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1276677033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.15118,31.44111,20.15118,31.44111",
+    "geom:latitude":31.44111,
+    "geom:longitude":20.15118,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Al Maqrun",
+    "gn:country_code":"LY",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":88906,
+    "gn:latitude":31.44111,
+    "gn:longitude":20.15118,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Al Maqr\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Magrun",
+        "Sidi Abd el Magrun",
+        "El Magrun",
+        "Al Magrun",
+        "Sidi Ahmed el-Magrun",
+        "Sidi Magr\u00f9n",
+        "Sidi Am\u00e9d el Magr\u00fan",
+        "S\u012bd\u012b A\u1e29mad al Maqr\u016bn",
+        "Al Maqr\u016bn",
+        "\u0627\u0644\u0645\u0642\u0631\u0648\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":88906
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"79fc16d4772621cc28d0a4675953ae2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1276677033,
+            "region_id":85673635
+        }
+    ],
+    "wof:id":1276677033,
+    "wof:lastmodified":1537663255,
+    "wof:name":"Al Maqrun",
+    "wof:parent_id":85673635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.15118,
+    31.44111,
+    20.15118,
+    31.44111
+],
+  "geometry": {"coordinates":[20.15118,31.44111],"type":"Point"}
+}

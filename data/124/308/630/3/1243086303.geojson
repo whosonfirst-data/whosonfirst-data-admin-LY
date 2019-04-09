@@ -1,0 +1,71 @@
+{
+  "id": 1243086303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.545,32.06389,12.545,32.06389",
+    "geom:latitude":32.06389,
+    "geom:longitude":12.545,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Al Quradiyin",
+    "gn:country_code":"LY",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219719,
+    "gn:latitude":32.06389,
+    "gn:longitude":12.545,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Al Qur\u0101d\u012by\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Goradun",
+        "Al Qar\u0101d\u012bn",
+        "El-Goradi\u00ecn",
+        "Al Qur\u0101d\u012by\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219719
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"f9568c38b0b3af2724674c72d38d9306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1243086303,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1243086303,
+    "wof:lastmodified":1537663295,
+    "wof:name":"Al Quradiyin",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.545,
+    32.06389,
+    12.545,
+    32.06389
+],
+  "geometry": {"coordinates":[12.545,32.06389],"type":"Point"}
+}

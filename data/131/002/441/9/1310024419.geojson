@@ -1,0 +1,70 @@
+{
+  "id": 1310024419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.62926,32.82995,11.62926,32.82995",
+    "geom:latitude":32.82995,
+    "geom:longitude":11.62926,
+    "gn:admin1_code":"67",
+    "gn:asciiname":"Al `Assah",
+    "gn:country_code":"LY",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2220151,
+    "gn:latitude":32.82995,
+    "gn:longitude":11.62926,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Al \u2018Assah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Assa",
+        "Al \u2018Assah",
+        "\u0627\u0644\u0639\u0633\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2220151
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"f7dcf381f1f91f009c64a56397e3033e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1310024419,
+            "region_id":85673607
+        }
+    ],
+    "wof:id":1310024419,
+    "wof:lastmodified":1537663302,
+    "wof:name":"Al `Assah",
+    "wof:parent_id":85673607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.62926,
+    32.82995,
+    11.62926,
+    32.82995
+],
+  "geometry": {"coordinates":[11.62926,32.82995],"type":"Point"}
+}

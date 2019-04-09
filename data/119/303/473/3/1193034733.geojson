@@ -1,0 +1,69 @@
+{
+  "id": 1193034733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.25333,32.83222,13.25333,32.83222",
+    "geom:latitude":32.83222,
+    "geom:longitude":13.25333,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Al Fatih",
+    "gn:country_code":"LY",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2220089,
+    "gn:latitude":32.83222,
+    "gn:longitude":13.25333,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Al F\u0101ti\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Furnaj",
+        "Al F\u0101ti\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2220089
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"08dd5fa53c5ab75b900cf6de01f3ab36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1193034733,
+            "region_id":85673621
+        }
+    ],
+    "wof:id":1193034733,
+    "wof:lastmodified":1537663302,
+    "wof:name":"Al Fatih",
+    "wof:parent_id":85673621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.25333,
+    32.83222,
+    13.25333,
+    32.83222
+],
+  "geometry": {"coordinates":[13.25333,32.83222],"type":"Point"}
+}

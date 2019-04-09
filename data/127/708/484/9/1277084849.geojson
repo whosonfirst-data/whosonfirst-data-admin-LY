@@ -1,0 +1,71 @@
+{
+  "id": 1277084849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.56935,32.30912,12.56935,32.30912",
+    "geom:latitude":32.30912,
+    "geom:longitude":12.56935,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Bi'r al Ghanam",
+    "gn:country_code":"LY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2218475,
+    "gn:latitude":32.30912,
+    "gn:longitude":12.56935,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Bi\u2019r al Ghanam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bir el-Ghnem",
+        "Bir Ghnem",
+        "Bi\u2019r al Ghanam",
+        "\u0628\u0626\u0631 \u0627\u0644\u063a\u0646\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2218475
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"523887420f9689257984d7aaf193871f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1277084849,
+            "region_id":85673611
+        }
+    ],
+    "wof:id":1277084849,
+    "wof:lastmodified":1537663285,
+    "wof:name":"Bi'r al Ghanam",
+    "wof:parent_id":85673611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.56935,
+    32.30912,
+    12.56935,
+    32.30912
+],
+  "geometry": {"coordinates":[12.56935,32.30912],"type":"Point"}
+}

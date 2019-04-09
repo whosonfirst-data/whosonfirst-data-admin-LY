@@ -1,0 +1,81 @@
+{
+  "id": 1293400351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.71467,32.74506,13.71467,32.74506",
+    "geom:latitude":32.74506,
+    "geom:longitude":13.71467,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Qasr al Qarabulli",
+    "gn:country_code":"LY",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2213695,
+    "gn:latitude":32.74506,
+    "gn:longitude":13.71467,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Qa\u015fr al Qarab\u016bll\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0635\u0631 \u0627\u0644\u0642\u0631\u0628\u0648\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Gasr el Gharabulli",
+        "Qa\u015fr al Qarahbull\u012b",
+        "Castelverde",
+        "Qarah B\u016bll\u012b",
+        "Gasr el-Garab\u00f9lli",
+        "Qarab\u016bll\u012b",
+        "Gasr Garab\u00falli",
+        "Qa\u015fr al Qar\u0101b\u016bll\u012b",
+        "\u0642\u0635\u0631 \u0627\u0644\u0642\u0631\u0647\u0628\u0644\u064a",
+        "Qa\u015fr al Qarab\u016bll\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2213695,
+        "wk:page":"Castelverde%2C_Libya"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"632679f153c7f025e5e2364635e16ac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1293400351,
+            "region_id":85673575
+        }
+    ],
+    "wof:id":1293400351,
+    "wof:lastmodified":1537663267,
+    "wof:name":"Qasr al Qarabulli",
+    "wof:parent_id":85673575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.71467,
+    32.74506,
+    13.71467,
+    32.74506
+],
+  "geometry": {"coordinates":[13.71467,32.74506],"type":"Point"}
+}

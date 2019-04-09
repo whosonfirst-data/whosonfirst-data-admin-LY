@@ -1,0 +1,72 @@
+{
+  "id": 1309730821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.49268,31.3016,13.49268,31.3016",
+    "geom:latitude":31.3016,
+    "geom:longitude":13.49268,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Ra's at Tabl",
+    "gn:country_code":"LY",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2213015,
+    "gn:latitude":31.3016,
+    "gn:longitude":13.49268,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Ra\u2019s a\u0163 \u0162abl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0623\u0633 \u0627\u0644\u0637\u0628\u0644"
+    ],
+    "name:und_x_variant":[
+        "Ra\u2019s a\u0163 \u0162abal",
+        "Ra\u2019s a\u0163 \u0162abl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2213015
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"675f5a4e7b6a6bf7935804c0dec8a498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1309730821,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1309730821,
+    "wof:lastmodified":1537663265,
+    "wof:name":"Ra's at Tabl",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.49268,
+    31.3016,
+    13.49268,
+    31.3016
+],
+  "geometry": {"coordinates":[13.49268,31.3016],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242788203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.37944,31.86417,11.37944,31.86417",
+    "geom:latitude":31.86417,
+    "geom:longitude":11.37944,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Fasatah",
+    "gn:country_code":"LY",
+    "gn:dem":657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2217559,
+    "gn:latitude":31.86417,
+    "gn:longitude":11.37944,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Fa\u015f\u0101tah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0101niyat Farsa\u0163\u0163\u00e1",
+        "Fa\u015f\u0101tan",
+        "Saniet Forsatta",
+        "Fors\u00e1tta",
+        "Fors\u00e9tta",
+        "Farsa\u0163\u0163\u00e1",
+        "Fa\u015f\u0101tah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2217559
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"1174e854787337a2064dd391dc1ee960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1242788203,
+            "region_id":85673563
+        }
+    ],
+    "wof:id":1242788203,
+    "wof:lastmodified":1537663283,
+    "wof:name":"Fasatah",
+    "wof:parent_id":85673563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.37944,
+    31.86417,
+    11.37944,
+    31.86417
+],
+  "geometry": {"coordinates":[11.37944,31.86417],"type":"Point"}
+}

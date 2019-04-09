@@ -1,0 +1,71 @@
+{
+  "id": 1276243663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.07168,31.80054,14.07168,31.80054",
+    "geom:latitude":31.80054,
+    "geom:longitude":14.07168,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Qaryat Bin Tallis",
+    "gn:country_code":"LY",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2213871,
+    "gn:latitude":31.80054,
+    "gn:longitude":14.07168,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Qaryat Bin Tall\u012bs",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Awl\u0101d Tall\u012bs",
+        "Qaryat Bin Till\u012bs",
+        "Ul\u00e1d Tell\u00eds",
+        "Qaryat Bin Tall\u012bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2213871
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"df3c437b0770575b9827ce75ed3ab068",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1276243663,
+            "region_id":85673593
+        }
+    ],
+    "wof:id":1276243663,
+    "wof:lastmodified":1537663270,
+    "wof:name":"Qaryat Bin Tallis",
+    "wof:parent_id":85673593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.07168,
+    31.80054,
+    14.07168,
+    31.80054
+],
+  "geometry": {"coordinates":[14.07168,31.80054],"type":"Point"}
+}

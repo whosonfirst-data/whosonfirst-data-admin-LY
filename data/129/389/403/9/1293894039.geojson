@@ -1,0 +1,74 @@
+{
+  "id": 1293894039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.46868,31.85547,11.46868,31.85547",
+    "geom:latitude":31.85547,
+    "geom:longitude":11.46868,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Tannushat",
+    "gn:country_code":"LY",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2210274,
+    "gn:latitude":31.85547,
+    "gn:longitude":11.46868,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Tann\u016bsh\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taml\u016bsh\u0101yit",
+        "Tamnascia",
+        "Temlouchait",
+        "Temlusci\u00e1it",
+        "Tamnusci\u00e0it",
+        "Temlusc\u00e9it",
+        "Tann\u016bsh\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2210274
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"0cd305ffe7996029578980aea9420d7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1293894039,
+            "region_id":85673563
+        }
+    ],
+    "wof:id":1293894039,
+    "wof:lastmodified":1537663261,
+    "wof:name":"Tannushat",
+    "wof:parent_id":85673563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.46868,
+    31.85547,
+    11.46868,
+    31.85547
+],
+  "geometry": {"coordinates":[11.46868,31.85547],"type":"Point"}
+}

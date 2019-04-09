@@ -1,0 +1,74 @@
+{
+  "id": 1293607637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.66667,32.0,11.66667,32.0",
+    "geom:latitude":32.0,
+    "geom:longitude":11.66667,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Al Jawsh",
+    "gn:country_code":"LY",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219953,
+    "gn:latitude":32.0,
+    "gn:longitude":11.66667,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Al Jawsh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0648\u0634"
+    ],
+    "name:und_x_variant":[
+        "Jawsh",
+        "Giosc",
+        "Al Jawsh",
+        "Al Giosh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219953
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"a36fb42f6884448c1a5d229bf6aef13a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1293607637,
+            "region_id":85673563
+        }
+    ],
+    "wof:id":1293607637,
+    "wof:lastmodified":1537663300,
+    "wof:name":"Al Jawsh",
+    "wof:parent_id":85673563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.66667,
+    32.0,
+    11.66667,
+    32.0
+],
+  "geometry": {"coordinates":[11.66667,32.0],"type":"Point"}
+}

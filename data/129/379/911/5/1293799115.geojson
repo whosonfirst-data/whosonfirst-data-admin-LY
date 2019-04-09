@@ -1,0 +1,72 @@
+{
+  "id": 1293799115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.25998,27.53723,14.25998,27.53723",
+    "geom:latitude":27.53723,
+    "geom:longitude":14.25998,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"An Nusf",
+    "gn:country_code":"LY",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219586,
+    "gn:latitude":27.53723,
+    "gn:longitude":14.25998,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"An Nu\u015ff",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0635\u0641"
+    ],
+    "name:und_x_variant":[
+        "En-Nuss",
+        "An Nu\u015ff"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219586
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"7e28c7b496dcafaffed1481ef7d4a790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1293799115,
+            "region_id":85673579
+        }
+    ],
+    "wof:id":1293799115,
+    "wof:lastmodified":1537663293,
+    "wof:name":"An Nusf",
+    "wof:parent_id":85673579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.25998,
+    27.53723,
+    14.25998,
+    27.53723
+],
+  "geometry": {"coordinates":[14.25998,27.53723],"type":"Point"}
+}

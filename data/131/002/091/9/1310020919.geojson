@@ -1,0 +1,70 @@
+{
+  "id": 1310020919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.02126,31.96216,12.02126,31.96216",
+    "geom:latitude":31.96216,
+    "geom:longitude":12.02126,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Al Qusayr",
+    "gn:country_code":"LY",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219707,
+    "gn:latitude":31.96216,
+    "gn:longitude":12.02126,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Al Qu\u015fayr",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghesir",
+        "El Gsir",
+        "Al Qu\u015fayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219707
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"2ff0cf04288465211b0c240f221bbd6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1310020919,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1310020919,
+    "wof:lastmodified":1537663295,
+    "wof:name":"Al Qusayr",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.02126,
+    31.96216,
+    12.02126,
+    31.96216
+],
+  "geometry": {"coordinates":[12.02126,31.96216],"type":"Point"}
+}

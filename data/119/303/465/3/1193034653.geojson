@@ -1,0 +1,69 @@
+{
+  "id": 1193034653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.56667,32.48333,14.56667,32.48333",
+    "geom:latitude":32.48333,
+    "geom:longitude":14.56667,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Wuriran",
+    "gn:country_code":"LY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2208798,
+    "gn:latitude":32.48333,
+    "gn:longitude":14.56667,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Wur\u012bran",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ur\u00edren",
+        "Wur\u012bran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2208798
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"0ae36848d87c887da7d3bfe5bd8f40bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1193034653,
+            "region_id":85673593
+        }
+    ],
+    "wof:id":1193034653,
+    "wof:lastmodified":1537663257,
+    "wof:name":"Wuriran",
+    "wof:parent_id":85673593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.56667,
+    32.48333,
+    14.56667,
+    32.48333
+],
+  "geometry": {"coordinates":[14.56667,32.48333],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1327152939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.64868,32.4343,13.64868,32.4343",
+    "geom:latitude":32.4343,
+    "geom:longitude":13.64868,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Mazra`at Saqil",
+    "gn:country_code":"LY",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2214983,
+    "gn:latitude":32.4343,
+    "gn:longitude":13.64868,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Mazra\u2018at S\u0101q\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2214983
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"c61ed2104d1a2e0594549f3ad961c98a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1327152939,
+            "region_id":85673575
+        }
+    ],
+    "wof:id":1327152939,
+    "wof:lastmodified":1537081151,
+    "wof:name":"Mazra`at Saqil",
+    "wof:parent_id":85673575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.64868,
+    32.4343,
+    13.64868,
+    32.4343
+],
+  "geometry": {"coordinates":[13.64868,32.4343],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226762689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.98778,32.59167,13.98778,32.59167",
+    "geom:latitude":32.59167,
+    "geom:longitude":13.98778,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Zawiyat al `Amariyin",
+    "gn:country_code":"LY",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2208555,
+    "gn:latitude":32.59167,
+    "gn:longitude":13.98778,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Z\u0101wiyat al \u2018Am\u0101r\u012by\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u0101wiyat al Am\u0101rtyin",
+        "Z\u00e0uiet el-Amariin",
+        "Z\u0101wiyat al \u2018Am\u0101r\u012by\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2208555
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"1c10694d8b429c07fb42520be6605426",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1226762689,
+            "region_id":85673575
+        }
+    ],
+    "wof:id":1226762689,
+    "wof:lastmodified":1537663257,
+    "wof:name":"Zawiyat al `Amariyin",
+    "wof:parent_id":85673575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.98778,
+    32.59167,
+    13.98778,
+    32.59167
+],
+  "geometry": {"coordinates":[13.98778,32.59167],"type":"Point"}
+}

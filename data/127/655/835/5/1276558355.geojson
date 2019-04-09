@@ -1,0 +1,65 @@
+{
+  "id": 1276558355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.1404,32.39405,15.1404,32.39405",
+    "geom:latitude":32.39405,
+    "geom:longitude":15.1404,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Qaryat Isma`il",
+    "gn:country_code":"LY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2213858,
+    "gn:latitude":32.39405,
+    "gn:longitude":15.1404,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Qaryat Ism\u0101\u2018\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2213858
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"7968a93253d6eed068ffb0aebb699468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1276558355,
+            "region_id":85673593
+        }
+    ],
+    "wof:id":1276558355,
+    "wof:lastmodified":1536974014,
+    "wof:name":"Qaryat Isma`il",
+    "wof:parent_id":85673593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.1404,
+    32.39405,
+    15.1404,
+    32.39405
+],
+  "geometry": {"coordinates":[15.1404,32.39405],"type":"Point"}
+}

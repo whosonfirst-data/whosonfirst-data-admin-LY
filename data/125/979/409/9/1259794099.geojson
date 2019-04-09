@@ -1,0 +1,70 @@
+{
+  "id": 1259794099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.06725,32.71252,13.06725,32.71252",
+    "geom:latitude":32.71252,
+    "geom:longitude":13.06725,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Sawani Bin Adam",
+    "gn:country_code":"LY",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2208400,
+    "gn:latitude":32.71252,
+    "gn:longitude":13.06725,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Saw\u0101n\u012b Bin \u0100dam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suw\u0101n\u012b Bin Y\u0101dim",
+        "Suani Ben Adem",
+        "Saw\u0101n\u012b Bin \u0100dam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2208400
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"2812dfa9cd028e39852db8380743eb8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1259794099,
+            "region_id":85673605
+        }
+    ],
+    "wof:id":1259794099,
+    "wof:lastmodified":1537663257,
+    "wof:name":"Sawani Bin Adam",
+    "wof:parent_id":85673605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.06725,
+    32.71252,
+    13.06725,
+    32.71252
+],
+  "geometry": {"coordinates":[13.06725,32.71252],"type":"Point"}
+}

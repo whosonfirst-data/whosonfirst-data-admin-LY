@@ -1,0 +1,70 @@
+{
+  "id": 1226461151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.47083,24.37,14.47083,24.37",
+    "geom:latitude":24.37,
+    "geom:longitude":14.47083,
+    "gn:admin1_code":"73",
+    "gn:asciiname":"Tajarhi",
+    "gn:country_code":"LY",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2210411,
+    "gn:latitude":24.37,
+    "gn:longitude":14.47083,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Tajarh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tegerhi",
+        "Tajarh\u012b",
+        "\u062a\u062c\u0631\u062d\u064a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2210411
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"3b189bed814e885cce87d85542bc4c4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1226461151,
+            "region_id":85673589
+        }
+    ],
+    "wof:id":1226461151,
+    "wof:lastmodified":1537663262,
+    "wof:name":"Tajarhi",
+    "wof:parent_id":85673589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.47083,
+    24.37,
+    14.47083,
+    24.37
+],
+  "geometry": {"coordinates":[14.47083,24.37],"type":"Point"}
+}

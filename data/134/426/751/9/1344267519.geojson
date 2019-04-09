@@ -1,0 +1,74 @@
+{
+  "id": 1344267519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.11844,32.3958,15.11844,32.3958",
+    "geom:latitude":32.3958,
+    "geom:longitude":15.11844,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Qaryat al Magharibah",
+    "gn:country_code":"LY",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2213922,
+    "gn:latitude":32.3958,
+    "gn:longitude":15.11844,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Qaryat al Magh\u0101ribah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u0645\u063a\u0627\u0631\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Maq\u0101wibah",
+        "El-Mag\u00e0rba",
+        "El-Mag\u00e1uba",
+        "Qaryat al Magh\u0101ribah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2213922
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"c84722dee2b2707931b2b4bdfe1e08a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1344267519,
+            "region_id":85673593
+        }
+    ],
+    "wof:id":1344267519,
+    "wof:lastmodified":1537663272,
+    "wof:name":"Qaryat al Magharibah",
+    "wof:parent_id":85673593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.11844,
+    32.3958,
+    15.11844,
+    32.3958
+],
+  "geometry": {"coordinates":[15.11844,32.3958],"type":"Point"}
+}

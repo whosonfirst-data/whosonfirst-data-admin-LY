@@ -1,0 +1,70 @@
+{
+  "id": 1226053097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.86667,32.03333,12.86667,32.03333",
+    "geom:latitude":32.03333,
+    "geom:longitude":12.86667,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Al Asabi`ah",
+    "gn:country_code":"LY",
+    "gn:dem":801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2220153,
+    "gn:latitude":32.03333,
+    "gn:longitude":12.86667,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Al A\u015f\u0101bi\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-As\u00e1baa",
+        "As\u00e1baa",
+        "Al A\u015f\u0101bi\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2220153
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"cf52395ff20d0777121782d0c090ae3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1226053097,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1226053097,
+    "wof:lastmodified":1537663303,
+    "wof:name":"Al Asabi`ah",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.86667,
+    32.03333,
+    12.86667,
+    32.03333
+],
+  "geometry": {"coordinates":[12.86667,32.03333],"type":"Point"}
+}

@@ -1,0 +1,317 @@
+{
+  "id": 85673627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.800916,
+    "geom:area_square_m":8386295227.174059,
+    "geom:bbox":"21.331920624,31.065675736,22.112522125,32.938591004",
+    "geom:latitude":32.131151,
+    "geom:longitude":21.74945,
+    "gn:population":206180,
+    "iso:country":"LY",
+    "label:eng_x_preferred_longname":[
+        "Al Jabal al Akhdar District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":32.420965,
+    "lbl:longitude":21.678477,
+    "meso:adm1_en":"Cyrenaica",
+    "meso:adm1_loc":"\u0628\u0631\u0642\u0629",
+    "meso:name_alt":"Al Jabal A",
+    "meso:name_loc":"\u0627\u0644\u062c\u0628\u0644 \u0627\u0644\u0627\u062e\u0636\u0631",
+    "mps:latitude":32.409459,
+    "mps:longitude":21.677669,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":7.7,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0628\u0644 \u0627\u0644\u0627\u062e\u0636\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0634\u0639\u0628\u064a\u0629 \u0627\u0644\u062c\u0628\u0644 \u0627\u0644\u0627\u062e\u0636\u0631",
+        "\u0634\u0639\u0628\u064a\u0629 \u0627\u0644\u062c\u0628\u0644 \u0627\u0644\u0623\u062e\u0636\u0631"
+    ],
+    "name:baq_x_preferred":[
+        "Al Jabal al Akhdar"
+    ],
+    "name:ben_x_preferred":[
+        "\u099c\u09be\u09ac\u09be\u09b2 \u0986\u09b2 \u0986\u0995\u09a6\u09be\u09b0"
+    ],
+    "name:cat_x_preferred":[
+        "Al Jabal al Akhdar"
+    ],
+    "name:chi_x_preferred":[
+        "\u7da0\u5c71\u7701"
+    ],
+    "name:dan_x_preferred":[
+        "Al Jabal al Akhdar"
+    ],
+    "name:dut_x_preferred":[
+        "Al Jabal al Akhdar"
+    ],
+    "name:eng_x_preferred":[
+        "Al Jabal al Akhdar"
+    ],
+    "name:epo_x_preferred":[
+        "Al \u011cabal Al A\u0125dar"
+    ],
+    "name:fin_x_preferred":[
+        "Al Jabal al Akhdar"
+    ],
+    "name:fre_x_preferred":[
+        "Al Jabal al Akhdar"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d4\u10da-\u10ef\u10d4\u10d1\u10d0\u10da-\u10d4\u10da-\u10d0\u10ee\u10d3\u10d0\u10e0\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Munizip al-Dschabal al-Achdar"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a4\u03b6\u03b1\u03bc\u03c0\u03ac\u03bb \u03b1\u03bb \u0391\u03ba\u03bd\u03c4\u03ac\u03c1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9c\u0aac\u0ab2 \u0a85\u0ab2 \u0a85\u0a96\u0aa6\u0ab0"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u092c\u0932 \u0905\u0932 \u0905\u0916\u094d\u0926\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Dzsabal el-Ahdar tartom\u00e1ny"
+    ],
+    "name:ind_x_preferred":[
+        "Al Jabal al Akhdar"
+    ],
+    "name:ita_x_preferred":[
+        "Municipalit\u00e0 di Gebel el-Achdar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e3\u30d0\u30eb\u30fb\u30a2\u30eb\u30fb\u30a2\u30d5\u30c0\u30eb\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9c\u0cac\u0cb2\u0ccd \u0c85\u0cb2\u0ccd \u0c85\u0c96\u0ccd\u0ca6\u0cbe\u0cb0\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc54c\uc790\ubc1c\uc54c\uc544\ud06c\ub2e4\ub974 \uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "D\u017eabala al Ahdara"
+    ],
+    "name:lit_x_preferred":[
+        "D\u017eabal al Achdaro savivaldyb\u0117"
+    ],
+    "name:mar_x_preferred":[
+        "\u091c\u092c\u0932 \u0905\u0932 \u0905\u0916\u093c\u094d\u0926\u0930\u094d\u0930"
+    ],
+    "name:may_x_preferred":[
+        "Jabal al Akhdar"
+    ],
+    "name:nob_x_preferred":[
+        "Al Jabal al Akhdar"
+    ],
+    "name:pol_x_preferred":[
+        "Al-D\u017cabal al-Achdar"
+    ],
+    "name:por_x_preferred":[
+        "Al Jabal al Akhdar"
+    ],
+    "name:rum_x_preferred":[
+        "Districtul Al Jabal al Akhdar"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0414\u0436\u0435\u0431\u0430\u043b-\u042d\u043b\u044c-\u0410\u0445\u0434\u0430\u0440"
+    ],
+    "name:sco_x_preferred":[
+        "Al Jabal al Akhdar Destrict"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da2\u0db6\u0dcf\u0dbd\u0dca \u0d85\u0dbd\u0dca \u0d85\u0d9a\u0dca\u0daf\u0dcf\u0dbb\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Al Jabal al Akhdar"
+    ],
+    "name:swe_x_preferred":[
+        "Al Jabal al Akhdar"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9c\u0baa\u0bb2\u0bcd  \u0b85\u0bb2\u0bcd \u0b85\u0b95\u0bcd\u0bb9\u0b9f\u0bb0\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1c\u0c2c\u0c32\u0c4d \u0c05\u0c32\u0c4d \u0c05\u0c16\u0c26\u0c30\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0410\u043b \u04b6\u0430\u0431\u0430\u043b \u0430\u043b \u0410x\u0434\u0430\u0440"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e32\u0e40\u0e1a\u0e25 \u0e2d\u0e31\u0e25 \u0e2d\u0e31\u0e04\u0e2b\u0e4c\u0e14\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Jabak Al Akhdar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u0414\u0436\u0435\u0431\u0430\u043b \u0415\u043b\u044c-\u0410\u0445\u0434\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "\u0627\u0644\u062c\u0628\u0644 \u0627\u0644\u0627\u062e\u0636\u0631"
+    ],
+    "name:unk_x_variant":[
+        "Al Jabal al Akh\u1e11ar"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0628\u0644 \u0627\u0644\u0627\u062e\u0636\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Jabal al Akhdar"
+    ],
+    "name:vol_x_preferred":[
+        "C\u00e4b\u00e4l\u00e4lakdari\u00e4n"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"LBY",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"LBY-2982",
+    "ne:adm1_code":"LBY-2982",
+    "ne:admin":"Libya",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"LY.JA",
+    "ne:code_local":"",
+    "ne:datarank":"7",
+    "ne:diss_me":"2982",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"LY49",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Libya",
+    "ne:gn_a1_code":"LY.63",
+    "ne:gn_id":"443289",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Sha`biyat al Jabal al Akhdar",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"LY63",
+    "ne:gns_id":"9042459",
+    "ne:gns_lang":"ara",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Jabal al Akhdar, Sha`biyat al",
+    "ne:gns_region":"7",
+    "ne:gu_a3":"LBY",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"LY-",
+    "ne:iso_a2":"LY",
+    "ne:labelrank":"4",
+    "ne:latitude":"32.00680000000",
+    "ne:longitude":"21.72220000000",
+    "ne:mapcolor13":11,
+    "ne:mapcolor9":2,
+    "ne:name":"Al Jabal al Akhdar",
+    "ne:name_alt":"Al Bayda'|al-Ghabal al-Ahdar|Beida|Djebel Akhdar|Jebel el Akhdar",
+    "ne:name_len":18,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"JA",
+    "ne:provnum_ne":"20020",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"4",
+    "ne:sov_a3":"LBY",
+    "ne:sub_code":"",
+    "ne:type":"Sha'biyat|Sha'biyah",
+    "ne:type_en":"Municipality|Governarate",
+    "ne:wikipedia":"",
+    "ne:woe_id":2346132,
+    "ne:woe_label":"Al Jabal al Akhdar, LY, Libya",
+    "ne:woe_name":"Al Jabal al Akhdar",
+    "qs:a0":"Libya",
+    "qs:a0_lc":"LY",
+    "qs:a1":"Al Jabal al Akhdar",
+    "qs:a1_lc":"LBY-2982",
+    "qs:adm0":"Libya",
+    "qs:adm0_a3":"LBY",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Municipality|Governarate",
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-04-15",
+    "statoids:area_km":"",
+    "statoids:area_mi":"",
+    "statoids:as_of_date":"2006-04-15",
+    "statoids:capital":"Al Bayda'",
+    "statoids:country":"LY",
+    "statoids:gec":"LY63",
+    "statoids:hasc":"LY.JK",
+    "statoids:iso":"JA",
+    "statoids:name":"Al Jabal al Akhdar",
+    "statoids:population":"203156",
+    "statoids:timezone":"+2",
+    "statoids:type":"district",
+    "wd:wordcount":204,
+    "wof:belongsto":[
+        102191573,
+        85632627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"LY63",
+        "gn:id":443289,
+        "gp:id":2346132,
+        "hasc:id":"LY.JK",
+        "iso:id":"LY-JA",
+        "qs:id":235608,
+        "wd:id":"Q32841",
+        "wk:page":"Jabal al Akhdar"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"0cd289e2e9caa10a078eeeb5ccce9f70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "region_id":85673627
+        }
+    ],
+    "wof:id":85673627,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1553550407,
+    "wof:name":"Al Jabal al Akhdar",
+    "wof:parent_id":85632627,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":203156,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:shortcode":"JK",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.33192062400008,
+    31.06567573600006,
+    22.11252212500005,
+    32.93859100400005
+],
+  "geometry": {"coordinates":[[[21.38732899500008,32.78060550000004],[21.39525032100005,32.78425979600007],[21.40447616600005,32.78408050600007],[21.42679786700006,32.79460525500008],[21.44054985100007,32.79639053400007],[21.44844055100003,32.80212402300003],[21.45783996600005,32.80423736600005],[21.46394348200005,32.80739975000006],[21.47065734800003,32.81539154000006],[21.48251533500007,32.81711578400007],[21.48589121054756,32.82125668388308],[21.48749923700012,32.82205581700009],[21.49205589300004,32.82583236700009],[21.49206227744163,32.82641699684249],[21.50832557700005,32.83552169800004],[21.50942841074667,32.83703138803405],[21.50997161900017,32.83702850300011],[21.50990462949585,32.83768329291261],[21.51346907545414,32.84256273059441],[21.51413917500003,32.84286117600016],[21.51747131300004,32.84455490100004],[21.51951600112447,32.84693959018787],[21.52548980700004,32.84887695300006],[21.52620697000003,32.84910964900007],[21.53667640700007,32.85835266100003],[21.54447937000003,32.85995101900005],[21.55331611700007,32.86937713600003],[21.55382319365967,32.86955642700008],[21.55494499200012,32.86955642700008],[21.55582019913295,32.87026252360624],[21.56107330300006,32.87211990400004],[21.57180213900006,32.88182830800002],[21.58986091600008,32.89151001000005],[21.60503006000005,32.90569686900005],[21.61411094600004,32.90939331100003],[21.61873245200007,32.91593933100006],[21.62458801300005,32.91885757400007],[21.62792968700006,32.92353439300007],[21.63138961800007,32.92523574800003],[21.63641929600004,32.92171096800007],[21.64120101900005,32.92436599700005],[21.67146873500008,32.92795562800006],[21.70148468100007,32.93795394900008],[21.70797729500003,32.93859100400005],[21.74266052300004,32.93357086200007],[21.75424003600006,32.92906951900005],[21.80012321500004,32.91493606600005],[21.82514762900007,32.90642547600004],[21.83443641700006,32.90483856200007],[21.88807869000004,32.90027237000004],[21.89689064000004,32.89683151200006],[21.90884598353275,32.89819191136175],[21.90913963300005,32.89788818400012],[21.91101806723788,32.89789564631854],[21.92004013100006,32.89467239400005],[21.92819976800007,32.89419174200003],[21.93950462300006,32.89677047800006],[21.95974159200006,32.90003204300007],[21.97995945700006,32.90119845900006],[21.97774505600006,32.83898925900007],[21.96933555600003,32.75643539500004],[21.99407959000007,32.68232727000003],[22.02492713900006,32.62645721400003],[22.03322410600003,32.55266571000004],[22.02032280000003,32.49773025500008],[21.99039459300008,32.42474365300006],[21.97687149000006,32.35137176500007],[21.95936584500004,32.31951904300007],[21.97809791600002,32.23158645700005],[21.98046112000003,32.14398193400007],[22.00444030700004,32.05125808800005],[21.99873542800003,31.88996315000003],[22.00058937100005,31.78840446500004],[21.99125480700008,31.67782211300005],[21.96759033200004,31.62293243400006],[21.96736526500007,31.46125030500008],[21.94852447500006,31.38771629400003],[21.91775131200006,31.28205680800005],[21.99485796200003,31.21787878900005],[22.11252212500005,31.11994361800004],[21.97160530100007,31.10748291000004],[21.95993035800007,31.10654085000004],[21.82438803900004,31.09560383900003],[21.79278564400005,31.09305381700005],[21.71718597400007,31.06567573600006],[21.71433360600003,31.17942018500003],[21.71176528900003,31.28183746400003],[21.68002700800002,31.30561447100007],[21.65444755600004,31.35237121600005],[21.61499023400006,31.47334289600008],[21.61874198900006,31.58875656100003],[21.65961837800006,31.67566299400005],[21.66823768600005,31.77242851300008],[21.66176986700003,31.90637016400007],[21.63214683600006,31.99921608000005],[21.52547645500005,32.07050705000006],[21.46200561500007,32.13166809100005],[21.42689514100005,32.22910690300006],[21.36445426900008,32.32701873700006],[21.33482933000005,32.42886352600004],[21.33192062400008,32.51176071200007],[21.38842773500005,32.57051467900004],[21.46153259300007,32.63351440400004],[21.45811081000005,32.69796371500007],[21.39461517300003,32.76813125600006],[21.38732899500008,32.78060550000004]]],"type":"Polygon"}
+}

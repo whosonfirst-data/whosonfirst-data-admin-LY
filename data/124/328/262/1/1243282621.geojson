@@ -1,0 +1,77 @@
+{
+  "id": 1243282621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.0005,32.78991,22.0005,32.78991",
+    "geom:latitude":32.78991,
+    "geom:longitude":22.0005,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Al Abraq",
+    "gn:country_code":"LY",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":89090,
+    "gn:latitude":32.78991,
+    "gn:longitude":22.0005,
+    "gn:modification_date":"2018-04-05",
+    "gn:name":"Al Abraq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u0628\u0631\u0642"
+    ],
+    "name:und_x_variant":[
+        "Luigi di Savoia",
+        "Al Labrag",
+        "El-Abr\u00e0gh",
+        "Al Labraq",
+        "Al Lazraq",
+        "Al Abraq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":89090,
+        "wk:page":"Al_Abraq%2C_Libya"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"f5a0e9d67a30b0bd36769c429e5f34e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1243282621,
+            "region_id":85673663
+        }
+    ],
+    "wof:id":1243282621,
+    "wof:lastmodified":1537663257,
+    "wof:name":"Al Abraq",
+    "wof:parent_id":85673663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.0005,
+    32.78991,
+    22.0005,
+    32.78991
+],
+  "geometry": {"coordinates":[22.0005,32.78991],"type":"Point"}
+}

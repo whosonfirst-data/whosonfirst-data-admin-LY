@@ -1,0 +1,78 @@
+{
+  "id": 1344167671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.84634,32.69677,13.84634,32.69677",
+    "geom:latitude":32.69677,
+    "geom:longitude":13.84634,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Qasr Khiyar",
+    "gn:country_code":"LY",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2213570,
+    "gn:latitude":32.69677,
+    "gn:longitude":13.84634,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Qa\u015fr Khiy\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0635\u0631 \u062e\u064a\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Gasr Kiar",
+        "Qa\u015fr al Jif\u0101rah",
+        "Gasr Chiar",
+        "Qa\u015fr Khiv\u0101k",
+        "Gasr Gef\u00e1ra",
+        "Kiar",
+        "Qa\u015fr Khiy\u0101r",
+        "Qasr Al Akhyar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2213570
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"544573e24f86b1c941947da2d4002d24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1344167671,
+            "region_id":85673575
+        }
+    ],
+    "wof:id":1344167671,
+    "wof:lastmodified":1537663266,
+    "wof:name":"Qasr Khiyar",
+    "wof:parent_id":85673575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.84634,
+    32.69677,
+    13.84634,
+    32.69677
+],
+  "geometry": {"coordinates":[13.84634,32.69677],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209425413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.25669,32.90329,13.25669,32.90329",
+    "geom:latitude":32.90329,
+    "geom:longitude":13.25669,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Qabilat Dajibitah",
+    "gn:country_code":"LY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2214221,
+    "gn:latitude":32.90329,
+    "gn:longitude":13.25669,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Qab\u012blat Daj\u012bb\u012btah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2214221
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"63f3d08730b6f78f1da81b87ed8cf75b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632627,
+            "locality_id":1209425413
+        }
+    ],
+    "wof:id":1209425413,
+    "wof:lastmodified":1536287396,
+    "wof:name":"Qabilat Dajibitah",
+    "wof:parent_id":85632627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.25669,
+    32.903290000000005,
+    13.25669,
+    32.903290000000005
+],
+  "geometry": {"coordinates":[13.25669,32.90329000000001],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209430023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.45002,32.42792,20.45002,32.42792",
+    "geom:latitude":32.42792,
+    "geom:longitude":20.45002,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Al Mabni",
+    "gn:country_code":"LY",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":88920,
+    "gn:latitude":32.42792,
+    "gn:longitude":20.45002,
+    "gn:modification_date":"2018-04-05",
+    "gn:name":"Al Mabn\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0628\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "El-M\u00e9bni",
+        "Al Mabn\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":88920
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"60f0b98e6c60701c88b055378e85761e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632627,
+            "locality_id":1209430023
+        }
+    ],
+    "wof:id":1209430023,
+    "wof:lastmodified":1537663255,
+    "wof:name":"Al Mabni",
+    "wof:parent_id":85632627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.45002,
+    32.42792,
+    20.45002,
+    32.42792
+],
+  "geometry": {"coordinates":[20.45002,32.42792],"type":"Point"}
+}

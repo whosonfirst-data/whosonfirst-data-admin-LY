@@ -1,0 +1,65 @@
+{
+  "id": 1226361215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.1492,32.37523,15.1492,32.37523",
+    "geom:latitude":32.37523,
+    "geom:longitude":15.1492,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Qaryat al Ja`afirah",
+    "gn:country_code":"LY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2213932,
+    "gn:latitude":32.37523,
+    "gn:longitude":15.1492,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Qaryat al Ja\u2018\u0101firah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2213932
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"e5db5d92baef6941cfb77c0d6e563e03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1226361215,
+            "region_id":85673593
+        }
+    ],
+    "wof:id":1226361215,
+    "wof:lastmodified":1536767686,
+    "wof:name":"Qaryat al Ja`afirah",
+    "wof:parent_id":85673593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.1492,
+    32.37523,
+    15.1492,
+    32.37523
+],
+  "geometry": {"coordinates":[15.1492,32.37523],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1242892535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.16222,31.97528,11.16222,31.97528",
+    "geom:latitude":31.97528,
+    "geom:longitude":11.16222,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Al Hawamid",
+    "gn:country_code":"LY",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2220013,
+    "gn:latitude":31.97528,
+    "gn:longitude":11.16222,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Al \u1e28aw\u0101mid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2220013
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"988a50b0d31a1a346645e1261ce44515",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1242892535,
+            "region_id":85673563
+        }
+    ],
+    "wof:id":1242892535,
+    "wof:lastmodified":1536607193,
+    "wof:name":"Al Hawamid",
+    "wof:parent_id":85673563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.16222,
+    31.97528,
+    11.16222,
+    31.97528
+],
+  "geometry": {"coordinates":[11.16222,31.97528],"type":"Point"}
+}

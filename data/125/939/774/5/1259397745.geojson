@@ -1,0 +1,71 @@
+{
+  "id": 1259397745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.78028,31.87689,11.78028,31.87689",
+    "geom:latitude":31.87689,
+    "geom:longitude":11.78028,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"As Salamat",
+    "gn:country_code":"LY",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219367,
+    "gn:latitude":31.87689,
+    "gn:longitude":11.78028,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"As Sal\u0101m\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Slam\u00e1t",
+        "Es Stamat",
+        "Es-Slam\u00e1t",
+        "As Sal\u0101m\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219367
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"74f7355e4b7101c894d723a61d3a5859",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1259397745,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1259397745,
+    "wof:lastmodified":1537663291,
+    "wof:name":"As Salamat",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.78028,
+    31.87689,
+    11.78028,
+    31.87689
+],
+  "geometry": {"coordinates":[11.78028,31.87689],"type":"Point"}
+}

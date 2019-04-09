@@ -1,0 +1,113 @@
+{
+  "id": 85902889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":12408180.656351,
+    "geom:bbox":"20.064871,32.118682,20.064871,32.118682",
+    "geom:latitude":32.118682,
+    "geom:longitude":20.064871,
+    "gn:latitude":32.11766,
+    "gn:longitude":20.12927,
+    "iso:country":"LY",
+    "lbl:latitude":32.118682,
+    "lbl:longitude":20.064871,
+    "mps:latitude":32.117474,
+    "mps:longitude":20.064002,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:ara_x_colloquial":[
+        "Al Urubah",
+        "Al \u2018Urubah"
+    ],
+    "name:ara_x_preferred":[
+        "Al \u2018Ur\u016bbah",
+        "\u0642\u0646\u0627\u0629 \u0627\u0644\u0631\u0623\u064a"
+    ],
+    "name:unk_x_variant":[
+        "Al \u2018Ur\u016bbah"
+    ],
+    "qs:gn_adm0_cc":"LY",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":88319,
+    "qs:gn_nam_loc":"Banghazi, \u0628\u0646\u063a\u0627\u0632\u064a, LY",
+    "qs:gn_namadm1":"54",
+    "qs:gn_name":"Al \u2018Ur\u016bbah",
+    "qs:local_max":237,
+    "qs:local_sum":255,
+    "qs:localhoods":2,
+    "qs:name":"Al \u2018Ur\u016bbah",
+    "qs:name_adm0":"Libya",
+    "qs:name_adm1":"Banghazi",
+    "qs:name_local":"\u0628\u0646\u063a\u0627\u0632\u064a",
+    "qs:photo_max":35,
+    "qs:photo_sum":237,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":22,
+    "qs:woe_adm0":23424882,
+    "qs:woe_adm1":2346137,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1352831,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":141,
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":88823,
+        "gp:id":1352690,
+        "qs:id":229242,
+        "qs_pg:id":229242,
+        "wd:id":"Q16002330"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"cae7f9f4a69a77edbe6a120dc63e5feb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":-1,
+            "neighbourhood_id":85902889,
+            "region_id":85673635
+        }
+    ],
+    "wof:id":85902889,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1531935945,
+    "wof:name":"Al \u2018Ur\u016bbah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.064871,
+    32.118682,
+    20.064871,
+    32.118682
+],
+  "geometry": {"coordinates":[20.064871,32.118682],"type":"Point"}
+}

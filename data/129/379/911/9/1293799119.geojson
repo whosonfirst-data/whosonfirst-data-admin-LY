@@ -1,0 +1,73 @@
+{
+  "id": 1293799119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.42056,25.92333,14.42056,25.92333",
+    "geom:latitude":25.92333,
+    "geom:longitude":14.42056,
+    "gn:admin1_code":"73",
+    "gn:asciiname":"Taraghin",
+    "gn:country_code":"LY",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2210242,
+    "gn:latitude":25.92333,
+    "gn:longitude":14.42056,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Tar\u0101ghin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Traghan",
+        "Traghen",
+        "Tar\u0101ghin",
+        "\u062a\u0631\u0627\u063a\u0646",
+        "Tr\u0101ghan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2210242,
+        "wk:page":"Traghan"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"a760ade059a4ec34bbd83a58854f7be4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1293799119,
+            "region_id":85673589
+        }
+    ],
+    "wof:id":1293799119,
+    "wof:lastmodified":1537663261,
+    "wof:name":"Taraghin",
+    "wof:parent_id":85673589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.42056,
+    25.92333,
+    14.42056,
+    25.92333
+],
+  "geometry": {"coordinates":[14.42056,25.92333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293705535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.85422,32.66107,20.85422,32.66107",
+    "geom:latitude":32.66107,
+    "geom:longitude":20.85422,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Qaryat Sidi Shahir ad Din",
+    "gn:country_code":"LY",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":84131,
+    "gn:latitude":32.66107,
+    "gn:longitude":20.85422,
+    "gn:modification_date":"2018-04-05",
+    "gn:name":"Qaryat S\u012bd\u012b Sh\u0101hir ad D\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0633\u064a\u062f\u064a \u0634\u0627\u0647\u0631 \u0627\u0644\u062f\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Grued Si Nur ed Din",
+        "Qaryat S\u012bd\u012b Sh\u0101hir ad D\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":84131
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"1626e8b8d8dd87a3ecca00151df9664d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1293705535,
+            "region_id":85673625
+        }
+    ],
+    "wof:id":1293705535,
+    "wof:lastmodified":1537663248,
+    "wof:name":"Qaryat Sidi Shahir ad Din",
+    "wof:parent_id":85673625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.85422,
+    32.66107,
+    20.85422,
+    32.66107
+],
+  "geometry": {"coordinates":[20.85422,32.66107],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1326548667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.75,26.66667,13.75,26.66667",
+    "geom:latitude":26.66667,
+    "geom:longitude":13.75,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Qasr Barruru",
+    "gn:country_code":"LY",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2213623,
+    "gn:latitude":26.66667,
+    "gn:longitude":13.75,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Qa\u015fr Barr\u016br\u016b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gasr Berruru",
+        "Qa\u015fr Barr\u016br\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2213623
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"961ab7e9356d0c37ec51bbf92c370239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1326548667,
+            "region_id":85673669
+        }
+    ],
+    "wof:id":1326548667,
+    "wof:lastmodified":1537663267,
+    "wof:name":"Qasr Barruru",
+    "wof:parent_id":85673669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.75,
+    26.66667,
+    13.75,
+    26.66667
+],
+  "geometry": {"coordinates":[13.75,26.66667],"type":"Point"}
+}

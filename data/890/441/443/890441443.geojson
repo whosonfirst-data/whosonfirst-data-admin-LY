@@ -1,0 +1,301 @@
+{
+  "id": 890441443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.83174,32.48798,20.83174,32.48798",
+    "geom:latitude":32.48798,
+    "geom:longitude":20.83174,
+    "gn:country":"LY",
+    "gn:fcode":"PPLA",
+    "gn:pop":85315,
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.7,
+    "name:ara_x_preferred":[
+        "\u0634\u0639\u0628\u064a\u0629 \u0627\u0644\u0645\u0631\u062c"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0631\u062c"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09b0\u099c"
+    ],
+    "name:cat_x_preferred":[
+        "Al Marj"
+    ],
+    "name:chi_x_preferred":[
+        "\u8fc8\u5c14\u5b63"
+    ],
+    "name:dan_x_preferred":[
+        "Marj"
+    ],
+    "name:dut_x_preferred":[
+        "Marj"
+    ],
+    "name:eng_x_preferred":[
+        "Al Marj"
+    ],
+    "name:epo_x_preferred":[
+        "Al Mar\u011d"
+    ],
+    "name:fin_x_preferred":[
+        "Marj"
+    ],
+    "name:fre_x_preferred":[
+        "Al Marj"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d4\u10da-\u10db\u10d0\u10e0\u10ef\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "El Merdj"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03ac\u03c1\u03c4\u03b6"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0abe\u0ab0\u0acd\u0a9c"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0930\u094d\u091c"
+    ],
+    "name:ind_x_preferred":[
+        "Marj"
+    ],
+    "name:ita_x_preferred":[
+        "El Merj"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30eb\u30b8\u30e5"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cbe\u0cb0\u0ccd\u0c9c\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ub974\uc988"
+    ],
+    "name:lav_x_preferred":[
+        "Mard\u017ea"
+    ],
+    "name:lit_x_preferred":[
+        "Al Marj"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u0930\u094d\u091c"
+    ],
+    "name:may_x_preferred":[
+        "Marj"
+    ],
+    "name:nob_x_preferred":[
+        "Marj"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0631\u062c"
+    ],
+    "name:pol_x_preferred":[
+        "Al Marj"
+    ],
+    "name:por_x_preferred":[
+        "Al Marj"
+    ],
+    "name:rum_x_preferred":[
+        "Al Marj"
+    ],
+    "name:rup_x_preferred":[
+        "Al Marj"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u044c-\u041c\u0430\u0440\u0434\u0436"
+    ],
+    "name:sco_x_preferred":[
+        "Al Marj"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0dcf\u0dbb\u0dca\u0da2\u0dca"
+    ],
+    "name:slv_x_preferred":[
+        "Al Marj"
+    ],
+    "name:spa_x_preferred":[
+        "Al Marj"
+    ],
+    "name:srd_x_preferred":[
+        "Al Marj"
+    ],
+    "name:swe_x_preferred":[
+        "Marj"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bbe\u0bb0\u0bcd\u0b9c\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c30\u0c4d\u0c1c\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e2d\u0e23\u0e4c\u0e40\u0e12"
+    ],
+    "name:tur_x_preferred":[
+        "Marj"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u041c\u0430\u0440\u0434\u0436"
+    ],
+    "name:unk_x_variant":[
+        "El Merj"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0631\u062c"
+    ],
+    "name:vie_x_preferred":[
+        "Al Marj"
+    ],
+    "name:vol_x_preferred":[
+        "M\u00e4rci\u00e4n"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Libya",
+    "ne:ADM0_A3":"LBY",
+    "ne:ADM1NAME":"Al Hizam Al Akhdar",
+    "ne:ADMIN1_COD":9,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Changed scale rank.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":88903,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"Al Marj",
+    "ne:GN_POP":85315,
+    "ne:GTOPO30":334.0,
+    "ne:ISO_A2":"LY",
+    "ne:LABELRANK":7,
+    "ne:LATITUDE":32.500457,
+    "ne:LONGITUDE":20.829984,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Al Marj",
+    "ne:MAX_AREAKM":15.0,
+    "ne:MAX_AREAMI":6.0,
+    "ne:MAX_BBXMAX":20.858333,
+    "ne:MAX_BBXMIN":20.808333,
+    "ne:MAX_BBYMAX":32.508333,
+    "ne:MAX_BBYMIN":32.466667,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":19.0,
+    "ne:MAX_PERMI":12.0,
+    "ne:MAX_POP10":169540,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":20.832738,
+    "ne:MEAN_BBYC":32.489087,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":15.0,
+    "ne:MIN_AREAMI":6.0,
+    "ne:MIN_BBXMAX":20.858333,
+    "ne:MIN_BBXMIN":20.808333,
+    "ne:MIN_BBYMAX":32.508333,
+    "ne:MIN_BBYMIN":32.466667,
+    "ne:MIN_PERKM":19.0,
+    "ne:MIN_PERMI":12.0,
+    "ne:NAME":"Al Marj",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Al Marj",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":169540,
+    "ne:POP_MIN":85315,
+    "ne:POP_OTHER":169540,
+    "ne:RANK_MAX":9,
+    "ne:RANK_MIN":8,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Libya",
+    "ne:SOV_A3":"LBY",
+    "ne:TIMEZONE":"Africa/Tripoli",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:name":"Al Marj",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:population":"geonames",
+    "wd:wordcount":532,
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":88903,
+        "gp:id":1352652,
+        "qs:id":61930,
+        "wd:id":"Q427646",
+        "wk:page":"Marj"
+    },
+    "wof:country":"LY",
+    "wof:created":1469052323,
+    "wof:geomhash":"5616ea1f52890de0f6e4e1ec0befc410",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":890441443,
+            "region_id":85673625
+        }
+    ],
+    "wof:id":890441443,
+    "wof:lastmodified":1553816399,
+    "wof:name":"Al Marj",
+    "wof:parent_id":85673625,
+    "wof:placetype":"locality",
+    "wof:population":85315,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.83174,
+    32.48798,
+    20.83174,
+    32.48798
+],
+  "geometry": {"coordinates":[20.83174,32.48798],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309920751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.28391,31.05263,17.28391,31.05263",
+    "geom:latitude":31.05263,
+    "geom:longitude":17.28391,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"Mintaqat Wadi Harawah",
+    "gn:country_code":"LY",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2214899,
+    "gn:latitude":31.05263,
+    "gn:longitude":17.28391,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Min\u0163aqat W\u0101d\u012b Har\u0101wah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0629 \u0648\u0627\u062f\u064a \u0647\u0631\u0627\u0648\u0629"
+    ],
+    "name:und_x_variant":[
+        "Min\u0163aqat W\u0101d\u012b Har\u0101wah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2214899
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"2c6dccfc96d4bae1f50fba5b7257eeee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1309920751,
+            "region_id":85673659
+        }
+    ],
+    "wof:id":1309920751,
+    "wof:lastmodified":1537663279,
+    "wof:name":"Mintaqat Wadi Harawah",
+    "wof:parent_id":85673659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.28391,
+    31.05263,
+    17.28391,
+    31.05263
+],
+  "geometry": {"coordinates":[17.28391,31.05263],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1193147427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.59117,32.36755,14.59117,32.36755",
+    "geom:latitude":32.36755,
+    "geom:longitude":14.59117,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Al Huwayjat",
+    "gn:country_code":"LY",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219992,
+    "gn:latitude":32.36755,
+    "gn:longitude":14.59117,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Al \u1e28uwayj\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219992
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"193c0b2c9629dba3ac344c1ee83c9e47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1193147427,
+            "region_id":85673593
+        }
+    ],
+    "wof:id":1193147427,
+    "wof:lastmodified":1536381878,
+    "wof:name":"Al Huwayjat",
+    "wof:parent_id":85673593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.59117,
+    32.36755,
+    14.59117,
+    32.36755
+],
+  "geometry": {"coordinates":[14.59117,32.36755],"type":"Point"}
+}

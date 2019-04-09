@@ -1,0 +1,65 @@
+{
+  "id": 1344267431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.10694,32.45472,14.10694,32.45472",
+    "geom:latitude":32.45472,
+    "geom:longitude":14.10694,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Al `Amamirah",
+    "gn:country_code":"LY",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2220181,
+    "gn:latitude":32.45472,
+    "gn:longitude":14.10694,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Al \u2018Am\u0101mirah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2220181
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"94be3c1473420c3697f5d129b93ffb77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1344267431,
+            "region_id":85673575
+        }
+    ],
+    "wof:id":1344267431,
+    "wof:lastmodified":1537070922,
+    "wof:name":"Al `Amamirah",
+    "wof:parent_id":85673575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.10694,
+    32.45472,
+    14.10694,
+    32.45472
+],
+  "geometry": {"coordinates":[14.10694,32.45472],"type":"Point"}
+}

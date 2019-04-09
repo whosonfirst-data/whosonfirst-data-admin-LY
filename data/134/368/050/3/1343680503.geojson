@@ -1,0 +1,65 @@
+{
+  "id": 1343680503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.76667,22.28333,19.76667,22.28333",
+    "geom:latitude":22.28333,
+    "geom:longitude":19.76667,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"`Eoj Wahs",
+    "gn:country_code":"LY",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2217665,
+    "gn:latitude":22.28333,
+    "gn:longitude":19.76667,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"\u2018Eoj W\u0101h\u015f",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2217665
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"8f12960afd566b8ae7dc48ab318eba27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1343680503,
+            "region_id":85673571
+        }
+    ],
+    "wof:id":1343680503,
+    "wof:lastmodified":1536926842,
+    "wof:name":"`Eoj Wahs",
+    "wof:parent_id":85673571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.76667,
+    22.28333,
+    19.76667,
+    22.28333
+],
+  "geometry": {"coordinates":[19.76667,22.28333],"type":"Point"}
+}

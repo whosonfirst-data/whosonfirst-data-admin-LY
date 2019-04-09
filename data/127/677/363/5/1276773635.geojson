@@ -1,0 +1,73 @@
+{
+  "id": 1276773635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.83529,32.002,10.83529,32.002",
+    "geom:latitude":32.002,
+    "geom:longitude":10.83529,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Az Zaram",
+    "gn:country_code":"LY",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2220070,
+    "gn:latitude":32.002,
+    "gn:longitude":10.83529,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Az Zaram",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0631\u0645"
+    ],
+    "name:und_x_variant":[
+        "Algahazaya",
+        "Al Ghazz\u0101b\u012byah",
+        "Az Zaram"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2220070
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"747ce0bd818b9a5b70fd875b5b97d0ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1276773635,
+            "region_id":85673563
+        }
+    ],
+    "wof:id":1276773635,
+    "wof:lastmodified":1537663301,
+    "wof:name":"Az Zaram",
+    "wof:parent_id":85673563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.83529,
+    32.002,
+    10.83529,
+    32.002
+],
+  "geometry": {"coordinates":[10.83529,32.002],"type":"Point"}
+}

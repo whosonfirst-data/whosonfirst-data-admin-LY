@@ -1,0 +1,66 @@
+{
+  "id": 1360199573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.98333,32.43333,14.98333,32.43333",
+    "geom:latitude":32.43333,
+    "geom:longitude":14.98333,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Al Mahjub",
+    "gn:cc2":"LY",
+    "gn:country_code":"LY",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219870,
+    "gn:latitude":32.43333,
+    "gn:longitude":14.98333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Ma\u1e29j\u016bb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qaryat al Ma\u1e29j\u016bb",
+        "Al Ma\u1e29j\u016bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219870
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"9871c2a7a0574ea1c0a189e6211d80c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1360199573,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360199573,
+    "wof:lastmodified":1537663298,
+    "wof:name":"Al Mahjub",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.98333,
+    32.43333,
+    14.98333,
+    32.43333
+],
+  "geometry": {"coordinates":[14.98333,32.43333],"type":"Point"}
+}

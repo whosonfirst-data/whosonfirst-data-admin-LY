@@ -1,0 +1,76 @@
+{
+  "id": 1310124675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.10756,31.83907,20.10756,31.83907",
+    "geom:latitude":31.83907,
+    "geom:longitude":20.10756,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Qaryat Umm as Safa'",
+    "gn:country_code":"LY",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":84128,
+    "gn:latitude":31.83907,
+    "gn:longitude":20.10756,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Qaryat Umm a\u015f \u015eaf\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0623\u0645 \u0627\u0644\u0635\u0641\u0627\u0621"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0631\u064a\u0629 \u0623\u0645 \u0627\u0644\u0635\u0641\u0627"
+    ],
+    "name:und_x_variant":[
+        "Qaryat Umm a\u015f \u015eafr\u012b\u2019",
+        "Qaryat Umm a\u015f \u015eaf\u0101\u2019",
+        "Qaryat Umm a\u015f \u015eaf\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":84128
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"c9cc6031c416839f54f96518d9b9c8cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1310124675,
+            "region_id":85673635
+        }
+    ],
+    "wof:id":1310124675,
+    "wof:lastmodified":1537663248,
+    "wof:name":"Qaryat Umm as Safa'",
+    "wof:parent_id":85673635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.10756,
+    31.83907,
+    20.10756,
+    31.83907
+],
+  "geometry": {"coordinates":[20.10756,31.83907],"type":"Point"}
+}

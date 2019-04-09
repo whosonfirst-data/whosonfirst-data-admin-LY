@@ -1,0 +1,69 @@
+{
+  "id": 1293599659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.48333,25.91667,14.48333,25.91667",
+    "geom:latitude":25.91667,
+    "geom:longitude":14.48333,
+    "gn:admin1_code":"73",
+    "gn:asciiname":"Ma`fan",
+    "gn:country_code":"LY",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2215552,
+    "gn:latitude":25.91667,
+    "gn:longitude":14.48333,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Ma\u2018fan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maafen",
+        "Ma\u2018fan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2215552
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"af1175fcb715c68eeac9d4049e2f577b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1293599659,
+            "region_id":85673589
+        }
+    ],
+    "wof:id":1293599659,
+    "wof:lastmodified":1537663280,
+    "wof:name":"Ma`fan",
+    "wof:parent_id":85673589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.48333,
+    25.91667,
+    14.48333,
+    25.91667
+],
+  "geometry": {"coordinates":[14.48333,25.91667],"type":"Point"}
+}

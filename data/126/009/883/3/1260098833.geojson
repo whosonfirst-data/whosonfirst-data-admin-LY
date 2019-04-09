@@ -1,0 +1,84 @@
+{
+  "id": 1260098833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.96583,32.89702,21.96583,32.89702",
+    "geom:latitude":32.89702,
+    "geom:longitude":21.96583,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Susah",
+    "gn:country_code":"LY",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":81584,
+    "gn:latitude":32.89702,
+    "gn:longitude":21.96583,
+    "gn:modification_date":"2018-04-05",
+    "gn:name":"S\u016bsah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0633\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0628\u0648\u0644\u0648\u0646\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Appolonia",
+        "Susa",
+        "Marza-Souza",
+        "Apollonia",
+        "M\u00e0rsa S\u00f9sa",
+        "Mars\u00e1 S\u016bsah",
+        "Apollonie",
+        "S\u016bsah",
+        "\u0645\u0631\u0633\u0649 \u0633\u0648\u0633\u0629",
+        "Ab\u016bl\u016bniy\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":81584,
+        "wk:page":"Apollonia%2C_Cyrenaica"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"0930aa76eb25da05c0811248bbcfe667",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1260098833,
+            "region_id":85673627
+        }
+    ],
+    "wof:id":1260098833,
+    "wof:lastmodified":1537663246,
+    "wof:name":"Susah",
+    "wof:parent_id":85673627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.96583,
+    32.89702,
+    21.96583,
+    32.89702
+],
+  "geometry": {"coordinates":[21.96583,32.89702],"type":"Point"}
+}

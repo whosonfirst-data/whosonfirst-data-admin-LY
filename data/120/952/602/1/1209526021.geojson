@@ -1,0 +1,65 @@
+{
+  "id": 1209526021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.16667,31.93333,12.16667,31.93333",
+    "geom:latitude":31.93333,
+    "geom:longitude":12.16667,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Awlad `Atiyah",
+    "gn:country_code":"LY",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219179,
+    "gn:latitude":31.93333,
+    "gn:longitude":12.16667,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Awl\u0101d \u2018A\u0163\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ulad At\u00eda",
+        "Awl\u0101d \u2018A\u0163\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219179
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"45ea41454119a04d596c863718c79d27",
+    "wof:hierarchy":[
+        {
+            "country_id":85632627,
+            "locality_id":1209526021
+        }
+    ],
+    "wof:id":1209526021,
+    "wof:lastmodified":1537663289,
+    "wof:name":"Awlad `Atiyah",
+    "wof:parent_id":85632627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.16667,
+    31.93333,
+    12.16667,
+    31.93333
+],
+  "geometry": {"coordinates":[12.16667,31.93333],"type":"Point"}
+}

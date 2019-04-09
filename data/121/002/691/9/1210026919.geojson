@@ -1,0 +1,70 @@
+{
+  "id": 1210026919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.34694,32.58716,14.34694,32.58716",
+    "geom:latitude":32.58716,
+    "geom:longitude":14.34694,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Suq al Khamis",
+    "gn:country_code":"LY",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2210577,
+    "gn:latitude":32.58716,
+    "gn:longitude":14.34694,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"S\u016bq al Kham\u012bs",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sugh el-Chmis",
+        "Thursday Market",
+        "S\u016bq al Kham\u012bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2210577
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"d150f036d9ae6bd8537ec94963c7bff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1210026919,
+            "region_id":85673575
+        }
+    ],
+    "wof:id":1210026919,
+    "wof:lastmodified":1537663263,
+    "wof:name":"Suq al Khamis",
+    "wof:parent_id":85673575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.34694,
+    32.58716,
+    14.34694,
+    32.58716
+],
+  "geometry": {"coordinates":[14.34694,32.58716],"type":"Point"}
+}

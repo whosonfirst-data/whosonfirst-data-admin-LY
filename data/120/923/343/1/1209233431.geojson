@@ -1,0 +1,69 @@
+{
+  "id": 1209233431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.4199,32.8472,22.4199,32.8472",
+    "geom:latitude":32.8472,
+    "geom:longitude":22.4199,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Karsah",
+    "gn:country_code":"LY",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":85771,
+    "gn:latitude":32.8472,
+    "gn:longitude":22.4199,
+    "gn:modification_date":"2018-04-05",
+    "gn:name":"Karsah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u0633\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ch\u00e8rsa",
+        "Kirissah",
+        "Karsah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":85771
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"cf1f51d332f77b997c8bc40a718eddeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632627,
+            "locality_id":1209233431
+        }
+    ],
+    "wof:id":1209233431,
+    "wof:lastmodified":1537663251,
+    "wof:name":"Karsah",
+    "wof:parent_id":85632627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.4199,
+    32.8472,
+    22.4199,
+    32.8472
+],
+  "geometry": {"coordinates":[22.4199,32.8472],"type":"Point"}
+}

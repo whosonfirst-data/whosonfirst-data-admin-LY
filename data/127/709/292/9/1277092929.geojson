@@ -1,0 +1,70 @@
+{
+  "id": 1277092929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.795,25.97583,13.795,25.97583",
+    "geom:latitude":25.97583,
+    "geom:longitude":13.795,
+    "gn:admin1_code":"73",
+    "gn:asciiname":"Az Zarqan",
+    "gn:country_code":"LY",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2218975,
+    "gn:latitude":25.97583,
+    "gn:longitude":13.795,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Az Zarq\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ez Zergan",
+        "Az Zarq\u0101n",
+        "\u0627\u0644\u0632\u0631\u0642\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2218975
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"1af64c2143781212bb1380c8b5bd503f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1277092929,
+            "region_id":85673589
+        }
+    ],
+    "wof:id":1277092929,
+    "wof:lastmodified":1537663287,
+    "wof:name":"Az Zarqan",
+    "wof:parent_id":85673589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.795,
+    25.97583,
+    13.795,
+    25.97583
+],
+  "geometry": {"coordinates":[13.795,25.97583],"type":"Point"}
+}

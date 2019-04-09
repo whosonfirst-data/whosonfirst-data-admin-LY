@@ -1,0 +1,70 @@
+{
+  "id": 1344175675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.5,29.05,21.5,29.05",
+    "geom:latitude":29.05,
+    "geom:longitude":21.5,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Masliwah",
+    "gn:country_code":"LY",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":85030,
+    "gn:latitude":29.05,
+    "gn:longitude":21.5,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Masl\u012bwah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mesliua",
+        "Masl\u012bwah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":85030,
+        "wk:page":"Masliwah"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"2df15e8d86c2797a185e5f79cf50991a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1344175675,
+            "region_id":85673631
+        }
+    ],
+    "wof:id":1344175675,
+    "wof:lastmodified":1537663250,
+    "wof:name":"Masliwah",
+    "wof:parent_id":85673631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.5,
+    29.05,
+    21.5,
+    29.05
+],
+  "geometry": {"coordinates":[21.5,29.05],"type":"Point"}
+}

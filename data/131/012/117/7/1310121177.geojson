@@ -1,0 +1,71 @@
+{
+  "id": 1310121177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.29417,29.17167,21.29417,29.17167",
+    "geom:latitude":29.17167,
+    "geom:longitude":21.29417,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Ash Shawashinah",
+    "gn:country_code":"LY",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":88635,
+    "gn:latitude":29.17167,
+    "gn:longitude":21.29417,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Ash Shaw\u0101shinah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Esc-Sciu\u00e1scena",
+        "El Shawashna",
+        "Ash Shaw\u0101shinah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":88635,
+        "wk:page":"Ash_Shawashinah"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"78bc041b419a47c89ee4583fe4135093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1310121177,
+            "region_id":85673631
+        }
+    ],
+    "wof:id":1310121177,
+    "wof:lastmodified":1537663253,
+    "wof:name":"Ash Shawashinah",
+    "wof:parent_id":85673631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.29417,
+    29.17167,
+    21.29417,
+    29.17167
+],
+  "geometry": {"coordinates":[21.29417,29.17167],"type":"Point"}
+}

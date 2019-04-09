@@ -1,0 +1,71 @@
+{
+  "id": 1210026851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.9035,32.73174,21.9035,32.73174",
+    "geom:latitude":32.73174,
+    "geom:longitude":21.9035,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Qirnadah",
+    "gn:country_code":"LY",
+    "gn:dem":667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":83726,
+    "gn:latitude":32.73174,
+    "gn:longitude":21.9035,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Qirn\u0101dah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qaryat Qirn\u0101dah",
+        "Qaryat Qim\u0101dah",
+        "Qirn\u0101dah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":83726,
+        "wk:page":"Qirnadah"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"741a603af62389100948fead94902026",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1210026851,
+            "region_id":85673627
+        }
+    ],
+    "wof:id":1210026851,
+    "wof:lastmodified":1537663248,
+    "wof:name":"Qirnadah",
+    "wof:parent_id":85673627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.9035,
+    32.73174,
+    21.9035,
+    32.73174
+],
+  "geometry": {"coordinates":[21.9035,32.73174],"type":"Point"}
+}

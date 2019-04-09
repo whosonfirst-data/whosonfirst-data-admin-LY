@@ -1,0 +1,74 @@
+{
+  "id": 1209924673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.97067,32.60321,13.97067,32.60321",
+    "geom:latitude":32.60321,
+    "geom:longitude":13.97067,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Qabilat ash Shurfah",
+    "gn:country_code":"LY",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2214245,
+    "gn:latitude":32.60321,
+    "gn:longitude":13.97067,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Qab\u012blat ash Shurfah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0628\u064a\u0644\u0629 \u0627\u0644\u0634\u0631\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "Khalf\u016bn",
+        "Qabilat ash Shurtah",
+        "Chalf\u00fan",
+        "Qab\u012blat ash Shurfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2214245
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"4482187f5ce227925c474e8b9a11655b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1209924673,
+            "region_id":85673575
+        }
+    ],
+    "wof:id":1209924673,
+    "wof:lastmodified":1537663277,
+    "wof:name":"Qabilat ash Shurfah",
+    "wof:parent_id":85673575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.97067,
+    32.60321,
+    13.97067,
+    32.60321
+],
+  "geometry": {"coordinates":[13.97067,32.60321],"type":"Point"}
+}

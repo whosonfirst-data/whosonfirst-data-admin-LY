@@ -1,0 +1,65 @@
+{
+  "id": 1260198283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.6,32.83333,21.6,32.83333",
+    "geom:latitude":32.83333,
+    "geom:longitude":21.6,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Zawiyat al `Urqub",
+    "gn:country_code":"LY",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":80630,
+    "gn:latitude":32.83333,
+    "gn:longitude":21.6,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Z\u0101wiyat al \u2018Urq\u016bb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":80630
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"45fe9ec73af6c054719de154065db464",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1260198283,
+            "region_id":85673627
+        }
+    ],
+    "wof:id":1260198283,
+    "wof:lastmodified":1536826595,
+    "wof:name":"Zawiyat al `Urqub",
+    "wof:parent_id":85673627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.6,
+    32.83333,
+    21.6,
+    32.83333
+],
+  "geometry": {"coordinates":[21.6,32.83333],"type":"Point"}
+}

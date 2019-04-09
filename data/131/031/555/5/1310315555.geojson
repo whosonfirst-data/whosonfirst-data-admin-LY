@@ -1,0 +1,72 @@
+{
+  "id": 1310315555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.5566,26.09589,13.5566,26.09589",
+    "geom:latitude":26.09589,
+    "geom:longitude":13.5566,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Aqar al `Atabah",
+    "gn:country_code":"LY",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219560,
+    "gn:latitude":26.09589,
+    "gn:longitude":13.5566,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"\u0100q\u0101r al \u2018Atabah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0622\u0642\u0627\u0631 \u0627\u0644\u0639\u062a\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u0100q\u0101r al \u2018Atabah",
+        "\u0100q\u0101r \u2018Atabah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219560
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"173cbaa61bcfec86247111a669715e1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1310315555,
+            "region_id":85673589
+        }
+    ],
+    "wof:id":1310315555,
+    "wof:lastmodified":1537663293,
+    "wof:name":"Aqar al `Atabah",
+    "wof:parent_id":85673589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.5566,
+    26.09589,
+    13.5566,
+    26.09589
+],
+  "geometry": {"coordinates":[13.5566,26.09589],"type":"Point"}
+}

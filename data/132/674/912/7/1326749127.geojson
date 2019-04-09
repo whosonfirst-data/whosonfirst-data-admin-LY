@@ -1,0 +1,71 @@
+{
+  "id": 1326749127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.95413,32.64329,13.95413,32.64329",
+    "geom:latitude":32.64329,
+    "geom:longitude":13.95413,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Qabilat Salimah",
+    "gn:country_code":"LY",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2214215,
+    "gn:latitude":32.64329,
+    "gn:longitude":13.95413,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Qab\u012blat Salimah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e9lma",
+        "Qab\u012blat Salmah",
+        "Salimah",
+        "Qab\u012blat Salimah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2214215
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"bd36f5eaa49f3beff59ac7076de956df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1326749127,
+            "region_id":85673575
+        }
+    ],
+    "wof:id":1326749127,
+    "wof:lastmodified":1537663274,
+    "wof:name":"Qabilat Salimah",
+    "wof:parent_id":85673575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.95413,
+    32.64329,
+    13.95413,
+    32.64329
+],
+  "geometry": {"coordinates":[13.95413,32.64329],"type":"Point"}
+}

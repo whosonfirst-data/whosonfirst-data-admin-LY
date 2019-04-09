@@ -1,0 +1,75 @@
+{
+  "id": 1226664829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.07717,32.78701,22.07717,32.78701",
+    "geom:latitude":32.78701,
+    "geom:longitude":22.07717,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Zawiyat at Tarit",
+    "gn:country_code":"LY",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":80628,
+    "gn:latitude":32.78701,
+    "gn:longitude":22.07717,
+    "gn:modification_date":"2018-04-05",
+    "gn:name":"Z\u0101wiyat at Tar\u012bt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0627\u0648\u064a\u0629 \u0627\u0644\u062a\u0631\u064a\u062a"
+    ],
+    "name:und_x_variant":[
+        "Thintis",
+        "Zauiet Tert",
+        "Z\u0101wiyat at Tarit",
+        "Z\u0101wiyat at Tart",
+        "Z\u0101wiyat at Tar\u012bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":80628
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"d3691800878907cbb5a14f57aec8336a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1226664829,
+            "region_id":85673663
+        }
+    ],
+    "wof:id":1226664829,
+    "wof:lastmodified":1537663245,
+    "wof:name":"Zawiyat at Tarit",
+    "wof:parent_id":85673663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.07717,
+    32.78701,
+    22.07717,
+    32.78701
+],
+  "geometry": {"coordinates":[22.07717,32.78701],"type":"Point"}
+}

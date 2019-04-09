@@ -1,0 +1,73 @@
+{
+  "id": 1243569635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.20098,30.25711,19.20098,30.25711",
+    "geom:latitude":30.25711,
+    "geom:longitude":19.20098,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Al `Uqaylah",
+    "gn:country_code":"LY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219698,
+    "gn:latitude":30.25711,
+    "gn:longitude":19.20098,
+    "gn:modification_date":"2018-04-05",
+    "gn:name":"Al \u2018Uqaylah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Agheila",
+        "Anabucis",
+        "Agh\u00e9ila",
+        "Al \u2018Uqaylah",
+        "\u0627\u0644\u0639\u0642\u064a\u0644\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219698,
+        "wk:page":"El_Agheila"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"e8d9250d931f3f0f49d914e4b2aecc92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1243569635,
+            "region_id":85673631
+        }
+    ],
+    "wof:id":1243569635,
+    "wof:lastmodified":1537663295,
+    "wof:name":"Al `Uqaylah",
+    "wof:parent_id":85673631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.20098,
+    30.25711,
+    19.20098,
+    30.25711
+],
+  "geometry": {"coordinates":[19.20098,30.25711],"type":"Point"}
+}

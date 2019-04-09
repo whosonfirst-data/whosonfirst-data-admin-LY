@@ -1,0 +1,71 @@
+{
+  "id": 1310516725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.02628,32.01616,20.02628,32.01616",
+    "geom:latitude":32.01616,
+    "geom:longitude":20.02628,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Qaryat al Majaris",
+    "gn:country_code":"LY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":84164,
+    "gn:latitude":32.01616,
+    "gn:longitude":20.02628,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Qaryat al Maj\u0101r\u012bs",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u0645\u062c\u0627\u0631\u064a\u0633"
+    ],
+    "name:und_x_variant":[
+        "Qaryat al Maj\u0101r\u012bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":84164
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"f8b8e2ad2f2127f99de616ee3aba4092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1310516725,
+            "region_id":85673635
+        }
+    ],
+    "wof:id":1310516725,
+    "wof:lastmodified":1537663249,
+    "wof:name":"Qaryat al Majaris",
+    "wof:parent_id":85673635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.02628,
+    32.01616,
+    20.02628,
+    32.01616
+],
+  "geometry": {"coordinates":[20.02628,32.01616],"type":"Point"}
+}

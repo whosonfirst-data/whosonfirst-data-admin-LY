@@ -1,0 +1,70 @@
+{
+  "id": 1243191157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.10639,32.14278,13.10639,32.14278",
+    "geom:latitude":32.14278,
+    "geom:longitude":13.10639,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Qaryat al Kamshat",
+    "gn:country_code":"LY",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2213927,
+    "gn:latitude":32.14278,
+    "gn:longitude":13.10639,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Qaryat al Kamsh\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Kumaysh\u0101t",
+        "El-Cmesci\u00e1t",
+        "Qaryat al Kamsh\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2213927
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"66c9a9a0689f7b4c93bb7d0526102425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1243191157,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1243191157,
+    "wof:lastmodified":1537663272,
+    "wof:name":"Qaryat al Kamshat",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.10639,
+    32.14278,
+    13.10639,
+    32.14278
+],
+  "geometry": {"coordinates":[13.10639,32.14278],"type":"Point"}
+}

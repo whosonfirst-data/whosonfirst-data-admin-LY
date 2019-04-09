@@ -1,0 +1,65 @@
+{
+  "id": 1276883851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.21795,31.94645,12.21795,31.94645",
+    "geom:latitude":31.94645,
+    "geom:longitude":12.21795,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Al `Urqub",
+    "gn:country_code":"LY",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219694,
+    "gn:latitude":31.94645,
+    "gn:longitude":12.21795,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Al \u2018Urq\u016bb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219694
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"9501c6512f9a7e03fa7a063810476628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1276883851,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1276883851,
+    "wof:lastmodified":1537034212,
+    "wof:name":"Al `Urqub",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.21795,
+    31.94645,
+    12.21795,
+    31.94645
+],
+  "geometry": {"coordinates":[12.21795,31.94645],"type":"Point"}
+}

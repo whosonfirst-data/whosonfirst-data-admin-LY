@@ -1,0 +1,69 @@
+{
+  "id": 1276888901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.83939,32.76867,12.83939,32.76867",
+    "geom:latitude":32.76867,
+    "geom:longitude":12.83939,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"At Tuwaybiyah",
+    "gn:country_code":"LY",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219258,
+    "gn:latitude":32.76867,
+    "gn:longitude":12.83939,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"A\u0163 \u0162uwayb\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Et-Tu\u00e9bia",
+        "A\u0163 \u0162uwayb\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219258
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"eeb75ff6b8ac2b95a7a3e6626d1369b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1276888901,
+            "region_id":85673605
+        }
+    ],
+    "wof:id":1276888901,
+    "wof:lastmodified":1537663290,
+    "wof:name":"At Tuwaybiyah",
+    "wof:parent_id":85673605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.83939,
+    32.76867,
+    12.83939,
+    32.76867
+],
+  "geometry": {"coordinates":[12.83939,32.76867],"type":"Point"}
+}

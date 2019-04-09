@@ -1,0 +1,65 @@
+{
+  "id": 1343672399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.06667,32.71667,13.06667,32.71667",
+    "geom:latitude":32.71667,
+    "geom:longitude":13.06667,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"As Sawani",
+    "gn:country_code":"LY",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219356,
+    "gn:latitude":32.71667,
+    "gn:longitude":13.06667,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"As Saw\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219356
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"489b7f5c02dcd8297afbce6edd026aec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1343672399,
+            "region_id":85673605
+        }
+    ],
+    "wof:id":1343672399,
+    "wof:lastmodified":1536938481,
+    "wof:name":"As Sawani",
+    "wof:parent_id":85673605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.06667,
+    32.71667,
+    13.06667,
+    32.71667
+],
+  "geometry": {"coordinates":[13.06667,32.71667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327446479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.9568,31.92191,11.9568,31.92191",
+    "geom:latitude":31.92191,
+    "geom:longitude":11.9568,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Baldat Raqraq",
+    "gn:country_code":"LY",
+    "gn:dem":640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2218866,
+    "gn:latitude":31.92191,
+    "gn:longitude":11.9568,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Baldat Raqraq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Regregh",
+        "Regreg",
+        "Raqraq",
+        "Baldat Raqraq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2218866
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"bc894eec74b29fae9c4f484189bf04d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1327446479,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1327446479,
+    "wof:lastmodified":1537663286,
+    "wof:name":"Baldat Raqraq",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.9568,
+    31.92191,
+    11.9568,
+    31.92191
+],
+  "geometry": {"coordinates":[11.9568,31.92191],"type":"Point"}
+}

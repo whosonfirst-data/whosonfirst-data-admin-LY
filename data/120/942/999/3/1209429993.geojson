@@ -1,0 +1,75 @@
+{
+  "id": 1209429993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.08432,32.00971,20.08432,32.00971",
+    "geom:latitude":32.00971,
+    "geom:longitude":20.08432,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Qaryat al Qawarishah",
+    "gn:country_code":"LY",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":88839,
+    "gn:latitude":32.00971,
+    "gn:longitude":20.08432,
+    "gn:modification_date":"2018-05-19",
+    "gn:name":"Qaryat al Qaw\u0101rishah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0648\u0627\u0631\u0634\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u0642\u0648\u0627\u0631\u0634\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-Guarscia",
+        "Gu\u00e0rscia",
+        "Gouaraha",
+        "Gouarsha",
+        "Al Qaw\u0101rishah",
+        "Qaryat al Qaw\u0101rishah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":88839
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"69685c8642a1ad25058b8b0bc08eb087",
+    "wof:hierarchy":[
+        {
+            "country_id":85632627,
+            "locality_id":1209429993
+        }
+    ],
+    "wof:id":1209429993,
+    "wof:lastmodified":1537663254,
+    "wof:name":"Qaryat al Qawarishah",
+    "wof:parent_id":85632627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.08432,
+    32.00971,
+    20.08432,
+    32.00971
+],
+  "geometry": {"coordinates":[20.08432,32.00971],"type":"Point"}
+}

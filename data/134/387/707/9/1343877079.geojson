@@ -1,0 +1,69 @@
+{
+  "id": 1343877079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.91472,32.7425,12.91472,32.7425",
+    "geom:latitude":32.7425,
+    "geom:longitude":12.91472,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Mintaqat al Hashshan",
+    "gn:country_code":"LY",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2214901,
+    "gn:latitude":32.7425,
+    "gn:longitude":12.91472,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Min\u0163aqat al \u1e28ashsh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Man\u0163aqat al \u1e28ashsh\u0101n",
+        "Min\u0163aqat al \u1e28ashsh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2214901
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"f0039f06da6b430abe0708cfc67c9ad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1343877079,
+            "region_id":85673605
+        }
+    ],
+    "wof:id":1343877079,
+    "wof:lastmodified":1537663279,
+    "wof:name":"Mintaqat al Hashshan",
+    "wof:parent_id":85673605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.91472,
+    32.7425,
+    12.91472,
+    32.7425
+],
+  "geometry": {"coordinates":[12.91472,32.7425],"type":"Point"}
+}

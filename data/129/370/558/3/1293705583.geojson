@@ -1,0 +1,71 @@
+{
+  "id": 1293705583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.12751,32.15248,20.12751,32.15248",
+    "geom:latitude":32.15248,
+    "geom:longitude":20.12751,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Qaryat al `Unayzi",
+    "gn:country_code":"LY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":84160,
+    "gn:latitude":32.15248,
+    "gn:longitude":20.12751,
+    "gn:modification_date":"2018-04-05",
+    "gn:name":"Qaryat al \u2018Unayz\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u0639\u0646\u064a\u0632\u064a"
+    ],
+    "name:und_x_variant":[
+        "Qaryat al \u2018Unayz\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":84160
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"7498fd4b1cef9da9440d114c49175a1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1293705583,
+            "region_id":85673635
+        }
+    ],
+    "wof:id":1293705583,
+    "wof:lastmodified":1537663249,
+    "wof:name":"Qaryat al `Unayzi",
+    "wof:parent_id":85673635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.12751,
+    32.15248,
+    20.12751,
+    32.15248
+],
+  "geometry": {"coordinates":[20.12751,32.15248],"type":"Point"}
+}

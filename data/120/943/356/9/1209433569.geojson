@@ -1,0 +1,61 @@
+{
+  "id": 1209433569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.16191,32.65411,14.16191,32.65411",
+    "geom:latitude":32.65411,
+    "geom:longitude":14.16191,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Qabilat al `Aql",
+    "gn:country_code":"LY",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2214276,
+    "gn:latitude":32.65411,
+    "gn:longitude":14.16191,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Qab\u012blat al \u2018Aql",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2214276
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"52c4e021b6e49e7b9c8325c721830dcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632627,
+            "locality_id":1209433569
+        }
+    ],
+    "wof:id":1209433569,
+    "wof:lastmodified":1536287167,
+    "wof:name":"Qabilat al `Aql",
+    "wof:parent_id":85632627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.16191,
+    32.65411,
+    14.16191,
+    32.65411
+],
+  "geometry": {"coordinates":[14.16191,32.65411],"type":"Point"}
+}

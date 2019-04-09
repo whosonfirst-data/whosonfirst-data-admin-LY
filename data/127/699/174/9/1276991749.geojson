@@ -1,0 +1,74 @@
+{
+  "id": 1276991749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.95395,32.38904,14.95395,32.38904",
+    "geom:latitude":32.38904,
+    "geom:longitude":14.95395,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Qaryat Bu Ruwayyah",
+    "gn:country_code":"LY",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2213868,
+    "gn:latitude":32.38904,
+    "gn:longitude":14.95395,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Qaryat B\u016b Ruwayyah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0628\u0648 \u0631\u0648\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Bu Ru\u00e9ia",
+        "Qaryat B\u016b Rawayyah",
+        "B\u016b Rawiyyah",
+        "Qaryat B\u016b Ruwayyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2213868
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"8c412ccd2c1c76b35202af579d0b7ea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1276991749,
+            "region_id":85673593
+        }
+    ],
+    "wof:id":1276991749,
+    "wof:lastmodified":1537663269,
+    "wof:name":"Qaryat Bu Ruwayyah",
+    "wof:parent_id":85673593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.95395,
+    32.38904,
+    14.95395,
+    32.38904
+],
+  "geometry": {"coordinates":[14.95395,32.38904],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209022917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.13971,31.97823,12.13971,31.97823",
+    "geom:latitude":31.97823,
+    "geom:longitude":12.13971,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Awlad `Inan",
+    "gn:country_code":"LY",
+    "gn:dem":671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219140,
+    "gn:latitude":31.97823,
+    "gn:longitude":12.13971,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Awl\u0101d \u2018In\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ul\u00e0d Anan",
+        "Awl\u0101d \u2018In\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219140
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"c29e3e2dba740dd27e3e9844e34b4aa8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632627,
+            "locality_id":1209022917
+        }
+    ],
+    "wof:id":1209022917,
+    "wof:lastmodified":1537663289,
+    "wof:name":"Awlad `Inan",
+    "wof:parent_id":85632627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.13971,
+    31.97823,
+    12.13971,
+    31.97823
+],
+  "geometry": {"coordinates":[12.13971,31.97823],"type":"Point"}
+}

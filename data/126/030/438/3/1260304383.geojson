@@ -1,0 +1,70 @@
+{
+  "id": 1260304383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.17036,32.04136,12.17036,32.04136",
+    "geom:latitude":32.04136,
+    "geom:longitude":12.17036,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Qasr al Hajj",
+    "gn:country_code":"LY",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2213741,
+    "gn:latitude":32.04136,
+    "gn:longitude":12.17036,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Qa\u015fr al \u1e28\u0101jj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gasr el Hag",
+        "Qa\u015fr al \u1e28aj",
+        "Qa\u015fr al \u1e28\u0101jj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2213741
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"30923efc7bc14966c61b66d67ad78128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1260304383,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1260304383,
+    "wof:lastmodified":1537663267,
+    "wof:name":"Qasr al Hajj",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.17036,
+    32.04136,
+    12.17036,
+    32.04136
+],
+  "geometry": {"coordinates":[12.17036,32.04136],"type":"Point"}
+}

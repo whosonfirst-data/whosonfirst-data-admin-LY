@@ -1,0 +1,70 @@
+{
+  "id": 1343473827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.03196,32.13621,13.03196,32.13621",
+    "geom:latitude":32.13621,
+    "geom:longitude":13.03196,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Kammun",
+    "gn:country_code":"LY",
+    "gn:dem":684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2216097,
+    "gn:latitude":32.13621,
+    "gn:longitude":13.03196,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Kamm\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Camm\u00fan",
+        "Kam\u016bn",
+        "Kamm\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2216097
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"d6c08fe45c1e79ff5d39c9bcd1148721",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1343473827,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1343473827,
+    "wof:lastmodified":1537663281,
+    "wof:name":"Kammun",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.03196,
+    32.13621,
+    13.03196,
+    32.13621
+],
+  "geometry": {"coordinates":[13.03196,32.13621],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276668245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.90138,32.61909,13.90138,32.61909",
+    "geom:latitude":32.61909,
+    "geom:longitude":13.90138,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Qabilat Awlad `Arif",
+    "gn:country_code":"LY",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2214239,
+    "gn:latitude":32.61909,
+    "gn:longitude":13.90138,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Qab\u012blat Awl\u0101d \u2018\u0100rif",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Corr\u00e1t\u00eda",
+        "Al Kurr\u0101th\u012byah",
+        "Qab\u012blat Awl\u0101d \u2018\u0100rif"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2214239
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"0ad0137948e5eded9451826cd52dd6ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1276668245,
+            "region_id":85673575
+        }
+    ],
+    "wof:id":1276668245,
+    "wof:lastmodified":1537663276,
+    "wof:name":"Qabilat Awlad `Arif",
+    "wof:parent_id":85673575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.90138,
+    32.61909,
+    13.90138,
+    32.61909
+],
+  "geometry": {"coordinates":[13.90138,32.61909],"type":"Point"}
+}

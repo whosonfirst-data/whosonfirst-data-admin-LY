@@ -1,0 +1,69 @@
+{
+  "id": 1259794083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.99361,32.125,12.99361,32.125",
+    "geom:latitude":32.125,
+    "geom:longitude":12.99361,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Qabilat al Hajj `Umran",
+    "gn:country_code":"LY",
+    "gn:dem":758,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2214269,
+    "gn:latitude":32.125,
+    "gn:longitude":12.99361,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Qab\u012blat al \u1e28\u0101jj \u2018Umr\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qab\u012blat al \u1e28\u0101j \u2018Umran",
+        "Qab\u012blat al \u1e28\u0101jj \u2018Umr\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2214269
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"1e4061dd1ed3df1af1f222df7b3d1073",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1259794083,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1259794083,
+    "wof:lastmodified":1537663278,
+    "wof:name":"Qabilat al Hajj `Umran",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.99361,
+    32.125,
+    12.99361,
+    32.125
+],
+  "geometry": {"coordinates":[12.99361,32.125],"type":"Point"}
+}

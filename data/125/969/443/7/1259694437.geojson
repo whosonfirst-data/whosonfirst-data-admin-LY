@@ -1,0 +1,72 @@
+{
+  "id": 1259694437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.15002,31.84157,11.15002,31.84157",
+    "geom:latitude":31.84157,
+    "geom:longitude":11.15002,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Al Khirbah",
+    "gn:country_code":"LY",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219910,
+    "gn:latitude":31.84157,
+    "gn:longitude":11.15002,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Al Khirbah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0631\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-Ch\u00e9rba",
+        "Al Khirbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219910
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"e92f7a57353fb2ece34a18b51e21b0fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1259694437,
+            "region_id":85673563
+        }
+    ],
+    "wof:id":1259694437,
+    "wof:lastmodified":1537663298,
+    "wof:name":"Al Khirbah",
+    "wof:parent_id":85673563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.15002,
+    31.84157,
+    11.15002,
+    31.84157
+],
+  "geometry": {"coordinates":[11.15002,31.84157],"type":"Point"}
+}

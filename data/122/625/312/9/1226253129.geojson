@@ -1,0 +1,76 @@
+{
+  "id": 1226253129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.04275,32.69695,14.04275,32.69695",
+    "geom:latitude":32.69695,
+    "geom:longitude":14.04275,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Mintaqat al Ghanimah",
+    "gn:country_code":"LY",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2214902,
+    "gn:latitude":32.69695,
+    "gn:longitude":14.04275,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Min\u0163aqat al Ghan\u012bmah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u063a\u0646\u064a\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Borgo Corradini",
+        "Man\u0163iqat al Ghanimah",
+        "Corradini",
+        "Ghanima",
+        "Ghan\u012bmah",
+        "Min\u0163aqat al Ghan\u012bmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2214902
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"d16541e7dbdf49ea318a1120cdad1dd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1226253129,
+            "region_id":85673575
+        }
+    ],
+    "wof:id":1226253129,
+    "wof:lastmodified":1537663279,
+    "wof:name":"Mintaqat al Ghanimah",
+    "wof:parent_id":85673575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.04275,
+    32.69695,
+    14.04275,
+    32.69695
+],
+  "geometry": {"coordinates":[14.04275,32.69695],"type":"Point"}
+}

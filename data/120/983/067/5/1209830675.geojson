@@ -1,0 +1,76 @@
+{
+  "id": 1209830675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.11352,32.01195,15.11352,32.01195",
+    "geom:latitude":32.01195,
+    "geom:longitude":15.11352,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Tawurghah",
+    "gn:country_code":"LY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2210091,
+    "gn:latitude":32.01195,
+    "gn:longitude":15.11352,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"T\u0101wurghah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u0648\u0631\u063a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Tawargh\u0101\u2019",
+        "T\u0101wurghah",
+        "Tauorga",
+        "Torga",
+        "T\u0101wurgh\u0101\u2019",
+        "\u062a\u0627\u0648\u0631\u063a\u0627\u0621"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2210091
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"1be8ac9793de33e6dabc8acbb6a4207a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1209830675,
+            "region_id":85673593
+        }
+    ],
+    "wof:id":1209830675,
+    "wof:lastmodified":1537663260,
+    "wof:name":"Tawurghah",
+    "wof:parent_id":85673593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.11352,
+    32.01195,
+    15.11352,
+    32.01195
+],
+  "geometry": {"coordinates":[15.11352,32.01195],"type":"Point"}
+}

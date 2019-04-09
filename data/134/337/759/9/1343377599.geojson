@@ -1,0 +1,72 @@
+{
+  "id": 1343377599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.69722,32.28033,14.69722,32.28033",
+    "geom:latitude":32.28033,
+    "geom:longitude":14.69722,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Qabilat al `Abadilah",
+    "gn:country_code":"LY",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2214281,
+    "gn:latitude":32.28033,
+    "gn:longitude":14.69722,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Qab\u012blat al \u2018Ab\u0101d\u012blah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0628\u064a\u0644\u0629 \u0627\u0644\u0639\u0628\u0627\u062f\u064a\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qab\u012blat al \u2018Ab\u0101d\u012blah",
+        "Qab\u012blat al \u2018Ab\u0101dilah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2214281
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"9c9d2b45dbea4fe4a8045d6ace9c3c2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1343377599,
+            "region_id":85673593
+        }
+    ],
+    "wof:id":1343377599,
+    "wof:lastmodified":1537663278,
+    "wof:name":"Qabilat al `Abadilah",
+    "wof:parent_id":85673593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.69722,
+    32.28033,
+    14.69722,
+    32.28033
+],
+  "geometry": {"coordinates":[14.69722,32.28033],"type":"Point"}
+}

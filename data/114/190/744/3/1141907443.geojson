@@ -1,0 +1,414 @@
+{
+  "id": 1141907443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.6200133857,32.7604150584,21.6200133857,32.7604150584",
+    "geom:latitude":32.760415,
+    "geom:longitude":21.620013,
+    "iso:country":"LY",
+    "lbl:latitude":32.760415,
+    "lbl:longitude":21.620013,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ace_x_preferred":[
+        "Al Bayda"
+    ],
+    "name:afr_x_preferred":[
+        "Al Bayda"
+    ],
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u064a\u0636\u0627\u0621"
+    ],
+    "name:arg_x_preferred":[
+        "Al Bayda"
+    ],
+    "name:arm_x_preferred":[
+        "\u0537\u056c \u0532\u0565\u0575\u0564\u0561"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0628\u064a\u0636\u0627\u0621"
+    ],
+    "name:aze_x_preferred":[
+        "\u018fl-Bayda"
+    ],
+    "name:baq_x_preferred":[
+        "Baida"
+    ],
+    "name:bcl_x_preferred":[
+        "Al Bayda"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0410\u043b\u044c-\u0411\u0430\u0439\u0434\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b2 \u09ac\u09be\u09af\u09bc\u09a6\u09be"
+    ],
+    "name:bis_x_preferred":[
+        "Al Bayda"
+    ],
+    "name:bos_x_preferred":[
+        "Al Bayda"
+    ],
+    "name:bre_x_preferred":[
+        "Al Bayda"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043b \u0411\u0430\u0439\u0434\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Al Bayda'"
+    ],
+    "name:chi_x_preferred":[
+        "\u8d1d\u8fbe"
+    ],
+    "name:cze_x_preferred":[
+        "Bajd\u00e1"
+    ],
+    "name:dan_x_preferred":[
+        "Al-Baida"
+    ],
+    "name:dut_x_preferred":[
+        "Al Bayda"
+    ],
+    "name:eng_x_preferred":[
+        "Al Bayda"
+    ],
+    "name:epo_x_preferred":[
+        "Al Bajda"
+    ],
+    "name:est_x_preferred":[
+        "Al-Bay\u1e11\u0101\u2019"
+    ],
+    "name:fin_x_preferred":[
+        "Beida"
+    ],
+    "name:fre_x_preferred":[
+        "El Be\u00efda"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d4\u10da-\u10d1\u10d0\u10d8\u10d3\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "al-Baida"
+    ],
+    "name:gle_x_preferred":[
+        "Bayda"
+    ],
+    "name:glg_x_preferred":[
+        "Al Bayda - \u0627\u0644\u0628\u064a\u0636\u0627\u0621"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03bb \u039c\u03c0\u03ac\u03c5\u03bd\u03c4\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a85\u0ab2 \u0aac\u0abe\u0aaf\u0aa6\u0abe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc-\u05d1\u05d9\u05d9\u05d3\u05d0"
+    ],
+    "name:hif_x_preferred":[
+        "Al Bayda"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0932 \u092c\u0947\u0926\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Al Bajda"
+    ],
+    "name:hun_x_preferred":[
+        "Al-Bajda"
+    ],
+    "name:ile_x_preferred":[
+        "Al Baida"
+    ],
+    "name:ind_x_preferred":[
+        "Al Bayda"
+    ],
+    "name:ita_x_preferred":[
+        "Beida"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30d0\u30a4\u30c0"
+    ],
+    "name:kal_x_preferred":[
+        "Bayda"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c85\u0cb2\u0ccd \u0cac\u0cc7\u0ca1\u0cbe"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u043b\u044c-\u0411\u0430\u0439\u0434\u0430"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca0\uc774\ub2e4"
+    ],
+    "name:lat_x_preferred":[
+        "Albaida"
+    ],
+    "name:lav_x_preferred":[
+        "Beida"
+    ],
+    "name:lit_x_preferred":[
+        "Baida"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u0932 \u092c\u0948\u0926\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Al Bayda"
+    ],
+    "name:nan_x_preferred":[
+        "Al Bayda"
+    ],
+    "name:nap_x_preferred":[
+        "Al Bayda'"
+    ],
+    "name:nno_x_preferred":[
+        "Bayda"
+    ],
+    "name:nob_x_preferred":[
+        "Al Bayda"
+    ],
+    "name:oci_x_preferred":[
+        "Bayda"
+    ],
+    "name:oss_x_preferred":[
+        "\u042d\u043b\u044c-\u0411\u0435\u0439\u0434\u0430"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u06cc\u0636\u0627"
+    ],
+    "name:pms_x_preferred":[
+        "Al Bayda'"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Bajda"
+    ],
+    "name:por_x_preferred":[
+        "Al Bayda'"
+    ],
+    "name:rum_x_preferred":[
+        "Al Bayda'"
+    ],
+    "name:rup_x_preferred":[
+        "Al Bayda"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u044c-\u0411\u0430\u0439\u0434\u0430"
+    ],
+    "name:scn_x_preferred":[
+        "Bayda"
+    ],
+    "name:sco_x_preferred":[
+        "Al Bayda"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0dbd \u0db6\u0dd9\u0daf\u0dcf"
+    ],
+    "name:slo_x_preferred":[
+        "Al-Bajd\u00e1"
+    ],
+    "name:slv_x_preferred":[
+        "Al Bajda"
+    ],
+    "name:spa_x_preferred":[
+        "Al Baida"
+    ],
+    "name:srd_x_preferred":[
+        "Al Bayda"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u043b \u0411\u0430\u0438\u0434\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Al Bayda"
+    ],
+    "name:swe_x_preferred":[
+        "Al-Bayda"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbe\u0baf\u0bcd\u0b9f\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c06\u0c32\u0c4d \u0c2c\u0c47\u0c26\u0c3e"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0410\u043b \u0411\u0430\u0439\u0434\u0430"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e31\u0e25\u0e44\u0e1a\u0e22\u0e4c\u0e14\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "El Bayda"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u044c-\u0411\u0430\u0439\u0434\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0628\u06cc\u0636\u0627\u0621"
+    ],
+    "name:vec_x_preferred":[
+        "Beida"
+    ],
+    "name:vie_x_preferred":[
+        "Al Bayda"
+    ],
+    "name:vol_x_preferred":[
+        "B\u00e4yda"
+    ],
+    "name:war_x_preferred":[
+        "Al Bayda"
+    ],
+    "name:wel_x_preferred":[
+        "Al Bayda"
+    ],
+    "name:wol_x_preferred":[
+        "Al Bayda"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e2\u05dc \u05d1\u05d9\u05d9\u05b7\u05d3\u05d0\u05b7"
+    ],
+    "name:yue_x_preferred":[
+        "\u963f\u723e\u8c9d\u9054"
+    ],
+    "name:zea_x_preferred":[
+        "Al Bayda"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Libya",
+    "ne:ADM0_A3":"LBY",
+    "ne:ADM1NAME":"Al Jabal al Akhdar",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"LY",
+    "ne:LABELRANK":7,
+    "ne:LATITUDE":32.760415,
+    "ne:LONGITUDE":21.620013,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Al Bayda",
+    "ne:MAX_AREAKM":1.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":21.633333,
+    "ne:MAX_BBXMIN":21.625,
+    "ne:MAX_BBYMAX":32.758333,
+    "ne:MAX_BBYMIN":32.75,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":3.0,
+    "ne:MAX_PERMI":2.0,
+    "ne:MAX_POP10":1794,
+    "ne:MAX_POP20":1794,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":21.629167,
+    "ne:MEAN_BBYC":32.754167,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":1.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":21.633333,
+    "ne:MIN_BBXMIN":21.625,
+    "ne:MIN_BBYMAX":32.758333,
+    "ne:MIN_BBYMIN":32.75,
+    "ne:MIN_PERKM":3.0,
+    "ne:MIN_PERMI":2.0,
+    "ne:NAME":"Al Bayda",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Al Bayda",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":1794,
+    "ne:POP_MIN":1794,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":3,
+    "ne:RANK_MIN":3,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Libya",
+    "ne:SOV_A3":"LBY",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":6.7,
+    "reversegeo:latitude":32.760415,
+    "reversegeo:longitude":21.620013,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q35784"
+    },
+    "wof:country":"LY",
+    "wof:created":1499130727,
+    "wof:geomhash":"a2ef5b57a050af4e23164f3f319e56fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1141907443,
+            "region_id":85673627
+        }
+    ],
+    "wof:id":1141907443,
+    "wof:lastmodified":1514484183,
+    "wof:name":"Al Bayda",
+    "wof:parent_id":85673627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.62001338571616,
+    32.76041505841567,
+    21.62001338571616,
+    32.76041505841567
+],
+  "geometry": {"coordinates":[21.62001338571616,32.76041505841567],"type":"Point"}
+}

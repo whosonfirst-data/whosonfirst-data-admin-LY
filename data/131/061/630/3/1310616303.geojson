@@ -1,0 +1,65 @@
+{
+  "id": 1310616303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.9,26.55,12.9,26.55",
+    "geom:latitude":26.55,
+    "geom:longitude":12.9,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Taglin",
+    "gn:country_code":"LY",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2210438,
+    "gn:latitude":26.55,
+    "gn:longitude":12.9,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Taglin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2210438
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"7cb21ad86678e91ca6802b94fc61f1b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1310616303,
+            "region_id":85673669
+        }
+    ],
+    "wof:id":1310616303,
+    "wof:lastmodified":1536757148,
+    "wof:name":"Taglin",
+    "wof:parent_id":85673669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.9,
+    26.55,
+    12.9,
+    26.55
+],
+  "geometry": {"coordinates":[12.9,26.55],"type":"Point"}
+}

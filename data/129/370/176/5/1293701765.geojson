@@ -1,0 +1,70 @@
+{
+  "id": 1293701765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.01667,32.11667,13.01667,32.11667",
+    "geom:latitude":32.11667,
+    "geom:longitude":13.01667,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Al Qahasat",
+    "gn:country_code":"LY",
+    "gn:dem":704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219765,
+    "gn:latitude":32.11667,
+    "gn:longitude":13.01667,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Al Qa\u1e29\u0101\u015f\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gahas\u00e1t",
+        "El-Gahas\u00e1t",
+        "Al Qa\u1e29\u0101\u015f\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219765
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"56ac91acd1fc18d5a50e155fac5e9125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1293701765,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1293701765,
+    "wof:lastmodified":1537663297,
+    "wof:name":"Al Qahasat",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.01667,
+    32.11667,
+    13.01667,
+    32.11667
+],
+  "geometry": {"coordinates":[13.01667,32.11667],"type":"Point"}
+}

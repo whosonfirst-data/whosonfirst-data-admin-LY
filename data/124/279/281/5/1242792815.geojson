@@ -1,0 +1,71 @@
+{
+  "id": 1242792815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.03333,32.35,15.03333,32.35",
+    "geom:latitude":32.35,
+    "geom:longitude":15.03333,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Al Ghiran",
+    "gn:country_code":"LY",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2220068,
+    "gn:latitude":32.35,
+    "gn:longitude":15.03333,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Al Gh\u012br\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Ghiran",
+        "El-Gher\u00e0n",
+        "Al Gh\u012br\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2220068,
+        "wk:page":"Al_Ghiran"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"93cdfbc35d455c43d50d8d905bfcf262",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1242792815,
+            "region_id":85673593
+        }
+    ],
+    "wof:id":1242792815,
+    "wof:lastmodified":1537663301,
+    "wof:name":"Al Ghiran",
+    "wof:parent_id":85673593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.03333,
+    32.35,
+    15.03333,
+    32.35
+],
+  "geometry": {"coordinates":[15.03333,32.35],"type":"Point"}
+}

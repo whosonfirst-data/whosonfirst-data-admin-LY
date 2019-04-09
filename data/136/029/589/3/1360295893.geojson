@@ -1,0 +1,73 @@
+{
+  "id": 1360295893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.55843,26.59802,13.55843,26.59802",
+    "geom:latitude":26.59802,
+    "geom:longitude":13.55843,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Ar Raqabah",
+    "gn:country_code":"LY",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219487,
+    "gn:latitude":26.59802,
+    "gn:longitude":13.55843,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Ar Raqabah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0642\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Er Rah\u00e8ba",
+        "Ar Rah\u00e8ba",
+        "Ar Raqabah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219487
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"c1876533efd1b45848b66585f61b8614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1360295893,
+            "region_id":85673669
+        }
+    ],
+    "wof:id":1360295893,
+    "wof:lastmodified":1537663293,
+    "wof:name":"Ar Raqabah",
+    "wof:parent_id":85673669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.55843,
+    26.59802,
+    13.55843,
+    26.59802
+],
+  "geometry": {"coordinates":[13.55843,26.59802],"type":"Point"}
+}

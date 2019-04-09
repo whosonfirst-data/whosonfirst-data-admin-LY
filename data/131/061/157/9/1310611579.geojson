@@ -1,0 +1,72 @@
+{
+  "id": 1310611579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.97861,32.09972,12.97861,32.09972",
+    "geom:latitude":32.09972,
+    "geom:longitude":12.97861,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Abu Zayyan",
+    "gn:country_code":"LY",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2220368,
+    "gn:latitude":32.09972,
+    "gn:longitude":12.97861,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Ab\u016b Zayy\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bu Zeian",
+        "Ab\u016b Ziyy\u0101n",
+        "B\u016b Zayy\u0101n",
+        "Bu Zai\u00e1n",
+        "Ab\u016b Zayy\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2220368
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"37269a5f1627a9cbb1b64e8b75f365c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1310611579,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1310611579,
+    "wof:lastmodified":1537663303,
+    "wof:name":"Abu Zayyan",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.97861,
+    32.09972,
+    12.97861,
+    32.09972
+],
+  "geometry": {"coordinates":[12.97861,32.09972],"type":"Point"}
+}

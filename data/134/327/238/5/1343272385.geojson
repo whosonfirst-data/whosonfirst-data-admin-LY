@@ -1,0 +1,71 @@
+{
+  "id": 1343272385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.79297,31.30739,12.79297,31.30739",
+    "geom:latitude":31.30739,
+    "geom:longitude":12.79297,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Sawani Fassanu",
+    "gn:country_code":"LY",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2212470,
+    "gn:latitude":31.30739,
+    "gn:longitude":12.79297,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Saw\u0101n\u012b Fass\u0101n\u016b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0627\u0646\u064a \u0641\u0633\u0627\u0646\u0648"
+    ],
+    "name:und_x_variant":[
+        "Saw\u0101n\u012b Fass\u0101n\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2212470
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"17edebea7644ae33fc76ba2f1d83c69e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1343272385,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1343272385,
+    "wof:lastmodified":1537663264,
+    "wof:name":"Sawani Fassanu",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.79297,
+    31.30739,
+    12.79297,
+    31.30739
+],
+  "geometry": {"coordinates":[12.79297,31.30739],"type":"Point"}
+}

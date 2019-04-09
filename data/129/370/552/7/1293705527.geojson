@@ -1,0 +1,73 @@
+{
+  "id": 1293705527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.10961,32.65988,21.10961,32.65988",
+    "geom:latitude":32.65988,
+    "geom:longitude":21.10961,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Qaryat Battah",
+    "gn:country_code":"LY",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":88205,
+    "gn:latitude":32.65988,
+    "gn:longitude":21.10961,
+    "gn:modification_date":"2018-04-05",
+    "gn:name":"Qaryat Ba\u0163\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0628\u0637\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qaryat Ba\u0163\u0163ah",
+        "Ba\u0163\u0163ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":88205,
+        "wk:page":"Battah"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"d17290fb73e7b3616d337818af34c582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1293705527,
+            "region_id":85673625
+        }
+    ],
+    "wof:id":1293705527,
+    "wof:lastmodified":1537663252,
+    "wof:name":"Qaryat Battah",
+    "wof:parent_id":85673625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.10961,
+    32.65988,
+    21.10961,
+    32.65988
+],
+  "geometry": {"coordinates":[21.10961,32.65988],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1193152037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.33212,32.00083,12.33212,32.00083",
+    "geom:latitude":32.00083,
+    "geom:longitude":12.33212,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Qabilat Awlad `Amir",
+    "gn:country_code":"LY",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2214240,
+    "gn:latitude":32.00083,
+    "gn:longitude":12.33212,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Qab\u012blat Awl\u0101d \u2018\u0100mir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2214240
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"2da132ab3a36f7363ec1ad06365d6ee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1193152037,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1193152037,
+    "wof:lastmodified":1536377200,
+    "wof:name":"Qabilat Awlad `Amir",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.33212,
+    32.00083,
+    12.33212,
+    32.00083
+],
+  "geometry": {"coordinates":[12.33212,32.00083],"type":"Point"}
+}

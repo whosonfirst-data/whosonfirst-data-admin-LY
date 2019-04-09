@@ -1,0 +1,69 @@
+{
+  "id": 1343873427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.56972,32.05333,12.56972,32.05333",
+    "geom:latitude":32.05333,
+    "geom:longitude":12.56972,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Al `Alawinah",
+    "gn:country_code":"LY",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2220189,
+    "gn:latitude":32.05333,
+    "gn:longitude":12.56972,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Al \u2018Al\u0101winah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018A\u0101winah",
+        "Al \u2018Al\u0101winah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2220189
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"40ce3cc72c8f66f03f29a85ac878a12b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1343873427,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1343873427,
+    "wof:lastmodified":1537663303,
+    "wof:name":"Al `Alawinah",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.56972,
+    32.05333,
+    12.56972,
+    32.05333
+],
+  "geometry": {"coordinates":[12.56972,32.05333],"type":"Point"}
+}

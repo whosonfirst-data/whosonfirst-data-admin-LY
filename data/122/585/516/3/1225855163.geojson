@@ -1,0 +1,72 @@
+{
+  "id": 1225855163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.50874,26.0874,13.50874,26.0874",
+    "geom:latitude":26.0874,
+    "geom:longitude":13.50874,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Tasawah",
+    "gn:country_code":"LY",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2210155,
+    "gn:latitude":26.0874,
+    "gn:longitude":13.50874,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Tas\u0101wah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tesaua",
+        "Tesawa",
+        "Ts\u0101wah",
+        "Tas\u0101wah",
+        "\u062a\u0633\u0627\u0648\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2210155
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"617b89086df15f849d9100def9703ec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1225855163,
+            "region_id":85673589
+        }
+    ],
+    "wof:id":1225855163,
+    "wof:lastmodified":1537663261,
+    "wof:name":"Tasawah",
+    "wof:parent_id":85673589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.50874,
+    26.0874,
+    13.50874,
+    26.0874
+],
+  "geometry": {"coordinates":[13.50874,26.0874],"type":"Point"}
+}

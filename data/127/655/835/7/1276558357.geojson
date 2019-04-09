@@ -1,0 +1,73 @@
+{
+  "id": 1276558357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.2534,30.67669,13.2534,30.67669",
+    "geom:latitude":30.67669,
+    "geom:longitude":13.2534,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Qaryat Awlad Duwab",
+    "gn:country_code":"LY",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2213889,
+    "gn:latitude":30.67669,
+    "gn:longitude":13.2534,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Qaryat Awl\u0101d Duw\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0623\u0648\u0644\u0627\u062f \u062f\u0648\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "Qaryat Awl\u00e4d Duwab",
+        "Qaryat Awl\u0101d Dhu\u2019ayb",
+        "Qaryat Awl\u0101d Duw\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2213889
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"187c4e1fbb73883ddcb6dd64359b2972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1276558357,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1276558357,
+    "wof:lastmodified":1537663270,
+    "wof:name":"Qaryat Awlad Duwab",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.2534,
+    30.67669,
+    13.2534,
+    30.67669
+],
+  "geometry": {"coordinates":[13.2534,30.67669],"type":"Point"}
+}

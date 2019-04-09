@@ -1,0 +1,72 @@
+{
+  "id": 1260193363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.16907,32.20164,20.16907,32.20164",
+    "geom:latitude":32.20164,
+    "geom:longitude":20.16907,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Al Kuwayfiyah",
+    "gn:country_code":"LY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":88926,
+    "gn:latitude":32.20164,
+    "gn:longitude":20.16907,
+    "gn:modification_date":"2018-04-05",
+    "gn:name":"Al Kuwayf\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Co\u00e8fia",
+        "Al-Kuwaifia",
+        "Co\u00e8fia",
+        "Al Kuwayf\u012byah",
+        "\u0627\u0644\u0643\u0648\u064a\u0641\u064a\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":88926
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"3204842d3098ec677bbf9fc056e52f86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1260193363,
+            "region_id":85673635
+        }
+    ],
+    "wof:id":1260193363,
+    "wof:lastmodified":1537663255,
+    "wof:name":"Al Kuwayfiyah",
+    "wof:parent_id":85673635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.16907,
+    32.20164,
+    20.16907,
+    32.20164
+],
+  "geometry": {"coordinates":[20.16907,32.20164],"type":"Point"}
+}

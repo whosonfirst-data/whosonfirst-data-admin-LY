@@ -1,0 +1,65 @@
+{
+  "id": 1293498215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.23333,26.01667,22.23333,26.01667",
+    "geom:latitude":26.01667,
+    "geom:longitude":22.23333,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Posto Trucchi",
+    "gn:country_code":"LY",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":84346,
+    "gn:latitude":26.01667,
+    "gn:longitude":22.23333,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Posto Trucchi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":84346
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"229dee55bcc5151365490b4e27f7a2fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1293498215,
+            "region_id":85673571
+        }
+    ],
+    "wof:id":1293498215,
+    "wof:lastmodified":1536772078,
+    "wof:name":"Posto Trucchi",
+    "wof:parent_id":85673571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.23333,
+    26.01667,
+    22.23333,
+    26.01667
+],
+  "geometry": {"coordinates":[22.23333,26.01667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310024563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.82223,26.69439,13.82223,26.69439",
+    "geom:latitude":26.69439,
+    "geom:longitude":13.82223,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Khulayf",
+    "gn:country_code":"LY",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2215810,
+    "gn:latitude":26.69439,
+    "gn:longitude":13.82223,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Khulayf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u064a\u0641"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2215810
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"2af37ac81b60c8f60f28be46c966e9e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1310024563,
+            "region_id":85673669
+        }
+    ],
+    "wof:id":1310024563,
+    "wof:lastmodified":1537663281,
+    "wof:name":"Khulayf",
+    "wof:parent_id":85673669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.82223,
+    26.69439,
+    13.82223,
+    26.69439
+],
+  "geometry": {"coordinates":[13.82223,26.69439],"type":"Point"}
+}

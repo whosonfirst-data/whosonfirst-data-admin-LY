@@ -1,0 +1,75 @@
+{
+  "id": 1209730601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.30933,32.34751,20.30933,32.34751",
+    "geom:latitude":32.34751,
+    "geom:longitude":20.30933,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Daryanah",
+    "gn:country_code":"LY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":87192,
+    "gn:latitude":32.34751,
+    "gn:longitude":20.30933,
+    "gn:modification_date":"2018-04-05",
+    "gn:name":"Dary\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u00e1uiet Driana",
+        "Man\u0163igat Dary\u0101nah",
+        "Driy\u0101nah",
+        "Man\u0163iqat Dary\u0101nah",
+        "Dri\u00e1na",
+        "Hadrianopolis",
+        "Dary\u0101nah",
+        "\u062f\u0631\u064a\u0627\u0646\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":87192
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"d4c1d1aeb830848217a350fc8da9ca9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1209730601,
+            "region_id":85673635
+        }
+    ],
+    "wof:id":1209730601,
+    "wof:lastmodified":1537663252,
+    "wof:name":"Daryanah",
+    "wof:parent_id":85673635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.30933,
+    32.34751,
+    20.30933,
+    32.34751
+],
+  "geometry": {"coordinates":[20.30933,32.34751],"type":"Point"}
+}

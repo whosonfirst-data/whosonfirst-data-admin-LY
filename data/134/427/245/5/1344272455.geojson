@@ -1,0 +1,73 @@
+{
+  "id": 1344272455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.74814,31.97067,24.74814,31.97067",
+    "geom:latitude":31.97067,
+    "geom:longitude":24.74814,
+    "gn:admin1_code":"79",
+    "gn:asciiname":"Zawiyat Janzur",
+    "gn:country_code":"LY",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":80613,
+    "gn:latitude":31.97067,
+    "gn:longitude":24.74814,
+    "gn:modification_date":"2018-04-05",
+    "gn:name":"Z\u0101wiyat Janz\u016br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0627\u0648\u064a\u0629 \u062c\u0646\u0632\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Z\u0101wiyat Zanz\u016br",
+        "Zeueit D Gianzur",
+        "Z\u0101wiyat Janz\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":80613
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"904c80d19f78b72d98444017447c0cc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1344272455,
+            "region_id":85673665
+        }
+    ],
+    "wof:id":1344272455,
+    "wof:lastmodified":1537663244,
+    "wof:name":"Zawiyat Janzur",
+    "wof:parent_id":85673665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.74814,
+    31.97067,
+    24.74814,
+    31.97067
+],
+  "geometry": {"coordinates":[24.74814,31.97067],"type":"Point"}
+}

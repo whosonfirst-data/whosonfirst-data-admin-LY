@@ -1,0 +1,70 @@
+{
+  "id": 1292918809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.01355,27.50506,14.01355,27.50506",
+    "geom:latitude":27.50506,
+    "geom:longitude":14.01355,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Al Mahruqah",
+    "gn:country_code":"LY",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219867,
+    "gn:latitude":27.50506,
+    "gn:longitude":14.01355,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Al Ma\u1e29r\u016bqah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Maharuga",
+        "Al Ma\u1e29r\u016bqah",
+        "\u0627\u0644\u0645\u062d\u0631\u0648\u0642\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219867
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"ffcc42c92438c60fa0434e2df8b1a63c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1292918809,
+            "region_id":85673579
+        }
+    ],
+    "wof:id":1292918809,
+    "wof:lastmodified":1537663298,
+    "wof:name":"Al Mahruqah",
+    "wof:parent_id":85673579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.01355,
+    27.50506,
+    14.01355,
+    27.50506
+],
+  "geometry": {"coordinates":[14.01355,27.50506],"type":"Point"}
+}

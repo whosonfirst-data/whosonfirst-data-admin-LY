@@ -1,0 +1,73 @@
+{
+  "id": 1242792753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.80913,26.1136,14.80913,26.1136",
+    "geom:latitude":26.1136,
+    "geom:longitude":14.80913,
+    "gn:admin1_code":"73",
+    "gn:asciiname":"Al Hummayrah",
+    "gn:country_code":"LY",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2216651,
+    "gn:latitude":26.1136,
+    "gn:longitude":14.80913,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Al \u1e28ummayrah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0645\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Hamm\u00e9ra",
+        "\u1e28ummayrah",
+        "Al \u1e28ummayrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2216651
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"29b9c925817f0d2b0a063b0c1fa9805a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1242792753,
+            "region_id":85673589
+        }
+    ],
+    "wof:id":1242792753,
+    "wof:lastmodified":1537663282,
+    "wof:name":"Al Hummayrah",
+    "wof:parent_id":85673589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.80913,
+    26.1136,
+    14.80913,
+    26.1136
+],
+  "geometry": {"coordinates":[14.80913,26.1136],"type":"Point"}
+}

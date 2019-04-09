@@ -1,0 +1,73 @@
+{
+  "id": 1293019647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.5725,31.88793,11.5725,31.88793",
+    "geom:latitude":31.88793,
+    "geom:longitude":11.5725,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Tinzight",
+    "gn:country_code":"LY",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2209934,
+    "gn:latitude":31.88793,
+    "gn:longitude":11.5725,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Tinzight",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0646\u0632\u063a\u062a"
+    ],
+    "name:und_x_variant":[
+        "Tinz\u00e9gt",
+        "Tinzaght",
+        "Tinzight"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2209934
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"ff02bbc8e5c0e387133b5242bc0341ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1293019647,
+            "region_id":85673563
+        }
+    ],
+    "wof:id":1293019647,
+    "wof:lastmodified":1537663260,
+    "wof:name":"Tinzight",
+    "wof:parent_id":85673563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.5725,
+    31.88793,
+    11.5725,
+    31.88793
+],
+  "geometry": {"coordinates":[11.5725,31.88793],"type":"Point"}
+}

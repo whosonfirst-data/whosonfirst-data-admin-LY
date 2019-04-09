@@ -1,0 +1,65 @@
+{
+  "id": 1326545143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.06667,30.68333,12.06667,30.68333",
+    "geom:latitude":30.68333,
+    "geom:longitude":12.06667,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Al Mallahah al Bahriyah",
+    "gn:country_code":"LY",
+    "gn:dem":599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219853,
+    "gn:latitude":30.68333,
+    "gn:longitude":12.06667,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Al Mall\u0101\u1e29ah al Ba\u1e29r\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219853
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"5f0547fba0e327c36f63d819f448e720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1326545143,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1326545143,
+    "wof:lastmodified":1536965084,
+    "wof:name":"Al Mallahah al Bahriyah",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.06667,
+    30.68333,
+    12.06667,
+    30.68333
+],
+  "geometry": {"coordinates":[12.06667,30.68333],"type":"Point"}
+}

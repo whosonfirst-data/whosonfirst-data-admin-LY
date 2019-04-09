@@ -1,0 +1,72 @@
+{
+  "id": 1327344125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.98815,32.38443,14.98815,32.38443",
+    "geom:latitude":32.38443,
+    "geom:longitude":14.98815,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Zawiyat al Mahjub",
+    "gn:country_code":"LY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2208553,
+    "gn:latitude":32.38443,
+    "gn:longitude":14.98815,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Z\u0101wiyat al Ma\u1e29j\u016bb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0627\u0648\u064a\u0629 \u0627\u0644\u0645\u062d\u062c\u0648\u0628"
+    ],
+    "name:und_x_variant":[
+        "Zauiet el Mahgiub",
+        "Z\u0101wiyat al Ma\u1e29j\u016bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2208553
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"735f61c9f7ee62ee455d901fb8aef6c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1327344125,
+            "region_id":85673593
+        }
+    ],
+    "wof:id":1327344125,
+    "wof:lastmodified":1537663257,
+    "wof:name":"Zawiyat al Mahjub",
+    "wof:parent_id":85673593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.98815,
+    32.38443,
+    14.98815,
+    32.38443
+],
+  "geometry": {"coordinates":[14.98815,32.38443],"type":"Point"}
+}

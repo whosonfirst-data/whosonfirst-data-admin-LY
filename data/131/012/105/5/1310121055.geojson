@@ -1,0 +1,71 @@
+{
+  "id": 1310121055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.28333,32.86667,22.28333,32.86667",
+    "geom:latitude":32.86667,
+    "geom:longitude":22.28333,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Zahrah",
+    "gn:country_code":"LY",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":80751,
+    "gn:latitude":32.86667,
+    "gn:longitude":22.28333,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Zahrah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fiorita",
+        "Z\u00e0hra",
+        "Furita",
+        "Zahrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":80751
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"06ddff4a9958b206d7a879cc0ba514a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1310121055,
+            "region_id":85673663
+        }
+    ],
+    "wof:id":1310121055,
+    "wof:lastmodified":1537663246,
+    "wof:name":"Zahrah",
+    "wof:parent_id":85673663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.28333,
+    32.86667,
+    22.28333,
+    32.86667
+],
+  "geometry": {"coordinates":[22.28333,32.86667],"type":"Point"}
+}

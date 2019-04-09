@@ -1,0 +1,70 @@
+{
+  "id": 1360203567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.66972,31.94611,11.66972,31.94611",
+    "geom:latitude":31.94611,
+    "geom:longitude":11.66972,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Baldat Diqqi",
+    "gn:country_code":"LY",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2218869,
+    "gn:latitude":31.94611,
+    "gn:longitude":11.66972,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Baldat Diqq\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daqq\u012b",
+        "Degghi",
+        "Baldat Diqq\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2218869
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"ead0350146d4d9b04c48b9edfc2e2215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1360203567,
+            "region_id":85673563
+        }
+    ],
+    "wof:id":1360203567,
+    "wof:lastmodified":1537663286,
+    "wof:name":"Baldat Diqqi",
+    "wof:parent_id":85673563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.66972,
+    31.94611,
+    11.66972,
+    31.94611
+],
+  "geometry": {"coordinates":[11.66972,31.94611],"type":"Point"}
+}

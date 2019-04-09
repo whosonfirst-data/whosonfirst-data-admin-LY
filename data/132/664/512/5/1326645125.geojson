@@ -1,0 +1,72 @@
+{
+  "id": 1326645125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.98615,32.30337,20.98615,32.30337",
+    "geom:latitude":32.30337,
+    "geom:longitude":20.98615,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Jardas al `Abid",
+    "gn:country_code":"LY",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":86002,
+    "gn:latitude":32.30337,
+    "gn:longitude":20.98615,
+    "gn:modification_date":"2018-04-05",
+    "gn:name":"Jardas al \u2018Ab\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jerdes el Abid",
+        "Gerdes el-Ab\u00edd",
+        "Jardas al \u2018Ab\u012bd",
+        "\u062c\u0631\u062f\u0633 \u0627\u0644\u0639\u0628\u064a\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":86002,
+        "wk:page":"Jardas_al_%E2%80%98Abid"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"342381dcba424afa1bc3c50b18be39d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1326645125,
+            "region_id":85673625
+        }
+    ],
+    "wof:id":1326645125,
+    "wof:lastmodified":1537663251,
+    "wof:name":"Jardas al `Abid",
+    "wof:parent_id":85673625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.98615,
+    32.30337,
+    20.98615,
+    32.30337
+],
+  "geometry": {"coordinates":[20.98615,32.30337],"type":"Point"}
+}

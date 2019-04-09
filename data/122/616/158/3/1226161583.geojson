@@ -1,0 +1,74 @@
+{
+  "id": 1226161583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.84222,32.1575,12.84222,32.1575",
+    "geom:latitude":32.1575,
+    "geom:longitude":12.84222,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Qabilat az Zaribah",
+    "gn:country_code":"LY",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2214227,
+    "gn:latitude":32.1575,
+    "gn:longitude":12.84222,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Qab\u012blat az Zar\u012bbah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Er Rabta el Garbia",
+        "Pabta",
+        "Ar R\u0101bi\u0163ah al Garb\u012byah",
+        "Rabta el-Garbia",
+        "Ar R\u0101bi\u0163ah al Gharb\u012byah",
+        "R\u00e0bta",
+        "Qab\u012blat az Zar\u012bbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2214227
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"78ed993d7a708a13d2a578e9c6085187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1226161583,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1226161583,
+    "wof:lastmodified":1537663276,
+    "wof:name":"Qabilat az Zaribah",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.84222,
+    32.1575,
+    12.84222,
+    32.1575
+],
+  "geometry": {"coordinates":[12.84222,32.1575],"type":"Point"}
+}

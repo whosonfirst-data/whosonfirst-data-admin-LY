@@ -1,0 +1,75 @@
+{
+  "id": 1260095441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.95116,32.47847,13.95116,32.47847",
+    "geom:latitude":32.47847,
+    "geom:longitude":13.95116,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Qusay`ah",
+    "gn:country_code":"LY",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219713,
+    "gn:latitude":32.47847,
+    "gn:longitude":13.95116,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Qu\u015fay\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0635\u064a\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Marconi",
+        "Al Qa\u015f\u012b\u2018ah",
+        "Al Qassiya",
+        "Al Qu\u015fay\u2018ah",
+        "Qu\u015fay\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219713
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"26166f2b921814e26bfb76103970963b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1260095441,
+            "region_id":85673575
+        }
+    ],
+    "wof:id":1260095441,
+    "wof:lastmodified":1537663295,
+    "wof:name":"Qusay`ah",
+    "wof:parent_id":85673575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.95116,
+    32.47847,
+    13.95116,
+    32.47847
+],
+  "geometry": {"coordinates":[13.95116,32.47847],"type":"Point"}
+}

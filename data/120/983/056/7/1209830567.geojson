@@ -1,0 +1,65 @@
+{
+  "id": 1209830567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.56318,32.05478,12.56318,32.05478",
+    "geom:latitude":32.05478,
+    "geom:longitude":12.56318,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Al Buhur",
+    "gn:country_code":"LY",
+    "gn:dem":728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2220107,
+    "gn:latitude":32.05478,
+    "gn:longitude":12.56318,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Al Bu\u1e29\u016br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2220107
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"175820255f5e3bc3449470e4587d5511",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1209830567,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1209830567,
+    "wof:lastmodified":1536368793,
+    "wof:name":"Al Buhur",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.56318,
+    32.05478,
+    12.56318,
+    32.05478
+],
+  "geometry": {"coordinates":[12.56318,32.05478],"type":"Point"}
+}

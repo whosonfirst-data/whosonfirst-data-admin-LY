@@ -1,0 +1,77 @@
+{
+  "id": 1226061447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.83544,30.77784,17.83544,30.77784",
+    "geom:latitude":30.77784,
+    "geom:longitude":17.83544,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"An Nawfaliyah",
+    "gn:country_code":"LY",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219589,
+    "gn:latitude":30.77784,
+    "gn:longitude":17.83544,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"An Nawfal\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nofil\u00eda",
+        "Zauiet en-Nofilia",
+        "Nufilia",
+        "En-Nofil\u00eda",
+        "Zauia-en-Nofilia",
+        "An N\u016bfal\u012byah",
+        "An Nawfal\u012byah",
+        "\u0627\u0644\u0646\u0648\u0641\u0644\u064a\u0629",
+        "El Noflia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219589,
+        "wk:page":"Nofaliya"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"7364469d172301ba9955d8c4f3eb6598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1226061447,
+            "region_id":85673659
+        }
+    ],
+    "wof:id":1226061447,
+    "wof:lastmodified":1537663294,
+    "wof:name":"An Nawfaliyah",
+    "wof:parent_id":85673659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.83544,
+    30.77784,
+    17.83544,
+    30.77784
+],
+  "geometry": {"coordinates":[17.83544,30.77784],"type":"Point"}
+}

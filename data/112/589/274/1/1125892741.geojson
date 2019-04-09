@@ -1,0 +1,76 @@
+{
+  "id": 1125892741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.0,32.61667,14.0,32.61667",
+    "geom:latitude":32.61667,
+    "geom:longitude":14.0,
+    "gn:gn_country":"LY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":23702,
+    "gn:population":23702,
+    "iso:country":"LY",
+    "lbl:latitude":32.61667,
+    "lbl:longitude":14.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"LY",
+    "qs_pg:gn_country":"LY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2215163,
+    "qs_pg:gn_pop":23702,
+    "qs_pg:name":"Masall\u0101tah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":1034370,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2215163,
+        "qs_pg:id":1034370
+    },
+    "wof:country":"LY",
+    "wof:created":1497295398,
+    "wof:geomhash":"e92b7dc7ae77f2e4114cbbe77ad9610d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1125892741,
+            "region_id":85673575
+        }
+    ],
+    "wof:id":1125892741,
+    "wof:lastmodified":1509398899,
+    "wof:name":"Masall\u0101tah",
+    "wof:parent_id":85673575,
+    "wof:placetype":"locality",
+    "wof:population":23702,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.0,
+    32.61667,
+    14.0,
+    32.61667
+],
+  "geometry": {"coordinates":[14.0,32.61667],"type":"Point"}
+}

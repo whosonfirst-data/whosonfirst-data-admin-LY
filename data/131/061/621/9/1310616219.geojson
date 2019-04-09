@@ -1,0 +1,70 @@
+{
+  "id": 1310616219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.11167,25.86472,15.11167,25.86472",
+    "geom:latitude":25.86472,
+    "geom:longitude":15.11167,
+    "gn:admin1_code":"73",
+    "gn:asciiname":"Majdul",
+    "gn:country_code":"LY",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2215453,
+    "gn:latitude":25.86472,
+    "gn:longitude":15.11167,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Majd\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Magedul",
+        "Majd\u016bl",
+        "\u0645\u062c\u062f\u0648\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2215453
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"b88f72a35fa46c92fc7999f56dab0f7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1310616219,
+            "region_id":85673589
+        }
+    ],
+    "wof:id":1310616219,
+    "wof:lastmodified":1537663280,
+    "wof:name":"Majdul",
+    "wof:parent_id":85673589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.11167,
+    25.86472,
+    15.11167,
+    25.86472
+],
+  "geometry": {"coordinates":[15.11167,25.86472],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276563467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.78232,32.55083,21.78232,32.55083",
+    "geom:latitude":32.55083,
+    "geom:longitude":21.78232,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Verde",
+    "gn:country_code":"LY",
+    "gn:dem":750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":85738,
+    "gn:latitude":32.55083,
+    "gn:longitude":21.78232,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Verde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chadra",
+        "Kha\u1e11r\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":85738,
+        "wk:page":"Khadra%27"
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"68d7c270408be6cd25c1fb4d51e42a18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1276563467,
+            "region_id":85673627
+        }
+    ],
+    "wof:id":1276563467,
+    "wof:lastmodified":1537663251,
+    "wof:name":"Verde",
+    "wof:parent_id":85673627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.78232,
+    32.55083,
+    21.78232,
+    32.55083
+],
+  "geometry": {"coordinates":[21.78232,32.55083],"type":"Point"}
+}

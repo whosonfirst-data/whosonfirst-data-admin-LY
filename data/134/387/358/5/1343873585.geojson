@@ -1,0 +1,71 @@
+{
+  "id": 1343873585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.01909,31.96291,12.01909,31.96291",
+    "geom:latitude":31.96291,
+    "geom:longitude":12.01909,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Ash Shabari",
+    "gn:country_code":"LY",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219426,
+    "gn:latitude":31.96291,
+    "gn:longitude":12.01909,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Ash Shab\u0101r\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouchebari",
+        "Ash Shabbri",
+        "Uscbari",
+        "Ash Shab\u0101r\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219426
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"e48429a2fc696b2672bc6d62e46fc027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1343873585,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1343873585,
+    "wof:lastmodified":1537663292,
+    "wof:name":"Ash Shabari",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.01909,
+    31.96291,
+    12.01909,
+    31.96291
+],
+  "geometry": {"coordinates":[12.01909,31.96291],"type":"Point"}
+}

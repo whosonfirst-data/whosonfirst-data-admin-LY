@@ -1,0 +1,65 @@
+{
+  "id": 1293802793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.15206,32.37434,15.15206,32.37434",
+    "geom:latitude":32.37434,
+    "geom:longitude":15.15206,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Qaryat Awlad Abu Sha``alah",
+    "gn:country_code":"LY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2213890,
+    "gn:latitude":32.37434,
+    "gn:longitude":15.15206,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Qaryat Awl\u0101d Ab\u016b Sha\u2018\u2018\u0101lah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2213890
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"f4662fc9216fd1941de64d8bd0b51e28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1293802793,
+            "region_id":85673593
+        }
+    ],
+    "wof:id":1293802793,
+    "wof:lastmodified":1536828646,
+    "wof:name":"Qaryat Awlad Abu Sha``alah",
+    "wof:parent_id":85673593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.15206,
+    32.37434,
+    15.15206,
+    32.37434
+],
+  "geometry": {"coordinates":[15.15206,32.37434],"type":"Point"}
+}

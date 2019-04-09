@@ -1,0 +1,71 @@
+{
+  "id": 1293506221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.16251,27.53914,14.16251,27.53914",
+    "geom:latitude":27.53914,
+    "geom:longitude":14.16251,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Agar",
+    "gn:country_code":"LY",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219563,
+    "gn:latitude":27.53914,
+    "gn:longitude":14.16251,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Agar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0622\u0642\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u0100q\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219563
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"2a9addbdea5bd560d8e8e01fb36055f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1293506221,
+            "region_id":85673579
+        }
+    ],
+    "wof:id":1293506221,
+    "wof:lastmodified":1537663293,
+    "wof:name":"Agar",
+    "wof:parent_id":85673579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.16251,
+    27.53914,
+    14.16251,
+    27.53914
+],
+  "geometry": {"coordinates":[14.16251,27.53914],"type":"Point"}
+}

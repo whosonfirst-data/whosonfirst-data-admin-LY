@@ -1,0 +1,65 @@
+{
+  "id": 1226555195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.77241,31.87067,11.77241,31.87067",
+    "geom:latitude":31.87067,
+    "geom:longitude":11.77241,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Dashrah",
+    "gn:country_code":"LY",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2217876,
+    "gn:latitude":31.87067,
+    "gn:longitude":11.77241,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Dashrah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2217876
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"a120da5a84e935e1901181926fc581fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1226555195,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1226555195,
+    "wof:lastmodified":1536983579,
+    "wof:name":"Dashrah",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.77241,
+    31.87067,
+    11.77241,
+    31.87067
+],
+  "geometry": {"coordinates":[11.77241,31.87067],"type":"Point"}
+}

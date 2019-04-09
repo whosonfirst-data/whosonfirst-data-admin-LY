@@ -1,0 +1,65 @@
+{
+  "id": 1293307951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.0375,32.16028,13.0375,32.16028",
+    "geom:latitude":32.16028,
+    "geom:longitude":13.0375,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Qaryat Nabukar",
+    "gn:country_code":"LY",
+    "gn:dem":695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2213852,
+    "gn:latitude":32.16028,
+    "gn:longitude":13.0375,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Qaryat N\u0101b\u016bkar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2213852
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"33776b5ebbdb1d23a41a0e0801d3a100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1293307951,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1293307951,
+    "wof:lastmodified":1537043974,
+    "wof:name":"Qaryat Nabukar",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.0375,
+    32.16028,
+    13.0375,
+    32.16028
+],
+  "geometry": {"coordinates":[13.0375,32.16028],"type":"Point"}
+}

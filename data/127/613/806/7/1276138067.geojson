@@ -1,0 +1,65 @@
+{
+  "id": 1276138067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.8975,32.08778,12.8975,32.08778",
+    "geom:latitude":32.08778,
+    "geom:longitude":12.8975,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Awlad Mushad",
+    "gn:country_code":"LY",
+    "gn:dem":812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2219098,
+    "gn:latitude":32.08778,
+    "gn:longitude":12.8975,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Awl\u0101d M\u016bsh\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tripoli",
+    "iso:country":"LY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2219098
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"a4b3ec64f4569641eee44b90ff78c536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":1276138067,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":1276138067,
+    "wof:lastmodified":1537038628,
+    "wof:name":"Awlad Mushad",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.8975,
+    32.08778,
+    12.8975,
+    32.08778
+],
+  "geometry": {"coordinates":[12.8975,32.08778],"type":"Point"}
+}
