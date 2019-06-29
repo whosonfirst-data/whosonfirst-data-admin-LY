@@ -48,14 +48,14 @@
     "name:cat_x_preferred":[
         "Misurata"
     ],
-    "name:chi_x_preferred":[
-        "\u7c73\u8607\u62c9\u5854\u7701"
-    ],
     "name:dan_x_preferred":[
         "Misrata District"
     ],
-    "name:dut_x_preferred":[
-        "Misratah"
+    "name:deu_x_preferred":[
+        "Munizip Misrata"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03c3\u03c1\u03ac\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Misratah"
@@ -63,20 +63,14 @@
     "name:epo_x_preferred":[
         "Distrikto Misrata"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0635\u0631\u0627\u062a\u0647"
+    ],
     "name:fin_x_preferred":[
         "Misratan kaupunginosa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Misratah"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d8\u10e1\u10e0\u10d0\u10d7\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Munizip Misrata"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b9\u03c3\u03c1\u03ac\u03c4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abf\u0ab8\u0acd\u0ab0\u0abe\u0aa4\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -99,6 +93,9 @@
     "name:kan_x_preferred":[
         "\u0cae\u0cbf\u0cb8\u0ccd\u0cb0\u0cbe\u0c9f\u0cbe \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10e1\u10e0\u10d0\u10d7\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ubbf8\uc2a4\ub77c\ud0c0 \uc8fc"
     ],
@@ -111,14 +108,14 @@
     "name:mar_x_preferred":[
         "\u092e\u093f\u0938\u094d\u091f\u094d\u0930\u0947\u091f \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Misrata"
+    ],
+    "name:nld_x_preferred":[
+        "Misratah"
     ],
     "name:nob_x_preferred":[
         "Misrata distrikt"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0635\u0631\u0627\u062a\u0647"
     ],
     "name:pol_x_preferred":[
         "Misrata"
@@ -126,7 +123,7 @@
     "name:por_x_preferred":[
         "Misurata"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Misratah"
     ],
     "name:rus_x_preferred":[
@@ -176,6 +173,9 @@
     ],
     "name:vol_x_preferred":[
         "Misrati\u00e4n"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u8607\u62c9\u5854\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LBY",
@@ -301,7 +301,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553550404,
+    "wof:lastmodified":1561839519,
     "wof:name":"Misratah",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

@@ -44,14 +44,11 @@
     "name:cat_x_preferred":[
         "Tr\u00edpoli"
     ],
-    "name:chi_x_preferred":[
-        "\u7684\u9ece\u6ce2\u91cc\u7701"
-    ],
     "name:deu_x_preferred":[
         "Munizip Tadschura\u2019 wa-n-Nawahi al-Arba\u02bf"
     ],
-    "name:dut_x_preferred":[
-        "Tripoli"
+    "name:deu_x_variant":[
+        "Munizip Tripolis"
     ],
     "name:eng_x_preferred":[
         "Tajura' wa an Nawahi al Arba"
@@ -70,14 +67,8 @@
     "name:fra_x_preferred":[
         "District de Tripoli"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Tripoli"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10e0\u10d8\u10de\u10dd\u10da\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Munizip Tripolis"
     ],
     "name:hun_x_preferred":[
         "Tripoli tartom\u00e1ny"
@@ -88,6 +79,9 @@
     "name:jpn_x_preferred":[
         "\u30c8\u30ea\u30dd\u30ea\u770c"
     ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10e0\u10d8\u10de\u10dd\u10da\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud0c0\ub77c\ubd88\ub8e8\uc2a4 \uc8fc"
     ],
@@ -96,6 +90,9 @@
     ],
     "name:nld_x_preferred":[
         "Tajura Wa Al Nawahi AlArba'"
+    ],
+    "name:nld_x_variant":[
+        "Tripoli"
     ],
     "name:nno_x_preferred":[
         "Tripoli distrikt"
@@ -109,7 +106,7 @@
     "name:ron_x_preferred":[
         "Districtul Tajura Wa Al Nawahi AlArba'"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Districtul Tarabulus"
     ],
     "name:rus_x_preferred":[
@@ -138,6 +135,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0637\u0631\u0627\u0628\u0644\u0633 \u0636\u0644\u0639\u060c \u0644\u06cc\u0628\u06cc\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u7684\u9ece\u6ce2\u91cc\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LBY",
@@ -259,7 +259,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553550406,
+    "wof:lastmodified":1561839519,
     "wof:name":"Tajura' wa an Nawahi al Arba",
     "wof:parent_id":85632627,
     "wof:placetype":"region",
