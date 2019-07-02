@@ -17,26 +17,23 @@
     "name:ara_x_preferred":[
         "\u0632\u0648\u0627\u0631\u0629"
     ],
-    "name:arm_x_preferred":[
-        "\u0536\u0578\u0582\u0561\u0580\u0561"
-    ],
     "name:ben_x_preferred":[
         "\u099c\u09c1\u09af\u09bc\u09be\u09b0\u09be"
     ],
     "name:cat_x_preferred":[
         "Zuwarah"
     ],
-    "name:chi_x_preferred":[
-        "\u7956\u74e6\u62c9"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Zu\u00e1ra"
     ],
     "name:dan_x_preferred":[
         "Zuwarah"
     ],
-    "name:dut_x_preferred":[
-        "Zuara"
+    "name:deu_x_preferred":[
+        "Zuwara"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03bf\u03c5\u03ac\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Zuwara"
@@ -47,26 +44,23 @@
     "name:est_x_preferred":[
         "Zuw\u0101rah"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u0627\u0631\u0647"
+    ],
     "name:fin_x_preferred":[
         "Zuwara"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Zouara"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d6\u10e3\u10d5\u10d0\u10e0\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Zuwara"
-    ],
-    "name:gre_x_preferred":[
-        "\u0396\u03bf\u03c5\u03ac\u03c1\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0ac1\u0ab5\u0abe\u0ab0\u0abe"
     ],
     "name:hin_x_preferred":[
         "\u091c\u093c\u0941\u0935\u093e\u0930\u093e"
+    ],
+    "name:hye_x_preferred":[
+        "\u0536\u0578\u0582\u0561\u0580\u0561"
     ],
     "name:ind_x_preferred":[
         "Zuwarah"
@@ -80,6 +74,9 @@
     "name:kan_x_preferred":[
         "\u0c9c\u0cc1\u0cb5\u0cbe\u0cb0\u0cbe"
     ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10e3\u10d5\u10d0\u10e0\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc8fc\uc640\ub77c"
     ],
@@ -92,14 +89,14 @@
     "name:mar_x_preferred":[
         "\u091d\u0941\u0935\u0930\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Zuwarah"
+    ],
+    "name:nld_x_preferred":[
+        "Zuara"
     ],
     "name:nob_x_preferred":[
         "Zuwara"
-    ],
-    "name:per_x_preferred":[
-        "\u0632\u0648\u0627\u0631\u0647"
     ],
     "name:pol_x_preferred":[
         "Zuwara"
@@ -107,7 +104,7 @@
     "name:por_x_preferred":[
         "Zuwarah"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Zuwarah"
     ],
     "name:rus_x_preferred":[
@@ -154,6 +151,9 @@
     ],
     "name:war_x_preferred":[
         "Zuwarah"
+    ],
+    "name:zho_x_preferred":[
+        "\u7956\u74e6\u62c9"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Libya",
@@ -272,7 +272,7 @@
         }
     ],
     "wof:id":1141909279,
-    "wof:lastmodified":1553816738,
+    "wof:lastmodified":1561839525,
     "wof:name":"Zuwarah",
     "wof:parent_id":85673607,
     "wof:placetype":"locality",

@@ -28,10 +28,10 @@
     "name:cat_x_preferred":[
         "Bardia"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u8fea\u4e9e"
+    "name:cym_x_preferred":[
+        "Bardia"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bardia"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +40,19 @@
     "name:epo_x_preferred":[
         "Bardia"
     ],
-    "name:fre_x_preferred":[
-        "Bardia"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10e0\u10d3\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Bardia"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05e8\u05d3\u05d9\u05d4"
     ],
     "name:ita_x_preferred":[
+        "Bardia"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10e0\u10d3\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
         "Bardia"
     ],
     "name:pol_x_preferred":[
@@ -79,8 +79,8 @@
     "name:unk_x_variant":[
         "B\u00f3rdi Slem\u00e1n"
     ],
-    "name:wel_x_preferred":[
-        "Bardia"
+    "name:zho_x_preferred":[
+        "\u5df4\u8fea\u4e9e"
     ],
     "qs_pg:aaroncc":"LY",
     "qs_pg:gn_country":"LY",
@@ -119,7 +119,7 @@
         }
     ],
     "wof:id":1125772627,
-    "wof:lastmodified":1514484206,
+    "wof:lastmodified":1561839524,
     "wof:name":"Bard\u012byah",
     "wof:parent_id":85673665,
     "wof:placetype":"locality",

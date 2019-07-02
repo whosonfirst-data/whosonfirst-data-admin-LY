@@ -166,9 +166,6 @@
     "name:cym_x_preferred":[
         "Libia"
     ],
-    "name:cze_x_preferred":[
-        "Libye"
-    ],
     "name:dan_x_preferred":[
         "Libyen"
     ],
@@ -638,9 +635,6 @@
     "name:rue_x_preferred":[
         "\u041b\u0456\u0431\u0456\u044f"
     ],
-    "name:rum_x_preferred":[
-        "Libia"
-    ],
     "name:rum_x_variant":[
         "Libia, Jamahiriya Arab\u0103"
     ],
@@ -860,7 +854,6 @@
     ],
     "name:zho_x_variant":[
         "\u5229\u6bd4\u4e9e",
-        "\u5229\u6bd4\u4e9a",
         "\u963f\u62c9\u4f2f\u5229\u6bd4\u4e9a\u6c11\u4f17\u56fd"
     ],
     "name:zho_yue_x_preferred":[
@@ -1019,7 +1012,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1544059106,
+    "wof:lastmodified":1561839520,
     "wof:name":"Libya",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

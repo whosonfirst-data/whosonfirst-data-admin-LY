@@ -23,14 +23,8 @@
     "name:ara_x_variant":[
         "\u0633\u0631\u062a"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u056b\u0580\u057f"
-    ],
     "name:aze_x_preferred":[
         "Sirt"
-    ],
-    "name:baq_x_preferred":[
-        "Sirte"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0456\u0440\u0442"
@@ -47,16 +41,13 @@
     "name:ces_x_preferred":[
         "Syrta"
     ],
-    "name:chi_x_preferred":[
-        "\u8607\u7279"
-    ],
-    "name:cze_x_preferred":[
-        "Syrta"
+    "name:cym_x_preferred":[
+        "Sirt"
     ],
     "name:dan_x_preferred":[
         "Sirte"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sirte"
     ],
     "name:ell_x_preferred":[
@@ -71,6 +62,9 @@
     "name:est_x_preferred":[
         "Surt"
     ],
+    "name:eus_x_preferred":[
+        "Sirte"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0631\u062a"
     ],
@@ -80,20 +74,8 @@
     "name:fra_x_preferred":[
         "Syrte"
     ],
-    "name:fre_x_preferred":[
-        "Syrte"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10e3\u10e0\u10d7\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Sirte"
-    ],
     "name:gla_x_preferred":[
         "Sirte"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03cd\u03c1\u03c4\u03b7"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abf\u0ab0\u0acd\u0a9f"
@@ -109,6 +91,9 @@
     ],
     "name:hun_x_preferred":[
         "Szurt"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u056b\u0580\u057f"
     ],
     "name:ile_x_preferred":[
         "Sirte"
@@ -149,13 +134,16 @@
     "name:mar_x_preferred":[
         "\u0938\u0930\u0924\u0947"
     ],
-    "name:may_x_preferred":[
-        "Sirte"
-    ],
     "name:mlt_x_preferred":[
         "Sirt"
     ],
+    "name:msa_x_preferred":[
+        "Sirte"
+    ],
     "name:nan_x_preferred":[
+        "Sirte"
+    ],
+    "name:nld_x_preferred":[
         "Sirte"
     ],
     "name:nob_x_preferred":[
@@ -164,16 +152,13 @@
     "name:oss_x_preferred":[
         "\u0421\u0438\u0440\u0442"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0631\u062a"
-    ],
     "name:pol_x_preferred":[
         "Syrta"
     ],
     "name:por_x_preferred":[
         "Sirte"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sirt"
     ],
     "name:rus_x_preferred":[
@@ -189,9 +174,6 @@
         "\u0dc3\u0dca\u0dbb\u0dca\u0da7\u0dda"
     ],
     "name:slk_x_preferred":[
-        "Syrta"
-    ],
-    "name:slo_x_preferred":[
         "Syrta"
     ],
     "name:slv_x_preferred":[
@@ -242,9 +224,6 @@
     "name:vol_x_variant":[
         "Surti\u00e4n",
         "Surt"
-    ],
-    "name:wel_x_preferred":[
-        "Sirt"
     ],
     "name:yue_x_preferred":[
         "\u8607\u723e\u7279"
@@ -392,7 +371,7 @@
         }
     ],
     "wof:id":421199027,
-    "wof:lastmodified":1514484239,
+    "wof:lastmodified":1561839522,
     "wof:name":"\u0633\u0631\u062a",
     "wof:parent_id":85673659,
     "wof:placetype":"locality",

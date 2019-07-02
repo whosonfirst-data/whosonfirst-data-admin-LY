@@ -34,26 +34,17 @@
     "name:ara_x_variant":[
         "\u0634\u0639\u0628\u064a\u0629 \u062f\u0631\u0646\u0629"
     ],
-    "name:arm_x_preferred":[
-        "\u0534\u0565\u0580\u0576\u0561"
-    ],
-    "name:baq_x_preferred":[
-        "Derna"
-    ],
     "name:bul_x_preferred":[
         "\u0414\u0430\u0440\u043d\u0430"
     ],
     "name:cat_x_preferred":[
         "Derna"
     ],
-    "name:chi_x_preferred":[
-        "\u5fb7\u723e\u7d0d\u7701"
-    ],
     "name:dan_x_preferred":[
         "Darnah"
     ],
-    "name:dut_x_preferred":[
-        "Derna"
+    "name:deu_x_preferred":[
+        "Munizip Darna"
     ],
     "name:eng_x_preferred":[
         "Darnah"
@@ -61,17 +52,20 @@
     "name:epo_x_preferred":[
         "Distrikto Darna"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
+        "Derna"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062f\u0631\u0646\u0647"
+    ],
+    "name:fra_x_preferred":[
         "Darnah"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d0\u10e0\u10dc\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Munizip Darna"
     ],
     "name:hun_x_preferred":[
         "Darna tartom\u00e1ny"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0565\u0580\u0576\u0561"
     ],
     "name:ita_x_preferred":[
         "Distretto di Derna"
@@ -79,17 +73,20 @@
     "name:jpn_x_preferred":[
         "\u30c7\u30eb\u30ca\u770c"
     ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10e0\u10dc\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub2e4\ub974\ub098 \uc8fc"
     ],
     "name:lit_x_preferred":[
         "Darnos savivaldyb\u0117"
     ],
+    "name:nld_x_preferred":[
+        "Derna"
+    ],
     "name:nob_x_preferred":[
         "Darnah"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062f\u0631\u0646\u0647"
     ],
     "name:pol_x_preferred":[
         "Darna"
@@ -97,7 +94,7 @@
     "name:por_x_preferred":[
         "Darnah"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Darnah"
     ],
     "name:rus_x_preferred":[
@@ -129,6 +126,9 @@
     ],
     "name:vol_x_preferred":[
         "D\u00e4rni\u00e4n"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u723e\u7d0d\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LBY",
@@ -253,7 +253,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553550402,
+    "wof:lastmodified":1561839519,
     "wof:name":"Al Qubbah",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

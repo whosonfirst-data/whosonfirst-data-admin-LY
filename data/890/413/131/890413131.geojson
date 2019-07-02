@@ -24,26 +24,23 @@
     "name:dan_x_preferred":[
         "Waddan"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Waddan"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03bf\u03c5\u03b1\u03bd\u03c4\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Waddan"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u062f\u0627\u0646\u060c \u0644\u06cc\u0628\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Waddan"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Waddan"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e3\u10d0\u10d3\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Waddan"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03bf\u03c5\u03b1\u03bd\u03c4\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0abe\u0aa1\u0aa8"
@@ -63,6 +60,9 @@
     "name:kan_x_preferred":[
         "\u0cb5\u0cbe\u0ca1\u0ccd\u0ca1\u0ca8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10d0\u10d3\u10d0\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc640\ub2e8"
     ],
@@ -75,14 +75,14 @@
     "name:mar_x_preferred":[
         "\u0935\u0921\u094d\u0921\u093e\u0923"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Waddan"
+    ],
+    "name:nld_x_preferred":[
         "Waddan"
     ],
     "name:nob_x_preferred":[
         "Waddan"
-    ],
-    "name:per_x_preferred":[
-        "\u0648\u062f\u0627\u0646\u060c \u0644\u06cc\u0628\u06cc"
     ],
     "name:pol_x_preferred":[
         "Waddan"
@@ -155,7 +155,7 @@
         }
     ],
     "wof:id":890413131,
-    "wof:lastmodified":1514484228,
+    "wof:lastmodified":1561839523,
     "wof:name":"Wadd\u0101n",
     "wof:parent_id":85673567,
     "wof:placetype":"locality",

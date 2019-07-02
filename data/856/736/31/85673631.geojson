@@ -36,26 +36,20 @@
         "\u0634\u0639\u0628\u064a\u0629 \u0627\u0644\u0648\u0627\u062d\u0627\u062a",
         "\u0627\u0644\u0648\u0627\u062d\u0627\u062a"
     ],
-    "name:baq_x_preferred":[
-        "Al Wahat"
-    ],
     "name:bel_x_preferred":[
         "\u041c\u0443\u043d\u0456\u0446\u044b\u043f\u0430\u043b\u0456\u0442\u044d\u0442 \u042d\u043b\u044c-\u0412\u0430\u0445\u0430\u0442"
     ],
     "name:cat_x_preferred":[
         "Al Wahat"
     ],
-    "name:chi_x_preferred":[
-        "\u7eff\u6d32\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Al W\u00e1h\u00e1t"
     ],
     "name:dan_x_preferred":[
         "Al Wahat"
     ],
-    "name:dut_x_preferred":[
-        "Al Wahat"
+    "name:deu_x_preferred":[
+        "Munizip al-Wahat"
     ],
     "name:eng_x_preferred":[
         "Ajdabiya"
@@ -63,14 +57,14 @@
     "name:epo_x_preferred":[
         "Al Vahat"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Al Wahat"
     ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10da-\u10d5\u10d0\u10ee\u10d0\u10e2\u10d8"
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0648\u0627\u062d\u0627\u062a"
     ],
-    "name:ger_x_preferred":[
-        "Munizip al-Wahat"
+    "name:fra_x_preferred":[
+        "Al Wahat"
     ],
     "name:hun_x_preferred":[
         "V\u00e1h\u00e1t tartom\u00e1ny"
@@ -81,17 +75,20 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30eb\u30fb\u30ef\u30fc\u30cf\u30fc\u30c8\u770c"
     ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10d5\u10d0\u10ee\u10d0\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc54c\uc640\ud558\ud2b8 \uc8fc"
     ],
     "name:lit_x_preferred":[
         "Vahato savivaldyb\u0117"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Al Wahat"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0648\u0627\u062d\u0627\u062a"
+    "name:nob_x_preferred":[
+        "Al Wahat"
     ],
     "name:pol_x_preferred":[
         "Al-Wahat"
@@ -99,7 +96,7 @@
     "name:por_x_preferred":[
         "Al Wahat"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Al Wahat"
     ],
     "name:rus_x_preferred":[
@@ -131,6 +128,9 @@
     ],
     "name:vol_x_preferred":[
         "Vahati\u00e4n"
+    ],
+    "name:zho_x_preferred":[
+        "\u7eff\u6d32\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LBY",
@@ -253,7 +253,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553550401,
+    "wof:lastmodified":1561839519,
     "wof:name":"Ajdabiya",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

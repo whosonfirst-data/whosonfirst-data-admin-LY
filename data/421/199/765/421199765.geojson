@@ -17,23 +17,14 @@
     "name:afr_x_preferred":[
         "Benghazi"
     ],
-    "name:alb_x_preferred":[
-        "Bengazi"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u0646\u063a\u0627\u0632\u064a"
-    ],
-    "name:arm_x_preferred":[
-        "\u0532\u0565\u0576\u0563\u0561\u0566\u056b"
     ],
     "name:arz_x_preferred":[
         "\u0628\u0646\u063a\u0627\u0632\u0649"
     ],
     "name:aze_x_preferred":[
         "Benqazi"
-    ],
-    "name:baq_x_preferred":[
-        "Bengazi"
     ],
     "name:bcl_x_preferred":[
         "Benghazi"
@@ -59,11 +50,8 @@
     "name:ces_x_preferred":[
         "Bengh\u00e1z\u00ed"
     ],
-    "name:chi_x_preferred":[
-        "\u73ed\u52a0\u897f"
-    ],
-    "name:cze_x_preferred":[
-        "Bengh\u00e1z\u00ed"
+    "name:cym_x_preferred":[
+        "Benghazi"
     ],
     "name:dan_x_preferred":[
         "Benghazi"
@@ -71,8 +59,8 @@
     "name:deu_x_preferred":[
         "Banghazi"
     ],
-    "name:dut_x_preferred":[
-        "Benghazi"
+    "name:deu_x_variant":[
+        "Bengasi"
     ],
     "name:ell_x_preferred":[
         "\u0392\u03b5\u03b3\u03b3\u03ac\u03b6\u03b7"
@@ -86,6 +74,9 @@
     "name:est_x_preferred":[
         "Bangh\u0101z\u012b"
     ],
+    "name:eus_x_preferred":[
+        "Bengazi"
+    ],
     "name:ext_x_preferred":[
         "Bengasi"
     ],
@@ -98,23 +89,11 @@
     "name:fra_x_preferred":[
         "Benghazi"
     ],
-    "name:fre_x_preferred":[
-        "Benghazi"
-    ],
     "name:fry_x_preferred":[
         "Bengazy"
     ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d4\u10dc\u10e6\u10d0\u10d6\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Bengasi"
-    ],
     "name:gle_x_preferred":[
         "Benghazi"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03b5\u03b3\u03b3\u03ac\u03b6\u03b7"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0a82\u0a98\u0abe\u0a9d\u0ac0"
@@ -133,6 +112,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0532\u0565\u0576\u0572\u0561\u0566\u056b"
+    ],
+    "name:hye_x_variant":[
+        "\u0532\u0565\u0576\u0563\u0561\u0566\u056b"
     ],
     "name:ile_x_preferred":[
         "Bengasi"
@@ -173,7 +155,7 @@
     "name:mar_x_preferred":[
         "\u092c\u0947\u0928\u0917\u093e\u091d\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Benghazi"
     ],
     "name:nap_x_preferred":[
@@ -194,9 +176,6 @@
     "name:pan_x_preferred":[
         "\u0a2c\u0a28\u0a17\u0a3c\u0a3e\u0a1c\u0a3c\u0a40"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0646\u063a\u0627\u0632\u06cc"
-    ],
     "name:pms_x_preferred":[
         "B\u00e8ngasi"
     ],
@@ -209,7 +188,7 @@
     "name:por_x_preferred":[
         "Bengasi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Benghazi"
     ],
     "name:rup_x_preferred":[
@@ -230,14 +209,14 @@
     "name:slk_x_preferred":[
         "Beng\u00e1zi"
     ],
-    "name:slo_x_preferred":[
-        "Beng\u00e1zi"
-    ],
     "name:slv_x_preferred":[
         "Bengazi"
     ],
     "name:spa_x_preferred":[
         "Bengasi"
+    ],
+    "name:sqi_x_preferred":[
+        "Bengazi"
     ],
     "name:srp_x_preferred":[
         "\u0411\u0435\u043d\u0433\u0430\u0437\u0438"
@@ -279,9 +258,6 @@
         "B\u00e4ngasi"
     ],
     "name:war_x_preferred":[
-        "Benghazi"
-    ],
-    "name:wel_x_preferred":[
         "Benghazi"
     ],
     "name:yue_x_preferred":[
@@ -426,7 +402,7 @@
         }
     ],
     "wof:id":421199765,
-    "wof:lastmodified":1514484236,
+    "wof:lastmodified":1561839522,
     "wof:name":"\u0628\u0646\u063a\u0627\u0632\u064a",
     "wof:parent_id":85673635,
     "wof:placetype":"locality",

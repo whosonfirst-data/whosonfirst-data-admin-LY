@@ -36,23 +36,20 @@
         "\u0634\u0639\u0628\u064a\u0629 \u0627\u0644\u0645\u0631\u062c",
         "\u0627\u0644\u0645\u0631\u062c"
     ],
-    "name:baq_x_preferred":[
-        "Al Marj"
-    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b0\u09cd\u099c \u099c\u09c7\u09b2\u09be"
     ],
     "name:cat_x_preferred":[
         "Al Marj"
     ],
-    "name:chi_x_preferred":[
-        "\u9081\u723e\u5b63\u7701"
-    ],
     "name:dan_x_preferred":[
         "Al Marj"
     ],
-    "name:dut_x_preferred":[
-        "Al Marj"
+    "name:deu_x_preferred":[
+        "Munizip al-Mardsch"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03c1\u03c4\u03b6"
     ],
     "name:eng_x_preferred":[
         "Al Marj"
@@ -60,20 +57,17 @@
     "name:epo_x_preferred":[
         "Distrikto Al Mar\u011d"
     ],
+    "name:eus_x_preferred":[
+        "Al Marj"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0631\u062c"
+    ],
     "name:fin_x_preferred":[
         "Marjin kaupunginosa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Al Marj"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10da-\u10db\u10d0\u10e0\u10ef\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Munizip al-Mardsch"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03ac\u03c1\u03c4\u03b6"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0ab0\u0acd\u0a9c \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -96,6 +90,9 @@
     "name:kan_x_preferred":[
         "\u0cae\u0cb0\u0ccd\u0c9c\u0ccd \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10db\u10d0\u10e0\u10ef\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc54c\ub9c8\ub974\uc988 \uc8fc"
     ],
@@ -108,8 +105,11 @@
     "name:mar_x_preferred":[
         "\u092e\u0930\u094d\u091c \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Marj District"
+    ],
+    "name:nld_x_preferred":[
+        "Al Marj"
     ],
     "name:nno_x_preferred":[
         "Al Marj"
@@ -117,16 +117,13 @@
     "name:nob_x_preferred":[
         "Al Marj"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0631\u062c"
-    ],
     "name:pol_x_preferred":[
         "Al-Mard\u017c"
     ],
     "name:por_x_preferred":[
         "Al Marj"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Al Marj"
     ],
     "name:rus_x_preferred":[
@@ -176,6 +173,9 @@
     ],
     "name:vol_x_preferred":[
         "M\u00e4rci\u00e4n"
+    ],
+    "name:zho_x_preferred":[
+        "\u9081\u723e\u5b63\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LBY",
@@ -299,7 +299,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553550407,
+    "wof:lastmodified":1561839519,
     "wof:name":"Al Marj",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

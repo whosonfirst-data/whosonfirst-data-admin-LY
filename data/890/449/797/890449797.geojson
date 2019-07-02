@@ -27,17 +27,11 @@
     "name:arg_x_preferred":[
         "Al Bayda"
     ],
-    "name:arm_x_preferred":[
-        "\u0537\u056c \u0532\u0565\u0575\u0564\u0561"
-    ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u0628\u064a\u0636\u0627\u0621"
     ],
     "name:aze_x_preferred":[
         "\u018fl-Bayda"
-    ],
-    "name:baq_x_preferred":[
-        "Baida"
     ],
     "name:bcl_x_preferred":[
         "Al Bayda"
@@ -63,17 +57,20 @@
     "name:cat_x_preferred":[
         "Al Bayda'"
     ],
-    "name:chi_x_preferred":[
-        "\u8d1d\u8fbe"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Bajd\u00e1"
+    ],
+    "name:cym_x_preferred":[
+        "Al Bayda"
     ],
     "name:dan_x_preferred":[
         "Al-Baida"
     ],
-    "name:dut_x_preferred":[
-        "Al Bayda"
+    "name:deu_x_preferred":[
+        "al-Baida"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb \u039c\u03c0\u03ac\u03c5\u03bd\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Al Bayda"
@@ -84,26 +81,23 @@
     "name:est_x_preferred":[
         "Al-Bay\u1e11\u0101\u2019"
     ],
+    "name:eus_x_preferred":[
+        "Baida"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0636\u0627"
+    ],
     "name:fin_x_preferred":[
         "Beida"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "El Be\u00efda"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10da-\u10d1\u10d0\u10d8\u10d3\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "al-Baida"
     ],
     "name:gle_x_preferred":[
         "Bayda"
     ],
     "name:glg_x_preferred":[
         "Al Bayda - \u0627\u0644\u0628\u064a\u0636\u0627\u0621"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bb \u039c\u03c0\u03ac\u03c5\u03bd\u03c4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab2 \u0aac\u0abe\u0aaf\u0aa6\u0abe"
@@ -123,6 +117,9 @@
     "name:hun_x_preferred":[
         "Al-Bajda"
     ],
+    "name:hye_x_preferred":[
+        "\u0537\u056c \u0532\u0565\u0575\u0564\u0561"
+    ],
     "name:ile_x_preferred":[
         "Al Baida"
     ],
@@ -140,6 +137,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c85\u0cb2\u0ccd \u0cac\u0cc7\u0ca1\u0cbe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10d1\u10d0\u10d8\u10d3\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0410\u043b\u044c-\u0411\u0430\u0439\u0434\u0430"
@@ -159,7 +159,7 @@
     "name:mar_x_preferred":[
         "\u0905\u0932 \u092c\u0948\u0926\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Al Bayda"
     ],
     "name:nan_x_preferred":[
@@ -167,6 +167,9 @@
     ],
     "name:nap_x_preferred":[
         "Al Bayda'"
+    ],
+    "name:nld_x_preferred":[
+        "Al Bayda"
     ],
     "name:nno_x_preferred":[
         "Bayda"
@@ -180,9 +183,6 @@
     "name:oss_x_preferred":[
         "\u042d\u043b\u044c-\u0411\u0435\u0439\u0434\u0430"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u06cc\u0636\u0627"
-    ],
     "name:pms_x_preferred":[
         "Al Bayda'"
     ],
@@ -192,7 +192,7 @@
     "name:por_x_preferred":[
         "Al Bayda'"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Al Bayda'"
     ],
     "name:rup_x_preferred":[
@@ -210,7 +210,7 @@
     "name:sin_x_preferred":[
         "\u0d85\u0dbd \u0db6\u0dd9\u0daf\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Al-Bajd\u00e1"
     ],
     "name:slv_x_preferred":[
@@ -267,9 +267,6 @@
     "name:war_x_preferred":[
         "Al Bayda"
     ],
-    "name:wel_x_preferred":[
-        "Al Bayda"
-    ],
     "name:wol_x_preferred":[
         "Al Bayda"
     ],
@@ -281,6 +278,9 @@
     ],
     "name:zea_x_preferred":[
         "Al Bayda"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u8fbe"
     ],
     "qs:name":"Al Bay\u1e11\u0101\u2019",
     "qs:photos_9r":0,
@@ -311,7 +311,7 @@
         }
     ],
     "wof:id":890449797,
-    "wof:lastmodified":1514484184,
+    "wof:lastmodified":1561839523,
     "wof:name":"Al Bay\u1e11\u0101\u2019",
     "wof:parent_id":85673627,
     "wof:placetype":"locality",

@@ -16,8 +16,11 @@
     "name:ara_x_preferred":[
         "\u0628\u062a\u0648\u0644\u064a\u0645\u0627\u064a\u0633"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ptolemais"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03c4\u03bf\u03bb\u03b5\u03bc\u03b1\u0390\u03b4\u03b1 \u039a\u03c5\u03c1\u03b7\u03bd\u03b1\u03ca\u03ba\u03ae\u03c2"
     ],
     "name:eng_x_preferred":[
         "Ptolemais"
@@ -25,23 +28,20 @@
     "name:fin_x_preferred":[
         "Ptolemais"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ptol\u00e9ma\u00efs"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10e2\u10dd\u10da\u10d4\u10db\u10d0\u10d8\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Ptolemais"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03c4\u03bf\u03bb\u03b5\u03bc\u03b1\u0390\u03b4\u03b1 \u039a\u03c5\u03c1\u03b7\u03bd\u03b1\u03ca\u03ba\u03ae\u03c2"
     ],
     "name:ita_x_preferred":[
         "Tolemaide"
     ],
     "name:jpn_x_preferred":[
         "\u30d7\u30c8\u30ec\u30de\u30a4\u30b9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10e2\u10dd\u10da\u10d4\u10db\u10d0\u10d8\u10e1\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Ptolemais"
     ],
     "name:pol_x_preferred":[
         "Ptolemaida"
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":421174669,
-    "wof:lastmodified":1514484181,
+    "wof:lastmodified":1561839522,
     "wof:name":"Ad Dirsiyah",
     "wof:parent_id":85673625,
     "wof:placetype":"locality",
