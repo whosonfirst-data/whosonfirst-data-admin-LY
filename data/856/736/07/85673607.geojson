@@ -45,6 +45,9 @@
     "name:cat_x_preferred":[
         "An Nuqat al Khams"
     ],
+    "name:ceb_x_preferred":[
+        "Sha\u2018b\u012byat an Nuq\u0101\u0163 al Khams"
+    ],
     "name:dan_x_preferred":[
         "An Nuqat al Khams"
     ],
@@ -57,11 +60,20 @@
     "name:eng_x_preferred":[
         "An Nuqat al Khams"
     ],
+    "name:eng_x_variant":[
+        "Nuqat al Khams"
+    ],
     "name:epo_x_preferred":[
         "Distrikto An Nukat Al \u0124ams"
     ],
+    "name:epo_x_variant":[
+        "An Nukat Al \u0124ams"
+    ],
     "name:est_x_preferred":[
         "An-Nuq\u0101\u0163 al-Khamsi omavalitsus"
+    ],
+    "name:est_x_variant":[
+        "An-Nuq\u0101t al-Khams"
     ],
     "name:eus_x_preferred":[
         "An Nuqat al Khams"
@@ -101,6 +113,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub204\uce74\ud2b8\uc54c\ud568\uc2a4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc548\ub204\uce74\ud2b8\uc54c\uce84\uc2a4 \uc8fc"
     ],
     "name:lav_x_preferred":[
         "Nuk\u0101ta al Hamsa"
@@ -307,7 +322,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561839519,
+    "wof:lastmodified":1563346881,
     "wof:name":"An Nuqat al Khams",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

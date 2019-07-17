@@ -41,6 +41,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u0431\u0445\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Sha\u2018b\u012byat Sabh\u0101"
+    ],
     "name:dan_x_preferred":[
         "Sabha District"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:eng_x_preferred":[
         "Sabha"
+    ],
+    "name:eng_x_variant":[
+        "Sabha District"
     ],
     "name:epo_x_preferred":[
         "Distrikto Sabha"
@@ -293,7 +299,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561839520,
+    "wof:lastmodified":1563346888,
     "wof:name":"Sabha",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

@@ -35,14 +35,104 @@
     "name:ara_x_variant":[
         "\u0634\u0639\u0628\u064a\u0629 \u0633\u0631\u062a"
     ],
+    "name:bel_x_preferred":[
+        "\u043c\u0443\u043d\u0456\u0446\u044b\u043f\u0430\u043b\u0456\u0442\u044d\u0442 \u0421\u0443\u0440\u0442"
+    ],
+    "name:cat_x_preferred":[
+        "Sirte"
+    ],
+    "name:ceb_x_preferred":[
+        "Surt"
+    ],
+    "name:ces_x_preferred":[
+        "Surt"
+    ],
+    "name:dan_x_preferred":[
+        "Surt"
+    ],
+    "name:deu_x_preferred":[
+        "Munizip Surt"
+    ],
     "name:eng_x_preferred":[
         "Surt"
+    ],
+    "name:eng_x_variant":[
+        "Sirte District"
+    ],
+    "name:epo_x_preferred":[
+        "Distrikto Sirto"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0631\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Syrte"
+    ],
+    "name:fry_x_preferred":[
+        "Sirte"
+    ],
+    "name:hun_x_preferred":[
+        "Szurt tartom\u00e1ny"
+    ],
+    "name:ind_x_preferred":[
+        "Surt"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30eb\u30c8\u770c"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e3\u10e0\u10d7\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2dc\ub974\ud14c \uc8fc"
+    ],
+    "name:lit_x_preferred":[
+        "Surto savivaldyb\u0117"
+    ],
+    "name:nld_x_preferred":[
+        "Sirte"
+    ],
+    "name:nob_x_preferred":[
+        "Surt"
+    ],
+    "name:pol_x_preferred":[
+        "Syrta"
+    ],
+    "name:por_x_preferred":[
+        "Surt"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Surt"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u0440\u0442"
+    ],
+    "name:sco_x_preferred":[
+        "Sirte Destrict"
+    ],
+    "name:spa_x_preferred":[
+        "Sirte"
+    ],
+    "name:swe_x_preferred":[
+        "Surt"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0438\u0440\u0442"
     ],
     "name:und_x_variant":[
         "\u0633\u0631\u062a"
     ],
     "name:unk_x_variant":[
         "Baladiyat Sirt"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0631\u062a \u0636\u0644\u0639"
+    ],
+    "name:vol_x_preferred":[
+        "Surti\u00e4n"
+    ],
+    "name:zho_x_preferred":[
+        "\u8607\u723e\u7279\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LBY",
@@ -167,7 +257,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553550402,
+    "wof:lastmodified":1563346875,
     "wof:name":"Surt",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

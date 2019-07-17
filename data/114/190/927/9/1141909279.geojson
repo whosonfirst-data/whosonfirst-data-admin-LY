@@ -23,11 +23,17 @@
     "name:cat_x_preferred":[
         "Zuwarah"
     ],
+    "name:ceb_x_preferred":[
+        "Zuw\u0101rah"
+    ],
     "name:ces_x_preferred":[
         "Zu\u00e1ra"
     ],
     "name:dan_x_preferred":[
         "Zuwarah"
+    ],
+    "name:dan_x_variant":[
+        "Zuwara"
     ],
     "name:deu_x_preferred":[
         "Zuwara"
@@ -272,7 +278,7 @@
         }
     ],
     "wof:id":1141909279,
-    "wof:lastmodified":1561839525,
+    "wof:lastmodified":1563347023,
     "wof:name":"Zuwarah",
     "wof:parent_id":85673607,
     "wof:placetype":"locality",

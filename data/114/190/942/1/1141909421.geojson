@@ -33,9 +33,6 @@
     "name:ara_x_preferred":[
         "\u0637\u0631\u0627\u0628\u0644\u0633"
     ],
-    "name:ara_x_variant":[
-        "\u0637\u0631\u0627\u0628\u0644\u0633"
-    ],
     "name:arg_x_preferred":[
         "Tripoli"
     ],
@@ -76,6 +73,9 @@
         "Tr\u00edpoli"
     ],
     "name:cdo_x_preferred":[
+        "Tripoli"
+    ],
+    "name:ceb_x_preferred":[
         "Tripoli"
     ],
     "name:ces_x_preferred":[
@@ -150,6 +150,9 @@
     "name:hat_x_preferred":[
         "Tripoli"
     ],
+    "name:hau_x_preferred":[
+        "Tripoli"
+    ],
     "name:heb_x_preferred":[
         "\u05d8\u05e8\u05d9\u05e4\u05d5\u05dc\u05d9"
     ],
@@ -170,6 +173,9 @@
     ],
     "name:hye_x_preferred":[
         "\u054f\u0580\u056b\u057a\u0578\u056c\u056b"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0539\u0580\u056b\u0562\u0578\u056c\u056b"
     ],
     "name:ido_x_preferred":[
         "Tripoli"
@@ -233,6 +239,9 @@
     ],
     "name:lav_x_preferred":[
         "Tripole"
+    ],
+    "name:lfn_x_preferred":[
+        "Tarabulo"
     ],
     "name:lij_x_preferred":[
         "Tripoli"
@@ -411,6 +420,9 @@
     "name:urd_x_preferred":[
         "\u0637\u0631\u0627\u0628\u0644\u0633\u060c \u0644\u06cc\u0628\u06cc\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u0637\u0631\u0627\u0628\u0644\u0633"
+    ],
     "name:uzb_x_preferred":[
         "Tripoli"
     ],
@@ -431,6 +443,9 @@
     ],
     "name:wol_x_preferred":[
         "Tripoli"
+    ],
+    "name:wuu_x_preferred":[
+        "\u7684\u9ece\u6ce2\u91cc"
     ],
     "name:xmf_x_preferred":[
         "\u10e2\u10e0\u10d8\u10de\u10dd\u10da\u10d8"
@@ -578,7 +593,7 @@
         }
     ],
     "wof:id":1141909421,
-    "wof:lastmodified":1561839525,
+    "wof:lastmodified":1563347026,
     "wof:name":"Tripoli",
     "wof:parent_id":85673621,
     "wof:placetype":"locality",

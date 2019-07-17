@@ -20,6 +20,9 @@
     "name:aze_x_preferred":[
         "Derna"
     ],
+    "name:bel_x_preferred":[
+        "\u0414\u044d\u0440\u043d\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09a1\u09c7\u09a8\u09be"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:cat_x_preferred":[
         "Derna"
+    ],
+    "name:ceb_x_preferred":[
+        "Darnah"
     ],
     "name:ces_x_preferred":[
         "Derna"
@@ -41,8 +47,14 @@
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03ad\u03c1\u03bd\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u0394\u03ac\u03c1\u03bd\u03b7"
+    ],
     "name:eng_x_preferred":[
         "Darnah"
+    ],
+    "name:eng_x_variant":[
+        "Derna"
     ],
     "name:epo_x_preferred":[
         "Darna"
@@ -163,6 +175,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062f\u0631\u0646\u06c1\u060c \u0644\u06cc\u0628\u06cc\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u062f\u0631\u0646\u06c1"
     ],
     "name:vie_x_preferred":[
         "Darnah"
@@ -310,7 +325,7 @@
         }
     ],
     "wof:id":421201967,
-    "wof:lastmodified":1561839522,
+    "wof:lastmodified":1563346975,
     "wof:name":"\u062f\u0631\u0646\u0629",
     "wof:parent_id":85673663,
     "wof:placetype":"locality",

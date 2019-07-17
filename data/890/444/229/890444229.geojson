@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0631\u0632\u0642"
     ],
+    "name:azb_x_preferred":[
+        "\u0645\u0631\u0632\u0642"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0443\u0440\u0437\u0443\u043a"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:cat_x_preferred":[
         "Murzuk"
+    ],
+    "name:ceb_x_preferred":[
+        "Murzuq"
     ],
     "name:dan_x_preferred":[
         "Murzuk"
@@ -48,6 +54,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0645\u0631\u0632\u0642\u060c \u0644\u06cc\u0628\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0631\u0632\u0642"
     ],
     "name:fin_x_preferred":[
         "Murzuq"
@@ -78,6 +87,12 @@
     ],
     "name:pol_x_preferred":[
         "Murzuq"
+    ],
+    "name:pol_x_variant":[
+        "Marzuk"
+    ],
+    "name:por_x_preferred":[
+        "Murzuque"
     ],
     "name:ron_x_preferred":[
         "Murzuk"
@@ -240,7 +255,7 @@
         }
     ],
     "wof:id":890444229,
-    "wof:lastmodified":1561839523,
+    "wof:lastmodified":1563346984,
     "wof:name":"Murzuq",
     "wof:parent_id":85673589,
     "wof:placetype":"locality",

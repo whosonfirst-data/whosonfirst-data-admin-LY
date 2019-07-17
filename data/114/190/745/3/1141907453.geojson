@@ -17,8 +17,14 @@
     "name:ara_x_preferred":[
         "\u0642\u0645\u064a\u0646\u0633"
     ],
+    "name:azb_x_preferred":[
+        "\u0642\u0645\u06cc\u0646\u0633"
+    ],
     "name:eng_x_preferred":[
         "Qaminis"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0645\u06cc\u0646\u0633"
     ],
     "name:kat_x_preferred":[
         "\u10e5\u10d0\u10db\u10d8\u10dc\u10d8\u10e1\u10d8"
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1141907453,
-    "wof:lastmodified":1561839525,
+    "wof:lastmodified":1563347027,
     "wof:name":"Qaminis",
     "wof:parent_id":85673635,
     "wof:placetype":"locality",

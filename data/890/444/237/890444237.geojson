@@ -49,6 +49,9 @@
     "name:guj_x_preferred":[
         "\u0aac\u0acd\u0ab0\u0abe\u0a95"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05e7"
+    ],
     "name:hin_x_preferred":[
         "\u092c\u0930\u093e\u0915"
     ],
@@ -70,11 +73,17 @@
     "name:kor_x_preferred":[
         "\ube44\ub77c\ud06c"
     ],
+    "name:kor_x_variant":[
+        "\ube0c\ub77d"
+    ],
     "name:lav_x_preferred":[
         "Braka"
     ],
     "name:lit_x_preferred":[
         "Brakas"
+    ],
+    "name:ltz_x_preferred":[
+        "Birak"
     ],
     "name:mar_x_preferred":[
         "\u092c\u094d\u0930\u0945\u0915"
@@ -132,6 +141,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0631\u0627\u06a9\u060c \u0644\u06cc\u0628\u06cc\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0628\u0631\u0627\u06a9"
     ],
     "name:vie_x_preferred":[
         "Brak"
@@ -266,7 +278,7 @@
         }
     ],
     "wof:id":890444237,
-    "wof:lastmodified":1561839523,
+    "wof:lastmodified":1563346986,
     "wof:name":"Bir\u0101k",
     "wof:parent_id":85673579,
     "wof:placetype":"locality",

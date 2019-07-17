@@ -27,6 +27,9 @@
     "name:cat_x_preferred":[
         "Adiri"
     ],
+    "name:ceb_x_preferred":[
+        "Idr\u012b"
+    ],
     "name:eng_x_preferred":[
         "Adiri"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":890418161,
-    "wof:lastmodified":1561839523,
+    "wof:lastmodified":1563346987,
     "wof:name":"Idr\u012b",
     "wof:parent_id":85673579,
     "wof:placetype":"locality",

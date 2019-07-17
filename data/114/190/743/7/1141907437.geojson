@@ -14,6 +14,9 @@
     "lbl:longitude":14.470837,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062a\u062c\u0631\u0647\u064a"
+    ],
     "name:eng_x_preferred":[
         "Tajarhi"
     ],
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":1141907437,
-    "wof:lastmodified":1561839524,
+    "wof:lastmodified":1563347020,
     "wof:name":"Tajarhi",
     "wof:parent_id":85673589,
     "wof:placetype":"locality",

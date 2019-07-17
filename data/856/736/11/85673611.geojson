@@ -41,6 +41,9 @@
     "name:cat_x_preferred":[
         "Zauiya"
     ],
+    "name:ceb_x_preferred":[
+        "Sha\u2018b\u012byat az Z\u0101wiyah"
+    ],
     "name:dan_x_preferred":[
         "Zawiya District"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:eng_x_preferred":[
         "Az Zawiyah"
+    ],
+    "name:eng_x_variant":[
+        "Zawiya District"
     ],
     "name:epo_x_preferred":[
         "Distrikto az Za\u016dija"
@@ -296,7 +302,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561839519,
+    "wof:lastmodified":1563346879,
     "wof:name":"Az Zawiyah",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

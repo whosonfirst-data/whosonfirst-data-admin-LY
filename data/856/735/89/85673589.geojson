@@ -41,6 +41,9 @@
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b0\u099c\u09c1\u0995 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Murzuq"
+    ],
     "name:ces_x_preferred":[
         "Murzuq"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Murzuq"
+    ],
+    "name:eng_x_variant":[
+        "Murzuq District"
     ],
     "name:epo_x_preferred":[
         "Distrikto Murzuk"
@@ -79,6 +85,9 @@
     ],
     "name:hun_x_preferred":[
         "Murzuk tartom\u00e1ny"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0580\u0566\u0578\u0582\u056f"
     ],
     "name:ind_x_preferred":[
         "Distrik Murzuq"
@@ -136,6 +145,9 @@
     ],
     "name:spa_x_preferred":[
         "Distrito de Murzuk"
+    ],
+    "name:spa_x_variant":[
+        "Murzuk"
     ],
     "name:swe_x_preferred":[
         "Murzuq"
@@ -299,7 +311,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561839520,
+    "wof:lastmodified":1563346887,
     "wof:name":"Murzuq",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

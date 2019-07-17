@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12408180.656351,
+    "geom:area_square_m":0.0,
     "geom:bbox":"20.064871,32.118682,20.064871,32.118682",
     "geom:latitude":32.118682,
     "geom:longitude":20.064871,
@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "Al \u2018Ur\u016bbah",
         "\u0642\u0646\u0627\u0629 \u0627\u0644\u0631\u0623\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Al Urubah"
     ],
     "name:unk_x_variant":[
         "Al \u2018Ur\u016bbah"
@@ -94,7 +97,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531935945,
+    "wof:lastmodified":1563346873,
     "wof:name":"Al \u2018Ur\u016bbah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

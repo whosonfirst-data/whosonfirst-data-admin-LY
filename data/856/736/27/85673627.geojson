@@ -42,6 +42,9 @@
     "name:cat_x_preferred":[
         "Al Jabal al Akhdar"
     ],
+    "name:ceb_x_preferred":[
+        "Sha\u2018b\u012byat al Jabal al Akh\u1e11ar"
+    ],
     "name:dan_x_preferred":[
         "Al Jabal al Akhdar"
     ],
@@ -53,6 +56,9 @@
     ],
     "name:eng_x_preferred":[
         "Al Jabal al Akhdar"
+    ],
+    "name:eng_x_variant":[
+        "Jabal al Akhdar"
     ],
     "name:epo_x_preferred":[
         "Al \u011cabal Al A\u0125dar"
@@ -293,7 +299,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561839519,
+    "wof:lastmodified":1563346878,
     "wof:name":"Al Jabal al Akhdar",
     "wof:parent_id":85632627,
     "wof:placetype":"region",
