@@ -42,6 +42,9 @@
     "name:cat_x_preferred":[
         "Al Marj"
     ],
+    "name:ceb_x_preferred":[
+        "Al Marj"
+    ],
     "name:dan_x_preferred":[
         "Al Marj"
     ],
@@ -53,6 +56,9 @@
     ],
     "name:eng_x_preferred":[
         "Al Marj"
+    ],
+    "name:eng_x_variant":[
+        "Marj District"
     ],
     "name:epo_x_preferred":[
         "Distrikto Al Mar\u011d"
@@ -299,7 +305,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561839519,
+    "wof:lastmodified":1563346884,
     "wof:name":"Al Marj",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

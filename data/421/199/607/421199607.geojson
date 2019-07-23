@@ -19,6 +19,9 @@
     "name:ara_x_variant":[
         "Awb\u0101r\u012b"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0628\u0627\u0631\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u045e\u0431\u0430\u0440\u044b"
     ],
@@ -60,6 +63,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0909\u092c\u093e\u0930\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Aub\u00e1ri"
     ],
     "name:ind_x_preferred":[
         "Ubari"
@@ -115,6 +121,9 @@
     "name:rus_x_preferred":[
         "\u0410\u0443\u0431\u0430\u0440\u0438"
     ],
+    "name:rus_x_variant":[
+        "\u0410\u0432\u0431\u0430\u0440\u0438"
+    ],
     "name:sco_x_preferred":[
         "Awbari"
     ],
@@ -123,6 +132,9 @@
     ],
     "name:spa_x_preferred":[
         "Ubari"
+    ],
+    "name:spa_x_variant":[
+        "Awbari"
     ],
     "name:swe_x_preferred":[
         "Ubari"
@@ -148,8 +160,14 @@
     "name:urd_x_preferred":[
         "\u0627\u0648\u0628\u0627\u0631\u06cc"
     ],
+    "name:urd_x_variant":[
+        "\u0627\u0628\u0627\u0631\u06cc"
+    ],
     "name:vie_x_preferred":[
         "Ubari"
+    ],
+    "name:vie_x_variant":[
+        "Awbari"
     ],
     "name:vol_x_preferred":[
         "\u00c4ubari"
@@ -202,7 +220,7 @@
         }
     ],
     "wof:id":421199607,
-    "wof:lastmodified":1561839522,
+    "wof:lastmodified":1563346974,
     "wof:name":"Awbari",
     "wof:parent_id":85673669,
     "wof:placetype":"locality",

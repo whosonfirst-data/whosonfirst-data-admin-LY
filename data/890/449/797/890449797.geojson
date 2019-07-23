@@ -57,6 +57,9 @@
     "name:cat_x_preferred":[
         "Al Bayda'"
     ],
+    "name:ceb_x_preferred":[
+        "Al Bay\u1e11\u0101'"
+    ],
     "name:ces_x_preferred":[
         "Bajd\u00e1"
     ],
@@ -311,7 +314,7 @@
         }
     ],
     "wof:id":890449797,
-    "wof:lastmodified":1561839523,
+    "wof:lastmodified":1563346977,
     "wof:name":"Al Bay\u1e11\u0101\u2019",
     "wof:parent_id":85673627,
     "wof:placetype":"locality",

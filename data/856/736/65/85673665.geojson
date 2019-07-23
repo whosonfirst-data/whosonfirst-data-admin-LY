@@ -36,6 +36,9 @@
         "\u0634\u0639\u0628\u064a\u0629 \u0627\u0644\u0628\u0637\u0646\u0627\u0646",
         "\u0627\u0644\u0628\u0637\u0646\u0627\u0646"
     ],
+    "name:bel_x_preferred":[
+        "\u042d\u043b\u044c-\u0411\u0443\u0442\u043d\u0430\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u099f\u09a8\u09be\u09a8 \u099c\u09c7\u09b2\u09be"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:cat_x_preferred":[
         "Al Butnan"
+    ],
+    "name:ceb_x_preferred":[
+        "Sha\u2018b\u012byat al Bu\u0163n\u0101n"
     ],
     "name:dan_x_preferred":[
         "Al Butnan"
@@ -56,6 +62,9 @@
     ],
     "name:eng_x_preferred":[
         "Al Butnan"
+    ],
+    "name:eng_x_variant":[
+        "Butnan District"
     ],
     "name:epo_x_preferred":[
         "Al Butnan"
@@ -302,7 +311,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561839519,
+    "wof:lastmodified":1563346882,
     "wof:name":"Al Butnan",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

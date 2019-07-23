@@ -18,6 +18,12 @@
     "name:ara_x_preferred":[
         "\u0635\u0631\u0645\u0627\u0646"
     ],
+    "name:azb_x_preferred":[
+        "\u0635\u0631\u0645\u0627\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "\u015eurm\u0101n"
+    ],
     "name:deu_x_preferred":[
         "Sorman"
     ],
@@ -26,6 +32,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0635\u0631\u0645\u0627\u0646\u060c \u0644\u06cc\u0628\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0635\u0631\u0645\u0627\u0646"
     ],
     "name:fra_x_preferred":[
         "Sorman"
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":890413133,
-    "wof:lastmodified":1561839523,
+    "wof:lastmodified":1563346980,
     "wof:name":"\u015eurm\u0101n",
     "wof:parent_id":85673611,
     "wof:placetype":"locality",

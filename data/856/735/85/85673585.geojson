@@ -36,8 +36,14 @@
         "\u0634\u0639\u0628\u064a\u0629 \u063a\u0627\u062a",
         "\u063a\u0627\u062a"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u063a\u0627\u062a"
+    ],
     "name:ben_x_preferred":[
         "\u0998\u09be\u099f \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Sha\u2018b\u012byat Gh\u0101t"
     ],
     "name:dan_x_preferred":[
         "Ghat"
@@ -53,6 +59,9 @@
     ],
     "name:eng_x_preferred":[
         "Awbari"
+    ],
+    "name:eng_x_variant":[
+        "Ghat District"
     ],
     "name:epo_x_preferred":[
         "Distrikto Gat"
@@ -78,8 +87,14 @@
     "name:hin_x_preferred":[
         "\u0918\u093e\u091f"
     ],
+    "name:hin_x_variant":[
+        "\u0918\u093e\u091f \u091c\u093f\u0932\u093e"
+    ],
     "name:hun_x_preferred":[
         "Gh\u00e1tok"
+    ],
+    "name:hun_x_variant":[
+        "G\u00e1t tartom\u00e1ny"
     ],
     "name:ind_x_preferred":[
         "Distrik Ghat"
@@ -90,6 +105,9 @@
     "name:jpn_x_preferred":[
         "\u30ac\u30fc\u30c8"
     ],
+    "name:jpn_x_variant":[
+        "\u30ac\u30fc\u30c8\u770c"
+    ],
     "name:kan_x_preferred":[
         "\u0c98\u0cbe\u0c9f\u0ccd \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
@@ -99,11 +117,17 @@
     "name:kor_x_preferred":[
         "\uac00\ud2b8"
     ],
+    "name:kor_x_variant":[
+        "\uac00\ud2b8 \uc8fc"
+    ],
     "name:lav_x_preferred":[
         "G\u0101tas \u0161eb\u012bja"
     ],
     "name:lit_x_preferred":[
         "Ghatas"
+    ],
+    "name:lit_x_variant":[
+        "Gato savivaldyb\u0117"
     ],
     "name:mar_x_preferred":[
         "\u0918\u093e\u091f \u091c\u093f\u0932\u094d\u0939\u093e"
@@ -123,6 +147,9 @@
     "name:pol_x_preferred":[
         "Ghaty"
     ],
+    "name:pol_x_variant":[
+        "Ghat"
+    ],
     "name:por_x_preferred":[
         "Ghat"
     ],
@@ -131,6 +158,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0413\u0445\u0430\u0442"
+    ],
+    "name:rus_x_variant":[
+        "\u0413\u0430\u0442"
     ],
     "name:sco_x_preferred":[
         "Ghat Destrict"
@@ -143,6 +173,9 @@
     ],
     "name:swe_x_preferred":[
         "Ghats"
+    ],
+    "name:swe_x_variant":[
+        "Ghat"
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bbe\u0b9f\u0bcd  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
@@ -161,6 +194,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0490\u0445\u0430\u0442"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u0430\u0442"
     ],
     "name:und_x_variant":[
         "\u063a\u0627\u062a"
@@ -303,7 +339,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561839520,
+    "wof:lastmodified":1563346889,
     "wof:name":"Ghat",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

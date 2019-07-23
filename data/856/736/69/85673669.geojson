@@ -41,6 +41,9 @@
     "name:cat_x_preferred":[
         "Wadi Al Hayaa"
     ],
+    "name:ceb_x_preferred":[
+        "Sha\u2018b\u012byat W\u0101d\u012b al \u1e28ay\u0101t"
+    ],
     "name:dan_x_preferred":[
         "Wadi Al Hayaa"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:eng_x_preferred":[
         "Awbari"
+    ],
+    "name:eng_x_variant":[
+        "Wadi al Hayaa District"
     ],
     "name:epo_x_preferred":[
         "Uedo Al Haja"
@@ -290,7 +296,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561839519,
+    "wof:lastmodified":1563346877,
     "wof:name":"Wadi al Hayaa",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

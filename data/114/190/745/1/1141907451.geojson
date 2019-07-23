@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0631\u0627\u062f\u0629"
     ],
+    "name:ceb_x_preferred":[
+        "Mar\u0101dah"
+    ],
     "name:eng_x_preferred":[
         "Marada"
     ],
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":1141907451,
-    "wof:lastmodified":1561839525,
+    "wof:lastmodified":1563347027,
     "wof:name":"Maradah",
     "wof:parent_id":85673631,
     "wof:placetype":"locality",

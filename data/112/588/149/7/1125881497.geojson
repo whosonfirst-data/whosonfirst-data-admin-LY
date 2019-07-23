@@ -25,8 +25,14 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u062e\u0645\u0633"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0644\u062e\u0645\u0633"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u043b\u044c-\u0425\u0443\u043c\u0441"
+    ],
+    "name:bel_x_variant":[
+        "\u0410\u043b\u044c-\u0425\u0443\u043c\u0441"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09ae\u09be\u09b8"
@@ -35,6 +41,9 @@
         "\u0425\u0443\u043c\u0441"
     ],
     "name:cat_x_preferred":[
+        "Al Khums"
+    ],
+    "name:ceb_x_preferred":[
         "Al Khums"
     ],
     "name:dan_x_preferred":[
@@ -49,6 +58,9 @@
     "name:eng_x_preferred":[
         "Al Khums"
     ],
+    "name:eng_x_variant":[
+        "Khoms"
+    ],
     "name:epo_x_preferred":[
         "Al \u0124ums"
     ],
@@ -57,6 +69,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u062e\u0645\u0633\u060c \u0644\u06cc\u0628\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0644\u062e\u0645\u0633"
     ],
     "name:fin_x_preferred":[
         "Al Khums"
@@ -69,6 +84,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05dc-\u05d7\u05d5\u05de\u05e1"
+    ],
+    "name:heb_x_variant":[
+        "\u05d0\u05dc-\u05d7'\u05d5\u05de\u05e1"
     ],
     "name:hin_x_preferred":[
         "\u0916\u093e\u092e\u094d\u0938"
@@ -127,6 +145,9 @@
     "name:rus_x_preferred":[
         "\u0425\u043e\u043c\u0441"
     ],
+    "name:rus_x_variant":[
+        "\u0410\u043b\u044c-\u0425\u0443\u043c\u0441"
+    ],
     "name:sco_x_preferred":[
         "Al Khums"
     ],
@@ -135,6 +156,9 @@
     ],
     "name:spa_x_preferred":[
         "Al-Khums"
+    ],
+    "name:spa_x_variant":[
+        "Al Khoms"
     ],
     "name:srd_x_preferred":[
         "Al Khums"
@@ -162,6 +186,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062e\u0645\u0633\u060c \u0644\u06cc\u0628\u06cc\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u062e\u0645\u0633"
     ],
     "name:vie_x_preferred":[
         "Al Khums"
@@ -212,7 +239,7 @@
         }
     ],
     "wof:id":1125881497,
-    "wof:lastmodified":1561839523,
+    "wof:lastmodified":1563346988,
     "wof:name":"Al Khums",
     "wof:parent_id":85673575,
     "wof:placetype":"locality",

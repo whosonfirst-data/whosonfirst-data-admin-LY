@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0632\u0644\u0637\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "Zal\u0163an"
+    ],
     "name:eng_x_preferred":[
         "Zaltan"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421196731,
-    "wof:lastmodified":1561839522,
+    "wof:lastmodified":1563346969,
     "wof:name":"Zaltan",
     "wof:parent_id":85673607,
     "wof:placetype":"locality",

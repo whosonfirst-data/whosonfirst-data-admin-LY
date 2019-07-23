@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u0632\u0644\u064a\u062a\u0646"
     ],
+    "name:azb_x_preferred":[
+        "\u0632\u0644\u06cc\u062a\u0646"
+    ],
     "name:aze_x_preferred":[
         "Zliten"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:bul_x_preferred":[
         "\u0417\u043b\u0438\u0442\u0435\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Zliten"
     ],
     "name:ces_x_preferred":[
         "Zlit\u00e1n"
@@ -202,7 +208,7 @@
         }
     ],
     "wof:id":421190857,
-    "wof:lastmodified":1561839522,
+    "wof:lastmodified":1563346970,
     "wof:name":"Zlitan",
     "wof:parent_id":85673593,
     "wof:placetype":"locality",

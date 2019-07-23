@@ -23,7 +23,13 @@
     "name:bul_x_preferred":[
         "\u0428\u0430\u0445\u0430\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Shahhat"
+    ],
     "name:eng_x_preferred":[
+        "Shahhat"
+    ],
+    "name:fra_x_preferred":[
         "Shahhat"
     ],
     "name:jpn_x_preferred":[
@@ -55,6 +61,9 @@
     ],
     "name:vie_x_preferred":[
         "Shahhat"
+    ],
+    "name:zho_x_preferred":[
+        "\u820d\u54c8\u7279"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Libya",
@@ -173,7 +182,7 @@
         }
     ],
     "wof:id":1141907447,
-    "wof:lastmodified":1561839524,
+    "wof:lastmodified":1563347019,
     "wof:name":"Shahhat",
     "wof:parent_id":85673627,
     "wof:placetype":"locality",

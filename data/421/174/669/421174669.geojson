@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Ptol\u00e9ma\u00efs"
     ],
+    "name:ind_x_preferred":[
+        "Ptolemais"
+    ],
     "name:ita_x_preferred":[
         "Tolemaide"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421174669,
-    "wof:lastmodified":1561839522,
+    "wof:lastmodified":1563346963,
     "wof:name":"Ad Dirsiyah",
     "wof:parent_id":85673625,
     "wof:placetype":"locality",

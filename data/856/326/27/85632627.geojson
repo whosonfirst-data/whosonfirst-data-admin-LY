@@ -103,6 +103,12 @@
     "name:ben_x_variant":[
         "\u09b2\u09bf\u09ac\u09bf\u09df\u09be"
     ],
+    "name:bgn_x_preferred":[
+        "\u0644\u06cc\u0628\u06cc\u0627"
+    ],
+    "name:bho_x_preferred":[
+        "\u0932\u0940\u092c\u093f\u092f\u093e"
+    ],
     "name:bjn_x_preferred":[
         "Libya"
     ],
@@ -166,6 +172,9 @@
     "name:cym_x_preferred":[
         "Libia"
     ],
+    "name:cym_x_variant":[
+        "Libya"
+    ],
     "name:dan_x_preferred":[
         "Libyen"
     ],
@@ -188,6 +197,9 @@
     ],
     "name:dsb_x_preferred":[
         "Libyska"
+    ],
+    "name:dty_x_preferred":[
+        "\u0932\u093f\u092c\u093f\u092f\u093e"
     ],
     "name:ell_x_preferred":[
         "\u039b\u03b9\u03b2\u03cd\u03b7"
@@ -224,7 +236,8 @@
         "Libia"
     ],
     "name:ewe_x_variant":[
-        "Libya nutome"
+        "Libya nutome",
+        "Libya"
     ],
     "name:ext_x_preferred":[
         "L\u00edbia"
@@ -289,8 +302,17 @@
     "name:grn_x_preferred":[
         "L\u00edvia"
     ],
+    "name:grn_x_variant":[
+        "Livia"
+    ],
+    "name:gsw_x_preferred":[
+        "Libye"
+    ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abf\u0aac\u0abf\u0aaf\u0abe"
+    ],
+    "name:guj_x_variant":[
+        "\u0ab2\u0ac0\u0aac\u0abf\u0aaf\u0abe"
     ],
     "name:hak_x_preferred":[
         "Libya"
@@ -389,6 +411,9 @@
     "name:kaa_x_preferred":[
         "Liviya"
     ],
+    "name:kaa_x_variant":[
+        "Libya"
+    ],
     "name:kab_x_preferred":[
         "Libya"
     ],
@@ -403,6 +428,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u041b\u0438\u0432\u0438\u044f"
+    ],
+    "name:kbp_x_preferred":[
+        "Liibii"
     ],
     "name:khm_x_preferred":[
         "\u179b\u17b8\u1794\u17ca\u17b8"
@@ -440,6 +468,9 @@
     "name:lav_x_preferred":[
         "L\u012bbija"
     ],
+    "name:lfn_x_preferred":[
+        "Libia"
+    ],
     "name:lij_x_preferred":[
         "Libia"
     ],
@@ -472,6 +503,12 @@
     ],
     "name:lug_x_preferred":[
         "Libya"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5229\u6bd4\u4e9e"
+    ],
+    "name:mai_x_preferred":[
+        "\u0932\u0940\u092c\u093f\u092f\u093e"
     ],
     "name:mal_x_preferred":[
         "\u0d32\u0d3f\u0d2c\u0d3f\u0d2f"
@@ -514,6 +551,12 @@
     ],
     "name:mzn_x_preferred":[
         "\u0644\u06cc\u0628\u06cc"
+    ],
+    "name:nah_x_preferred":[
+        "Libia"
+    ],
+    "name:nan_x_preferred":[
+        "Libya"
     ],
     "name:nap_x_preferred":[
         "Libbia"
@@ -566,6 +609,9 @@
     "name:oci_x_preferred":[
         "Libia"
     ],
+    "name:olo_x_preferred":[
+        "Livii"
+    ],
     "name:ori_x_preferred":[
         "\u0b32\u0b3f\u0b2c\u0b3f\u0b06"
     ],
@@ -577,6 +623,9 @@
     ],
     "name:pag_x_preferred":[
         "Libia"
+    ],
+    "name:pag_x_variant":[
+        "Libya"
     ],
     "name:pam_x_preferred":[
         "Libya"
@@ -641,6 +690,9 @@
     "name:run_x_preferred":[
         "Libiya"
     ],
+    "name:rup_x_preferred":[
+        "Libia"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u0438\u0432\u0438\u044f"
     ],
@@ -658,6 +710,9 @@
     ],
     "name:sco_x_preferred":[
         "Libie"
+    ],
+    "name:sgs_x_preferred":[
+        "L\u0117b\u0117j\u0117"
     ],
     "name:sin_x_preferred":[
         "\u0dbd\u0dd2\u0db6\u0dd2\u0dba\u0dcf\u0dc0"
@@ -772,6 +827,9 @@
     "name:twi_x_preferred":[
         "Libya"
     ],
+    "name:udm_x_preferred":[
+        "\u041b\u0438\u0432\u0438\u044f"
+    ],
     "name:uig_x_preferred":[
         "\u0644\u0649\u06cb\u0649\u064a\u06d5"
     ],
@@ -813,6 +871,9 @@
     "name:vol_x_preferred":[
         "L\u00fcb\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "Liib\u00fc\u00e4"
+    ],
     "name:war_x_preferred":[
         "Libya"
     ],
@@ -839,6 +900,9 @@
     ],
     "name:yor_x_variant":[
         "Or\u00edl\u1eb9\u0301\u00e8de Libiya"
+    ],
+    "name:yue_x_preferred":[
+        "\u5229\u6bd4\u4e9e"
     ],
     "name:zea_x_preferred":[
         "Libi\u00eb"
@@ -1012,7 +1076,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561839520,
+    "wof:lastmodified":1563346894,
     "wof:name":"Libya",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
