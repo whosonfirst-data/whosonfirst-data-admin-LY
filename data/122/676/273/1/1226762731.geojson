@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0645\u062e\u064a\u0644\u0649"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u062e\u064a\u0644\u064a"
+    ],
+    "name:dan_x_preferred":[
+        "Mechili"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Machili"
+    ],
     "name:und_x_variant":[
         "Al Mak\u012bl\u012b",
         "Z\u0101wiyat al Makh\u012bl",
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1226762731,
-    "wof:lastmodified":1537663245,
+    "wof:lastmodified":1564106255,
     "wof:name":"Mukhayla",
     "wof:parent_id":85673663,
     "wof:placetype":"locality",

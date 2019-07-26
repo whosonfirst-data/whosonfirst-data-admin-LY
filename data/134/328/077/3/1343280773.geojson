@@ -25,8 +25,17 @@
     "iso:country":"LY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0626\u0631 \u0627\u0644\u0623\u0634\u0647\u0628"
+    ],
+    "name:sco_x_preferred":[
+        "Bir el Ashhab"
+    ],
     "name:und_x_variant":[
         "Bi\u2019r al Ashhab"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0626\u0631 \u0627\u0644\u0627\u0634\u06c1\u0628"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1343280773,
-    "wof:lastmodified":1537663252,
+    "wof:lastmodified":1564106159,
     "wof:name":"Bi'r al Ashhab",
     "wof:parent_id":85673665,
     "wof:placetype":"locality",

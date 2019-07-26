@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0647\u064a\u0634\u0629"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0644\u062d\u06cc\u0634\u0647"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062d\u06cc\u0634\u0647"
+    ],
     "name:und_x_variant":[
         "El Hissa",
         "Al Hishah",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1259798741,
-    "wof:lastmodified":1537663300,
+    "wof:lastmodified":1564106243,
     "wof:name":"Al Hishah",
     "wof:parent_id":85673593,
     "wof:placetype":"locality",

@@ -25,9 +25,33 @@
     "iso:country":"LY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0644\u0648\u06cc\u0642"
+    ],
+    "name:ceb_x_preferred":[
+        "Al W\u012bgh"
+    ],
+    "name:deu_x_preferred":[
+        "Al-Wigh"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0648\u06cc\u0642"
+    ],
+    "name:fra_x_preferred":[
+        "Al-Wigh"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Wigh"
+    ],
+    "name:swe_x_preferred":[
+        "Al W\u012bgh"
+    ],
     "name:und_x_variant":[
         "Al Wyg",
         "Al W\u012bgh"
+    ],
+    "name:vie_x_preferred":[
+        "Al Wigh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +75,7 @@
         }
     ],
     "wof:id":1277084913,
-    "wof:lastmodified":1537663294,
+    "wof:lastmodified":1564106177,
     "wof:name":"Al Wigh",
     "wof:parent_id":85673589,
     "wof:placetype":"locality",

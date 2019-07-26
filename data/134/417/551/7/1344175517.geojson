@@ -25,6 +25,12 @@
     "iso:country":"LY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ghadduwah"
+    ],
+    "name:por_x_preferred":[
+        "Godua"
+    ],
     "name:und_x_variant":[
         "Goddua",
         "Ghadd\u016bwah",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1344175517,
-    "wof:lastmodified":1537663283,
+    "wof:lastmodified":1564106155,
     "wof:name":"Ghadduwah",
     "wof:parent_id":85673597,
     "wof:placetype":"locality",

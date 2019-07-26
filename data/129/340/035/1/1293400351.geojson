@@ -28,6 +28,18 @@
     "name:ara_x_preferred":[
         "\u0642\u0635\u0631 \u0627\u0644\u0642\u0631\u0628\u0648\u0644\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0642\u0635\u0631 \u062e\u064a\u0627\u0631"
+    ],
+    "name:ita_x_preferred":[
+        "Gasr Garabulli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10e1\u10e2\u10d4\u10da\u10d5\u10d4\u10e0\u10d3\u10d4"
+    ],
+    "name:por_x_preferred":[
+        "Garabuli"
+    ],
     "name:und_x_variant":[
         "Gasr el Gharabulli",
         "Qa\u015fr al Qarahbull\u012b",
@@ -62,7 +74,7 @@
         }
     ],
     "wof:id":1293400351,
-    "wof:lastmodified":1537663267,
+    "wof:lastmodified":1564106168,
     "wof:name":"Qasr al Qarabulli",
     "wof:parent_id":85673575,
     "wof:placetype":"locality",

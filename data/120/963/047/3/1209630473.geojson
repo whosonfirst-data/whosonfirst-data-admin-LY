@@ -25,6 +25,9 @@
     "iso:country":"LY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Fungul"
+    ],
     "name:und_x_variant":[
         "Fongul",
         "Funqul"
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1209630473,
-    "wof:lastmodified":1537663283,
+    "wof:lastmodified":1564106192,
     "wof:name":"Funqul",
     "wof:parent_id":85632627,
     "wof:placetype":"locality",

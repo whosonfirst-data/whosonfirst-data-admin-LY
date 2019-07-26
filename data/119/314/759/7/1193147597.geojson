@@ -25,6 +25,21 @@
     "iso:country":"LY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0645\u064a\u0646\u0633"
+    ],
+    "name:azb_x_preferred":[
+        "\u0642\u0645\u06cc\u0646\u0633"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0645\u06cc\u0646\u0633"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10d0\u10db\u10d8\u10dc\u10d8\u10e1\u10d8"
+    ],
+    "name:por_x_preferred":[
+        "Gemines"
+    ],
     "name:und_x_variant":[
         "Caminus",
         "Ghemines",
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1193147597,
-    "wof:lastmodified":1537663250,
+    "wof:lastmodified":1564106204,
     "wof:name":"Qaminis",
     "wof:parent_id":85673635,
     "wof:placetype":"locality",

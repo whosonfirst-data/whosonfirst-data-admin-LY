@@ -25,6 +25,36 @@
     "iso:country":"LY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0648\u0641\u0644\u064a\u0629"
+    ],
+    "name:deu_x_preferred":[
+        "An-Nufalija"
+    ],
+    "name:epo_x_preferred":[
+        "Nufalija"
+    ],
+    "name:fra_x_preferred":[
+        "Nofilia"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10dc-\u10dc\u10dd\u10e4\u10d0\u10da\u10d8\u10d0"
+    ],
+    "name:pol_x_preferred":[
+        "An-Naufalijja"
+    ],
+    "name:por_x_preferred":[
+        "Nofalia"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0444\u0430\u043b\u0438\u044f"
+    ],
+    "name:sco_x_preferred":[
+        "An Nawfaliyah"
+    ],
+    "name:spa_x_preferred":[
+        "Naufaliya"
+    ],
     "name:und_x_variant":[
         "Nofil\u00eda",
         "Zauiet en-Nofilia",
@@ -58,7 +88,7 @@
         }
     ],
     "wof:id":1226061447,
-    "wof:lastmodified":1537663294,
+    "wof:lastmodified":1564106258,
     "wof:name":"An Nawfaliyah",
     "wof:parent_id":85673659,
     "wof:placetype":"locality",
