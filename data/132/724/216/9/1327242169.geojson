@@ -25,6 +25,30 @@
     "iso:country":"LY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0646\u0632\u0648\u0631"
+    ],
+    "name:azb_x_preferred":[
+        "\u062c\u0646\u0632\u0648\u0631"
+    ],
+    "name:deu_x_preferred":[
+        "Dschansur"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0646\u0632\u0648\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Janzour"
+    ],
+    "name:ita_x_preferred":[
+        "Gianzur"
+    ],
+    "name:por_x_preferred":[
+        "Janzur"
+    ],
+    "name:tur_x_preferred":[
+        "Cenzur"
+    ],
     "name:und_x_variant":[
         "Zanz\u016br",
         "Janz\u016br"
@@ -51,7 +75,7 @@
         }
     ],
     "wof:id":1327242169,
-    "wof:lastmodified":1537663281,
+    "wof:lastmodified":1564106138,
     "wof:name":"Janzur",
     "wof:parent_id":85673605,
     "wof:placetype":"locality",

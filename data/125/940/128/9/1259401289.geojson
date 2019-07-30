@@ -25,6 +25,27 @@
     "iso:country":"LY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0635\u0631 \u0628\u0646 \u063a\u0634\u064a\u0631"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0441\u0440-\u0411\u0435\u043d-\u0413\u0430\u0448\u044b\u0440"
+    ],
+    "name:deu_x_preferred":[
+        "Ben Gashir"
+    ],
+    "name:ita_x_preferred":[
+        "Ben Gascir"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10d0\u10e1\u10e0-\u10d1\u10d4\u10dc-\u10e6\u10d0\u10e8\u10d8\u10e0\u10d8"
+    ],
+    "name:por_x_preferred":[
+        "Alc\u00e1cer ibne Gaxir"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u043d-\u0413\u0430\u0448\u0438\u0440"
+    ],
     "name:und_x_variant":[
         "Qa\u015fr Bin Ghash\u012br"
     ],
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1259401289,
-    "wof:lastmodified":1537663267,
+    "wof:lastmodified":1564106244,
     "wof:name":"Qasr Bin Ghashir",
     "wof:parent_id":85673605,
     "wof:placetype":"locality",

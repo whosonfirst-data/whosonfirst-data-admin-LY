@@ -31,6 +31,18 @@
     "name:ara_x_variant":[
         "\u0643\u0627\u0628\u0627\u0648"
     ],
+    "name:deu_x_preferred":[
+        "Kabaw"
+    ],
+    "name:fra_x_preferred":[
+        "Kabaw"
+    ],
+    "name:pol_x_preferred":[
+        "Kabau"
+    ],
+    "name:spa_x_preferred":[
+        "Kabaw"
+    ],
     "name:und_x_variant":[
         "Cabao",
         "K\u0101b\u0101w"
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1293893931,
-    "wof:lastmodified":1537663281,
+    "wof:lastmodified":1564106174,
     "wof:name":"Kabaw",
     "wof:parent_id":85673563,
     "wof:placetype":"locality",

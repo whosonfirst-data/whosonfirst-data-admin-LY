@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u0628\u0634\u0631"
     ],
+    "name:deu_x_preferred":[
+        "Qaryat Bishr"
+    ],
     "name:und_x_variant":[
         "Qaryat Bash\u012br",
         "Qaryat Bishr"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1310420981,
-    "wof:lastmodified":1537663269,
+    "wof:lastmodified":1564106213,
     "wof:name":"Qaryat Bishr",
     "wof:parent_id":85673631,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u062c\u0645\u0629"
     ],
+    "name:ita_x_preferred":[
+        "Er-Regima"
+    ],
     "name:und_x_variant":[
         "Regima",
         "Er Regema",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1226161711,
-    "wof:lastmodified":1537663253,
+    "wof:lastmodified":1564106251,
     "wof:name":"Ar Rajmah",
     "wof:parent_id":85673635,
     "wof:placetype":"locality",

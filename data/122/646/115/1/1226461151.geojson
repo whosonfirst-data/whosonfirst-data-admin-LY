@@ -25,6 +25,18 @@
     "iso:country":"LY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u062c\u0631\u0647\u064a"
+    ],
+    "name:fin_x_preferred":[
+        "Tajarhi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d7\u10d0\u10ef\u10d0\u10e0\u10f0\u10d8"
+    ],
+    "name:por_x_preferred":[
+        "Tageri"
+    ],
     "name:und_x_variant":[
         "Tegerhi",
         "Tajarh\u012b",
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1226461151,
-    "wof:lastmodified":1537663262,
+    "wof:lastmodified":1564106256,
     "wof:name":"Tajarhi",
     "wof:parent_id":85673589,
     "wof:placetype":"locality",

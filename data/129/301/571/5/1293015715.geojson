@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0645 \u0627\u0644\u0623\u062d\u0631\u0627\u0631"
     ],
+    "name:fra_x_preferred":[
+        "Umm al Ahrar"
+    ],
     "name:und_x_variant":[
         "Umm al A\u1e29r\u0101r"
     ],
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1293015715,
-    "wof:lastmodified":1537663259,
+    "wof:lastmodified":1564106162,
     "wof:name":"Umm al Ahrar",
     "wof:parent_id":85673597,
     "wof:placetype":"locality",

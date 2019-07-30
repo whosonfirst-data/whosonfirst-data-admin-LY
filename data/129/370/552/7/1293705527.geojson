@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u0628\u0637\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0637\u0629"
+    ],
     "name:und_x_variant":[
         "Qaryat Ba\u0163\u0163ah",
         "Ba\u0163\u0163ah"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1293705527,
-    "wof:lastmodified":1537663252,
+    "wof:lastmodified":1564106167,
     "wof:name":"Qaryat Battah",
     "wof:parent_id":85673625,
     "wof:placetype":"locality",

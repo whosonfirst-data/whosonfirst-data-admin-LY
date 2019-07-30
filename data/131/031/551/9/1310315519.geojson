@@ -28,6 +28,24 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u0643\u0646\u0629"
     ],
+    "name:deu_x_preferred":[
+        "Sokna"
+    ],
+    "name:fra_x_preferred":[
+        "Socna"
+    ],
+    "name:ita_x_preferred":[
+        "Socna"
+    ],
+    "name:kab_x_preferred":[
+        "Isuknan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10dd\u10d9\u10dc\u10d0"
+    ],
+    "name:por_x_preferred":[
+        "Socna"
+    ],
     "name:und_x_variant":[
         "Miani",
         "Sawknah",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1310315519,
-    "wof:lastmodified":1537663264,
+    "wof:lastmodified":1564106212,
     "wof:name":"Suknah",
     "wof:parent_id":85673567,
     "wof:placetype":"locality",

@@ -31,10 +31,46 @@
     "name:ara_x_variant":[
         "\u0648\u0627\u0632\u0646"
     ],
+    "name:bel_x_preferred":[
+        "\u0412\u0430\u0437\u0456\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "W\u0101zin"
+    ],
+    "name:dan_x_preferred":[
+        "Wazzin"
+    ],
+    "name:deu_x_preferred":[
+        "Wazin"
+    ],
+    "name:epo_x_preferred":[
+        "Vazin"
+    ],
+    "name:ita_x_preferred":[
+        "Uazzen"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d0\u10d6\u10d8\u10dc\u10d8"
+    ],
+    "name:pol_x_preferred":[
+        "Wazin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0437\u0438\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Wazin"
+    ],
+    "name:swe_x_preferred":[
+        "Wazzin"
+    ],
     "name:und_x_variant":[
         "Uazzen",
         "Wazz\u0101n",
         "W\u0101zin"
+    ],
+    "name:vie_x_preferred":[
+        "Wazzin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +94,7 @@
         }
     ],
     "wof:id":1360100073,
-    "wof:lastmodified":1537663258,
+    "wof:lastmodified":1564106221,
     "wof:name":"Wazin",
     "wof:parent_id":85673563,
     "wof:placetype":"locality",

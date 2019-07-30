@@ -25,6 +25,18 @@
     "iso:country":"LY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0634\u0627\u0634\u0637\u0629"
+    ],
+    "name:deu_x_preferred":[
+        "Masciascita"
+    ],
+    "name:ita_x_preferred":[
+        "Al-Mashashita"
+    ],
+    "name:spa_x_preferred":[
+        "Al Mashashitah"
+    ],
     "name:und_x_variant":[
         "Qab\u012blat al Mash\u0101shi\u0163ah",
         "El-Masci\u00e1sta",
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1343780711,
-    "wof:lastmodified":1537663297,
+    "wof:lastmodified":1564106151,
     "wof:name":"Al Mashashitah",
     "wof:parent_id":85673605,
     "wof:placetype":"locality",

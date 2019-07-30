@@ -25,6 +25,9 @@
     "iso:country":"LY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0633\u0644\u0646\u0637\u0629"
+    ],
     "name:und_x_variant":[
         "Salan\u0163ah",
         "Slon\u0163ah",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1276778785,
-    "wof:lastmodified":1537663247,
+    "wof:lastmodified":1564106186,
     "wof:name":"Suluntah",
     "wof:parent_id":85673627,
     "wof:placetype":"locality",

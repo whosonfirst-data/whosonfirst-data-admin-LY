@@ -25,6 +25,18 @@
     "iso:country":"LY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30ba"
+    ],
+    "name:pol_x_preferred":[
+        "Anzu"
+    ],
+    "name:spa_x_preferred":[
+        "Anzu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u0437\u0443"
+    ],
     "name:und_x_variant":[
         "Enzu",
         "Anz\u016b"
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1193034563,
-    "wof:lastmodified":1537663293,
+    "wof:lastmodified":1564106205,
     "wof:name":"Anzu",
     "wof:parent_id":85673615,
     "wof:placetype":"locality",
