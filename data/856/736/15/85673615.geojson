@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JG"
+    ],
     "lbl:latitude":30.020346,
     "lbl:longitude":12.991866,
     "meso:adm1_en":"Tripolitania",
@@ -216,16 +219,13 @@
         }
     ],
     "wof:id":85673615,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563346884,
+    "wof:lastmodified":1565726918,
     "wof:name":"Mizdah",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

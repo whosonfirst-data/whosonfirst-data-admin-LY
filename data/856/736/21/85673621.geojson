@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TR"
+    ],
     "lbl:latitude":32.767144,
     "lbl:longitude":13.400454,
     "meso:adm1_en":"Tripolitania",
@@ -250,16 +253,13 @@
         }
     ],
     "wof:id":85673621,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561839519,
+    "wof:lastmodified":1565726918,
     "wof:name":"Tajura' wa an Nawahi al Arba",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

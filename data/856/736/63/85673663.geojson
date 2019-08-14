@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DA"
+    ],
     "lbl:latitude":31.908479,
     "lbl:longitude":22.555286,
     "meso:adm1_en":"Cyrenaica",
@@ -251,16 +254,13 @@
         }
     ],
     "wof:id":85673663,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563346883,
+    "wof:lastmodified":1565726918,
     "wof:name":"Al Qubbah",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

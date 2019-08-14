@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JK"
+    ],
     "lbl:latitude":32.420965,
     "lbl:longitude":21.678477,
     "meso:adm1_en":"Cyrenaica",
@@ -290,16 +293,13 @@
         }
     ],
     "wof:id":85673627,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563346878,
+    "wof:lastmodified":1565726917,
     "wof:name":"Al Jabal al Akhdar",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

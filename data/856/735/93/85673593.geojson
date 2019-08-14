@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MS"
+    ],
     "lbl:latitude":31.438813,
     "lbl:longitude":14.337263,
     "meso:adm1_en":"Tripolitania",
@@ -301,16 +304,13 @@
         }
     ],
     "wof:id":85673593,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563346886,
+    "wof:lastmodified":1565726919,
     "wof:name":"Misratah",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

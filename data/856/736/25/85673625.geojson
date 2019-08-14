@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MA"
+    ],
     "lbl:latitude":32.019555,
     "lbl:longitude":21.16777,
     "meso:adm1_en":"Cyrenaica",
@@ -296,16 +299,13 @@
         }
     ],
     "wof:id":85673625,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563346884,
+    "wof:lastmodified":1565726918,
     "wof:name":"Al Marj",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

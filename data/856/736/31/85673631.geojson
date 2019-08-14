@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AW"
+    ],
     "lbl:latitude":29.029576,
     "lbl:longitude":21.091974,
     "meso:adm1_en":"Cyrenaica",
@@ -244,16 +247,13 @@
         }
     ],
     "wof:id":85673631,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561839519,
+    "wof:lastmodified":1565726918,
     "wof:name":"Ajdabiya",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

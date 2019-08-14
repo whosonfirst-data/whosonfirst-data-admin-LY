@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "WS"
+    ],
     "lbl:latitude":27.928393,
     "lbl:longitude":12.030929,
     "meso:adm1_en":"Fezzan",
@@ -291,16 +294,13 @@
         }
     ],
     "wof:id":85673579,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563346889,
+    "wof:lastmodified":1565726919,
     "wof:name":"Ash Shati'",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

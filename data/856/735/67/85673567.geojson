@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JF"
+    ],
     "lbl:latitude":27.963714,
     "lbl:longitude":17.085034,
     "meso:adm1_en":"Fezzan",
@@ -307,16 +310,13 @@
         }
     ],
     "wof:id":85673567,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563346885,
+    "wof:lastmodified":1565726919,
     "wof:name":"Al Jufrah",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

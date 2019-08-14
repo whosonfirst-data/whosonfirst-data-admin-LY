@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NT"
+    ],
     "lbl:latitude":30.015017,
     "lbl:longitude":10.942937,
     "meso:adm1_en":"Tripolitania",
@@ -335,16 +338,13 @@
         }
     ],
     "wof:id":85673563,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563346888,
+    "wof:lastmodified":1565726919,
     "wof:name":"Ghadamis",
     "wof:parent_id":85632627,
     "wof:placetype":"region",
