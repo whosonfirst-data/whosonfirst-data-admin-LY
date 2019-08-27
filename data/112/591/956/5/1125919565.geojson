@@ -9,15 +9,18 @@
     "geom:bbox":"22.24237,32.76162,22.24237,32.76162",
     "geom:latitude":32.76162,
     "geom:longitude":22.24237,
-    "gn:gn_country":"LY",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":24631,
+    "gn:country":"LY",
+    "gn:fcode":"PPL",
     "gn:population":24631,
     "iso:country":"LY",
+    "lbl:bbox":"22.22237,32.74162,22.26237,32.78162",
     "lbl:latitude":32.76162,
     "lbl:longitude":22.24237,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0628\u0629"
@@ -130,9 +133,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u041a\u0443\u0431\u0431\u0430"
     ],
-    "name:unk_x_variant":[
-        "Gubba"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0644 \u0642\u0648\u0628\u0628\u0627\u062d"
     ],
@@ -154,7 +154,7 @@
     "qs_pg:qs_id":61867,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -179,7 +179,7 @@
         }
     ],
     "wof:id":1125919565,
-    "wof:lastmodified":1563346990,
+    "wof:lastmodified":1566599281,
     "wof:name":"Al Qubbah",
     "wof:parent_id":85673663,
     "wof:placetype":"locality",

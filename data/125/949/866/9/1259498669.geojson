@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tripoli",
     "iso:country":"LY",
+    "lbl:bbox":"15.16648,32.35566,15.20648,32.39566",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Qab\u012blat al Mal\u0101yi\u0163ah",
         "Qab\u012blat al Mal\u0101\u2019i\u0163ah"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259498669,
-    "wof:lastmodified":1537663278,
+    "wof:lastmodified":1566599292,
     "wof:name":"Qabilat al Mala'itah",
     "wof:parent_id":85673593,
     "wof:placetype":"locality",

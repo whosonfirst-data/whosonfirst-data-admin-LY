@@ -11,10 +11,14 @@
     "geom:longitude":20.12022,
     "gn:country":"LY",
     "gn:fcode":"PPL",
-    "gn:pop":21015,
+    "gn:population":21015,
     "iso:country":"LY",
+    "lbl:bbox":"20.10022,30.9322,20.14022,30.9722",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0632\u0648\u064a\u062a\u064a\u0646\u0629"
     ],
@@ -39,9 +43,6 @@
     "name:nld_x_preferred":[
         "Zuwetina"
     ],
-    "name:unk_x_variant":[
-        "Zueitina"
-    ],
     "name:zho_x_preferred":[
         "\u7956\u57c3\u63d0\u7d0d"
     ],
@@ -59,7 +60,7 @@
     "wof:concordances":{
         "gn:id":88380,
         "gp:id":12514682,
-        "qs:id":61777,
+        "qs_pg:id":61777,
         "wd:id":"Q3645598"
     },
     "wof:country":"LY",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":890449793,
-    "wof:lastmodified":1561839523,
+    "wof:lastmodified":1566599278,
     "wof:name":"Az Zuwayt\u012bnah",
     "wof:parent_id":85673631,
     "wof:placetype":"locality",

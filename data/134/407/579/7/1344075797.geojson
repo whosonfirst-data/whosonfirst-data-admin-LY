@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tripoli",
     "iso:country":"LY",
+    "lbl:bbox":"20.23659,32.07727,20.27659,32.11727",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Qartah",
         "Kamb al \u2018Ajj\u0101j"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1344075797,
-    "wof:lastmodified":1537663251,
+    "wof:lastmodified":1566599215,
     "wof:name":"Kamb al `Ajjaj",
     "wof:parent_id":85673635,
     "wof:placetype":"locality",

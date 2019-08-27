@@ -10,6 +10,9 @@
     "geom:latitude":30.75545,
     "geom:longitude":20.22626,
     "iso:country":"LY",
+    "lbl:bbox":"20.20626,30.73545,20.24626,30.77545",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -174,7 +177,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0434\u0436\u0434\u0430\u0431\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Adjadabia"
     ],
     "name:urd_x_preferred":[
@@ -313,7 +316,7 @@
     "wof:concordances":{
         "gn:id":89113,
         "gp:id":1352552,
-        "qs:id":188865,
+        "qs_pg:id":188865,
         "wd:id":"Q202991",
         "wk:page":"Ajdabiya"
     },
@@ -329,7 +332,7 @@
         }
     ],
     "wof:id":421199025,
-    "wof:lastmodified":1563346972,
+    "wof:lastmodified":1566599277,
     "wof:name":"\u0623\u062c\u062f\u0627\u0628\u064a\u0627",
     "wof:parent_id":85673631,
     "wof:placetype":"locality",

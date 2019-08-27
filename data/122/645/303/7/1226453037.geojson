@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tripoli",
     "iso:country":"LY",
+    "lbl:bbox":"15.12088,32.32302,15.16088,32.36302",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Qaryat \u2018Ayn az Zay",
         "Qaryat \u2018Ayn az Zayt"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226453037,
-    "wof:lastmodified":1537663270,
+    "wof:lastmodified":1566599295,
     "wof:name":"Qaryat `Ayn az Zayt",
     "wof:parent_id":85673593,
     "wof:placetype":"locality",

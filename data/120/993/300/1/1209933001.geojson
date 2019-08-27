@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tripoli",
     "iso:country":"LY",
+    "lbl:bbox":"12.65639,32.08472,12.69639,32.12472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gugila",
         "Quwayjilah"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209933001,
-    "wof:lastmodified":1537663265,
+    "wof:lastmodified":1566599255,
     "wof:name":"Quwayjilah",
     "wof:parent_id":85673615,
     "wof:placetype":"locality",

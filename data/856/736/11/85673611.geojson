@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":32.450061,
     "lbl:longitude":12.569222,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Tripolitania",
     "meso:adm1_loc":"\u0637\u0631\u0627\u0628\u0644\u0633",
     "meso:name_alt":"Az Zawiyah",
@@ -165,9 +166,6 @@
         "\u0415\u0437-\u0417\u0430\u0432\u0456\u044f"
     ],
     "name:und_x_variant":[
-        "\u0627\u0644\u0632\u0627\u0648\u064a\u0629"
-    ],
-    "name:unk_x_variant":[
         "Az Z\u0101wiyah"
     ],
     "name:urd_x_preferred":[
@@ -254,9 +252,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-04-15",
+    "src:population_date":"2006-04-15",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2006-04-15",
@@ -281,7 +279,7 @@
         "gp:id":2346136,
         "hasc:id":"LY.ZW",
         "iso:id":"LY-ZA",
-        "qs:id":1083842,
+        "qs_pg:id":1083842,
         "unlc:id":"LY-ZA",
         "wd:id":"Q26153",
         "wk:page":"Zawiya District"
@@ -302,11 +300,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565726918,
+    "wof:lastmodified":1566599224,
     "wof:name":"Az Zawiyah",
     "wof:parent_id":85632627,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":290993,
     "wof:population_rank":10,

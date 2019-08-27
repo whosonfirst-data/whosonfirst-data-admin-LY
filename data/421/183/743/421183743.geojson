@@ -10,13 +10,16 @@
     "geom:latitude":32.09571,
     "geom:longitude":20.07025,
     "iso:country":"LY",
+    "lbl:bbox":"20.06525,32.09071,20.07525,32.10071",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0631\u0643\u0629"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Berca"
     ],
     "qs:gn_country":"LY",
@@ -47,7 +50,7 @@
     "wof:concordances":{
         "gn:id":89048,
         "gp:id":1352574,
-        "qs:id":983955
+        "qs_pg:id":983955
     },
     "wof:country":"LY",
     "wof:created":1459009381,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":421183743,
-    "wof:lastmodified":1531858505,
+    "wof:lastmodified":1566599278,
     "wof:name":"Al Birkah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

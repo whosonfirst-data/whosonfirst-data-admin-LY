@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tripoli",
     "iso:country":"LY",
+    "lbl:bbox":"12.63417,32.1175,12.67417,32.1575",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Geh\u00e9sc",
         "El-Geh\u00e9sc",
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260304523,
-    "wof:lastmodified":1537663299,
+    "wof:lastmodified":1566599261,
     "wof:name":"Al Juhaysh",
     "wof:parent_id":85673615,
     "wof:placetype":"locality",

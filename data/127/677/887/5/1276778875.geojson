@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tripoli",
     "iso:country":"LY",
+    "lbl:bbox":"13.08,32.10722,13.12,32.14722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Es-Slah\u00e1t",
         "A\u015f \u015e\u0101li\u1e29\u0101t",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276778875,
-    "wof:lastmodified":1537663291,
+    "wof:lastmodified":1566599248,
     "wof:name":"As Salihat",
     "wof:parent_id":85673615,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":30.13366,
     "geom:longitude":9.50072,
     "iso:country":"LY",
+    "lbl:bbox":"9.48072,30.11366,9.52072,30.15366",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -176,7 +179,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0434\u0430\u043c\u0435\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ghud\u0101mis"
     ],
     "name:urd_x_preferred":[
@@ -315,7 +318,7 @@
     "wof:concordances":{
         "gn:id":2217440,
         "gp:id":1352905,
-        "qs:id":1083573,
+        "qs_pg:id":1083573,
         "wd:id":"Q192237",
         "wk:page":"Ghadames"
     },
@@ -331,7 +334,7 @@
         }
     ],
     "wof:id":421187479,
-    "wof:lastmodified":1563346965,
+    "wof:lastmodified":1566599274,
     "wof:name":"Ghadamis",
     "wof:parent_id":85673563,
     "wof:placetype":"locality",

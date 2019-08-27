@@ -9,15 +9,18 @@
     "geom:bbox":"20.25205,31.66818,20.25205,31.66818",
     "geom:latitude":31.66818,
     "geom:longitude":20.25205,
-    "gn:gn_country":"LY",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":15543,
+    "gn:country":"LY",
+    "gn:fcode":"PPL",
     "gn:population":15543,
     "iso:country":"LY",
+    "lbl:bbox":"20.23205,31.64818,20.27205,31.68818",
     "lbl:latitude":31.66818,
     "lbl:longitude":20.25205,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0633\u0644\u0648\u0642"
@@ -49,7 +52,7 @@
     "name:pol_x_preferred":[
         "Suluk"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Qaryat Sal\u016bq"
     ],
     "qs_pg:aaroncc":"LY",
@@ -64,7 +67,7 @@
     "qs_pg:qs_id":511350,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1125772645,
-    "wof:lastmodified":1563346991,
+    "wof:lastmodified":1566599282,
     "wof:name":"Sul\u016bq",
     "wof:parent_id":85673635,
     "wof:placetype":"locality",

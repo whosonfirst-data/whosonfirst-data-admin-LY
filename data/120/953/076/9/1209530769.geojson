@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tripoli",
     "iso:country":"LY",
+    "lbl:bbox":"15.1498,32.35389,15.1898,32.39389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Qaryat ar Ru\u2019\u016bs",
         "Qaryat ar R\u016b\u015f"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209530769,
-    "wof:lastmodified":1537663271,
+    "wof:lastmodified":1566599249,
     "wof:name":"Qaryat ar Rus",
     "wof:parent_id":85632627,
     "wof:placetype":"locality",

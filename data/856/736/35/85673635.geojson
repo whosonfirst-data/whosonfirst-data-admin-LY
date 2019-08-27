@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":31.688064,
     "lbl:longitude":20.430072,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Cyrenaica",
     "meso:adm1_loc":"\u0628\u0631\u0642\u0629",
     "meso:name_alt":"Banghazi",
@@ -98,9 +99,6 @@
         "\u0411\u0435\u043d\u0433\u0430\u0437\u0456"
     ],
     "name:und_x_variant":[
-        "\u0628\u0646\u063a\u0627\u0632\u064a"
-    ],
-    "name:unk_x_variant":[
         "Baladiyat Bingh\u0101z\u012b"
     ],
     "name:vol_x_preferred":[
@@ -178,9 +176,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-04-15",
+    "src:population_date":"2006-04-15",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2006-04-15",
@@ -205,7 +203,7 @@
         "gp:id":2346137,
         "hasc:id":"LY.BG",
         "iso:id":"LY-BA",
-        "qs:id":1083843,
+        "qs_pg:id":1083843,
         "unlc:id":"LY-BA",
         "wd:id":"Q33507",
         "wk:page":"Benghazi"
@@ -226,11 +224,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565726917,
+    "wof:lastmodified":1566599223,
     "wof:name":"Benghazi",
     "wof:parent_id":85632627,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":670797,
     "wof:population_rank":11,

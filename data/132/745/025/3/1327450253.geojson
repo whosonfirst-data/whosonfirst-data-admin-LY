@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tripoli",
     "iso:country":"LY",
+    "lbl:bbox":"15.11236,32.36568,15.15236,32.40568",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Qaryat Sa\u2018\u016bd",
         "Qaryat Su\u2018\u016bd"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1327450253,
-    "wof:lastmodified":1537663268,
+    "wof:lastmodified":1566599212,
     "wof:name":"Qaryat Su`ud",
     "wof:parent_id":85673593,
     "wof:placetype":"locality",

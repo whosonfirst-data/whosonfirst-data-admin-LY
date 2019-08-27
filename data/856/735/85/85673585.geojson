@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":26.065778,
     "lbl:longitude":10.549649,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Fezzan",
     "meso:adm1_loc":"\u0641\u0632\u0627\u0646",
     "meso:name_alt":"Ghat",
@@ -181,7 +182,7 @@
         "Ghat"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bbe\u0b9f\u0bcd  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0b95\u0bbe\u0b9f\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c18\u0c3e\u0c1f\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -200,12 +201,6 @@
     ],
     "name:ukr_x_variant":[
         "\u0413\u0430\u0442"
-    ],
-    "name:und_x_variant":[
-        "\u063a\u0627\u062a"
-    ],
-    "name:unk_x_variant":[
-        "Sha\u2018b\u012byat Gh\u0101t"
     ],
     "name:urd_x_preferred":[
         "\u063a\u0627\u062a \u0636\u0644\u0639"
@@ -291,9 +286,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-04-15",
+    "src:population_date":"2006-04-15",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2006-04-15",
@@ -319,7 +314,7 @@
         "gp:id":2346135,
         "hasc:id":"LY.GH",
         "iso:id":"LY-GT",
-        "qs:id":560789,
+        "qs_pg:id":560789,
         "unlc:id":"LY-GT",
         "wd:id":"Q48236"
     },
@@ -339,11 +334,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565726919,
+    "wof:lastmodified":1566599228,
     "wof:name":"Ghat",
     "wof:parent_id":85632627,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":23518,
     "wof:population_rank":7,

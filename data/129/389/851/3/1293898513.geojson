@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tripoli",
     "iso:country":"LY",
+    "lbl:bbox":"12.86194,32.01806,12.90194,32.05806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "At \u0162al\u0101yi\u2018\u012byah",
         "A\u0163 \u0162al\u0101\u2019i\u2018\u012byah"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293898513,
-    "wof:lastmodified":1537663290,
+    "wof:lastmodified":1566599238,
     "wof:name":"At Tala'i`iyah",
     "wof:parent_id":85673615,
     "wof:placetype":"locality",

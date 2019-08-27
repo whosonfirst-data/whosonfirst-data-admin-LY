@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8595497.723707,
+    "geom:area_square_m":0.0,
     "geom:bbox":"20.09491,32.132723,20.09491,32.132723",
     "geom:latitude":32.132723,
     "geom:longitude":20.09491,
     "iso:country":"LY",
+    "lbl:bbox":"20.08991,32.127723,20.09991,32.137723",
     "lbl:latitude":32.132723,
     "lbl:longitude":20.09491,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.129582,
     "mps:longitude":20.093224,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
     "name:ara_x_variant":[
         "Dak\u0101kin H\u0327umayd",
         "Ed-Dacachin"
-    ],
-    "name:unk_x_variant":[
-        "Dak\u0101k\u012bn H\u0327am\u012bd"
     ],
     "qs:gn_adm0_cc":"LY",
     "qs:gn_id":0,
@@ -64,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191573,
         85632627,
@@ -89,7 +88,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531935949,
+    "wof:lastmodified":1566599223,
     "wof:name":"Dak\u0101k\u012bn H\u0327am\u012bd",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.289779,32.641543,14.289779,32.641543",
     "geom:latitude":32.641543,
     "geom:longitude":14.289779,
     "iso:country":"LY",
+    "lbl:bbox":"14.269779,32.621543,14.309779,32.661543",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1352629,
-        "qs:id":1115731
+        "qs_pg:id":1115731
     },
     "wof:country":"LY",
     "wof:created":1459009633,
-    "wof:geomhash":"8d73335fc17fe2e47559f13f3a64d88a",
+    "wof:geomhash":"f8af166b42ddd529e644a8f409cd6a5e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421189687,
-    "wof:lastmodified":1466635869,
+    "wof:lastmodified":1566599275,
     "wof:name":"\u0627\u0644\u062e\u0645\u0633",
     "wof:parent_id":85673575,
     "wof:placetype":"locality",

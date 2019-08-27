@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":30.020346,
     "lbl:longitude":12.991866,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Tripolitania",
     "meso:adm1_loc":"\u0637\u0631\u0627\u0628\u0644\u0633",
     "meso:name_alt":"Al Jabal A",
@@ -179,9 +180,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-04-15",
+    "src:population_date":"2006-04-15",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2006-04-15",
@@ -206,7 +207,7 @@
         "gp:id":2346140,
         "hasc:id":"LY.JG",
         "iso:id":"LY-JG",
-        "qs:id":232416,
+        "qs_pg:id":232416,
         "wd:id":"Q2266662"
     },
     "wof:country":"LY",
@@ -225,11 +226,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565726918,
+    "wof:lastmodified":1566599226,
     "wof:name":"Mizdah",
     "wof:parent_id":85632627,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":304159,
     "wof:population_rank":10,

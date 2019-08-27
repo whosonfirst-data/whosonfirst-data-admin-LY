@@ -10,10 +10,14 @@
     "geom:latitude":32.93441,
     "geom:longitude":12.079149,
     "iso:country":"LY",
+    "lbl:bbox":"12.059148721,32.9144096059,12.099148721,32.9544096059",
     "lbl:latitude":32.93441,
     "lbl:longitude":12.079149,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0632\u0648\u0627\u0631\u0629"
     ],
@@ -278,7 +282,7 @@
         }
     ],
     "wof:id":1141909279,
-    "wof:lastmodified":1563347023,
+    "wof:lastmodified":1566599304,
     "wof:name":"Zuwarah",
     "wof:parent_id":85673607,
     "wof:placetype":"locality",

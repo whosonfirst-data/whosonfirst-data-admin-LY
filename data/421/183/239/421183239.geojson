@@ -10,8 +10,12 @@
     "geom:latitude":32.43502,
     "geom:longitude":13.6332,
     "iso:country":"LY",
+    "lbl:bbox":"13.6132,32.41502,13.6532,32.45502",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u0631\u0647\u0648\u0646\u0629"
@@ -139,7 +143,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0440\u0445\u0443\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Qa\u015fr Tarh\u016bnah"
     ],
     "name:urd_x_preferred":[
@@ -183,7 +187,7 @@
     "wof:concordances":{
         "gn:id":2210221,
         "gp:id":1353287,
-        "qs:id":969804,
+        "qs_pg:id":969804,
         "wd:id":"Q1642670",
         "wk:page":"Tarhuna"
     },
@@ -199,7 +203,7 @@
         }
     ],
     "wof:id":421183239,
-    "wof:lastmodified":1563346977,
+    "wof:lastmodified":1566599277,
     "wof:name":"Tarhonah",
     "wof:parent_id":85673575,
     "wof:placetype":"locality",

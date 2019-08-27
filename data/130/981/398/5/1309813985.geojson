@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tripoli",
     "iso:country":"LY",
+    "lbl:bbox":"15.11626,32.36623,15.15626,32.40623",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1309813985,
-    "wof:lastmodified":1536919803,
+    "wof:lastmodified":1566599272,
     "wof:name":"Qaryat Sur al `Ud",
     "wof:parent_id":85673593,
     "wof:placetype":"locality",

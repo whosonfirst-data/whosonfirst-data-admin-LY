@@ -11,8 +11,11 @@
     "geom:longitude":12.98013,
     "gn:country":"LY",
     "gn:fcode":"PPL",
-    "gn:pop":26107,
+    "gn:population":26107,
     "iso:country":"LY",
+    "lbl:bbox":"12.96013,31.42514,13.00013,31.46514",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -66,9 +69,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0437\u0434\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Mizda"
     ],
     "name:vol_x_preferred":[
         "Misd\u00e4"
@@ -180,7 +180,7 @@
     "wof:concordances":{
         "gn:id":2214827,
         "gp:id":1352998,
-        "qs:id":1034355,
+        "qs_pg:id":1034355,
         "wd:id":"Q2266662",
         "wk:page":"Mizda"
     },
@@ -196,7 +196,7 @@
         }
     ],
     "wof:id":890444231,
-    "wof:lastmodified":1563346986,
+    "wof:lastmodified":1566599280,
     "wof:name":"Mizdah",
     "wof:parent_id":85673615,
     "wof:placetype":"locality",

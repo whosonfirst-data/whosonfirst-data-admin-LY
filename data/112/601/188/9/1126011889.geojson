@@ -9,15 +9,18 @@
     "geom:bbox":"12.08199,32.9312,12.08199,32.9312",
     "geom:latitude":32.9312,
     "geom:longitude":12.08199,
-    "gn:gn_country":"LY",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":45000,
+    "gn:country":"LY",
+    "gn:fcode":"PPLA",
     "gn:population":45000,
     "iso:country":"LY",
+    "lbl:bbox":"12.06199,32.9112,12.10199,32.9512",
     "lbl:latitude":32.9312,
     "lbl:longitude":12.08199,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0632\u064f\u0648\u0627\u0631\u0629"
@@ -154,9 +157,6 @@
     "name:ukr_x_preferred":[
         "\u0417\u0443\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "Zu\u00e1ra"
-    ],
     "name:urd_x_preferred":[
         "\u0632\u0648\u0627\u0631\u06c1"
     ],
@@ -184,7 +184,7 @@
     "qs_pg:qs_id":573334,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -209,7 +209,7 @@
         }
     ],
     "wof:id":1126011889,
-    "wof:lastmodified":1563346990,
+    "wof:lastmodified":1566599282,
     "wof:name":"Zuw\u0101rah",
     "wof:parent_id":85673607,
     "wof:placetype":"locality",

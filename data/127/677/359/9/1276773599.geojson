@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tripoli",
     "iso:country":"LY",
+    "lbl:bbox":"12.95,32.10389,12.99,32.14389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bu Aiad",
         "Qaryat Ab\u016b \u2018Ayy\u0101d"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276773599,
-    "wof:lastmodified":1537663273,
+    "wof:lastmodified":1566599248,
     "wof:name":"Qaryat Abu `Ayyad",
     "wof:parent_id":85673615,
     "wof:placetype":"locality",

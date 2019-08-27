@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tripoli",
     "iso:country":"LY",
+    "lbl:bbox":"12.45602,32.73533,12.49602,32.77533",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "S\u016bq al \u2018Ujayl\u0101t",
         "S\u016bq al \u2018Al\u0101lqah",
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226153413,
-    "wof:lastmodified":1537663263,
+    "wof:lastmodified":1566599300,
     "wof:name":"Suq al `Alaliqah",
     "wof:parent_id":85673607,
     "wof:placetype":"locality",

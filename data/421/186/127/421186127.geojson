@@ -10,8 +10,11 @@
     "geom:latitude":32.08456,
     "geom:longitude":20.11564,
     "iso:country":"LY",
+    "lbl:bbox":"20.11064,32.07956,20.12064,32.08956",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0641\u0648\u064a\u0647\u0627\u062a \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
@@ -31,7 +34,7 @@
     "name:nld_x_preferred":[
         "Al-Fuwayhat"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Fueihat"
     ],
     "qs:gn_country":"LY",
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":89027,
         "gp:id":1352586,
-        "qs:id":911440,
+        "qs_pg:id":911440,
         "wd:id":"Q4702407"
     },
     "wof:country":"LY",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421186127,
-    "wof:lastmodified":1563346968,
+    "wof:lastmodified":1566599276,
     "wof:name":"Al Fuwayh\u00e5t",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

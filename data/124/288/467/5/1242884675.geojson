@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tripoli",
     "iso:country":"LY",
+    "lbl:bbox":"10.58,31.01333,10.62,31.05333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gasr el-Fogani",
         "Gasr el-Fug\u00e1ni",
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242884675,
-    "wof:lastmodified":1537663267,
+    "wof:lastmodified":1566599284,
     "wof:name":"Qasr al Fawqani",
     "wof:parent_id":85673563,
     "wof:placetype":"locality",

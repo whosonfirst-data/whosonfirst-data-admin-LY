@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":32.767144,
     "lbl:longitude":13.400454,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Tripolitania",
     "meso:adm1_loc":"\u0637\u0631\u0627\u0628\u0644\u0633",
     "meso:name_alt":"Tripoli",
@@ -131,9 +132,6 @@
         "\u0422\u0440\u0438\u043f\u043e\u043b\u0456"
     ],
     "name:und_x_variant":[
-        "\u0637\u0631\u0627\u0628\u0644\u0633"
-    ],
-    "name:unk_x_variant":[
         "Wil\u0101yat \u0162ar\u0101bulus"
     ],
     "name:urd_x_preferred":[
@@ -214,9 +212,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-04-15",
+    "src:population_date":"2006-04-15",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2006-04-15",
@@ -240,7 +238,7 @@
         "gp:id":2346144,
         "hasc:id":"LY.TR",
         "iso:id":"LY-TB",
-        "qs:id":1115653,
+        "qs_pg:id":1115653,
         "wd:id":"Q32837"
     },
     "wof:country":"LY",
@@ -259,11 +257,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565726918,
+    "wof:lastmodified":1566599224,
     "wof:name":"Tajura' wa an Nawahi al Arba",
     "wof:parent_id":85632627,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":1065405,
     "wof:population_rank":12,

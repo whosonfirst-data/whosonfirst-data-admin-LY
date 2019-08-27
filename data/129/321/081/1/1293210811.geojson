@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tripoli",
     "iso:country":"LY",
+    "lbl:bbox":"23.88283,32.07034,23.92283,32.11034",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u0639\u0627\u0626\u0644\u0629 \u0632\u064a\u062f\u0627\u0646"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1293210811,
-    "wof:lastmodified":1537663249,
+    "wof:lastmodified":1566599240,
     "wof:name":"Qaryat `A'ilat Zaydan",
     "wof:parent_id":85673665,
     "wof:placetype":"locality",

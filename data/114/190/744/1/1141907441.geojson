@@ -10,10 +10,14 @@
     "geom:latitude":31.770398,
     "geom:longitude":13.989988,
     "iso:country":"LY",
+    "lbl:bbox":"13.9699881578,31.7503979686,14.0099881578,31.7903979686",
     "lbl:latitude":31.770398,
     "lbl:longitude":13.989988,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Bani Walid"
     ],
@@ -278,7 +282,7 @@
         }
     ],
     "wof:id":1141907441,
-    "wof:lastmodified":1561839524,
+    "wof:lastmodified":1566599303,
     "wof:name":"Bani Walid",
     "wof:parent_id":85673593,
     "wof:placetype":"locality",

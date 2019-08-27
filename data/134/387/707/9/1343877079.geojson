@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tripoli",
     "iso:country":"LY",
+    "lbl:bbox":"12.89472,32.7225,12.93472,32.7625",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Man\u0163aqat al \u1e28ashsh\u0101n",
         "Min\u0163aqat al \u1e28ashsh\u0101n"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343877079,
-    "wof:lastmodified":1537663279,
+    "wof:lastmodified":1566599221,
     "wof:name":"Mintaqat al Hashshan",
     "wof:parent_id":85673605,
     "wof:placetype":"locality",

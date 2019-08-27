@@ -10,8 +10,11 @@
     "geom:latitude":32.08507,
     "geom:longitude":20.06248,
     "iso:country":"LY",
+    "lbl:bbox":"20.05748,32.08007,20.06748,32.09007",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062f\u0627\u0631 \u0627\u0644\u0643\u064a\u0634"
@@ -20,7 +23,7 @@
         "Al K\u012bsh",
         "\u0627\u0644\u0643\u064a\u0634"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dar el-K\u00ecsh"
     ],
     "qs:gn_country":"LY",
@@ -51,7 +54,7 @@
     "wof:concordances":{
         "gn:id":87218,
         "gp:id":1352878,
-        "qs:id":1168022
+        "qs_pg:id":1168022
     },
     "wof:country":"LY",
     "wof:created":1459009734,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":421192375,
-    "wof:lastmodified":1531858683,
+    "wof:lastmodified":1566599273,
     "wof:name":"D\u0101r al K\u012bsh",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

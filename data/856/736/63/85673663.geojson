@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":31.908479,
     "lbl:longitude":22.555286,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Cyrenaica",
     "meso:adm1_loc":"\u0628\u0631\u0642\u0629",
     "meso:name_alt":"Darnah",
@@ -128,9 +129,6 @@
     "name:und_x_variant":[
         "\u062f\u0631\u0646\u0647"
     ],
-    "name:unk_x_variant":[
-        "Darnah"
-    ],
     "name:urd_x_preferred":[
         "\u062f\u0631\u0646\u06c1 \u0636\u0644\u0639"
     ],
@@ -212,9 +210,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-04-15",
+    "src:population_date":"2006-04-15",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2006-04-15",
@@ -239,7 +237,7 @@
         "gp:id":2346138,
         "hasc:id":"LY.DA",
         "iso:id":"LY-DR",
-        "qs:id":1083844,
+        "qs_pg:id":1083844,
         "unlc:id":"LY-DR",
         "wd:id":"Q26124",
         "wk:page":"Derna District"
@@ -260,11 +258,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565726918,
+    "wof:lastmodified":1566599226,
     "wof:name":"Al Qubbah",
     "wof:parent_id":85632627,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":163351,
     "wof:population_rank":9,

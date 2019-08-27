@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tripoli",
     "iso:country":"LY",
+    "lbl:bbox":"15.00735,27.48877,15.04735,27.52877",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0645 \u0627\u0644\u0623\u062d\u0631\u0627\u0631"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293015715,
-    "wof:lastmodified":1564106162,
+    "wof:lastmodified":1566599231,
     "wof:name":"Umm al Ahrar",
     "wof:parent_id":85673597,
     "wof:placetype":"locality",

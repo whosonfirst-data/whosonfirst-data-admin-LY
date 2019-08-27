@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":27.963714,
     "lbl:longitude":17.085034,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Fezzan",
     "meso:adm1_loc":"\u0641\u0632\u0627\u0646",
     "meso:name_alt":"Al Jufrah",
@@ -179,9 +180,6 @@
         "\u0415\u043b\u044c-\u0414\u0436\u0443\u0444\u0440\u0430"
     ],
     "name:und_x_variant":[
-        "\u0627\u0644\u062c\u0641\u0631\u0629"
-    ],
-    "name:unk_x_variant":[
         "Sha\u2018b\u012byat al Jafrah"
     ],
     "name:urd_x_preferred":[
@@ -268,9 +266,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-04-15",
+    "src:population_date":"2006-04-15",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2006-04-15",
@@ -295,7 +293,7 @@
         "gp:id":2346122,
         "hasc:id":"LY.JF",
         "iso:id":"LY-JU",
-        "qs:id":894919,
+        "qs_pg:id":894919,
         "unlc:id":"LY-JU",
         "wd:id":"Q48247",
         "wk:page":"Jufra District"
@@ -316,11 +314,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565726919,
+    "wof:lastmodified":1566599226,
     "wof:name":"Al Jufrah",
     "wof:parent_id":85632627,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":52342,
     "wof:population_rank":8,
