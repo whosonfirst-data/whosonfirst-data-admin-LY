@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tripoli",
     "iso:country":"LY",
+    "lbl:bbox":"11.54151,31.86933,11.58151,31.90933",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Umm \u015eaf\u0101r",
         "Umm Soff\u00e1r",
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343676943,
-    "wof:lastmodified":1537663258,
+    "wof:lastmodified":1566599218,
     "wof:name":"Umm Saffar",
     "wof:parent_id":85673563,
     "wof:placetype":"locality",

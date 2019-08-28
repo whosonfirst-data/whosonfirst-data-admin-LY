@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tripoli",
     "iso:country":"LY",
+    "lbl:bbox":"13.23361,32.54111,13.27361,32.58111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mud\u012br\u012byat S\u012bd\u012b as S\u0101\u2019i\u1e29",
         "S\u012bd\u012b as S\u0101\u2019i\u1e29"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1260295345,
-    "wof:lastmodified":1537663264,
+    "wof:lastmodified":1566599262,
     "wof:name":"Sidi as Sa'ih",
     "wof:parent_id":85673605,
     "wof:placetype":"locality",

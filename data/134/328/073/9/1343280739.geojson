@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tripoli",
     "iso:country":"LY",
+    "lbl:bbox":"14.15392,32.64826,14.19392,32.68826",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "S\u012bl\u012bn",
         "Qab\u012blat S\u012bl\u012bn"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343280739,
-    "wof:lastmodified":1537663274,
+    "wof:lastmodified":1566599222,
     "wof:name":"Qabilat Silin",
     "wof:parent_id":85673575,
     "wof:placetype":"locality",

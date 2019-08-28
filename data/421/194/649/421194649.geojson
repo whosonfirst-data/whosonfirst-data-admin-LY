@@ -10,8 +10,12 @@
     "geom:latitude":32.80459,
     "geom:longitude":12.480468,
     "iso:country":"LY",
+    "lbl:bbox":"12.460468,32.78459,12.500468,32.82459",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Sabratha"
@@ -232,7 +236,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1353220,
-        "qs:id":891465,
+        "qs_pg:id":891465,
         "wd:id":"Q192918"
     },
     "wof:country":"LY",
@@ -247,7 +251,7 @@
         }
     ],
     "wof:id":421194649,
-    "wof:lastmodified":1563346961,
+    "wof:lastmodified":1566599273,
     "wof:name":"Sabratha",
     "wof:parent_id":85673607,
     "wof:placetype":"locality",

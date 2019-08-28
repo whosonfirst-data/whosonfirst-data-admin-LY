@@ -10,8 +10,12 @@
     "geom:latitude":26.59206,
     "geom:longitude":12.78049,
     "iso:country":"LY",
+    "lbl:bbox":"12.76049,26.57206,12.80049,26.61206",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0623\u0648\u0628\u0627\u0631\u064a"
@@ -154,9 +158,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0443\u0431\u0430\u0440\u0456"
     ],
-    "name:unk_x_variant":[
-        "Awb\u0101r\u012b"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u0628\u0627\u0631\u06cc"
     ],
@@ -204,7 +205,7 @@
     "wof:concordances":{
         "gn:id":2219235,
         "gp:id":1352760,
-        "qs:id":1220904,
+        "qs_pg:id":1220904,
         "wd:id":"Q1424460",
         "wk:page":"Ubari"
     },
@@ -220,7 +221,7 @@
         }
     ],
     "wof:id":421199607,
-    "wof:lastmodified":1563346974,
+    "wof:lastmodified":1566599277,
     "wof:name":"Awbari",
     "wof:parent_id":85673669,
     "wof:placetype":"locality",

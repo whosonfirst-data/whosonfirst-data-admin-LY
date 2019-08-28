@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tripoli",
     "iso:country":"LY",
+    "lbl:bbox":"19.96517,31.89319,20.00517,31.93319",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hosc U\u00e1red",
         "\u1e28awsh W\u0101rid"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326845359,
-    "wof:lastmodified":1537663282,
+    "wof:lastmodified":1566599208,
     "wof:name":"Hawsh Warid",
     "wof:parent_id":85673635,
     "wof:placetype":"locality",

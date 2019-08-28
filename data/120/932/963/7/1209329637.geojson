@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tripoli",
     "iso:country":"LY",
+    "lbl:bbox":"12.66194,32.05056,12.70194,32.09056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ul\u00e0d I\u00fasef",
         "Awl\u0101d Y\u016bsuf"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209329637,
-    "wof:lastmodified":1537663288,
+    "wof:lastmodified":1566599255,
     "wof:name":"Awlad Yusuf",
     "wof:parent_id":85632627,
     "wof:placetype":"locality",

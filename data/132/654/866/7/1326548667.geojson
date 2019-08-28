@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tripoli",
     "iso:country":"LY",
+    "lbl:bbox":"13.73,26.64667,13.77,26.68667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gasr Berruru",
         "Qa\u015fr Barr\u016br\u016b"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326548667,
-    "wof:lastmodified":1537663267,
+    "wof:lastmodified":1566599210,
     "wof:name":"Qasr Barruru",
     "wof:parent_id":85673669,
     "wof:placetype":"locality",

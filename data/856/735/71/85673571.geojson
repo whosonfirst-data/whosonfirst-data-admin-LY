@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":23.755923,
     "lbl:longitude":22.112177,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Cyrenaica",
     "meso:adm1_loc":"\u0628\u0631\u0642\u0629",
     "meso:name_alt":"Al Kufrah",
@@ -184,9 +185,6 @@
         "\u0415\u043b\u044c-\u041a\u0443\u0444\u0440\u0430"
     ],
     "name:und_x_variant":[
-        "\u0627\u0644\u0643\u0641\u0631\u0629"
-    ],
-    "name:unk_x_variant":[
         "Sha\u2018b\u012byat al Kafrah"
     ],
     "name:urd_x_preferred":[
@@ -276,9 +274,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-04-15",
+    "src:population_date":"2006-04-15",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2006-04-15",
@@ -303,7 +301,7 @@
         "gp:id":2346123,
         "hasc:id":"LY.KU",
         "iso:id":"LY-KF",
-        "qs:id":894920,
+        "qs_pg:id":894920,
         "unlc:id":"LY-KF",
         "wd:id":"Q48200",
         "wk:page":"Kufra District"
@@ -324,11 +322,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565726919,
+    "wof:lastmodified":1566599228,
     "wof:name":"Al Kufrah",
     "wof:parent_id":85632627,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":50104,
     "wof:population_rank":8,

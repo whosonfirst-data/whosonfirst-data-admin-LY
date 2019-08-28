@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tripoli",
     "iso:country":"LY",
+    "lbl:bbox":"19.18098,30.23711,19.22098,30.27711",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0642\u064a\u0644\u0629"
     ],
@@ -74,11 +78,9 @@
         "\u0415\u043b\u044c-\u0410\u0433\u0435\u0439\u043b\u0430"
     ],
     "name:und_x_variant":[
-        "El Agheila",
         "Anabucis",
         "Agh\u00e9ila",
-        "Al \u2018Uqaylah",
-        "\u0627\u0644\u0639\u0642\u064a\u0644\u0629"
+        "Al \u2018Uqaylah"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":1243569635,
-    "wof:lastmodified":1564106237,
+    "wof:lastmodified":1566599287,
     "wof:name":"Al `Uqaylah",
     "wof:parent_id":85673631,
     "wof:placetype":"locality",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7878140.558433,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.18698,32.869118,13.18698,32.869118",
     "geom:latitude":32.869118,
     "geom:longitude":13.18698,
     "gn:latitude":32.86917,
     "gn:longitude":13.18278,
     "iso:country":"LY",
+    "lbl:bbox":"13.18198,32.864118,13.19198,32.874118",
     "lbl:latitude":32.869118,
     "lbl:longitude":13.18698,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.86106,
     "mps:longitude":13.191535,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Qaryat al Baladiyah"
     ],
     "name:ara_x_preferred":[
-        "Qaryat al Balad\u012byah"
-    ],
-    "name:unk_x_variant":[
         "Qaryat al Balad\u012byah"
     ],
     "qs:gn_adm0_cc":"LY",
@@ -61,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191573,
         85632627,
@@ -71,7 +70,6 @@
     "wof:concordances":{
         "gn:id":2213948,
         "gp:id":1353089,
-        "qs:id":478913,
         "qs_pg:id":478913
     },
     "wof:country":"LY",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531935950,
+    "wof:lastmodified":1566599222,
     "wof:name":"Qaryat al Balad\u012byah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

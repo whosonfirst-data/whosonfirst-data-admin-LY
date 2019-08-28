@@ -9,15 +9,18 @@
     "geom:bbox":"19.57386,30.40624,19.57386,30.40624",
     "geom:latitude":30.40624,
     "geom:longitude":19.57386,
-    "gn:gn_country":"LY",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":13780,
+    "gn:country":"LY",
+    "gn:fcode":"PPL",
     "gn:population":13780,
     "iso:country":"LY",
+    "lbl:bbox":"19.55386,30.38624,19.59386,30.42624",
     "lbl:latitude":30.40624,
     "lbl:longitude":19.57386,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Brega"
@@ -127,7 +130,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0435\u0433\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Marsa el Brega"
     ],
     "name:vie_x_preferred":[
@@ -148,7 +151,7 @@
     "qs_pg:qs_id":138987,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":1125869009,
-    "wof:lastmodified":1563346987,
+    "wof:lastmodified":1566599281,
     "wof:name":"Al Burayqah",
     "wof:parent_id":85673631,
     "wof:placetype":"locality",

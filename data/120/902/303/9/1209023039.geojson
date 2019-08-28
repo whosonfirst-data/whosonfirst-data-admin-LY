@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tripoli",
     "iso:country":"LY",
+    "lbl:bbox":"15.16333,31.98,15.20333,32.02",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632627
@@ -34,7 +38,7 @@
         "gn:id":2214233
     },
     "wof:country":"LY",
-    "wof:geomhash":"14b03aa462bcc393a04b789ba11db38f",
+    "wof:geomhash":"25ab690b83348c390f41ec0f125a3a96",
     "wof:hierarchy":[
         {
             "country_id":85632627,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209023039,
-    "wof:lastmodified":1536300086,
+    "wof:lastmodified":1566599255,
     "wof:name":"Qabilat Awlad Hamid",
     "wof:parent_id":85632627,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.183329999999998,
+    15.18333,
     32.0,
-    15.183329999999998,
+    15.18333,
     32.0
 ],
   "geometry": {"coordinates":[15.18333,32.0],"type":"Point"}

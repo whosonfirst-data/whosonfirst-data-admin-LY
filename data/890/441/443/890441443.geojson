@@ -11,8 +11,11 @@
     "geom:longitude":20.83174,
     "gn:country":"LY",
     "gn:fcode":"PPLA",
-    "gn:pop":85315,
+    "gn:population":85315,
     "iso:country":"LY",
+    "lbl:bbox":"20.81174,32.46798,20.85174,32.50798",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -163,9 +166,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u041c\u0430\u0440\u0434\u0436"
     ],
-    "name:unk_x_variant":[
-        "El Merj"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0631\u062c"
     ],
@@ -288,7 +288,7 @@
     "wof:concordances":{
         "gn:id":88903,
         "gp:id":1352652,
-        "qs:id":61930,
+        "qs_pg:id":61930,
         "wd:id":"Q427646",
         "wk:page":"Marj"
     },
@@ -304,7 +304,7 @@
         }
     ],
     "wof:id":890441443,
-    "wof:lastmodified":1563346982,
+    "wof:lastmodified":1566599279,
     "wof:name":"Al Marj",
     "wof:parent_id":85673625,
     "wof:placetype":"locality",

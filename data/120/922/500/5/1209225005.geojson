@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tripoli",
     "iso:country":"LY",
+    "lbl:bbox":"12.99,32.21278,13.03,32.25278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "B\u00e8ni Iechlef",
         "Ban\u012b Yakhif",
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209225005,
-    "wof:lastmodified":1537663285,
+    "wof:lastmodified":1566599254,
     "wof:name":"Bani Yakhlaf",
     "wof:parent_id":85632627,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tripoli",
     "iso:country":"LY",
+    "lbl:bbox":"22.25845,32.14005,22.29845,32.18005",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u062e\u064a\u0644\u0649"
     ],
@@ -40,7 +44,6 @@
     "name:und_x_variant":[
         "Al Mak\u012bl\u012b",
         "Z\u0101wiyat al Makh\u012bl",
-        "Mechili",
         "El-Mech\u00ecli",
         "Z\u0101wiyat al Mukhayl\u00e1",
         "Mukhayl\u00e1",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1226762731,
-    "wof:lastmodified":1564106255,
+    "wof:lastmodified":1566599300,
     "wof:name":"Mukhayla",
     "wof:parent_id":85673663,
     "wof:placetype":"locality",

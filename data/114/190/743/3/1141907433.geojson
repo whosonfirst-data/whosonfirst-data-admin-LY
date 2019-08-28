@@ -10,10 +10,14 @@
     "geom:latitude":28.550414,
     "geom:longitude":17.583361,
     "iso:country":"LY",
+    "lbl:bbox":"17.5633605537,28.5304136342,17.6033605537,28.5704136342",
     "lbl:latitude":28.550414,
     "lbl:longitude":17.583361,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Zillah"
     ],
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":1141907433,
-    "wof:lastmodified":1564106260,
+    "wof:lastmodified":1566599304,
     "wof:name":"Zillah",
     "wof:parent_id":85673567,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"14.26191,32.64861,14.26191,32.64861",
     "geom:latitude":32.64861,
     "geom:longitude":14.26191,
-    "gn:gn_country":"LY",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":201943,
+    "gn:country":"LY",
+    "gn:fcode":"PPLA",
     "gn:population":201943,
     "iso:country":"LY",
+    "lbl:bbox":"14.24191,32.62861,14.28191,32.66861",
     "lbl:latitude":32.64861,
     "lbl:longitude":14.26191,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u062e\u064f\u0645\u0633"
@@ -181,7 +184,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u043e\u043c\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Labdah"
     ],
     "name:urd_x_preferred":[
@@ -214,7 +217,7 @@
     "qs_pg:qs_id":1034376,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -239,7 +242,7 @@
         }
     ],
     "wof:id":1125881497,
-    "wof:lastmodified":1563346988,
+    "wof:lastmodified":1566599281,
     "wof:name":"Al Khums",
     "wof:parent_id":85673575,
     "wof:placetype":"locality",

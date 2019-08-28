@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tripoli",
     "iso:country":"LY",
+    "lbl:bbox":"20.28933,32.32751,20.32933,32.36751",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Z\u00e1uiet Driana",
         "Man\u0163igat Dary\u0101nah",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1209730601,
-    "wof:lastmodified":1537663252,
+    "wof:lastmodified":1566599256,
     "wof:name":"Daryanah",
     "wof:parent_id":85673635,
     "wof:placetype":"locality",

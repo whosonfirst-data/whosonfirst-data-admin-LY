@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tripoli",
     "iso:country":"LY",
+    "lbl:bbox":"19.99697,31.6376,20.03697,31.6776",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0645\u064a\u0646\u0633"
     ],
@@ -43,8 +47,7 @@
     "name:und_x_variant":[
         "Caminus",
         "Ghemines",
-        "Qam\u012bnis",
-        "\u0642\u0645\u064a\u0646\u0633"
+        "Qam\u012bnis"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1193147597,
-    "wof:lastmodified":1564106204,
+    "wof:lastmodified":1566599259,
     "wof:name":"Qaminis",
     "wof:parent_id":85673635,
     "wof:placetype":"locality",

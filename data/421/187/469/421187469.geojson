@@ -10,8 +10,11 @@
     "geom:latitude":32.85,
     "geom:longitude":13.16667,
     "iso:country":"LY",
+    "lbl:bbox":"13.16167,32.845,13.17167,32.855",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Abu Salim"
@@ -22,7 +25,7 @@
     "name:por_x_preferred":[
         "Abu Salim"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u016bsl\u012bm"
     ],
     "qs:gn_country":"LY",
@@ -53,7 +56,7 @@
     "wof:concordances":{
         "gn:id":2220399,
         "gp:id":1352537,
-        "qs:id":1083565,
+        "qs_pg:id":1083565,
         "wd:id":"Q4670344",
         "wk:page":"Abu Salim (Tripoli district)"
     },
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":421187469,
-    "wof:lastmodified":1561839522,
+    "wof:lastmodified":1566599274,
     "wof:name":"Ab\u016b Sal\u012bm",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tripoli",
     "iso:country":"LY",
+    "lbl:bbox":"12.50278,32.05278,12.54278,32.09278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sceg\u00e1rna",
         "Esc Sciagarna",
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310223803,
-    "wof:lastmodified":1537663292,
+    "wof:lastmodified":1566599265,
     "wof:name":"Ash Shaqarinah",
     "wof:parent_id":85673615,
     "wof:placetype":"locality",

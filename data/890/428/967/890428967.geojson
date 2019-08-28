@@ -11,10 +11,14 @@
     "geom:longitude":13.0175,
     "gn:country":"LY",
     "gn:fcode":"PPLA",
-    "gn:pop":4000,
+    "gn:population":4000,
     "iso:country":"LY",
+    "lbl:bbox":"12.9975,32.51194,13.0375,32.55194",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u064e\u0632\u064a\u0632\u064a\u0629"
     ],
@@ -126,9 +130,6 @@
     "name:tur_x_preferred":[
         "El Aziziye"
     ],
-    "name:unk_x_variant":[
-        "El Azizia"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u0639\u0632\u064a\u0632\u06cc\u06c1\u060c \u0644\u06cc\u0628\u06cc\u0627"
     ],
@@ -164,7 +165,7 @@
     "wof:concordances":{
         "gn:id":2220139,
         "gp:id":1352564,
-        "qs:id":91140,
+        "qs_pg:id":91140,
         "wd:id":"Q312307"
     },
     "wof:country":"LY",
@@ -179,7 +180,7 @@
         }
     ],
     "wof:id":890428967,
-    "wof:lastmodified":1563346983,
+    "wof:lastmodified":1566599279,
     "wof:name":"Al \u2018Az\u012bz\u012byah",
     "wof:parent_id":85673605,
     "wof:placetype":"locality",

@@ -11,8 +11,11 @@
     "geom:longitude":10.9812,
     "gn:country":"LY",
     "gn:fcode":"PPLA",
-    "gn:pop":26256,
+    "gn:population":26256,
     "iso:country":"LY",
+    "lbl:bbox":"10.9612,31.84848,11.0012,31.88848",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -88,7 +91,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u043b\u0443\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lal\u00fat"
     ],
     "name:urd_x_preferred":[
@@ -206,7 +209,7 @@
     "wof:concordances":{
         "gn:id":2214433,
         "gp:id":1353004,
-        "qs:id":1034352,
+        "qs_pg:id":1034352,
         "wd:id":"Q132409"
     },
     "wof:country":"LY",
@@ -221,7 +224,7 @@
         }
     ],
     "wof:id":890444227,
-    "wof:lastmodified":1561839523,
+    "wof:lastmodified":1566599280,
     "wof:name":"N\u0101l\u016bt",
     "wof:parent_id":85673563,
     "wof:placetype":"locality",

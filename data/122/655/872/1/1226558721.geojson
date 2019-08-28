@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tripoli",
     "iso:country":"LY",
+    "lbl:bbox":"13.04667,26.51333,13.08667,26.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0631\u0645\u0629"
     ],
@@ -71,7 +75,6 @@
         "Germa"
     ],
     "name:und_x_variant":[
-        "Germa",
         "Jarmah"
     ],
     "src:geom":"geonames",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1226558721,
-    "wof:lastmodified":1564106256,
+    "wof:lastmodified":1566599301,
     "wof:name":"Jarmah",
     "wof:parent_id":85673669,
     "wof:placetype":"locality",

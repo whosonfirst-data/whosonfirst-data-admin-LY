@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tripoli",
     "iso:country":"LY",
+    "lbl:bbox":"12.28433,31.97477,12.32433,32.01477",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Al \u2018Uqaybah",
         "Baldat \u2018Uqaybah",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293400399,
-    "wof:lastmodified":1537663286,
+    "wof:lastmodified":1566599235,
     "wof:name":"Baldat al `Uqaybah",
     "wof:parent_id":85673615,
     "wof:placetype":"locality",

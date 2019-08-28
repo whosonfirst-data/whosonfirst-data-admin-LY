@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tripoli",
     "iso:country":"LY",
+    "lbl:bbox":"19.95597,31.92581,19.99597,31.96581",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u0623\u0628\u0648 \u0641\u062e\u064a\u0631\u0629"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209625651,
-    "wof:lastmodified":1537663269,
+    "wof:lastmodified":1566599250,
     "wof:name":"Qaryat Abu Fakhirah",
     "wof:parent_id":85632627,
     "wof:placetype":"locality",

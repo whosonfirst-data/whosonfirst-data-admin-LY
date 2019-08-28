@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tripoli",
     "iso:country":"LY",
+    "lbl:bbox":"10.64532,31.922,10.68532,31.962",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "W\u0101zin"
     ],
@@ -65,9 +69,7 @@
         "Wazzin"
     ],
     "name:und_x_variant":[
-        "Uazzen",
-        "Wazz\u0101n",
-        "W\u0101zin"
+        "Wazz\u0101n"
     ],
     "name:vie_x_preferred":[
         "Wazzin"
@@ -94,7 +96,7 @@
         }
     ],
     "wof:id":1360100073,
-    "wof:lastmodified":1564106221,
+    "wof:lastmodified":1566599270,
     "wof:name":"Wazin",
     "wof:parent_id":85673563,
     "wof:placetype":"locality",

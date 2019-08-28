@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tripoli",
     "iso:country":"LY",
+    "lbl:bbox":"14.03,31.76333,14.07,31.80333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Faga",
         "El F\u00f3gha",
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1360100175,
-    "wof:lastmodified":1537663301,
+    "wof:lastmodified":1566599270,
     "wof:name":"Al Fuqaha'",
     "wof:parent_id":85673593,
     "wof:placetype":"locality",

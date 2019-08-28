@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":29.029576,
     "lbl:longitude":21.091974,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Cyrenaica",
     "meso:adm1_loc":"\u0628\u0631\u0642\u0629",
     "meso:name_alt":"Al Wahat",
@@ -121,9 +122,6 @@
         "\u0415\u043b\u044c-\u0412\u0430\u0445\u0430\u0442"
     ],
     "name:und_x_variant":[
-        "\u0627\u0644\u0648\u0627\u062d\u0627\u062a"
-    ],
-    "name:unk_x_variant":[
         "Sha\u2018b\u012byat al W\u0101\u1e29\u0101t"
     ],
     "name:urd_x_preferred":[
@@ -207,9 +205,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-04-15",
+    "src:population_date":"2006-04-15",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2006-04-15",
@@ -234,7 +232,7 @@
         "gp:id":2346130,
         "hasc:id":"LY.AW",
         "iso:id":"LY-WA",
-        "qs:id":1135141,
+        "qs_pg:id":1135141,
         "wd:id":"Q26000"
     },
     "wof:country":"LY",
@@ -253,11 +251,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565726918,
+    "wof:lastmodified":1566599225,
     "wof:name":"Ajdabiya",
     "wof:parent_id":85632627,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":177047,
     "wof:population_rank":9,

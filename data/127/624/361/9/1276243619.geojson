@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tripoli",
     "iso:country":"LY",
+    "lbl:bbox":"15.07088,32.36249,15.11088,32.40249",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Qaryat R\u0101\u2019s at T\u016bmah",
         "Qaryat Ra\u2019s ath Th\u016bmah"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276243619,
-    "wof:lastmodified":1537663268,
+    "wof:lastmodified":1566599247,
     "wof:name":"Qaryat Ra's ath Thumah",
     "wof:parent_id":85673593,
     "wof:placetype":"locality",

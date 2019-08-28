@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tripoli",
     "iso:country":"LY",
+    "lbl:bbox":"12.04667,30.66333,12.08667,30.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1326545143,
-    "wof:lastmodified":1536965084,
+    "wof:lastmodified":1566599211,
     "wof:name":"Al Mallahah al Bahriyah",
     "wof:parent_id":85673615,
     "wof:placetype":"locality",

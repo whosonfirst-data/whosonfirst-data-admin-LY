@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":27.251899,
     "lbl:longitude":15.195782,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Fezzan",
     "meso:adm1_loc":"\u0641\u0632\u0627\u0646",
     "meso:name_alt":"Sabha",
@@ -147,7 +148,7 @@
         "Sabha"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0baa\u0bbe  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0b9a\u0baa\u0bbe \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c3e\u0c2d\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -162,9 +163,6 @@
         "\u0421\u0430\u0431\u0445\u0430"
     ],
     "name:und_x_variant":[
-        "\u0633\u0628\u0647\u0627"
-    ],
-    "name:unk_x_variant":[
         "Sabh\u0101"
     ],
     "name:urd_x_preferred":[
@@ -251,9 +249,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-04-15",
+    "src:population_date":"2006-04-15",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2006-04-15",
@@ -278,7 +276,7 @@
         "gp:id":2346126,
         "hasc:id":"LY.SA",
         "iso:id":"LY-SB",
-        "qs:id":235607,
+        "qs_pg:id":235607,
         "unlc:id":"LY-SB",
         "wd:id":"Q26132",
         "wk:page":"Sabha District"
@@ -299,11 +297,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565726919,
+    "wof:lastmodified":1566599227,
     "wof:name":"Sabha",
     "wof:parent_id":85632627,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":212694,
     "wof:population_rank":10,

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tripoli",
     "iso:country":"LY",
+    "lbl:bbox":"21.65651,32.60978,21.69651,32.64978",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u0639\u0645\u0631 \u0627\u0644\u0645\u062e\u062a\u0627\u0631"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327040473,
-    "wof:lastmodified":1537663248,
+    "wof:lastmodified":1566599208,
     "wof:name":"Qaryat `Umar al Mukhtar",
     "wof:parent_id":85673627,
     "wof:placetype":"locality",

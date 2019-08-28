@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4371245.266681,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.166016,32.862515,13.166016,32.862515",
     "geom:latitude":32.862515,
     "geom:longitude":13.166016,
     "gn:latitude":32.8766,
     "gn:longitude":13.18158,
     "iso:country":"LY",
+    "lbl:bbox":"13.161016,32.857515,13.171016,32.867515",
     "lbl:latitude":32.862515,
     "lbl:longitude":13.166016,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.859935,
     "mps:longitude":13.164765,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
         "Bab \u2018Akkarah"
     ],
     "name:ara_x_preferred":[
-        "B\u0101b \u2018Akk\u0101rah"
-    ],
-    "name:unk_x_variant":[
         "B\u0101b \u2018Akk\u0101rah"
     ],
     "qs:gn_adm0_cc":"LY",
@@ -62,7 +61,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191573,
         85632627,
@@ -72,7 +71,6 @@
     "wof:concordances":{
         "gn:id":2218949,
         "gp:id":1352815,
-        "qs:id":235447,
         "qs_pg:id":235447
     },
     "wof:country":"LY",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531935946,
+    "wof:lastmodified":1566599223,
     "wof:name":"B\u0101b \u2018Akk\u0101rah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
