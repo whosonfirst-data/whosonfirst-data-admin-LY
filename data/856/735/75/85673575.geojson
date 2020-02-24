@@ -155,6 +155,9 @@
         "unlc:id":"LY-MB"
     },
     "wof:country":"LY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"314cacc6d6221678651f9645c5d650ba",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566599227,
+    "wof:lastmodified":1582313814,
     "wof:name":"Al Marqab",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

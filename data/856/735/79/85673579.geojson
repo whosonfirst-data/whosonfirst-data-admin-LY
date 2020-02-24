@@ -284,6 +284,9 @@
         "wd:id":"Q48232"
     },
     "wof:country":"LY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c8ec97786c1e36e6cc43511a11a3b03b",
     "wof:hierarchy":[
         {
@@ -299,7 +302,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566599228,
+    "wof:lastmodified":1582313814,
     "wof:name":"Ash Shati'",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

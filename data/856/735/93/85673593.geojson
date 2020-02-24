@@ -294,6 +294,9 @@
         "wk:page":"Misrata District"
     },
     "wof:country":"LY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"213ced166c8966809aab0142a94f1a96",
     "wof:hierarchy":[
         {
@@ -309,7 +312,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566599226,
+    "wof:lastmodified":1582313814,
     "wof:name":"Misratah",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

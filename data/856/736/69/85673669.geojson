@@ -282,6 +282,9 @@
         "wd:id":"Q48233"
     },
     "wof:country":"LY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"69dfbf88abadbba906ef728c87189423",
     "wof:hierarchy":[
         {
@@ -297,7 +300,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566599223,
+    "wof:lastmodified":1582313813,
     "wof:name":"Wadi al Hayaa",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

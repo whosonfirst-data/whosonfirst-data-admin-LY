@@ -74,6 +74,9 @@
         "gp:id":1352876
     },
     "wof:country":"LY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e695dddb4c00c6759d9f8519cede95f6",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566599223,
+    "wof:lastmodified":1582313813,
     "wof:name":"Dak\u0101k\u012bn H\u0327am\u012bd",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

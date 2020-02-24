@@ -307,6 +307,9 @@
         "wk:page":"Kufra District"
     },
     "wof:country":"LY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8618302da8e9f0e8378c4d4b2e44b56a",
     "wof:hierarchy":[
         {
@@ -322,7 +325,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566599228,
+    "wof:lastmodified":1582313814,
     "wof:name":"Al Kufrah",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

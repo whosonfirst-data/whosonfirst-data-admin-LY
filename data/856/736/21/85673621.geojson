@@ -242,6 +242,9 @@
         "wd:id":"Q32837"
     },
     "wof:country":"LY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8c3dd25e721f8b1cc640566e5b9275e0",
     "wof:hierarchy":[
         {
@@ -257,7 +260,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566599224,
+    "wof:lastmodified":1582313813,
     "wof:name":"Tajura' wa an Nawahi al Arba",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

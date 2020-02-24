@@ -243,6 +243,9 @@
         "wk:page":"Derna District"
     },
     "wof:country":"LY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"895b36755cfb5a34f7771029fe0dc12e",
     "wof:hierarchy":[
         {
@@ -258,7 +261,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566599226,
+    "wof:lastmodified":1582313814,
     "wof:name":"Al Qubbah",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

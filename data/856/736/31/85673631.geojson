@@ -236,6 +236,9 @@
         "wd:id":"Q26000"
     },
     "wof:country":"LY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"619addb631a2f5cbf6047747232e4ff4",
     "wof:hierarchy":[
         {
@@ -251,7 +254,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566599225,
+    "wof:lastmodified":1582313813,
     "wof:name":"Ajdabiya",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

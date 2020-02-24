@@ -305,6 +305,9 @@
         "wk:page":"Nuqat al Khams"
     },
     "wof:country":"LY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"49467745280da0ffd18893ecf0931d91",
     "wof:hierarchy":[
         {
@@ -320,7 +323,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566599225,
+    "wof:lastmodified":1582313813,
     "wof:name":"An Nuqat al Khams",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

@@ -209,6 +209,9 @@
         "wk:page":"Benghazi"
     },
     "wof:country":"LY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"66f6a9d89a25dcf2666ccf9378f1c0fe",
     "wof:hierarchy":[
         {
@@ -224,7 +227,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566599223,
+    "wof:lastmodified":1582313813,
     "wof:name":"Benghazi",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

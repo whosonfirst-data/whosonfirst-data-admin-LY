@@ -1006,8 +1006,9 @@
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "meso",
         "naturalearth",
-        "meso"
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -1062,6 +1063,11 @@
     },
     "wof:country":"LY",
     "wof:country_alpha3":"LBY",
+    "wof:geom_alt":[
+        "meso",
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth"
+    ],
     "wof:geomhash":"1a9ce0de6f2496d064df5c141583dbff",
     "wof:hierarchy":[
         {
@@ -1076,7 +1082,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566599228,
+    "wof:lastmodified":1582313815,
     "wof:name":"Libya",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

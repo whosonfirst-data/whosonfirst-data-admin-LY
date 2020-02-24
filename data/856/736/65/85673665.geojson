@@ -294,6 +294,9 @@
         "wd:id":"Q25931"
     },
     "wof:country":"LY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5a05188079a45bb368a90847f50f80ec",
     "wof:hierarchy":[
         {
@@ -309,7 +312,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566599225,
+    "wof:lastmodified":1582313813,
     "wof:name":"Al Butnan",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

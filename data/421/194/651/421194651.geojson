@@ -465,6 +465,9 @@
     },
     "wof:country":"LY",
     "wof:created":1459009815,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2f2de762428d61743ab9c5bb18537f60",
     "wof:hierarchy":[
         {
@@ -475,7 +478,7 @@
         }
     ],
     "wof:id":421194651,
-    "wof:lastmodified":1566599273,
+    "wof:lastmodified":1582313816,
     "wof:name":"Tripoli",
     "wof:parent_id":85673621,
     "wof:placetype":"locality",

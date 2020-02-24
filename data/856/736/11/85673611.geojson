@@ -285,6 +285,9 @@
         "wk:page":"Zawiya District"
     },
     "wof:country":"LY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0d0c39294482040c97f5cb8238fb910a",
     "wof:hierarchy":[
         {
@@ -300,7 +303,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566599224,
+    "wof:lastmodified":1582313813,
     "wof:name":"Az Zawiyah",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

@@ -324,6 +324,9 @@
     },
     "wof:country":"LY",
     "wof:created":1459009514,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"558e2dc259d8c4cab473fdf6284b927b",
     "wof:hierarchy":[
         {
@@ -334,7 +337,7 @@
         }
     ],
     "wof:id":421187479,
-    "wof:lastmodified":1566599274,
+    "wof:lastmodified":1582313816,
     "wof:name":"Ghadamis",
     "wof:parent_id":85673563,
     "wof:placetype":"locality",
