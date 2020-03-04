@@ -240,6 +240,9 @@
         "wk:page":"Sirte District"
     },
     "wof:country":"LY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3ca38b11163a06e952256a132a1b8968",
     "wof:hierarchy":[
         {
@@ -255,7 +258,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566599223,
+    "wof:lastmodified":1582313813,
     "wof:name":"Surt",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

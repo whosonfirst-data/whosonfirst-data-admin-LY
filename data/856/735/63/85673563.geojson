@@ -327,6 +327,9 @@
         "wd:id":"Q192237"
     },
     "wof:country":"LY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"eae3f540b51d11e7b18eff52d41cfc8d",
     "wof:hierarchy":[
         {
@@ -342,7 +345,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566599228,
+    "wof:lastmodified":1582313814,
     "wof:name":"Ghadamis",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

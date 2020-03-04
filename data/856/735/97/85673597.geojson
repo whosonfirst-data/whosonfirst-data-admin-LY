@@ -282,6 +282,9 @@
         "wk:page":"Sabha District"
     },
     "wof:country":"LY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b8dc90fc2017150f9b0fcb2a05f10410",
     "wof:hierarchy":[
         {
@@ -297,7 +300,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566599227,
+    "wof:lastmodified":1582313814,
     "wof:name":"Sabha",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

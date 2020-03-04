@@ -282,6 +282,9 @@
         "wk:page":"Jabal al Akhdar"
     },
     "wof:country":"LY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0cd289e2e9caa10a078eeeb5ccce9f70",
     "wof:hierarchy":[
         {
@@ -297,7 +300,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566599224,
+    "wof:lastmodified":1582313813,
     "wof:name":"Al Jabal al Akhdar",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

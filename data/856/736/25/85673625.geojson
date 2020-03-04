@@ -288,6 +288,9 @@
         "wd:id":"Q26023"
     },
     "wof:country":"LY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3953819ce454b901e9ef81d2d10f4933",
     "wof:hierarchy":[
         {
@@ -303,7 +306,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566599226,
+    "wof:lastmodified":1582313814,
     "wof:name":"Al Marj",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

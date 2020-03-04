@@ -148,6 +148,10 @@
         "wk:page":"Bab al-Azizia"
     },
     "wof:country":"LY",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"31b22598c2dd5049ef3ef5f3968092aa",
     "wof:hierarchy":[
         {
@@ -162,7 +166,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566599222,
+    "wof:lastmodified":1582313812,
     "wof:name":"B\u0101b al \u2018Az\u012bz\u012byah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

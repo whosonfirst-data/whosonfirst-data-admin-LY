@@ -81,6 +81,10 @@
         "qs_pg:id":892305
     },
     "wof:country":"LY",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1644b991f4ec6b4e0a1ce552c8736ddd",
     "wof:hierarchy":[
         {
@@ -95,7 +99,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566599222,
+    "wof:lastmodified":1582313812,
     "wof:name":"B\u00e5b Qarq\u00e5rish",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

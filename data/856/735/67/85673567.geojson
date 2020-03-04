@@ -299,6 +299,9 @@
         "wk:page":"Jufra District"
     },
     "wof:country":"LY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ab0e73b5c0631960a62813086cd5f7a4",
     "wof:hierarchy":[
         {
@@ -314,7 +317,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566599226,
+    "wof:lastmodified":1582313814,
     "wof:name":"Al Jufrah",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

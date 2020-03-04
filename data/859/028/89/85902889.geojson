@@ -81,6 +81,10 @@
         "wd:id":"Q16002330"
     },
     "wof:country":"LY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"cae7f9f4a69a77edbe6a120dc63e5feb",
     "wof:hierarchy":[
         {
@@ -95,7 +99,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566599222,
+    "wof:lastmodified":1582313812,
     "wof:name":"Al \u2018Ur\u016bbah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -149,6 +149,9 @@
         "unlc:id":"LY-JI"
     },
     "wof:country":"LY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"854ad262100086e576ddf29258997e9f",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566599224,
+    "wof:lastmodified":1582313813,
     "wof:name":"Al Jifarah",
     "wof:parent_id":85632627,
     "wof:placetype":"region",
