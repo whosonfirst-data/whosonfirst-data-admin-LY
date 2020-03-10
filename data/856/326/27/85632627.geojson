@@ -1038,9 +1038,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Libya",
-        "digitalenvoy:country_code":[
-            434
-        ],
+        "digitalenvoy:country_code":434,
         "fb:id":"en.libya",
         "fifa:id":"LBY",
         "fips:code":"LY",
@@ -1084,7 +1082,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583529175,
+    "wof:lastmodified":1583797382,
     "wof:name":"Libya",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
