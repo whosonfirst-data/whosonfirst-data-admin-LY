@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":147.10162,
-    "geom:area_square_m":1617750967354.119385,
+    "geom:area_square_m":1617750968002.500732,
     "geom:bbox":"9.391466,19.5,25.149371,33.166111",
     "geom:latitude":27.044044,
     "geom:longitude":18.029402,
@@ -65,6 +65,9 @@
     "name:arg_x_preferred":[
         "Libia"
     ],
+    "name:ary_x_preferred":[
+        "\u0644\u064a\u0628\u064a\u0627"
+    ],
     "name:arz_x_preferred":[
         "\u0644\u064a\u0628\u064a\u0627"
     ],
@@ -88,6 +91,9 @@
     ],
     "name:bam_x_variant":[
         "Libi"
+    ],
+    "name:ban_x_preferred":[
+        "Libya"
     ],
     "name:bar_x_preferred":[
         "Libyen"
@@ -212,6 +218,12 @@
     "name:ell_x_variant":[
         "\u039b\u03b9\u03b2\u03c5\u03ba\u03ae \u0391\u03c1\u03b1\u03b2\u03b9\u03ba\u03ae \u03a4\u03b6\u03b1\u03bc\u03b1\u03c7\u03b9\u03c1\u03af\u03b1"
     ],
+    "name:eng_ca_x_preferred":[
+        "Libya"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Libya"
+    ],
     "name:eng_x_historical":[
         "Great Socialist People\u2019s Libyan Arab Jamahiriya"
     ],
@@ -285,6 +297,9 @@
     ],
     "name:gag_x_preferred":[
         "Liviya"
+    ],
+    "name:gcr_x_preferred":[
+        "Libi"
     ],
     "name:gla_x_preferred":[
         "Libia"
@@ -360,6 +375,9 @@
     ],
     "name:hye_x_preferred":[
         "\u053c\u056b\u0562\u056b\u0561"
+    ],
+    "name:hyw_x_preferred":[
+        "\u053c\u056b\u057a\u056b\u0561"
     ],
     "name:ibo_x_preferred":[
         "Libya"
@@ -545,6 +563,9 @@
     "name:mon_x_preferred":[
         "\u041b\u0438\u0432\u0438"
     ],
+    "name:mri_x_preferred":[
+        "R\u012bpia"
+    ],
     "name:mrj_x_preferred":[
         "\u041b\u0438\u0432\u0438"
     ],
@@ -608,6 +629,9 @@
     "name:nov_x_preferred":[
         "Libia"
     ],
+    "name:nqo_x_preferred":[
+        "\u07df\u07cc\u07d3\u07cc\u07eb"
+    ],
     "name:nso_x_preferred":[
         "Libya"
     ],
@@ -661,6 +685,9 @@
     ],
     "name:pol_x_variant":[
         "Libijska"
+    ],
+    "name:por_br_x_preferred":[
+        "L\u00edbia"
     ],
     "name:por_x_preferred":[
         "L\u00edbia"
@@ -772,6 +799,12 @@
     "name:srd_x_preferred":[
         "L\u00ecbia"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u041b\u0438\u0431\u0438\u0458\u0430"
+    ],
+    "name:srp_el_x_preferred":[
+        "Libija"
+    ],
     "name:srp_x_preferred":[
         "\u041b\u0438\u0431\u0438\u0458\u0430"
     ],
@@ -792,6 +825,9 @@
     ],
     "name:szl_x_preferred":[
         "Libijo"
+    ],
+    "name:szy_x_preferred":[
+        "Libya"
     ],
     "name:tam_x_preferred":[
         "\u0bb2\u0bbf\u0baa\u0bbf\u0baf\u0bbe"
@@ -913,8 +949,17 @@
     "name:zha_x_preferred":[
         "Libya"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u5229\u6bd4\u4e9a"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u5229\u6bd4\u4e9e"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Libya"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5229\u6bd4\u4e9e"
     ],
     "name:zho_x_preferred":[
         "\u5229\u6bd4\u4e9a"
@@ -1082,7 +1127,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583797382,
+    "wof:lastmodified":1587428370,
     "wof:name":"Libya",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

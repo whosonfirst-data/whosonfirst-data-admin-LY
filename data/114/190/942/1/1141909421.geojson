@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"13.1800117581,32.8925000194,13.1800117581,32.8925000194",
+    "geom:bbox":"13.180012,32.8925,13.180012,32.8925",
     "geom:latitude":32.8925,
     "geom:longitude":13.180012,
     "gn:country":"LY",
@@ -104,6 +104,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03c1\u03af\u03c0\u03bf\u03bb\u03b7"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Tripoli"
     ],
     "name:eng_x_preferred":[
         "Tripoli"
@@ -273,6 +276,9 @@
     "name:mon_x_preferred":[
         "\u0422\u0440\u0438\u043f\u043e\u043b\u0438"
     ],
+    "name:mri_x_preferred":[
+        "Tiripor\u012b"
+    ],
     "name:mrj_x_preferred":[
         "\u0422\u0440\u0438\u043f\u043e\u043b\u0438"
     ],
@@ -284,6 +290,9 @@
     ],
     "name:nan_x_preferred":[
         "Tripoli"
+    ],
+    "name:nds_x_preferred":[
+        "Tripolis"
     ],
     "name:nld_x_preferred":[
         "Tripoli"
@@ -462,6 +471,12 @@
     "name:yue_x_preferred":[
         "\u7684\u9ece\u6ce2\u91cc"
     ],
+    "name:zho_hk_x_preferred":[
+        "\u7684\u9ece\u6ce2\u91cc"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7684\u9ece\u6ce2\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u7684\u9ece\u6ce2\u91cc"
     ],
@@ -586,7 +601,7 @@
     },
     "wof:country":"LY",
     "wof:created":1499131077,
-    "wof:geomhash":"f6843cc908bf9214a29f11494d1cae74",
+    "wof:geomhash":"f8f8c8c432b3dc0e125d7de28ef920df",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -596,7 +611,7 @@
         }
     ],
     "wof:id":1141909421,
-    "wof:lastmodified":1566599304,
+    "wof:lastmodified":1587428371,
     "wof:name":"Tripoli",
     "wof:parent_id":85673621,
     "wof:placetype":"locality",
@@ -610,10 +625,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.18001175807819,
-    32.89250001935369,
-    13.18001175807819,
-    32.89250001935369
+    13.180012,
+    32.8925,
+    13.180012,
+    32.8925
 ],
-  "geometry": {"coordinates":[13.18001175807819,32.89250001935369],"type":"Point"}
+  "geometry": {"coordinates":[13.180012,32.8925],"type":"Point"}
 }
