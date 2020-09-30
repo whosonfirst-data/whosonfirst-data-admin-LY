@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"12.0845315,32.9355505,12.0845315,32.9355505",
+    "geom:bbox":"12.084532,32.93555,12.084532,32.93555",
     "geom:latitude":32.93555,
     "geom:longitude":12.084532,
     "iso:country":"LY",
@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0632\u0648\u0627\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Zuwara"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -48,7 +54,7 @@
     },
     "wof:country":"LY",
     "wof:created":1459009362,
-    "wof:geomhash":"62724fa78bec224c60a0ac9928a565f1",
+    "wof:geomhash":"87886b27297d188677e37d1a750aa9fb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -58,8 +64,8 @@
         }
     ],
     "wof:id":421183237,
-    "wof:lastmodified":1566599278,
-    "wof:name":"\u0632\u0648\u0627\u0631\u0629",
+    "wof:lastmodified":1601423094,
+    "wof:name":"Zuwara",
     "wof:parent_id":85673607,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ly",
@@ -68,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    12.0845315,
-    32.9355505,
-    12.0845315,
-    32.9355505
+    12.084532,
+    32.93555,
+    12.084532,
+    32.93555
 ],
-  "geometry": {"coordinates":[12.0845315,32.9355505],"type":"Point"}
+  "geometry": {"coordinates":[12.084532,32.93555],"type":"Point"}
 }
