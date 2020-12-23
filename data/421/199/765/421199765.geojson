@@ -417,6 +417,7 @@
     "wof:concordances":{
         "gn:id":88319,
         "gp:id":1352831,
+        "ne:id":1159150953,
         "qs_pg:id":492812,
         "wd:id":"Q40816"
     },
@@ -432,7 +433,8 @@
         }
     ],
     "wof:id":421199765,
-    "wof:lastmodified":1587428371,
+    "wof:lastmodified":1608688178,
+    "wof:megacity":1,
     "wof:name":"\u0628\u0646\u063a\u0627\u0632\u064a",
     "wof:parent_id":85673635,
     "wof:placetype":"locality",
