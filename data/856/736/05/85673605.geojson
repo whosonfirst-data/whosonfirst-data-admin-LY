@@ -44,6 +44,9 @@
     "name:eng_x_preferred":[
         "Al Jifarah"
     ],
+    "name:fra_x_preferred":[
+        "Al Djfara"
+    ],
     "name:und_x_variant":[
         "Sha\u2018b\u012byat al Jaf\u0101rah"
     ],
@@ -168,7 +171,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1614895039,
+    "wof:lastmodified":1627522350,
     "wof:name":"Al Jifarah",
     "wof:parent_id":85632627,
     "wof:placetype":"region",
