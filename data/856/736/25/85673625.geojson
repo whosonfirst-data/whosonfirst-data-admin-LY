@@ -86,6 +86,9 @@
         "\u092e\u093e\u0930\u091c \u091c\u093f\u0932\u093e"
     ],
     "name:hun_x_preferred":[
+        "Al Marj"
+    ],
+    "name:hun_x_variant":[
         "Mardzs tartom\u00e1ny"
     ],
     "name:ind_x_preferred":[
@@ -306,7 +309,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1614895039,
+    "wof:lastmodified":1636494815,
     "wof:name":"Al Marj",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"21.6200133857,32.7604150584,21.6200133857,32.7604150584",
+    "geom:bbox":"21.620013,32.760415,21.620013,32.760415",
     "geom:latitude":32.760415,
     "geom:longitude":21.620013,
     "iso:country":"LY",
@@ -250,6 +250,9 @@
         "\u0e2d\u0e31\u0e25\u0e44\u0e1a\u0e22\u0e4c\u0e14\u0e32"
     ],
     "name:tur_x_preferred":[
+        "Al Bayda"
+    ],
+    "name:tur_x_variant":[
         "El Bayda"
     ],
     "name:ukr_x_preferred":[
@@ -392,7 +395,7 @@
     },
     "wof:country":"LY",
     "wof:created":1499130727,
-    "wof:geomhash":"a2ef5b57a050af4e23164f3f319e56fa",
+    "wof:geomhash":"9548309a814722ff015a1652b0983897",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -402,7 +405,7 @@
         }
     ],
     "wof:id":1141907443,
-    "wof:lastmodified":1566599303,
+    "wof:lastmodified":1636494819,
     "wof:name":"Al Bayda",
     "wof:parent_id":85673627,
     "wof:placetype":"locality",
@@ -412,10 +415,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.62001338571616,
-    32.76041505841567,
-    21.62001338571616,
-    32.76041505841567
+    21.620013,
+    32.760415,
+    21.620013,
+    32.760415
 ],
-  "geometry": {"coordinates":[21.62001338571616,32.76041505841567],"type":"Point"}
+  "geometry": {"coordinates":[21.620013,32.760415],"type":"Point"}
 }

@@ -131,10 +131,22 @@
         "\u062f\u0631\u0646\u0647"
     ],
     "name:urd_x_preferred":[
+        "\u0627\u0644 \u0642\u0628\u06c1"
+    ],
+    "name:urd_x_variant":[
         "\u062f\u0631\u0646\u06c1 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Al Qubbah"
     ],
     "name:vol_x_preferred":[
         "D\u00e4rni\u00e4n"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u62f1\u5317"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u963f\u723e\u5eab\u5df4"
     ],
     "name:zho_x_preferred":[
         "\u5fb7\u723e\u7d0d\u7701"
@@ -262,7 +274,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1614895039,
+    "wof:lastmodified":1636494814,
     "wof:name":"Al Qubbah",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

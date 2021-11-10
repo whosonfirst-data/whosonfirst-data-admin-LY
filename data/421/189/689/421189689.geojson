@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Ghat"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d0\u05d8"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":421189689,
-    "wof:lastmodified":1601423089,
+    "wof:lastmodified":1636494817,
     "wof:name":"Ghat",
     "wof:parent_id":85673585,
     "wof:placetype":"locality",

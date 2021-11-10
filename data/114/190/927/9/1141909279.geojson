@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"12.079148721,32.9344096059,12.079148721,32.9344096059",
+    "geom:bbox":"12.079149,32.93441,12.079149,32.93441",
     "geom:latitude":32.93441,
     "geom:longitude":12.079149,
     "iso:country":"LY",
@@ -65,6 +65,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0ac1\u0ab5\u0abe\u0ab0\u0abe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05d5\u05d5\u05d0\u05e8\u05d0\u05d7"
     ],
     "name:hin_x_preferred":[
         "\u091c\u093c\u0941\u0935\u093e\u0930\u093e"
@@ -272,7 +275,7 @@
     },
     "wof:country":"LY",
     "wof:created":1499131058,
-    "wof:geomhash":"d87525ee446b71989a9ca51f7c4a09e7",
+    "wof:geomhash":"ddb8f22002b3cd845d7fbc11fe213810",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -282,7 +285,7 @@
         }
     ],
     "wof:id":1141909279,
-    "wof:lastmodified":1566599304,
+    "wof:lastmodified":1636494820,
     "wof:name":"Zuwarah",
     "wof:parent_id":85673607,
     "wof:placetype":"locality",
@@ -292,10 +295,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    12.0791487209645,
-    32.93440960594234,
-    12.0791487209645,
-    32.93440960594234
+    12.079149,
+    32.93441,
+    12.079149,
+    32.93441
 ],
-  "geometry": {"coordinates":[12.0791487209645,32.93440960594234],"type":"Point"}
+  "geometry": {"coordinates":[12.079149,32.93441],"type":"Point"}
 }

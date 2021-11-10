@@ -49,6 +49,9 @@
     "name:fra_x_preferred":[
         "Al Mourqoub"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc \u05de\u05e8\u05e7\u05d1"
+    ],
     "name:swe_x_preferred":[
         "Al Marqab"
     ],
@@ -176,7 +179,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627522350,
+    "wof:lastmodified":1636494815,
     "wof:name":"Al Marqab",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

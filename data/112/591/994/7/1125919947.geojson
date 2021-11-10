@@ -31,6 +31,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u043b\u044c-\u0414\u0436\u0430\u0444"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b2 \u099c\u09be\u0993\u09ab"
+    ],
     "name:cat_x_preferred":[
         "Al Jawf"
     ],
@@ -60,6 +63,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0905\u0932 \u091c\u094c\u092b\u093c"
+    ],
+    "name:hun_x_preferred":[
+        "Al Jawf"
     ],
     "name:ind_x_preferred":[
         "Al Jawf"
@@ -107,6 +113,9 @@
         "\u0415\u043b \u040f\u0430\u0444"
     ],
     "name:swe_x_preferred":[
+        "Al Jawf"
+    ],
+    "name:tur_x_preferred":[
         "Al Jawf"
     ],
     "name:ukr_x_preferred":[
@@ -170,7 +179,7 @@
         }
     ],
     "wof:id":1125919947,
-    "wof:lastmodified":1566599281,
+    "wof:lastmodified":1636494818,
     "wof:name":"Al Jawf",
     "wof:parent_id":85673571,
     "wof:placetype":"locality",

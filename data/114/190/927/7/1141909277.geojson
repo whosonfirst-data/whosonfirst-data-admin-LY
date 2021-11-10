@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"15.8000068753,26.3666451202,15.8000068753,26.3666451202",
+    "geom:bbox":"15.800007,26.366645,15.800007,26.366645",
     "geom:latitude":26.366645,
     "geom:longitude":15.800007,
     "iso:country":"LY",
@@ -21,17 +21,71 @@
     "name:ara_x_preferred":[
         "\u062a\u0645\u0633\u0629"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09b8\u09be\u09b9"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03bc\u03b1\u03c3\u03ac\u03c7"
+    ],
     "name:eng_x_preferred":[
         "Tmassa"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0645\u0633\u0627"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d9\u05de\u05e1\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u0938\u093e\u0939"
+    ],
+    "name:hun_x_preferred":[
+        "Tmassah"
+    ],
+    "name:ind_x_preferred":[
+        "Tmassah"
+    ],
+    "name:ita_x_preferred":[
+        "Tmassah"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30de\u30b5"
+    ],
+    "name:kor_x_preferred":[
+        "\ud2b8\ub9c8\uc0ac"
+    ],
     "name:nld_x_preferred":[
         "Tmassa"
+    ],
+    "name:pol_x_preferred":[
+        "Tmassah"
     ],
     "name:por_x_preferred":[
         "Tmassah"
     ],
     "name:spa_x_preferred":[
         "Tmassah"
+    ],
+    "name:swe_x_preferred":[
+        "Tmassah"
+    ],
+    "name:tur_x_preferred":[
+        "Tmassah"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043c\u0430\u0441\u0441\u0430\u0445"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0633\u0627\u062d"
+    ],
+    "name:vie_x_preferred":[
+        "Tmassah"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u9a6c\u8428"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7279\u99ac\u85a9"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Libya",
@@ -140,7 +194,7 @@
     },
     "wof:country":"LY",
     "wof:created":1499131058,
-    "wof:geomhash":"be7c4d7e1d07b31be252fa4904f90eb9",
+    "wof:geomhash":"813aeb49421bc977618e39b7f316729d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -150,7 +204,7 @@
         }
     ],
     "wof:id":1141909277,
-    "wof:lastmodified":1566599304,
+    "wof:lastmodified":1636494821,
     "wof:name":"Tmassah",
     "wof:parent_id":85673589,
     "wof:placetype":"locality",
@@ -160,10 +214,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.80000687527621,
-    26.36664512023907,
-    15.80000687527621,
-    26.36664512023907
+    15.800007,
+    26.366645,
+    15.800007,
+    26.366645
 ],
-  "geometry": {"coordinates":[15.80000687527621,26.36664512023907],"type":"Point"}
+  "geometry": {"coordinates":[15.800007,26.366645],"type":"Point"}
 }

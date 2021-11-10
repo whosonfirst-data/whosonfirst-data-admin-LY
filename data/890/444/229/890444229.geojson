@@ -67,6 +67,9 @@
     "name:fra_x_preferred":[
         "Mourzouq"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e1\u05e7\u05d8"
+    ],
     "name:ita_x_preferred":[
         "Murzuch"
     ],
@@ -258,7 +261,7 @@
         }
     ],
     "wof:id":890444229,
-    "wof:lastmodified":1566599280,
+    "wof:lastmodified":1636494818,
     "wof:name":"Murzuq",
     "wof:parent_id":85673589,
     "wof:placetype":"locality",

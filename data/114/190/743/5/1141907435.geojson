@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"14.2599975165,32.6604211619,14.2599975165,32.6604211619",
+    "geom:bbox":"14.259998,32.660421,14.259998,32.660421",
     "geom:latitude":32.660421,
     "geom:longitude":14.259998,
     "iso:country":"LY",
@@ -53,6 +53,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05dc-\u05d7'\u05d5\u05de\u05e1"
+    ],
+    "name:hun_x_preferred":[
+        "Al Khums"
     ],
     "name:ind_x_preferred":[
         "Al Khums"
@@ -222,7 +225,7 @@
     "wof:concordances":{},
     "wof:country":"LY",
     "wof:created":1499130725,
-    "wof:geomhash":"f41d268a093d6248aed620ae09b67b4d",
+    "wof:geomhash":"0ca26fba1179bc1978b4a02f2db396fb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -232,7 +235,7 @@
         }
     ],
     "wof:id":1141907435,
-    "wof:lastmodified":1566599304,
+    "wof:lastmodified":1636494820,
     "wof:name":"Al Khums",
     "wof:parent_id":85673575,
     "wof:placetype":"locality",
@@ -242,10 +245,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.25999751654609,
-    32.66042116193097,
-    14.25999751654609,
-    32.66042116193097
+    14.259998,
+    32.660421,
+    14.259998,
+    32.660421
 ],
-  "geometry": {"coordinates":[14.25999751654609,32.66042116193097],"type":"Point"}
+  "geometry": {"coordinates":[14.259998,32.660421],"type":"Point"}
 }
