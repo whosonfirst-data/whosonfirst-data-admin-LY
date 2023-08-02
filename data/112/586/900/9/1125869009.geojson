@@ -31,6 +31,12 @@
     "name:ara_x_variant":[
         "\u0645\u0631\u0633\u0649 \u0627\u0644\u0628\u0631\u064a\u0642\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0631\u0633\u0649 \u0627\u0644\u0628\u0631\u064a\u0642\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Brega"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0631\u06cc\u0642\u0647"
     ],
@@ -139,6 +145,9 @@
     "name:zho_x_preferred":[
         "\u5e03\u96f7\u52a0"
     ],
+    "name:zul_x_preferred":[
+        "Brega"
+    ],
     "qs_pg:aaroncc":"LY",
     "qs_pg:gn_country":"LY",
     "qs_pg:gn_fcode":"PPL",
@@ -176,7 +185,7 @@
         }
     ],
     "wof:id":1125869009,
-    "wof:lastmodified":1566599281,
+    "wof:lastmodified":1690938890,
     "wof:name":"Al Burayqah",
     "wof:parent_id":85673631,
     "wof:placetype":"locality",

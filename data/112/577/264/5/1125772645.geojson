@@ -25,8 +25,17 @@
     "name:ara_x_preferred":[
         "\u0633\u0644\u0648\u0642"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0644\u0648\u0642"
+    ],
+    "name:ast_x_preferred":[
+        "Suluq"
+    ],
     "name:azb_x_preferred":[
         "\u0633\u0644\u0648\u0642"
+    ],
+    "name:ceb_x_preferred":[
+        "Sul\u016bq"
     ],
     "name:eng_x_preferred":[
         "Suluq"
@@ -52,8 +61,17 @@
     "name:pol_x_preferred":[
         "Suluk"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u043b\u0443\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Sul\u016bq"
+    ],
     "name:und_x_variant":[
         "Qaryat Sal\u016bq"
+    ],
+    "name:zul_x_preferred":[
+        "Suluq"
     ],
     "qs_pg:aaroncc":"LY",
     "qs_pg:gn_country":"LY",
@@ -92,7 +110,7 @@
         }
     ],
     "wof:id":1125772645,
-    "wof:lastmodified":1566599282,
+    "wof:lastmodified":1690938892,
     "wof:name":"Sul\u016bq",
     "wof:parent_id":85673635,
     "wof:placetype":"locality",

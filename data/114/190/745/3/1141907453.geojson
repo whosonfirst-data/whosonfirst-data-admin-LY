@@ -21,6 +21,12 @@
     "name:ara_x_preferred":[
         "\u0642\u0645\u064a\u0646\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0642\u0645\u064a\u0646\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Qaminis"
+    ],
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0633"
     ],
@@ -75,6 +81,9 @@
     "name:por_x_preferred":[
         "Qaminis"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u0438\u043d\u0438\u0441"
+    ],
     "name:spa_x_preferred":[
         "Qaminis"
     ],
@@ -98,6 +107,9 @@
     ],
     "name:zho_tw_x_preferred":[
         "\u5361\u7c73\u5c3c\u65af"
+    ],
+    "name:zul_x_preferred":[
+        "Qaminis"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Libya",
@@ -216,7 +228,7 @@
         }
     ],
     "wof:id":1141907453,
-    "wof:lastmodified":1636494821,
+    "wof:lastmodified":1690938895,
     "wof:name":"Qaminis",
     "wof:parent_id":85673635,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:arz_x_preferred":[
         "\u0628\u0646\u063a\u0627\u0632\u0649"
     ],
+    "name:ast_x_preferred":[
+        "Bengasi"
+    ],
     "name:aze_x_preferred":[
         "Benqazi"
     ],
@@ -137,6 +140,9 @@
     "name:hyw_x_preferred":[
         "\u054a\u0565\u0576\u056f\u0561\u0566\u056b"
     ],
+    "name:ido_x_preferred":[
+        "Benghazi"
+    ],
     "name:ile_x_preferred":[
         "Bengasi"
     ],
@@ -179,6 +185,9 @@
     "name:mar_x_preferred":[
         "\u092c\u0947\u0928\u0917\u093e\u091d\u0940"
     ],
+    "name:mlt_x_preferred":[
+        "Benghazi"
+    ],
     "name:msa_x_preferred":[
         "Benghazi"
     ],
@@ -211,6 +220,9 @@
     ],
     "name:por_x_preferred":[
         "Bengasi"
+    ],
+    "name:pus_x_preferred":[
+        "\u0628\u0646\u063a\u0627\u0632\u06cc"
     ],
     "name:ron_x_preferred":[
         "Benghazi"
@@ -281,6 +293,9 @@
     "name:uzb_x_preferred":[
         "Bing\u02bbozi"
     ],
+    "name:vec_x_preferred":[
+        "Bengasi"
+    ],
     "name:vie_x_preferred":[
         "Benghazi"
     ],
@@ -298,6 +313,9 @@
     ],
     "name:zho_x_preferred":[
         "\u73ed\u52a0\u897f"
+    ],
+    "name:zul_x_preferred":[
+        "Benghazi"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Libya",
@@ -443,7 +461,7 @@
         }
     ],
     "wof:id":421199765,
-    "wof:lastmodified":1610147580,
+    "wof:lastmodified":1690938884,
     "wof:megacity":1,
     "wof:name":"\u0628\u0646\u063a\u0627\u0632\u064a",
     "wof:parent_id":85673635,

@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u062a\u062c\u0631\u0647\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u062c\u0631\u0647\u0649"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u099c\u09be\u09b0\u09b9\u09bf"
     ],
@@ -74,6 +77,9 @@
     ],
     "name:por_x_preferred":[
         "Tajarhi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0434\u0436\u0430\u0440\u0445\u0438"
     ],
     "name:spa_x_preferred":[
         "Tajarhi"
@@ -216,7 +222,7 @@
         }
     ],
     "wof:id":1141907437,
-    "wof:lastmodified":1636494820,
+    "wof:lastmodified":1690938893,
     "wof:name":"Tajarhi",
     "wof:parent_id":85673589,
     "wof:placetype":"locality",

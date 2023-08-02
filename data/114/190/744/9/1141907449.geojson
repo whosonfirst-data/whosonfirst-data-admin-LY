@@ -21,8 +21,14 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0642\u064a\u0644\u0629"
     ],
+    "name:ast_x_preferred":[
+        "El Agheila"
+    ],
     "name:azb_x_preferred":[
         "\u0639\u0642\u06cc\u0644\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "\u018fl A\u011feyla"
     ],
     "name:ben_x_preferred":[
         "\u098f\u09b2 \u0986\u0998\u09c7\u09bf\u09b2\u09be"
@@ -50,6 +56,9 @@
     ],
     "name:fra_x_preferred":[
         "El Agheila"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc-\u05e2\u05d2\u05d9\u05dc\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0905\u0932 \u0905\u0918\u0940\u0932\u093e"
@@ -113,6 +122,12 @@
     ],
     "name:zho_tw_x_preferred":[
         "\u57c3\u723e\u963f\u7d66\u62c9"
+    ],
+    "name:zho_x_preferred":[
+        "\u5384\u963f\u8d6b\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "El Agheila"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Libya",
@@ -231,7 +246,7 @@
         }
     ],
     "wof:id":1141907449,
-    "wof:lastmodified":1636494819,
+    "wof:lastmodified":1690938892,
     "wof:name":"El Agheila",
     "wof:parent_id":85673631,
     "wof:placetype":"locality",

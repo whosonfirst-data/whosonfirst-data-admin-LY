@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0635\u0631\u0627\u062a\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0635\u0631\u0627\u062a\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Misrata"
+    ],
     "name:aze_x_preferred":[
         "Misurata"
     ],
@@ -31,6 +37,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0456\u0441\u0443\u0440\u0430\u0442\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u041c\u0456\u0441\u0443\u0440\u0430\u0442\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u09b8\u09b0\u09be\u09a4\u09be"
@@ -104,6 +113,9 @@
     "name:hun_x_preferred":[
         "Miszr\u00e1ta"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u056b\u057d\u0580\u0561\u057f\u0561"
+    ],
     "name:ind_x_preferred":[
         "Misratah"
     ],
@@ -167,6 +179,9 @@
     "name:rus_x_preferred":[
         "\u041c\u0438\u0441\u0443\u0440\u0430\u0442\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u041c\u0438\u0441\u0440\u0430\u0442\u0430"
+    ],
     "name:scn_x_preferred":[
         "Misurata"
     ],
@@ -187,6 +202,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041c\u0438\u0441\u0443\u0440\u0430\u0442\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Misratah"
     ],
     "name:swe_x_preferred":[
         "Misratah"
@@ -212,6 +230,9 @@
     "name:urd_x_preferred":[
         "\u0645\u0635\u0631\u0627\u062a\u06c1"
     ],
+    "name:uzb_x_preferred":[
+        "Misrata"
+    ],
     "name:vec_x_preferred":[
         "Misurata"
     ],
@@ -224,6 +245,9 @@
     "name:war_x_preferred":[
         "Misrata"
     ],
+    "name:wuu_x_preferred":[
+        "\u7c73\u82cf\u62c9\u5854"
+    ],
     "name:yid_x_preferred":[
         "\u05de\u05d9\u05e1\u05d5\u05e8\u05d0\u05d8\u05d0\u05d4"
     ],
@@ -232,6 +256,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7c73\u8607\u62c9\u5854"
+    ],
+    "name:zul_x_preferred":[
+        "Misrata"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Libya",
@@ -370,7 +397,7 @@
         }
     ],
     "wof:id":421168935,
-    "wof:lastmodified":1566599273,
+    "wof:lastmodified":1690938880,
     "wof:name":"\u0645\u0635\u0631\u0627\u062a\u0629",
     "wof:parent_id":85673593,
     "wof:placetype":"locality",

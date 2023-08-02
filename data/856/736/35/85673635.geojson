@@ -51,7 +51,8 @@
         "Benghazi"
     ],
     "name:eng_x_variant":[
-        "Benghazi district"
+        "Benghazi district",
+        "Benghazi District"
     ],
     "name:epo_x_preferred":[
         "Distrikto Bengazi"
@@ -227,7 +228,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1614895039,
+    "wof:lastmodified":1690938874,
     "wof:name":"Benghazi",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

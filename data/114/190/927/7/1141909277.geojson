@@ -21,8 +21,14 @@
     "name:ara_x_preferred":[
         "\u062a\u0645\u0633\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0645\u0633\u0647"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b8\u09be\u09b9"
+    ],
+    "name:deu_x_preferred":[
+        "Tmissah"
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03bc\u03b1\u03c3\u03ac\u03c7"
@@ -32,6 +38,9 @@
     ],
     "name:fas_x_preferred":[
         "\u062a\u0645\u0633\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Tmessa"
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05d9\u05de\u05e1\u05d4"
@@ -62,6 +71,9 @@
     ],
     "name:por_x_preferred":[
         "Tmassah"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043c\u0430\u0441\u0441\u0430"
     ],
     "name:spa_x_preferred":[
         "Tmassah"
@@ -204,7 +216,7 @@
         }
     ],
     "wof:id":1141909277,
-    "wof:lastmodified":1636494821,
+    "wof:lastmodified":1690938894,
     "wof:name":"Tmassah",
     "wof:parent_id":85673589,
     "wof:placetype":"locality",

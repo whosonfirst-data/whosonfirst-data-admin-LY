@@ -25,6 +25,9 @@
     "name:ara_x_variant":[
         "\u0625\u062f\u0631\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u062f\u0631\u0649"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u0434\u0438\u0440\u0438"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:ceb_x_preferred":[
         "Idr\u012b"
+    ],
+    "name:deu_x_preferred":[
+        "Adiri"
     ],
     "name:eng_x_preferred":[
         "Adiri"
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":890418161,
-    "wof:lastmodified":1566599280,
+    "wof:lastmodified":1690938890,
     "wof:name":"Idr\u012b",
     "wof:parent_id":85673579,
     "wof:placetype":"locality",

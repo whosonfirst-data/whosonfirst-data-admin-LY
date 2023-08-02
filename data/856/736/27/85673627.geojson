@@ -40,6 +40,9 @@
         "\u0634\u0639\u0628\u064a\u0629 \u0627\u0644\u062c\u0628\u0644 \u0627\u0644\u0627\u062e\u0636\u0631",
         "\u0634\u0639\u0628\u064a\u0629 \u0627\u0644\u062c\u0628\u0644 \u0627\u0644\u0623\u062e\u0636\u0631"
     ],
+    "name:aze_x_preferred":[
+        "\u018fl-C\u0259b\u0259l \u0259l-\u018fxdar"
+    ],
     "name:ben_x_preferred":[
         "\u099c\u09be\u09ac\u09be\u09b2 \u0986\u09b2 \u0986\u0995\u09a6\u09be\u09b0"
     ],
@@ -69,6 +72,9 @@
     ],
     "name:eus_x_preferred":[
         "Al Jabal al Akhdar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062c\u0628\u0644 \u0627\u0644\u0627\u062e\u0636\u0631"
     ],
     "name:fin_x_preferred":[
         "Al Jabal al Akhdar"
@@ -186,6 +192,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7da0\u5c71\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Jabal al Akhdar"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LBY",
@@ -309,7 +318,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1636494813,
+    "wof:lastmodified":1690938875,
     "wof:name":"Al Jabal al Akhdar",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

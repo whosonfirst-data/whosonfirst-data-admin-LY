@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0631\u0627\u062f\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0631\u0627\u062f\u0647"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b0\u09be\u09a6\u09be\u09b9"
     ],
@@ -75,6 +78,9 @@
     "name:por_x_preferred":[
         "Maradah"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0430\u0434\u0430"
+    ],
     "name:spa_x_preferred":[
         "Maradah"
     ],
@@ -98,6 +104,9 @@
     ],
     "name:zho_tw_x_preferred":[
         "\u99ac\u62c9\u9054"
+    ],
+    "name:zul_x_preferred":[
+        "Marada"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Libya",
@@ -216,7 +225,7 @@
         }
     ],
     "wof:id":1141907451,
-    "wof:lastmodified":1636494821,
+    "wof:lastmodified":1690938894,
     "wof:name":"Maradah",
     "wof:parent_id":85673631,
     "wof:placetype":"locality",

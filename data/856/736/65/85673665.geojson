@@ -193,6 +193,9 @@
     "name:zho_x_preferred":[
         "\u5e03\u7279\u5357\u7701"
     ],
+    "name:zul_x_preferred":[
+        "Butnan District"
+    ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LBY",
     "ne:adm0_label":"2",
@@ -315,7 +318,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1636494814,
+    "wof:lastmodified":1690938876,
     "wof:name":"Al Butnan",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

@@ -24,8 +24,17 @@
         "\u0623\u062c\u062f\u0627\u0628\u064a\u0627",
         "Ajd\u0101biy\u0101"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u062c\u062f\u0627\u0628\u064a\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "\u018fcdabiy\u0259"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u0434\u0436\u0434\u0430\u0431\u0456\u044f"
+    ],
+    "name:bel_x_variant":[
+        "\u0410\u0434\u0436\u0434\u0430\u0431\u0456\u044f"
     ],
     "name:ben_x_preferred":[
         "\u0986\u099c\u09a1\u09be\u09ac\u09bf\u09af\u09bc\u09be"
@@ -86,6 +95,9 @@
     ],
     "name:hun_x_preferred":[
         "Adzsd\u00e1bija"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u057b\u0564\u0561\u0562\u056b\u0561"
     ],
     "name:ind_x_preferred":[
         "Agedabia"
@@ -159,6 +171,9 @@
     "name:srp_x_preferred":[
         "\u0410\u045f\u0434\u0430\u0431\u0438\u0458\u0430"
     ],
+    "name:swa_x_preferred":[
+        "Ajdabiya"
+    ],
     "name:swe_x_preferred":[
         "Ajdabiya"
     ],
@@ -192,8 +207,14 @@
     "name:vol_x_variant":[
         "L\u00e4cdabi\u00e4n"
     ],
+    "name:war_x_preferred":[
+        "Ajdabiya"
+    ],
     "name:zho_x_preferred":[
         "\u827e\u5b63\u8fbe\u6bd4\u8036"
+    ],
+    "name:zul_x_preferred":[
+        "Ajdabiya"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Libya",
@@ -332,7 +353,7 @@
         }
     ],
     "wof:id":421199025,
-    "wof:lastmodified":1566599277,
+    "wof:lastmodified":1690938884,
     "wof:name":"\u0623\u062c\u062f\u0627\u0628\u064a\u0627",
     "wof:parent_id":85673631,
     "wof:placetype":"locality",

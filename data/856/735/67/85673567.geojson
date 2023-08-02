@@ -197,6 +197,9 @@
     "name:zho_x_preferred":[
         "\u6731\u592b\u62c9\u7701"
     ],
+    "name:zul_x_preferred":[
+        "Jufra District"
+    ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LBY",
     "ne:adm0_label":"2",
@@ -320,7 +323,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1636494815,
+    "wof:lastmodified":1690938877,
     "wof:name":"Al Jufrah",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

@@ -27,6 +27,15 @@
         "\u0634\u0639\u0628\u064a\u0629 \u0633\u0628\u0647\u0627",
         "\u0633\u064e\u0628\u0647\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0628\u0647\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Sabha"
+    ],
+    "name:aze_x_preferred":[
+        "S\u0259bha"
+    ],
     "name:bel_x_preferred":[
         "\u0421\u0435\u0431\u0445\u0430"
     ],
@@ -66,6 +75,9 @@
     "name:fra_x_preferred":[
         "Sebha"
     ],
+    "name:gle_x_preferred":[
+        "Sabha"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0aad\u0abe"
     ],
@@ -74,6 +86,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0938\u092d\u093e"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0562\u0570\u0561"
     ],
     "name:ind_x_preferred":[
         "Sabha"
@@ -141,6 +156,9 @@
     "name:srp_x_preferred":[
         "\u0421\u0430\u0431\u0445\u0430"
     ],
+    "name:swa_x_preferred":[
+        "Sabha"
+    ],
     "name:swe_x_preferred":[
         "Sabha"
     ],
@@ -171,6 +189,9 @@
     "name:urd_x_variant":[
         "\u0633\u0628\u06be\u0627"
     ],
+    "name:vec_x_preferred":[
+        "Sebha"
+    ],
     "name:vie_x_preferred":[
         "Sabha"
     ],
@@ -185,6 +206,9 @@
     ],
     "name:zho_x_preferred":[
         "\u62fe\u54c8"
+    ],
+    "name:zul_x_preferred":[
+        "Sabha"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Libya",
@@ -323,7 +347,7 @@
         }
     ],
     "wof:id":421180019,
-    "wof:lastmodified":1566599274,
+    "wof:lastmodified":1690938882,
     "wof:name":"\u0633\u0628\u0647\u0627",
     "wof:parent_id":85673597,
     "wof:placetype":"locality",

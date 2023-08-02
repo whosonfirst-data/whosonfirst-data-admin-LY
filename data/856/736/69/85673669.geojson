@@ -108,6 +108,9 @@
     "name:kor_x_preferred":[
         "\uc640\ub514\uc54c\ud558\uc57c \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc640\ub514\uc54c\ud558\uc57c\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "V\u0101d\u012b el Haj\u0101tas \u0161eb\u012bja"
     ],
@@ -182,6 +185,9 @@
     ],
     "name:zho_x_preferred":[
         "\u74e6\u8fea\u54c8\u8036\u7279\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Wadi al Hayaa District"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LBY",
@@ -303,7 +309,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1636494813,
+    "wof:lastmodified":1690938874,
     "wof:name":"Wadi al Hayaa",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

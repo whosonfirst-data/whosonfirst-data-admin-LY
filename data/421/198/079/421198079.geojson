@@ -23,6 +23,12 @@
     "name:ara_x_variant":[
         "H\u016bn"
     ],
+    "name:arz_x_preferred":[
+        "\u0647\u0648\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Hun"
+    ],
     "name:azb_x_preferred":[
         "\u0647\u0648\u0646"
     ],
@@ -107,6 +113,9 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u0434\u0438\u0440\u0440\u0430\u0442-\u0425\u0443\u043d"
     ],
+    "name:rus_x_variant":[
+        "\u0425\u0443\u043d"
+    ],
     "name:sco_x_preferred":[
         "Houn"
     ],
@@ -118,6 +127,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0425\u0443\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "Hun"
     ],
     "name:swe_x_preferred":[
         "H\u016bn"
@@ -151,6 +163,9 @@
     ],
     "name:zho_x_preferred":[
         "\u80e1\u6069"
+    ],
+    "name:zul_x_preferred":[
+        "Hun"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Libya",
@@ -289,7 +304,7 @@
         }
     ],
     "wof:id":421198079,
-    "wof:lastmodified":1566599276,
+    "wof:lastmodified":1690938883,
     "wof:name":"\u0647\u0648\u0646",
     "wof:parent_id":85673567,
     "wof:placetype":"locality",
