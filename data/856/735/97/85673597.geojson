@@ -108,6 +108,9 @@
     "name:kor_x_preferred":[
         "\uc138\ubc14 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc138\ubc14\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Sebhas \u0161eb\u012bja"
     ],
@@ -179,6 +182,9 @@
     ],
     "name:zho_x_preferred":[
         "\u585e\u535c\u54c8\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Sabha District"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LBY",
@@ -303,7 +309,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1636494816,
+    "wof:lastmodified":1690938878,
     "wof:name":"Sabha",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

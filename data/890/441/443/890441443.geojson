@@ -25,8 +25,14 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0645\u0631\u062c"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0645\u0631\u062c"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0631\u062c"
+    ],
+    "name:aze_x_preferred":[
+        "\u018fl M\u0259ric"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b0\u099c"
@@ -53,7 +59,8 @@
         "Al Marj"
     ],
     "name:eng_x_variant":[
-        "Marj"
+        "Marj",
+        "Campament of Al Marj"
     ],
     "name:epo_x_preferred":[
         "Al Mar\u011d"
@@ -78,6 +85,9 @@
     ],
     "name:hun_x_preferred":[
         "Al Marj"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u056c-\u0544\u0561\u0580\u057b"
     ],
     "name:ind_x_preferred":[
         "Marj"
@@ -154,6 +164,9 @@
     "name:srd_x_preferred":[
         "Al Marj"
     ],
+    "name:swa_x_preferred":[
+        "Marj"
+    ],
     "name:swe_x_preferred":[
         "Marj"
     ],
@@ -186,6 +199,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8fc8\u5c14\u5b63"
+    ],
+    "name:zul_x_preferred":[
+        "Marj"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Libya",
@@ -310,7 +326,7 @@
         }
     ],
     "wof:id":890441443,
-    "wof:lastmodified":1636494818,
+    "wof:lastmodified":1690938888,
     "wof:name":"Al Marj",
     "wof:parent_id":85673625,
     "wof:placetype":"locality",

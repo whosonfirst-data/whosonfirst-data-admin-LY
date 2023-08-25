@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0643\u0631\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0648\u0643\u0631\u0647"
+    ],
+    "name:cat_x_preferred":[
+        "Arsinoe"
+    ],
     "name:ceb_x_preferred":[
         "T\u016bkrah"
     ],
@@ -37,17 +43,29 @@
     "name:fra_x_preferred":[
         "Tocra"
     ],
+    "name:grc_x_preferred":[
+        "\u03a4\u03b1\u03cd\u03c7\u03b5\u03b9\u03c1\u03b1"
+    ],
     "name:ita_x_preferred":[
         "Tocra"
     ],
     "name:kat_x_preferred":[
         "\u10e2\u10e3\u10d9\u10e0\u10d0"
     ],
+    "name:lat_x_preferred":[
+        "Tauchira"
+    ],
     "name:nld_x_preferred":[
         "Tocra"
     ],
+    "name:pol_x_preferred":[
+        "Arsinoe"
+    ],
     "name:por_x_preferred":[
         "Tocra"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u043a\u0440\u0430"
     ],
     "name:spa_x_preferred":[
         "Tocra"
@@ -55,8 +73,14 @@
     "name:swe_x_preferred":[
         "T\u016bkrah"
     ],
+    "name:tur_x_preferred":[
+        "Tokra"
+    ],
     "name:und_x_variant":[
         "Tokrah"
+    ],
+    "name:zul_x_preferred":[
+        "Tocra"
     ],
     "qs:name":"T\u016bkrah",
     "qs:photos_9r":0,
@@ -87,7 +111,7 @@
         }
     ],
     "wof:id":890449795,
-    "wof:lastmodified":1566599278,
+    "wof:lastmodified":1690938886,
     "wof:name":"T\u016bkrah",
     "wof:parent_id":85673635,
     "wof:placetype":"locality",

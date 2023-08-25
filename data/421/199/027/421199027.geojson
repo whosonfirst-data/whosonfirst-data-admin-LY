@@ -200,6 +200,9 @@
     "name:srp_x_preferred":[
         "\u0421\u0438\u0440\u0442"
     ],
+    "name:swa_x_preferred":[
+        "Sirte"
+    ],
     "name:swe_x_preferred":[
         "Sirt"
     ],
@@ -240,6 +243,9 @@
         "Surti\u00e4n",
         "Surt"
     ],
+    "name:wuu_x_preferred":[
+        "\u82cf\u5c14\u7279"
+    ],
     "name:yue_x_preferred":[
         "\u8607\u723e\u7279"
     ],
@@ -248,6 +254,9 @@
     ],
     "name:zho_x_variant":[
         "\u8607\u7279"
+    ],
+    "name:zul_x_preferred":[
+        "Sirte"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Libya",
@@ -386,7 +395,7 @@
         }
     ],
     "wof:id":421199027,
-    "wof:lastmodified":1566599277,
+    "wof:lastmodified":1690938885,
     "wof:name":"\u0633\u0631\u062a",
     "wof:parent_id":85673659,
     "wof:placetype":"locality",

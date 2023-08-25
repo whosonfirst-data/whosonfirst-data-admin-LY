@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0632\u0644\u0637\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0632\u0644\u0637\u0646"
+    ],
     "name:ceb_x_preferred":[
         "Zal\u0163an"
     ],
@@ -44,11 +47,17 @@
     "name:spa_x_preferred":[
         "Zaltan"
     ],
+    "name:swe_x_preferred":[
+        "Zal\u0163an"
+    ],
     "name:tur_x_preferred":[
         "Zaltan"
     ],
     "name:und_x_variant":[
         "Zelten"
+    ],
+    "name:zul_x_preferred":[
+        "Zaltan"
     ],
     "qs:gn_country":"LY",
     "qs:gn_fcode":"PPL",
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":421196731,
-    "wof:lastmodified":1566599276,
+    "wof:lastmodified":1690938883,
     "wof:name":"Zaltan",
     "wof:parent_id":85673607,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0632\u0644\u064a\u062a\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Zliten"
+    ],
     "name:azb_x_preferred":[
         "\u0632\u0644\u06cc\u062a\u0646"
     ],
@@ -73,6 +76,9 @@
     ],
     "name:hin_x_preferred":[
         "\u091c\u093c\u0932\u093f\u091f\u0928"
+    ],
+    "name:hye_x_preferred":[
+        "\u0536\u056c\u056b\u057f\u0565\u0576"
     ],
     "name:ind_x_preferred":[
         "Zliten"
@@ -161,8 +167,14 @@
     "name:vie_x_preferred":[
         "Zliten"
     ],
+    "name:war_x_preferred":[
+        "Zliten"
+    ],
     "name:zho_x_preferred":[
         "\u5179\u5229\u5766"
+    ],
+    "name:zul_x_preferred":[
+        "Zliten"
     ],
     "qs:gn_country":"LY",
     "qs:gn_fcode":"PPL",
@@ -212,7 +224,7 @@
         }
     ],
     "wof:id":421190857,
-    "wof:lastmodified":1566599276,
+    "wof:lastmodified":1690938884,
     "wof:name":"Zlitan",
     "wof:parent_id":85673593,
     "wof:placetype":"locality",

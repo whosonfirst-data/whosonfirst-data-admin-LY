@@ -28,8 +28,14 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u062e\u0645\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u062e\u0645\u0633"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0644\u062e\u0645\u0633"
+    ],
+    "name:aze_x_preferred":[
+        "\u018fl-X\u00fcms"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u043b\u044c-\u0425\u0443\u043c\u0441"
@@ -49,6 +55,9 @@
     "name:ceb_x_preferred":[
         "Al Khums"
     ],
+    "name:ces_x_preferred":[
+        "Khoms"
+    ],
     "name:dan_x_preferred":[
         "Al Khums"
     ],
@@ -62,7 +71,8 @@
         "Al Khums"
     ],
     "name:eng_x_variant":[
-        "Khoms"
+        "Khoms",
+        "al-Khums"
     ],
     "name:epo_x_preferred":[
         "Al \u0124ums"
@@ -169,6 +179,9 @@
     "name:srd_x_preferred":[
         "Al Khums"
     ],
+    "name:swa_x_preferred":[
+        "Khoms"
+    ],
     "name:swe_x_preferred":[
         "Al-Khums"
     ],
@@ -183,6 +196,9 @@
     ],
     "name:tur_x_preferred":[
         "Khoms"
+    ],
+    "name:uig_x_preferred":[
+        "\u0626\u06d5\u0644\u062e\u06c7\u0645\u0633"
     ],
     "name:ukr_x_preferred":[
         "\u0425\u043e\u043c\u0441"
@@ -207,6 +223,9 @@
     ],
     "name:zho_x_preferred":[
         "\u80e1\u59c6\u65af"
+    ],
+    "name:zul_x_preferred":[
+        "Al Khums"
     ],
     "qs_pg:aaroncc":"LY",
     "qs_pg:gn_country":"LY",
@@ -245,7 +264,7 @@
         }
     ],
     "wof:id":1125881497,
-    "wof:lastmodified":1636494818,
+    "wof:lastmodified":1690938890,
     "wof:name":"Al Khums",
     "wof:parent_id":85673575,
     "wof:placetype":"locality",

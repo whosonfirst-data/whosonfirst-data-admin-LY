@@ -70,6 +70,9 @@
     "name:fra_x_preferred":[
         "Al Wahat"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d0\u05dc-\u05d5\u05d0\u05d7\u05d0\u05ea"
+    ],
     "name:hun_x_preferred":[
         "Adzs\u00e1bija"
     ],
@@ -87,6 +90,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc54c\uc640\ud558\ud2b8 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc54c\uc640\ud558\ud2b8\uc8fc"
     ],
     "name:lit_x_preferred":[
         "Vahato savivaldyb\u0117"
@@ -257,7 +263,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1636494814,
+    "wof:lastmodified":1690938876,
     "wof:name":"Ajdabiya",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

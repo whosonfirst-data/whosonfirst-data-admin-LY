@@ -27,6 +27,9 @@
         "Az Zint\u0101n",
         "\u0627\u0644\u0632\u0646\u062a\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0632\u0646\u062a\u0627\u0646"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0644\u0632\u0646\u062a\u0627\u0646"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:cat_x_preferred":[
         "Zintan"
+    ],
+    "name:ceb_x_preferred":[
+        "Az Zint\u0101n"
     ],
     "name:deu_x_preferred":[
         "As-Sintan"
@@ -81,6 +87,9 @@
     "name:por_x_preferred":[
         "Zintan"
     ],
+    "name:pus_x_preferred":[
+        "\u0627\u0644\u0632\u0646\u062a\u0627\u0646"
+    ],
     "name:rus_x_preferred":[
         "\u042d\u0437-\u0417\u0438\u043d\u0442\u0430\u043d"
     ],
@@ -93,6 +102,12 @@
     "name:spa_x_preferred":[
         "Zintan"
     ],
+    "name:swa_x_preferred":[
+        "Az-Zintan"
+    ],
+    "name:swe_x_preferred":[
+        "Az Zint\u0101n"
+    ],
     "name:ukr_x_preferred":[
         "\u0417\u0456\u043d\u0442\u0430\u043d"
     ],
@@ -101,6 +116,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6d25\u5766"
+    ],
+    "name:zul_x_preferred":[
+        "Zintan"
     ],
     "qs:name":"Az Zint\u0101n",
     "qs:photos_9r":0,
@@ -131,7 +149,7 @@
         }
     ],
     "wof:id":890428965,
-    "wof:lastmodified":1566599279,
+    "wof:lastmodified":1690938888,
     "wof:name":"Az Zint\u0101n",
     "wof:parent_id":85673615,
     "wof:placetype":"locality",

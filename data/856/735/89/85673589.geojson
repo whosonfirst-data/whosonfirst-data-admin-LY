@@ -114,6 +114,9 @@
     "name:kor_x_preferred":[
         "\ubb34\ub974\uc8fc\ud06c \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ubb34\ub974\uc8fc\ud06c\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Murz\u016bkas \u0161eb\u012bja"
     ],
@@ -191,6 +194,9 @@
     ],
     "name:zho_x_preferred":[
         "\u9081\u723e\u7956\u683c\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Murzuq District"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LBY",
@@ -315,7 +321,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1636494815,
+    "wof:lastmodified":1690938878,
     "wof:name":"Murzuq",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

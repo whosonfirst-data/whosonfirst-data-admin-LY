@@ -28,11 +28,20 @@
     "name:ara_x_variant":[
         "N\u0101l\u016bt"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u0627\u0644\u0648\u062a"
+    ],
+    "name:ast_x_preferred":[
+        "Nalut"
+    ],
     "name:bul_x_preferred":[
         "\u041d\u0430\u043b\u0443\u0442"
     ],
     "name:cat_x_preferred":[
         "Nalut"
+    ],
+    "name:ceb_x_preferred":[
+        "N\u0101l\u016bt"
     ],
     "name:deu_x_preferred":[
         "Nalut"
@@ -45,6 +54,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u0644\u0648\u062a"
+    ],
+    "name:fin_x_preferred":[
+        "Nalut"
     ],
     "name:fra_x_preferred":[
         "Nalout"
@@ -85,6 +97,12 @@
     "name:srp_x_preferred":[
         "\u041d\u0430\u043b\u0443\u0442"
     ],
+    "name:swa_x_preferred":[
+        "Nalut"
+    ],
+    "name:swe_x_preferred":[
+        "N\u0101l\u016bt"
+    ],
     "name:tur_x_preferred":[
         "Nalut"
     ],
@@ -101,6 +119,12 @@
         "Nalut"
     ],
     "name:vol_x_preferred":[
+        "Nalut"
+    ],
+    "name:zho_x_preferred":[
+        "\u7eb3\u9c81\u7279"
+    ],
+    "name:zul_x_preferred":[
         "Nalut"
     ],
     "ne:ADM0CAP":0.0,
@@ -224,7 +248,7 @@
         }
     ],
     "wof:id":890444227,
-    "wof:lastmodified":1566599280,
+    "wof:lastmodified":1690938889,
     "wof:name":"N\u0101l\u016bt",
     "wof:parent_id":85673563,
     "wof:placetype":"locality",

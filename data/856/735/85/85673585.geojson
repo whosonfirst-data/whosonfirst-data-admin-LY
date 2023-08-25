@@ -125,7 +125,8 @@
         "\uac00\ud2b8"
     ],
     "name:kor_x_variant":[
-        "\uac00\ud2b8 \uc8fc"
+        "\uac00\ud2b8 \uc8fc",
+        "\uac00\ud2b8\uc8fc"
     ],
     "name:lav_x_preferred":[
         "G\u0101tas \u0161eb\u012bja"
@@ -216,6 +217,9 @@
     ],
     "name:zho_x_preferred":[
         "\u52a0\u7279\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Ghat District"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LBY",
@@ -340,7 +344,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1636494816,
+    "wof:lastmodified":1690938879,
     "wof:name":"Ghat",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

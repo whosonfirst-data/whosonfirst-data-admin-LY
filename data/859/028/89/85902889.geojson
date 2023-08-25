@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Al Urubah"
     ],
+    "name:vec_x_preferred":[
+        "Al Urubah"
+    ],
     "qs:gn_adm0_cc":"LY",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":88319,
@@ -99,7 +102,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582313812,
+    "wof:lastmodified":1690938874,
     "wof:name":"Al \u2018Ur\u016bbah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

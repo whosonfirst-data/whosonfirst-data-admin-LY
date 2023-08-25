@@ -25,8 +25,14 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0639\u0632\u064a\u0632\u064a\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0639\u0632\u064a\u0632\u064a\u0647"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u042d\u043b\u044c-\u0410\u0437\u0456\u0437\u0456\u044f"
+    ],
+    "name:bel_x_variant":[
+        "\u042d\u043b\u044c-\u0410\u0437\u0456\u0437\u0456\u044f"
     ],
     "name:ben_x_preferred":[
         "\u0986\u099c\u09bf\u099c\u09bf\u09af\u09bc\u09be"
@@ -127,8 +133,14 @@
     "name:swe_x_preferred":[
         "Al-Azizyah"
     ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0b9c\u0bbf\u0b9c\u0bbf\u0baf\u0bbe"
+    ],
     "name:tur_x_preferred":[
         "El Aziziye"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u0410\u0437\u0456\u0437\u0456\u044f"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u0639\u0632\u064a\u0632\u06cc\u06c1\u060c \u0644\u06cc\u0628\u06cc\u0627"
@@ -150,6 +162,9 @@
     ],
     "name:zho_x_variant":[
         "\u963f\u9f4a\u6fdf\u8036"
+    ],
+    "name:zul_x_preferred":[
+        "Aziziya"
     ],
     "qs:name":"Al \u2018Az\u012bz\u012byah",
     "qs:photos_9r":0,
@@ -180,7 +195,7 @@
         }
     ],
     "wof:id":890428967,
-    "wof:lastmodified":1566599279,
+    "wof:lastmodified":1690938888,
     "wof:name":"Al \u2018Az\u012bz\u012byah",
     "wof:parent_id":85673605,
     "wof:placetype":"locality",

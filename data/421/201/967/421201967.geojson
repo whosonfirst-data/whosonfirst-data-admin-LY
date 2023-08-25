@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062f\u0631\u0646\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u0631\u0646\u0647"
+    ],
     "name:aze_x_preferred":[
         "Derna"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:ces_x_preferred":[
         "Derna"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u0430\u0440\u043d\u0430\u0445\u04c0"
     ],
     "name:dan_x_preferred":[
         "Derna"
@@ -88,6 +94,9 @@
     ],
     "name:hun_x_preferred":[
         "Derna"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0565\u0580\u0576\u0561"
     ],
     "name:ind_x_preferred":[
         "Derna"
@@ -155,6 +164,9 @@
     "name:srp_x_preferred":[
         "\u0414\u0435\u0440\u043d\u0430"
     ],
+    "name:swa_x_preferred":[
+        "Derna"
+    ],
     "name:swe_x_preferred":[
         "Darnah"
     ],
@@ -190,6 +202,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5fb7\u5c14\u7eb3"
+    ],
+    "name:zul_x_preferred":[
+        "Derna"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Libya",
@@ -328,7 +343,7 @@
         }
     ],
     "wof:id":421201967,
-    "wof:lastmodified":1566599277,
+    "wof:lastmodified":1690938885,
     "wof:name":"\u062f\u0631\u0646\u0629",
     "wof:parent_id":85673663,
     "wof:placetype":"locality",
