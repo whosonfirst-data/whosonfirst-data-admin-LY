@@ -1245,6 +1245,7 @@
         "hasc:id":"LY",
         "icao:code":"5A",
         "ioc:id":"LBA",
+        "iso:code":"LY",
         "itu:id":"LBY",
         "loc:id":"n79066419",
         "m49:code":"434",
@@ -1259,6 +1260,7 @@
         "wk:page":"Libya",
         "wmo:id":"LY"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LY",
     "wof:country_alpha3":"LBY",
     "wof:geom_alt":[
@@ -1280,7 +1282,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1694639499,
+    "wof:lastmodified":1695881153,
     "wof:name":"Libya",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
