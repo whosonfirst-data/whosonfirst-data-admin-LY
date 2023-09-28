@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.322173,
-    "geom:area_square_m":101790867791.749756,
+    "geom:area_square_m":101790856340.808411,
     "geom:bbox":"9.837124,26.217514,15.894074,28.969825",
     "geom:latitude":27.98102,
     "geom:longitude":12.582136,
@@ -300,15 +300,17 @@
         "gn:id":2219413,
         "gp:id":2346124,
         "hasc:id":"LY.WS",
+        "iso:code":"LY-WS",
         "iso:id":"LY-WS",
         "qs_pg:id":1195768,
         "wd:id":"Q48232"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9268a02856d0f4c3badf8f5083abb57f",
+    "wof:geomhash":"f2a26ac4538722c481e113d916785004",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -323,7 +325,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690938878,
+    "wof:lastmodified":1695884777,
     "wof:name":"Ash Shati'",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

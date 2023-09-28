@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":37.215663,
-    "geom:area_square_m":420856128281.922424,
+    "geom:area_square_m":420856121847.295959,
     "geom:bbox":"19.168097,19.508045,25.0,27.049711",
     "geom:latitude":23.786703,
     "geom:longitude":22.267571,
@@ -309,17 +309,19 @@
         "gn:id":88932,
         "gp:id":2346123,
         "hasc:id":"LY.KU",
+        "iso:code":"LY-KF",
         "iso:id":"LY-KF",
         "qs_pg:id":894920,
         "unlc:id":"LY-KF",
         "wd:id":"Q48200",
         "wk:page":"Kufra District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7c1b28e146ce38fba405da3fa31bc5b3",
+    "wof:geomhash":"87015facc4ed483cf06978d0a7b263b5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -334,7 +336,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690938879,
+    "wof:lastmodified":1695884331,
     "wof:name":"Al Kufrah",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

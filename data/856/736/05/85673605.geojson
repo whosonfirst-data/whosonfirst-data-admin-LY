@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.25597,
-    "geom:area_square_m":2667833400.138626,
+    "geom:area_square_m":2667833745.986401,
     "geom:bbox":"12.767896,32.259462,13.373516,32.857126",
     "geom:latitude":32.553578,
     "geom:longitude":13.076339,
@@ -151,15 +151,17 @@
         "gn:id":7602690,
         "gp:id":2346121,
         "hasc:id":"LY.JR",
+        "iso:code":"LY-JI",
         "iso:id":"LY-JI",
         "qs_pg:id":215762,
         "unlc:id":"LY-JI"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"978d58d0be5f92af918603f83224d536",
+    "wof:geomhash":"2efab7a23a203c0e73967b416c61a9cc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -174,7 +176,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1636494813,
+    "wof:lastmodified":1695884776,
     "wof:name":"Al Jifarah",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.461933,
-    "geom:area_square_m":79811796152.370728,
+    "geom:area_square_m":79811794406.691864,
     "geom:bbox":"22.955601,28.093219,25.149304,32.236296",
     "geom:latitude":30.097889,
     "geom:longitude":23.990733,
@@ -294,16 +294,18 @@
         "gn:id":7602688,
         "gp:id":2346128,
         "hasc:id":"LY.BN",
+        "iso:code":"LY-BU",
         "iso:id":"LY-BU",
         "qs_pg:id":1135140,
         "unlc:id":"LY-BU",
         "wd:id":"Q25931"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"31a85a1407cd9660ad098dc87d124f2f",
+    "wof:geomhash":"e56af07eb3fca339e5dee9cc5a998be7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -318,7 +320,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690938876,
+    "wof:lastmodified":1695884777,
     "wof:name":"Al Butnan",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

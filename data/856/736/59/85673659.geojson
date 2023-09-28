@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.069583,
-    "geom:area_square_m":75551974479.014542,
+    "geom:area_square_m":75551976072.169922,
     "geom:bbox":"14.562795,28.484673,18.791243,31.436194",
     "geom:latitude":30.195165,
     "geom:longitude":16.75223,
@@ -263,17 +263,19 @@
         "gn:id":2210553,
         "gp:id":2346143,
         "hasc:id":"LY.ST",
+        "iso:code":"LY-SR",
         "iso:id":"LY-SR",
         "qs_pg:id":1175818,
         "unlc:id":"LY-SR",
         "wd:id":"Q26417",
         "wk:page":"Sirte District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2487b945053365b110a889ee15853673",
+    "wof:geomhash":"ef4eec1dfac1ad51d90e93fe494e7127",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -288,7 +290,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690938874,
+    "wof:lastmodified":1695884776,
     "wof:name":"Surt",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

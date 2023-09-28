@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.631467,
-    "geom:area_square_m":116134060184.300903,
+    "geom:area_square_m":116134069886.761612,
     "geom:bbox":"14.313815,26.003809,19.172235,29.970843",
     "geom:latitude":27.928395,
     "geom:longitude":17.084965,
@@ -298,17 +298,19 @@
         "gn:id":2219944,
         "gp:id":2346122,
         "hasc:id":"LY.JF",
+        "iso:code":"LY-JU",
         "iso:id":"LY-JU",
         "qs_pg:id":894919,
         "unlc:id":"LY-JU",
         "wd:id":"Q48247",
         "wk:page":"Jufra District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5eb0039c3bb1983091976261e411abc2",
+    "wof:geomhash":"663cc60e0f4e8f7cea45561e7fe15632",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -323,7 +325,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690938877,
+    "wof:lastmodified":1695884777,
     "wof:name":"Al Jufrah",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

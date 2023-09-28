@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.581466,
-    "geom:area_square_m":6051987837.81855,
+    "geom:area_square_m":6051988551.753676,
     "geom:bbox":"11.425398,32.267976,12.55444,33.164505",
     "geom:latitude":32.676266,
     "geom:longitude":11.901305,
@@ -308,17 +308,19 @@
         "gn:id":2593778,
         "gp:id":2346134,
         "hasc:id":"LY.NK",
+        "iso:code":"LY-NQ",
         "iso:id":"LY-NQ",
         "qs_pg:id":894918,
         "unlc:id":"LY-NQ",
         "wd:id":"Q26161",
         "wk:page":"Nuqat al Khams"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c9127962b758540d5b99e65177deeb43",
+    "wof:geomhash":"f2602369975fec618c9aa6fc95b4d1c2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -333,7 +335,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690938875,
+    "wof:lastmodified":1695884777,
     "wof:name":"An Nuqat al Khams",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

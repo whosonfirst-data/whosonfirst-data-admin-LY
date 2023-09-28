@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.651564,
-    "geom:area_square_m":6802109164.080935,
+    "geom:area_square_m":6802109001.670697,
     "geom:bbox":"13.275869,32.009993,14.448547,32.802082",
     "geom:latitude":32.404879,
     "geom:longitude":13.832671,
@@ -156,15 +156,17 @@
         "gn:id":7602691,
         "gp:id":2346133,
         "hasc:id":"LY.MR",
+        "iso:code":"LY-MB",
         "iso:id":"LY-MB",
         "qs_pg:id":1115651,
         "unlc:id":"LY-MB"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4398c008f595bc0a5b5c0c6bd348ce9b",
+    "wof:geomhash":"7b5e81c42de64428175da4b9400b6ff3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -179,7 +181,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1636494815,
+    "wof:lastmodified":1695884777,
     "wof:name":"Al Marqab",
     "wof:parent_id":85632627,
     "wof:placetype":"region",
