@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.56802,
-    "geom:area_square_m":17262633326.534069,
+    "geom:area_square_m":17262633357.128525,
     "geom:bbox":"13.932375,26.245073,16.280724,27.741194",
     "geom:latitude":27.082667,
     "geom:longitude":15.018228,
@@ -284,17 +284,19 @@
         "gn:id":2212774,
         "gp:id":2346126,
         "hasc:id":"LY.SA",
+        "iso:code":"LY-SB",
         "iso:id":"LY-SB",
         "qs_pg:id":235607,
         "unlc:id":"LY-SB",
         "wd:id":"Q26132",
         "wk:page":"Sabha District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3d1aa343db48c25c0c4de7d850ebfe59",
+    "wof:geomhash":"57480893ed444c8f6bb33c2984e86e42",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -309,7 +311,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690938878,
+    "wof:lastmodified":1695884778,
     "wof:name":"Sabha",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

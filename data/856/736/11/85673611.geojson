@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.264075,
-    "geom:area_square_m":2754781802.429067,
+    "geom:area_square_m":2754781687.907242,
     "geom:bbox":"12.085951,32.192099,12.835081,32.800368",
     "geom:latitude":32.473223,
     "geom:longitude":12.543744,
@@ -284,17 +284,19 @@
         "gn:id":2218972,
         "gp:id":2346136,
         "hasc:id":"LY.ZW",
+        "iso:code":"LY-ZA",
         "iso:id":"LY-ZA",
         "qs_pg:id":1083842,
         "unlc:id":"LY-ZA",
         "wd:id":"Q26153",
         "wk:page":"Zawiya District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"eefbbe1fe3e73c54080e5fc43ce0a0fa",
+    "wof:geomhash":"a7d3578bd2a30e3a846aac64be00b45d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -309,7 +311,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690938875,
+    "wof:lastmodified":1695884776,
     "wof:name":"Az Zawiyah",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.931574,
-    "geom:area_square_m":32469386525.223213,
+    "geom:area_square_m":32469395227.791668,
     "geom:bbox":"11.29049,25.54784,14.146296,27.292233",
     "geom:latitude":26.394895,
     "geom:longitude":12.752466,
@@ -287,14 +287,16 @@
         "gn:id":7602693,
         "gp:id":-2346135,
         "hasc:id":"LY.WH",
+        "iso:code":"LY-WD",
         "iso:id":"LY-WD",
         "wd:id":"Q48233"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"60ea4b6015f0197f5e42df34a59e8919",
+    "wof:geomhash":"f2aad4fe44e204566ae537971449dcd9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -309,7 +311,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690938874,
+    "wof:lastmodified":1695884777,
     "wof:name":"Wadi al Hayaa",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

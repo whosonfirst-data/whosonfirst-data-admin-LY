@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.015415,
-    "geom:area_square_m":21156166918.270657,
+    "geom:area_square_m":21156169231.57933,
     "geom:bbox":"21.917751,30.79162,23.287889,32.933762",
     "geom:latitude":31.900998,
     "geom:longitude":22.542924,
@@ -252,17 +252,19 @@
         "gn:id":87204,
         "gp:id":2346138,
         "hasc:id":"LY.DA",
+        "iso:code":"LY-DR",
         "iso:id":"LY-DR",
         "qs_pg:id":1083844,
         "unlc:id":"LY-DR",
         "wd:id":"Q26124",
         "wk:page":"Derna District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"436f4d8cd11694e563a0e8c9ede2b233",
+    "wof:geomhash":"bbaddf90dc24ae2dea79cd3d1b065066",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -277,7 +279,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690938876,
+    "wof:lastmodified":1695884777,
     "wof:name":"Al Qubbah",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

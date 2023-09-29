@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":18.253002,
-    "geom:area_square_m":197707913144.270081,
+    "geom:area_square_m":197707928253.280914,
     "geom:bbox":"18.499294,27.007671,24.999997,31.262869",
     "geom:latitude":28.819307,
     "geom:longitude":21.356011,
@@ -240,15 +240,17 @@
         "gn:id":7602692,
         "gp:id":2346130,
         "hasc:id":"LY.AW",
+        "iso:code":"LY-WA",
         "iso:id":"LY-WA",
         "qs_pg:id":1135141,
         "wd:id":"Q26000"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"caa919e34a877441f5b569ba3ba7f6da",
+    "wof:geomhash":"684f51f5a60095a02f0c8b6341c885db",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -263,7 +265,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690938876,
+    "wof:lastmodified":1695884777,
     "wof:name":"Ajdabiya",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

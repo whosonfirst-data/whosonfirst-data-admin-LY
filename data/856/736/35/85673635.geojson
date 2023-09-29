@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.287928,
-    "geom:area_square_m":13556154196.255781,
+    "geom:area_square_m":13556158104.729471,
     "geom:bbox":"19.924092,31.007036,21.319094,32.547588",
     "geom:latitude":31.652865,
     "geom:longitude":20.569509,
@@ -203,17 +203,19 @@
         "gn:id":88318,
         "gp:id":2346137,
         "hasc:id":"LY.BG",
+        "iso:code":"LY-BA",
         "iso:id":"LY-BA",
         "qs_pg:id":1083843,
         "unlc:id":"LY-BA",
         "wd:id":"Q33507",
         "wk:page":"Benghazi"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"474686ea2bea1130aaef268bdd5b9560",
+    "wof:geomhash":"fc2cbda974d40895b7249a8fc075b8a1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -228,7 +230,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690938874,
+    "wof:lastmodified":1695884520,
     "wof:name":"Benghazi",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

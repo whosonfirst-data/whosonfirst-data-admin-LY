@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080422,
-    "geom:area_square_m":835990346.477144,
+    "geom:area_square_m":835989989.744004,
     "geom:bbox":"13.065496,32.625308,13.598265,32.911251",
     "geom:latitude":32.788988,
     "geom:longitude":13.338001,
@@ -249,15 +249,17 @@
         "gn:id":2210245,
         "gp:id":2346144,
         "hasc:id":"LY.TR",
+        "iso:code":"LY-TB",
         "iso:id":"LY-TB",
         "qs_pg:id":1115653,
         "wd:id":"Q32837"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"38a255963161d5ac956669fb52707e6d",
+    "wof:geomhash":"15d5ee34d021881a4ab928d76abbbacf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -272,7 +274,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1636494813,
+    "wof:lastmodified":1695884776,
     "wof:name":"Tajura' wa an Nawahi al Arba",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

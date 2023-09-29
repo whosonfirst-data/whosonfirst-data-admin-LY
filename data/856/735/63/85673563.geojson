@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.090157,
-    "geom:area_square_m":64971690872.801567,
+    "geom:area_square_m":64971699819.454414,
     "geom:bbox":"9.391603,28.840822,11.946718,32.354003",
     "geom:latitude":30.358659,
     "geom:longitude":10.918584,
@@ -358,15 +358,17 @@
         "gn:id":2214432,
         "gp:id":2346139,
         "hasc:id":"LY.NT",
+        "iso:code":"LY-NL",
         "iso:id":"LY-NL",
         "qs_pg:id":1115652,
         "wd:id":"Q192237"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"dc0de358bff2c5b0826165b449201854",
+    "wof:geomhash":"76164f27de4bc17db2428dec992f4912",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -381,7 +383,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690938878,
+    "wof:lastmodified":1695884777,
     "wof:name":"Ghadamis",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

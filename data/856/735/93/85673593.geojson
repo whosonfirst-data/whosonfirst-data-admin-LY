@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.774128,
-    "geom:area_square_m":29230305831.581017,
+    "geom:area_square_m":29230304155.614994,
     "geom:bbox":"13.305799,30.391297,15.679864,32.530019",
     "geom:latitude":31.555394,
     "geom:longitude":14.435856,
@@ -296,17 +296,19 @@
         "gn:id":2214845,
         "gp:id":2346141,
         "hasc:id":"LY.MS",
+        "iso:code":"LY-MI",
         "iso:id":"LY-MI",
         "qs_pg:id":1135143,
         "unlc:id":"LY-MI",
         "wd:id":"Q32845",
         "wk:page":"Misrata District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e21dd2de5b57f0a0c89688d067422f21",
+    "wof:geomhash":"de868cd763e782966e5a6abd0b1c1aba",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -321,7 +323,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690938877,
+    "wof:lastmodified":1695884777,
     "wof:name":"Misratah",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

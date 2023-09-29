@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.800916,
-    "geom:area_square_m":8386295227.174059,
+    "geom:area_square_m":8386292826.971913,
     "geom:bbox":"21.331921,31.065676,22.112522,32.938591",
     "geom:latitude":32.131151,
     "geom:longitude":21.74945,
@@ -294,16 +294,18 @@
         "gn:id":443289,
         "gp:id":2346132,
         "hasc:id":"LY.JK",
+        "iso:code":"LY-JA",
         "iso:id":"LY-JA",
         "qs_pg:id":235608,
         "wd:id":"Q32841",
         "wk:page":"Jabal al Akhdar"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3a9f54287f2fe0cb8f88fbd1fdc390fd",
+    "wof:geomhash":"7dd619fc674f87fef233310613b52d3a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -318,7 +320,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690938875,
+    "wof:lastmodified":1695884776,
     "wof:name":"Al Jabal al Akhdar",
     "wof:parent_id":85632627,
     "wof:placetype":"region",

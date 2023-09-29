@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":147.10162,
-    "geom:area_square_m":1617750968002.500732,
+    "geom:area_square_m":1617750968002.504639,
     "geom:bbox":"9.391466,19.5,25.149371,33.166111",
     "geom:latitude":27.044044,
     "geom:longitude":18.029402,
@@ -14,6 +14,9 @@
     "iso:country":"LY",
     "itu:country_code":[
         "218"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "LY"
@@ -1203,7 +1206,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"218",
     "statoids:ds":"LAR",
     "statoids:fifa":"LBY",
@@ -1241,6 +1245,7 @@
         "hasc:id":"LY",
         "icao:code":"5A",
         "ioc:id":"LBA",
+        "iso:code":"LY",
         "itu:id":"LBY",
         "loc:id":"n79066419",
         "m49:code":"434",
@@ -1255,6 +1260,7 @@
         "wk:page":"Libya",
         "wmo:id":"LY"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LY",
     "wof:country_alpha3":"LBY",
     "wof:geom_alt":[
@@ -1262,7 +1268,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "naturalearth"
     ],
-    "wof:geomhash":"925ebed499a9b809a1d65032aed43a25",
+    "wof:geomhash":"d4acd30fa8ef355ccbe0f920b43a1974",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -1276,12 +1282,12 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690938880,
+    "wof:lastmodified":1695881153,
     "wof:name":"Libya",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
-    "wof:population":6201521,
-    "wof:population_rank":13,
+    "wof:population":6777452,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ly",
     "wof:shortcode":"LY",
     "wof:superseded_by":[],
