@@ -9,7 +9,11 @@
     "geom:bbox":"13.151772,32.864187,13.223282,32.911251",
     "geom:latitude":32.885011,
     "geom:longitude":13.189683,
+    "gn:country":"LY",
+    "gn:fcode":"PPLC",
+    "gn:population":1150989,
     "iso:country":"LY",
+    "lbl:bbox":"13.1600117581,32.8725000194,13.2000117581,32.9125000194",
     "lbl:latitude":32.894139,
     "lbl:longitude":13.180612,
     "lbl:max_zoom":18.0,
@@ -120,6 +124,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03c1\u03af\u03c0\u03bf\u03bb\u03b7"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Tripoli"
     ],
     "name:eng_x_preferred":[
         "Tripoli"
@@ -472,7 +479,13 @@
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0438\u043f\u043e\u043b\u0456"
     ],
+    "name:und_x_variant":[
+        "\u0162ar\u0101bulus"
+    ],
     "name:urd_x_preferred":[
+        "\u0637\u0631\u0627\u0628\u0644\u0633"
+    ],
+    "name:urd_x_variant":[
         "\u0637\u0631\u0627\u0628\u0644\u0633"
     ],
     "name:uzb_x_preferred":[
@@ -514,12 +527,102 @@
     "name:yue_x_preferred":[
         "\u7684\u9ece\u6ce2\u91cc"
     ],
+    "name:zho_hk_x_preferred":[
+        "\u7684\u9ece\u6ce2\u91cc"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7684\u9ece\u6ce2\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u7684\u9ece\u6ce2\u91cc"
     ],
     "name:zul_x_preferred":[
         "Tripoli"
     ],
+    "ne:ADM0CAP":1.0,
+    "ne:ADM0NAME":"Libya",
+    "ne:ADM0_A3":"LBY",
+    "ne:ADM1NAME":"Tajura' wa an Nawahi al Arba",
+    "ne:ADMIN1_COD":9,
+    "ne:CAPALT":0,
+    "ne:CHANGED":5,
+    "ne:CHECKME":0,
+    "ne:CITYALT":"Tripoli",
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Changed scale rank.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-0 capital",
+    "ne:GEONAMEID":-1,
+    "ne:GN_POP":229398,
+    "ne:GTOPO30":31.0,
+    "ne:ISO_A2":"LY",
+    "ne:LABELRANK":7,
+    "ne:LATITUDE":32.8925,
+    "ne:LONGITUDE":13.180012,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Tripoli1",
+    "ne:MAX_AREAKM":195.0,
+    "ne:MAX_AREAMI":75.0,
+    "ne:MAX_BBXMAX":13.408333,
+    "ne:MAX_BBXMIN":12.983333,
+    "ne:MAX_BBYMAX":32.908333,
+    "ne:MAX_BBYMIN":32.808333,
+    "ne:MAX_NATSCA":100.0,
+    "ne:MAX_PERKM":142.0,
+    "ne:MAX_PERMI":88.0,
+    "ne:MAX_POP10":1173386,
+    "ne:MAX_POP20":1173386,
+    "ne:MAX_POP300":1173386,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":1173386,
+    "ne:MEAN_BBXC":13.19322,
+    "ne:MEAN_BBYC":32.862069,
+    "ne:MEGACITY":1,
+    "ne:MEGANAME":"Tarabulus",
+    "ne:MIN_AREAKM":195.0,
+    "ne:MIN_AREAMI":75.0,
+    "ne:MIN_BBXMAX":13.408333,
+    "ne:MIN_BBXMIN":12.983333,
+    "ne:MIN_BBYMAX":32.908333,
+    "ne:MIN_BBYMIN":32.808333,
+    "ne:MIN_PERKM":142.0,
+    "ne:MIN_PERMI":88.0,
+    "ne:NAME":"Tripoli",
+    "ne:NAMEASCII":"Tripoli",
+    "ne:NAMEDIFF":0,
+    "ne:NATSCALE":200,
+    "ne:POP1950":106,
+    "ne:POP1955":136,
+    "ne:POP1960":174,
+    "ne:POP1965":235,
+    "ne:POP1970":398,
+    "ne:POP1975":611,
+    "ne:POP1980":797,
+    "ne:POP1985":1056,
+    "ne:POP1990":1500,
+    "ne:POP1995":1678,
+    "ne:POP2000":1877,
+    "ne:POP2005":2098,
+    "ne:POP2010":2189,
+    "ne:POP2015":2322,
+    "ne:POP2020":2532,
+    "ne:POP2025":2713,
+    "ne:POP2050":2855,
+    "ne:POP_MAX":2189000,
+    "ne:POP_MIN":229398,
+    "ne:POP_OTHER":1149981,
+    "ne:RANK_MAX":12,
+    "ne:RANK_MIN":10,
+    "ne:SCALERANK":2,
+    "ne:SOV0NAME":"Libya",
+    "ne:SOV_A3":"LBY",
+    "ne:UN_ADM0":"Libyan Arab Jamahiriya",
+    "ne:UN_FID":344,
+    "ne:UN_LAT":34.34,
+    "ne:UN_LONG":36.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":4.0,
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -538,10 +641,24 @@
     "qs:qs_id":891466,
     "qs:woe_adm0":23424882,
     "qs:woe_id":1353281,
+    "qs_pg:aaroncc":"LY",
+    "qs_pg:gn_country":"LY",
+    "qs_pg:gn_fcode":"PPLC",
+    "qs_pg:gn_id":2210247,
+    "qs_pg:gn_pop":1150989,
+    "qs_pg:name":"Tripoli",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":12,
+    "qs_pg:qs_id":573336,
+    "qs_pg:qs_pg_placetype":"locality",
+    "reversegeo:latitude":32.8925,
+    "reversegeo:longitude":13.180012,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes"
     ],
+    "src:population":"geonames",
     "wof:belongsto":[
         102191573,
         85632627,
@@ -558,6 +675,17 @@
         "qs_pg:id":891466,
         "wd:id":"Q3579"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2210247
+        ],
+        "qs_pg:id":[
+            573336
+        ],
+        "wd:id":[
+            "Q3579"
+        ]
+    },
     "wof:country":"LY",
     "wof:created":1459009815,
     "wof:geom_alt":[
@@ -573,14 +701,18 @@
         }
     ],
     "wof:id":421194651,
-    "wof:lastmodified":1690938881,
+    "wof:lastmodified":1706240347,
     "wof:megacity":1,
     "wof:name":"Tripoli",
     "wof:parent_id":85673621,
     "wof:placetype":"locality",
+    "wof:population":1150989,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-ly",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141909421
+    ],
     "wof:tags":[]
 },
   "bbox": [
